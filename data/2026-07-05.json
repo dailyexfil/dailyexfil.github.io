@@ -1,0 +1,93 @@
+{
+  "date": "2026-07-05",
+  "items": [
+    {
+      "title": "Context: Bungie layoffs hit Marathon leadership and staff in late June",
+      "summary": "In late June 2026 Bungie went through its largest layoff round since the Sony acquisition, cutting an estimated 40 to 55 percent of the studio according to Forbes. The cuts removed senior Marathon leadership including General Manager Scott Taylor and Engineering Directors, hit most of the Destiny 2 team as well, and led to studio head Justin Truman stepping down.",
+      "source_name": "Forbes",
+      "source_url": "https://www.forbes.com/sites/paultassi/2026/06/25/bungie-hit-with-widespread-layoffs-as-destiny-2-ends-and-marathon-continues/",
+      "credibility_tier": "verified-journalist",
+      "credibility_note": "Forbes reporter Paul Tassi has a long track record covering Bungie and PlayStation business news.",
+      "published_at": "2026-06-25T00:00:00Z",
+      "category": "layoffs-business",
+      "corroborating_sources": [
+        "https://aftermath.site/bungie-destiny-2-marathon-layoffs-sony/",
+        "https://www.windowscentral.com/gaming/read-bungies-statement-as-sony-playstation-layoffs-come-down-on-its-destiny-2-and-marathon-devs",
+        "https://thegamepost.com/sonys-bungie-layoffs-hit-marathon-senior-roles-general-manager/"
+      ]
+    },
+    {
+      "title": "Context: Marathon mid-season update coming July 21 with Vault Breaker PvE mode",
+      "summary": "Bungie announced on June 23, 2026 that Marathon's Season 2 mid-season update arrives July 21 and introduces Vault Breaker, an experimental PvE mode where crews or solo players tackle a progressively harder series of vaults in Cryo Archive. A new currency called Vault Data will let players upgrade Sponsored Kits without adding high-power loot to the wider game economy.",
+      "source_name": "Bungie.net",
+      "source_url": "https://www.bungie.net/7/en/News/Article/season_2_key_dates",
+      "credibility_tier": "official",
+      "credibility_note": "Published directly on Bungie's official news blog.",
+      "published_at": "2026-06-23T00:00:00Z",
+      "category": "gameplay-content",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Players say sweaty PvP hunting is driving population decline",
+      "summary": "A widely discussed Reddit thread argues Marathon is losing players because high geared crews chase down lower geared runners for kills instead of engaging with vaults and PvE content, turning the extraction shooter into more of an arena shooter. Independent player count trackers back up the population concern, with SteamDB showing roughly 23,000 concurrent players compared to an all time launch peak of 88,337 recorded in March 2026.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1unsku3/this_community_plays_this_like_an_arena_shooter/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Originates from an unverified Reddit discussion, though its core population claim is supported by independent player count data.",
+      "published_at": "2026-07-05T04:21:25.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": [
+        "https://steamdb.info/app/3065800/charts/",
+        "https://www.dexerto.com/wikis/marathon/how-many-people-play-marathon-player-count-tracker/",
+        "https://www.playerauctions.com/player-count/marathon/"
+      ]
+    },
+    {
+      "title": "Solo players complain about ambush heavy matches and loot risk",
+      "summary": "Multiple Reddit posts today criticized Marathon's solo queue, saying lobby sizes lead to constant ambushes near objectives instead of meaningful play. One player said the fear of losing loot to campers in solo runs is enough to make them avoid playing entirely, echoing a separate post calling for smaller solo lobby sizes.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1unrbpi/solo_is_miserable/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Based on unverified Reddit user complaints reflecting community sentiment, not confirmed by Bungie.",
+      "published_at": "2026-07-05T03:11:15.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": [
+        "https://www.reddit.com/r/Marathon/comments/1unrpl0/i_love_marathon_so_much_but_there_are_things_that/"
+      ]
+    },
+    {
+      "title": "Players call out toxic duo behavior in Cryo Archive",
+      "summary": "A Reddit thread describes duo partners staying silent while apparently coordinating outside the game, then breaking silence only to blame their teammate after risky plays go wrong. The post asks duo players to communicate during fights rather than after, and drew agreement from other users.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1unqndt/duos_in_cryo_remain_most_toxic_interactions_in/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Single Reddit post reflecting one player's experience, not independently verified.",
+      "published_at": "2026-07-05T02:33:41.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Players ask if matchmaking was quietly changed to match gear levels",
+      "summary": "A Reddit user reported that over the past day their crew fill teammates consistently matched their own gear level, whether they loaded in with strong loadouts or low level starting gear. The post asks whether this reflects an unannounced matchmaking change, tying into broader community frustration over Bungie's sparse communication about game changes.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1uno5um/matchmaking_changes/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Unverified player observation with no official confirmation from Bungie.",
+      "published_at": "2026-07-05T00:18:43.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Community calls for rework of the Cradle progression system",
+      "summary": "A Reddit post argues Marathon's Cradle progression system needs revision, suggesting it should be tied to season level with experience from completing contracts mattering more than experience gained from items. The suggestion aims to give season leveling more purpose beyond its current limited function.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1unrqen/the_cradle_system_needs_to_be_reviewed/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "A single community suggestion thread, not confirmed as an official development plan.",
+      "published_at": "2026-07-05T03:34:14.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    }
+  ],
+  "no_news_found": false
+}
