@@ -1,0 +1,51 @@
+{
+  "date": "2026-07-06",
+  "items": [
+    {
+      "title": "Context: Bungie Layoffs Hit Marathon Leadership and Staff",
+      "summary": "This story was first reported around June 25 to 26, 2026. Sony confirmed widespread layoffs at Bungie affecting an estimated 40 to 55 percent of the studio, including Marathon's General Manager Scott Taylor and multiple engineering directors, as Destiny 2's live service ended and studio head Justin Truman stepped down in favor of former VP of Operations Poria Torken. Follow up reporting put the total at least 292 Bellevue employees cut, with the entire cinematic department eliminated and Sony absorbing a roughly 765 million dollar impairment loss tied to Bungie.",
+      "source_name": "Forbes (Paul Tassi)",
+      "source_url": "https://www.forbes.com/sites/paultassi/2026/06/26/a-studio-shattered-the-aftermath-of-the-mass-bungie-layoffs/",
+      "credibility_tier": "verified-journalist",
+      "credibility_note": "Reported and corroborated by multiple established outlets including Forbes, Vice, and Insider Gaming, so it is treated as verified journalism.",
+      "published_at": "2026-06-26T00:00:00Z",
+      "category": "layoffs-business",
+      "corroborating_sources": [
+        "https://www.forbes.com/sites/paultassi/2026/06/25/bungie-hit-with-widespread-layoffs-as-destiny-2-ends-and-marathon-continues/",
+        "https://www.vice.com/en/article/destiny-is-officially-dead-major-layoffs-end-the-series-after-12-years-as-sony-refocuses-bungie-on-marathon/",
+        "https://respawn.outlookindia.com/gaming/gaming-news/bungie-layoffs-destiny-2-marathon-teams-cut-in-major-reshuffle",
+        "https://thegamepost.com/sonys-bungie-layoffs-hit-marathon-senior-roles-general-manager/",
+        "https://insider-gaming.com/bungie-studio-head-justin-truman-stepping-down/",
+        "https://gameluster.com/bungie-layoffs-2025-sony-acquisition/"
+      ]
+    },
+    {
+      "title": "Context: Bungie Reveals Vault Breaker PvE Mode, Confirms Season 3 for September 22",
+      "summary": "This news was first reported on June 24, 2026. Bungie announced Vault Breaker, an experimental PvE only mode set in the Cryo Archive map for solo, duo, or trio squads, launching July 21 alongside a new Cradle Evolution system, with loot found during runs staying locked to the mode except for a new currency called Vault Data. The same roadmap update confirmed Marathon's Season 3 begins September 22, 2026, bringing a reworked Perimeter map and a new Runner shell.",
+      "source_name": "PC Gamer",
+      "source_url": "https://www.pcgamer.com/games/fps/marathons-vault-breaker-pve-mode-is-coming-in-july-and-heres-the-twist-you-leave-your-loot-behind/",
+      "credibility_tier": "verified-journalist",
+      "credibility_note": "Multiple established outlets including PC Gamer, Forbes, WCCFTech and PCGamesN independently reported the same Bungie announcement.",
+      "published_at": "2026-06-24T00:00:00Z",
+      "category": "gameplay-content",
+      "corroborating_sources": [
+        "https://wccftech.com/marathon-season-2-pve-mode-vault-breaker-bungie-season-3-release-date/",
+        "https://www.pcgamesn.com/marathon/vault-breaker-mode",
+        "https://www.forbes.com/sites/paultassi/2026/06/24/marathon-is-getting-a-separate-pve-mode-an-fps-roguelike/",
+        "https://thegamepost.com/bungie-reveals-marathon-first-true-pve-mode-vault-breaker/"
+      ]
+    },
+    {
+      "title": "Marathon Discounted 30% on Steam Ahead of July 9 Deadline",
+      "summary": "Marathon's Steam store page currently shows a limited time 30 percent discount on both the Standard and Deluxe editions, cutting the Standard price from 39.99 dollars to 27.99 dollars and the Deluxe price from 59.99 dollars to 41.99 dollars. The promotion is set to end on July 9, 2026.",
+      "source_name": "Steam",
+      "source_url": "https://store.steampowered.com/app/3065800/Marathon/",
+      "credibility_tier": "official",
+      "credibility_note": "Direct listing from Marathon's official Steam store page.",
+      "published_at": "2026-07-06T00:00:00Z",
+      "category": "other",
+      "corroborating_sources": []
+    }
+  ],
+  "no_news_found": false
+}
