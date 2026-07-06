@@ -2,48 +2,88 @@
   "date": "2026-07-06",
   "items": [
     {
-      "title": "Context: Bungie Layoffs Hit Marathon Leadership and Staff",
-      "summary": "This story was first reported around June 25 to 26, 2026. Sony confirmed widespread layoffs at Bungie affecting an estimated 40 to 55 percent of the studio, including Marathon's General Manager Scott Taylor and multiple engineering directors, as Destiny 2's live service ended and studio head Justin Truman stepped down in favor of former VP of Operations Poria Torken. Follow up reporting put the total at least 292 Bellevue employees cut, with the entire cinematic department eliminated and Sony absorbing a roughly 765 million dollar impairment loss tied to Bungie.",
-      "source_name": "Forbes (Paul Tassi)",
-      "source_url": "https://www.forbes.com/sites/paultassi/2026/06/26/a-studio-shattered-the-aftermath-of-the-mass-bungie-layoffs/",
+      "title": "Marathon Update 1.1.0.4 maintenance scheduled for July 7",
+      "summary": "Bungie's official Marathon server status page lists background maintenance for July 6 and scheduled maintenance for Update 1.1.0.4 on July 7, 2026. No detailed patch notes have been published yet, but this is confirmed as the next update following the mid-season balance changes.",
+      "source_name": "Marathon Help (Bungie)",
+      "source_url": "https://help.marathonthegame.com/hc/en-us/articles/39001626488596-Marathon-Server-and-Update-Status",
+      "credibility_tier": "official",
+      "credibility_note": "Direct from Bungie's official server and update status page.",
+      "published_at": "2026-07-06T00:00:00Z",
+      "category": "patch-notes",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Context: Bungie layoffs cut most of Destiny 2 team and part of Marathon's crew",
+      "summary": "This story was originally reported on June 25, 2026. Kotaku reported that PlayStation Studios head Hermen Hulst told staff that most of the Destiny 2 team and some Marathon developers were laid off, with over 400 of Bungie's roughly 800 employees affected. Hulst's internal memo said Marathon remains an important part of Sony's portfolio and the surviving team would keep building on Seasons 1 and 2, context that helps explain ongoing community complaints about studio silence.",
+      "source_name": "Kotaku",
+      "source_url": "https://kotaku.com/mass-layoffs-have-started-at-bungie-following-the-end-of-destiny-2-2000710506",
       "credibility_tier": "verified-journalist",
-      "credibility_note": "Reported and corroborated by multiple established outlets including Forbes, Vice, and Insider Gaming, so it is treated as verified journalism.",
-      "published_at": "2026-06-26T00:00:00Z",
+      "credibility_note": "Established gaming outlet reporting confirmed by internal Bungie memo and WARN filings.",
+      "published_at": "2026-06-25T00:00:00Z",
       "category": "layoffs-business",
       "corroborating_sources": [
-        "https://www.forbes.com/sites/paultassi/2026/06/25/bungie-hit-with-widespread-layoffs-as-destiny-2-ends-and-marathon-continues/",
-        "https://www.vice.com/en/article/destiny-is-officially-dead-major-layoffs-end-the-series-after-12-years-as-sony-refocuses-bungie-on-marathon/",
-        "https://respawn.outlookindia.com/gaming/gaming-news/bungie-layoffs-destiny-2-marathon-teams-cut-in-major-reshuffle",
+        "https://www.gamedeveloper.com/business/sony-is-laying-off-most-of-the-destiny-team-and-some-marathon-devs",
+        "https://www.forbes.com/sites/paultassi/2026/06/26/a-studio-shattered-the-aftermath-of-the-mass-bungie-layoffs/",
         "https://thegamepost.com/sonys-bungie-layoffs-hit-marathon-senior-roles-general-manager/",
-        "https://insider-gaming.com/bungie-studio-head-justin-truman-stepping-down/",
-        "https://gameluster.com/bungie-layoffs-2025-sony-acquisition/"
+        "https://respawn.outlookindia.com/gaming/gaming-news/bungie-layoffs-destiny-2-marathon-teams-cut-in-major-reshuffle"
       ]
     },
     {
-      "title": "Context: Bungie Reveals Vault Breaker PvE Mode, Confirms Season 3 for September 22",
-      "summary": "This news was first reported on June 24, 2026. Bungie announced Vault Breaker, an experimental PvE only mode set in the Cryo Archive map for solo, duo, or trio squads, launching July 21 alongside a new Cradle Evolution system, with loot found during runs staying locked to the mode except for a new currency called Vault Data. The same roadmap update confirmed Marathon's Season 3 begins September 22, 2026, bringing a reworked Perimeter map and a new Runner shell.",
+      "title": "Context: Marathon's first PvE mode, Vault Breaker, coming July 21",
+      "summary": "This story was originally reported on June 24, 2026. Bungie revealed Vault Breaker, an experimental PvE mode in which solo, duo, or trio crews push through increasingly hard vaults in Cryo Archive without facing other player crews, with loot staying behind except a new currency called Vault Data. Bungie also confirmed Season 3 begins September 22 with a reworked Perimeter map, and this mode is relevant context for current community debate over whether it can revive player counts.",
       "source_name": "PC Gamer",
       "source_url": "https://www.pcgamer.com/games/fps/marathons-vault-breaker-pve-mode-is-coming-in-july-and-heres-the-twist-you-leave-your-loot-behind/",
       "credibility_tier": "verified-journalist",
-      "credibility_note": "Multiple established outlets including PC Gamer, Forbes, WCCFTech and PCGamesN independently reported the same Bungie announcement.",
+      "credibility_note": "Established gaming outlet reporting on an official Bungie reveal.",
       "published_at": "2026-06-24T00:00:00Z",
       "category": "gameplay-content",
       "corroborating_sources": [
-        "https://wccftech.com/marathon-season-2-pve-mode-vault-breaker-bungie-season-3-release-date/",
-        "https://www.pcgamesn.com/marathon/vault-breaker-mode",
         "https://www.forbes.com/sites/paultassi/2026/06/24/marathon-is-getting-a-separate-pve-mode-an-fps-roguelike/",
-        "https://thegamepost.com/bungie-reveals-marathon-first-true-pve-mode-vault-breaker/"
+        "https://www.theouterhaven.net/bungie-reveals-marathon-pve-mode-vault-breaker-for-july-21/"
       ]
     },
     {
-      "title": "Marathon Discounted 30% on Steam Ahead of July 9 Deadline",
-      "summary": "Marathon's Steam store page currently shows a limited time 30 percent discount on both the Standard and Deluxe editions, cutting the Standard price from 39.99 dollars to 27.99 dollars and the Deluxe price from 59.99 dollars to 41.99 dollars. The promotion is set to end on July 9, 2026.",
-      "source_name": "Steam",
-      "source_url": "https://store.steampowered.com/app/3065800/Marathon/",
-      "credibility_tier": "official",
-      "credibility_note": "Direct listing from Marathon's official Steam store page.",
-      "published_at": "2026-07-06T00:00:00Z",
-      "category": "other",
+      "title": "Community frustration grows over Bungie's silence following layoffs",
+      "summary": "A r/Marathon thread titled Radio Silence says Bungie has communicated nothing besides quietly disabling a popular loot contract in the last week and a half. The player, nearing 300 hours, argues the recently added Vault Breaker PvE content is not boosting player counts and expresses hope for news soon, reflecting wider frustration tied to the recent layoffs.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1up3xqn/radio_silence/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Reddit discussion reflecting player sentiment, not independently verified reporting.",
+      "published_at": "2026-07-06T17:23:51.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Players call for new modes and loot buffs as population concerns continue",
+      "summary": "A r/Marathon post asks Bungie to add a survival Outpost mode and ranked Cryo, along with loot buffs, citing a reported dip to around 2,200 concurrent players that morning. The poster says little communication has followed the layoffs and no future update plans have been shared, arguing it is hard to support the game under the current management.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1up3akd/give_us_survival_outpost_and_ranked_cryo_dont/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Reddit discussion citing unverified player count figures and personal opinion, not independently confirmed.",
+      "published_at": "2026-07-06T17:01:27.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Players debate whether the new Cradle progression system is a step backward",
+      "summary": "A r/Marathon thread argues the Cradle system, which replaced natural contract based shell upgrades, forces players to sacrifice gear until satisfied with their Cradle level rather than progressing organically like last season. The poster says blue and green gear barely move progress forward, sparking discussion about whether the change improved or hurt the loot and leveling loop.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1up420v/i_find_the_cradle_to_be_a_bad_lazy_change_to/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Reddit opinion thread on game design, reflecting community sentiment rather than confirmed fact.",
+      "published_at": "2026-07-06T17:27:52.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Player pitches changes to save Marathon amid low population",
+      "summary": "A r/Marathon post lays out suggestions for improving Marathon's long term health, arguing the upcoming PvE mode is not a long term fix since there is limited content on a single map. The poster proposes making the PvPvE loop less sweat focused and reducing incentives for high skill players to dominate lobbies, as part of a broader community conversation about retaining players.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1up3mkm/i_have_some_thoughts_on_saving_marathon/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Reddit opinion and suggestion thread, reflecting player sentiment rather than verified reporting.",
+      "published_at": "2026-07-06T17:12:59.000Z",
+      "category": "community-discussion",
       "corroborating_sources": []
     }
   ],
