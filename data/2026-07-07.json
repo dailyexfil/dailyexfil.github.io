@@ -1,0 +1,57 @@
+{
+  "date": "2026-07-07",
+  "items": [
+    {
+      "title": "Marathon Update 1.1.0.4 Released",
+      "summary": "Bungie pushed a new patch changing the General Sponsored Mode zone to Dire Marsh (Night) and updating the C.A.R.R.I. Armory, including new wares like a Deluxe Key Template, Blue Backpack, and Self Revive item. The update also lowered several commendation costs, doubled weekly Reputation Pack stock, and fixed a bug that could matchmake players into Trios incorrectly.",
+      "source_name": "Steam News (Bungie official)",
+      "source_url": "https://store.steampowered.com/news/app/3065800/view/716782947012711077",
+      "credibility_tier": "official",
+      "credibility_note": "Posted directly on Bungie's official Steam news feed for Marathon.",
+      "published_at": "2026-07-07T16:00:06.000Z",
+      "category": "patch-notes",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Bungie posts new UI/UX director job listing for Marathon two weeks after mass layoffs",
+      "summary": "Bungie's careers site is advertising for a director level UI/UX role on Marathon reporting to the Assistant Game Director, just two weeks after layoffs hit Marathon and Destiny 2 staff. The timing has fueled confusion in the community about the studio's mixed signals on the game's future.",
+      "source_name": "Gameranx",
+      "source_url": "https://gameranx.com/updates/id/563336/article/two-weeks-after-massive-layoffs-bungie-is-hiring-again-for-marathon/",
+      "credibility_tier": "verified-journalist",
+      "credibility_note": "Reported by an established gaming outlet citing Bungie's own careers listing.",
+      "published_at": "2026-07-07T00:00:00Z",
+      "category": "layoffs-business",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Context: Bungie layoffs hit Marathon senior roles including General Manager and Engineering Director",
+      "summary": "This story was originally published around June 25 and 26, 2026. A Washington State WARN filing showed Bungie notified employees of layoffs on June 25, with roughly 292 to 400 separations taking effect July 9, striking senior Marathon positions such as General Manager and Engineering Director while studio head Justin Truman stepped down. Sony has said it will keep supporting Marathon despite the cuts, providing important background for this week's hiring news.",
+      "source_name": "The Game Post",
+      "source_url": "https://thegamepost.com/sonys-bungie-layoffs-hit-marathon-senior-roles-general-manager/",
+      "credibility_tier": "verified-journalist",
+      "credibility_note": "Based on a public WARN filing, corroborated by multiple established outlets.",
+      "published_at": "2026-06-26T00:00:00Z",
+      "category": "layoffs-business",
+      "corroborating_sources": [
+        "https://www.forbes.com/sites/paultassi/2026/06/26/a-studio-shattered-the-aftermath-of-the-mass-bungie-layoffs/",
+        "https://kotaku.com/mass-layoffs-have-started-at-bungie-following-the-end-of-destiny-2-2000710506",
+        "https://respawn.outlookindia.com/gaming/gaming-news/bungie-layoffs-destiny-2-marathon-teams-cut-in-major-reshuffle"
+      ]
+    },
+    {
+      "title": "Context: Bungie details Vault Breaker PvE mode and Season 3 dates for Marathon",
+      "summary": "This story was originally published around June 23 and 24, 2026. Bungie announced an experimental full PvE mode called Vault Breaker arriving July 21 as part of a mid-season update, letting solo, duo, or trio crews raid a vault map without facing rival teams, though loot found inside stays behind except for a new Vault Data currency. Season 3 was confirmed to start September 22, 2026, bringing a revamped Perimeter zone and new content.",
+      "source_name": "PC Gamer",
+      "source_url": "https://www.pcgamer.com/games/fps/marathons-vault-breaker-pve-mode-is-coming-in-july-and-heres-the-twist-you-leave-your-loot-behind/",
+      "credibility_tier": "verified-journalist",
+      "credibility_note": "Reported by an established gaming outlet based on Bungie's own announcement.",
+      "published_at": "2026-06-24T00:00:00Z",
+      "category": "gameplay-content",
+      "corroborating_sources": [
+        "https://playfront.de/en/marathon-alle-termine-zu-vault-breaker-season-3/",
+        "https://wccftech.com/marathon-season-2-pve-mode-vault-breaker-bungie-season-3-release-date/"
+      ]
+    }
+  ],
+  "no_news_found": false
+}
