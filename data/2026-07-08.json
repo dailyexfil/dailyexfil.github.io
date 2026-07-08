@@ -1,0 +1,103 @@
+{
+  "date": "2026-07-08",
+  "items": [
+    {
+      "title": "Update 1.1.0.4 goes live, adds Dire Marsh (Night) sponsored zone and armory price cuts",
+      "summary": "Bungie released patch 1.1.0.4 on PC and 1.023 on console on July 7, switching the General Sponsored Mode zone to Dire Marsh (Night) and adding new Armory wares like a Deluxe Key Template, Blue Backpack, and Self Revive. The update also lowers several commendation costs and fixes a bug that could matchmake solo queue players into Trios.",
+      "source_name": "Steam News (Bungie official)",
+      "source_url": "https://store.steampowered.com/news/app/3065800/view/716782947012711077",
+      "credibility_tier": "official",
+      "credibility_note": "Direct official Steam news post from Bungie detailing patch contents.",
+      "published_at": "2026-07-07T16:00:06.000Z",
+      "category": "patch-notes",
+      "corroborating_sources": [
+        "https://mp1st.com/title-updates-and-patches/marathon-version-1-1-0-4-live-on-july-7-update-1-023",
+        "https://help.marathonthegame.com/hc/en-us/articles/39001626488596-Marathon-Server-and-Update-Status"
+      ]
+    },
+    {
+      "title": "Bungie posts new senior Marathon hiring listing two weeks after mass layoffs",
+      "summary": "Just two weeks after cutting hundreds of jobs including senior Marathon leadership, Bungie has posted a director level UI/UX opening for Marathon calling for experience in large scale live service FPS design. The timing has drawn commentary questioning what it signals about studio stability while the community is still absorbing the layoff news.",
+      "source_name": "Gameranx",
+      "source_url": "https://gameranx.com/updates/id/563336/article/two-weeks-after-massive-layoffs-bungie-is-hiring-again-for-marathon/",
+      "credibility_tier": "verified-journalist",
+      "credibility_note": "Reporting from an established gaming outlet covering a verifiable job listing.",
+      "published_at": "2026-07-08T00:00:00.000Z",
+      "category": "layoffs-business",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Context: Bungie's late June layoffs cut hundreds of jobs, including senior Marathon roles",
+      "summary": "This story was originally reported around June 25 to 26, 2026, when a Washington State WARN filing confirmed at least 292 Bellevue employees, mostly on the Destiny team but including some Marathon staff, received separation notices effective July 9. Senior Marathon titles including General Manager and Engineering Director were listed among those affected, studio head Justin Truman is reported to be stepping down, and Sony said Marathon remains its central live service focus going forward.",
+      "source_name": "Forbes (Paul Tassi)",
+      "source_url": "https://www.forbes.com/sites/paultassi/2026/06/25/bungie-hit-with-widespread-layoffs-as-destiny-2-ends-and-marathon-continues/",
+      "credibility_tier": "verified-journalist",
+      "credibility_note": "Established outlet reporting with a track record covering Bungie and Sony, corroborated by multiple independent outlets.",
+      "published_at": "2026-06-25T00:00:00.000Z",
+      "category": "layoffs-business",
+      "corroborating_sources": [
+        "https://kotaku.com/mass-layoffs-have-started-at-bungie-following-the-end-of-destiny-2-2000710506",
+        "https://www.geekwire.com/2026/sony-cuts-significant-number-of-jobs-at-bungie-following-end-of-destiny-2-development/",
+        "https://www.king5.com/article/money/business/bellevue-based-bungie-announces-layoffs-studio-reorganization/281-122383c0-5877-44da-bae8-b012589202b7",
+        "https://thegamepost.com/sonys-bungie-layoffs-hit-marathon-senior-roles-general-manager/",
+        "https://thegamepost.com/bungie-layoffs-include-co-founder-chief-vision-officer-jason-jones/"
+      ]
+    },
+    {
+      "title": "Player count trackers show Marathon peaking under 7,000 concurrent players",
+      "summary": "Third party tracking site PlayerAuctions logged a peak of about 6,970 concurrent Marathon players on July 6, an 8.7 percent drop from the day before, with the 24 hour range falling as low as 552 players. The numbers reflect the community's ongoing concern that the game's population is shrinking months after launch.",
+      "source_name": "PlayerAuctions",
+      "source_url": "https://www.playerauctions.com/player-count/marathon/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Third party player count tracker rather than an established gaming outlet, tiered as community-speculation.",
+      "published_at": "2026-07-07T00:00:00.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Reddit thread: 'FIX YOUR GAME BUNGIE' after solo queue matchmaking breaks",
+      "summary": "A player posted frustration that they could not queue into solo matches, linking the bug directly to worries that the game is losing players. The thread reflects a recurring community complaint that bugs are compounding population decline.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1uqh3ya/fix_your_game_bungie/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Reddit community post reflecting player sentiment, not independently verified.",
+      "published_at": "2026-07-08T03:28:13.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Reddit thread: players frustrated by Alien Alloys gating Gold Mods progression",
+      "summary": "A player at rank 120 plus on the season pass says they remain stuck at 2 Alien Alloys for weeks despite completing plenty of Anomalies and Upper Complexes, blocking access to Gold Mods. The post argues the resource gating is poor design and has drawn agreement from other players about progression pacing.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1uqi5q6/im_rank_120_on_the_season_pass_i_am_vip_20/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Reddit community post reflecting player sentiment, not independently verified.",
+      "published_at": "2026-07-08T04:19:42.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Reddit thread: a player announces they have quit Marathon",
+      "summary": "A short but widely discussed post reads simply that the player has quit Marathon and is thanking the community for the good times. It adds to a broader pattern of player departure sentiment showing up alongside declining concurrent player counts.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1uqi0o6/ive_done_it_everyone/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Reddit community post reflecting player sentiment, not independently verified.",
+      "published_at": "2026-07-08T04:12:24.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Reddit thread: fans celebrate Bungie Day with appreciation for Marathon",
+      "summary": "Not every recent post was negative, one player marked Bungie Day by thanking the developers and fellow Runners for the game world and its cosmetics. The post offers a counterpoint to the frustration seen elsewhere in the subreddit this week.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1uqeu0v/happy_bungie_day/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Reddit community post reflecting player sentiment, not independently verified.",
+      "published_at": "2026-07-08T01:41:36.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    }
+  ],
+  "no_news_found": false
+}
