@@ -2,101 +2,121 @@
   "date": "2026-07-08",
   "items": [
     {
-      "title": "Update 1.1.0.4 goes live, adds Dire Marsh (Night) sponsored zone and armory price cuts",
-      "summary": "Bungie released patch 1.1.0.4 on PC and 1.023 on console on July 7, switching the General Sponsored Mode zone to Dire Marsh (Night) and adding new Armory wares like a Deluxe Key Template, Blue Backpack, and Self Revive. The update also lowers several commendation costs and fixes a bug that could matchmake solo queue players into Trios.",
-      "source_name": "Steam News (Bungie official)",
-      "source_url": "https://store.steampowered.com/news/app/3065800/view/716782947012711077",
+      "title": "Marathon Update 1.1.0.4 released with Armory changes and bug fixes",
+      "summary": "Bungie deployed Update 1.1.0.4 for Marathon on July 7, confirmed through scheduled maintenance listed on the game's official help page. The patch added new Armory items including a Deluxe Key Template and Self Revive, adjusted commendation costs, fixed matchmaking and mailbox bugs, and rotated the Sponsored Mode zone to Dire Marsh (Night).",
+      "source_name": "Marathon Help (Bungie)",
+      "source_url": "https://help.marathonthegame.com/hc/en-us/articles/39001626488596-Marathon-Server-and-Update-Status",
       "credibility_tier": "official",
-      "credibility_note": "Direct official Steam news post from Bungie detailing patch contents.",
-      "published_at": "2026-07-07T16:00:06.000Z",
+      "credibility_note": "Direct from Bungie's own Marathon help and server status page confirming the maintenance and update.",
+      "published_at": "2026-07-07T15:00:00Z",
       "category": "patch-notes",
       "corroborating_sources": [
         "https://mp1st.com/title-updates-and-patches/marathon-version-1-1-0-4-live-on-july-7-update-1-023",
-        "https://help.marathonthegame.com/hc/en-us/articles/39001626488596-Marathon-Server-and-Update-Status"
+        "https://mp1st.com/news/marathon-down-on-july-7-for-update-1-1-0-4"
       ]
     },
     {
-      "title": "Bungie posts new senior Marathon hiring listing two weeks after mass layoffs",
-      "summary": "Just two weeks after cutting hundreds of jobs including senior Marathon leadership, Bungie has posted a director level UI/UX opening for Marathon calling for experience in large scale live service FPS design. The timing has drawn commentary questioning what it signals about studio stability while the community is still absorbing the layoff news.",
-      "source_name": "Gameranx",
-      "source_url": "https://gameranx.com/updates/id/563336/article/two-weeks-after-massive-layoffs-bungie-is-hiring-again-for-marathon/",
+      "title": "Context: Bungie layoffs hit Marathon leadership roles",
+      "summary": "This story was first reported around June 25 to 26, 2026. WARN filings showed Sony's Bungie layoffs directly affected Marathon leadership, including roles like General Manager and Engineering Director, with employees notified June 25 and separations set for July 9, 2026. Forbes reported at least 292 Bungie employees in Washington were cut overall, hitting Destiny 2 hardest while Marathon also lost staff, and that studio head Justin Truman is stepping down.",
+      "source_name": "Forbes",
+      "source_url": "https://www.forbes.com/sites/paultassi/2026/06/26/a-studio-shattered-the-aftermath-of-the-mass-bungie-layoffs/",
       "credibility_tier": "verified-journalist",
-      "credibility_note": "Reporting from an established gaming outlet covering a verifiable job listing.",
-      "published_at": "2026-07-08T00:00:00.000Z",
-      "category": "layoffs-business",
-      "corroborating_sources": []
-    },
-    {
-      "title": "Context: Bungie's late June layoffs cut hundreds of jobs, including senior Marathon roles",
-      "summary": "This story was originally reported around June 25 to 26, 2026, when a Washington State WARN filing confirmed at least 292 Bellevue employees, mostly on the Destiny team but including some Marathon staff, received separation notices effective July 9. Senior Marathon titles including General Manager and Engineering Director were listed among those affected, studio head Justin Truman is reported to be stepping down, and Sony said Marathon remains its central live service focus going forward.",
-      "source_name": "Forbes (Paul Tassi)",
-      "source_url": "https://www.forbes.com/sites/paultassi/2026/06/25/bungie-hit-with-widespread-layoffs-as-destiny-2-ends-and-marathon-continues/",
-      "credibility_tier": "verified-journalist",
-      "credibility_note": "Established outlet reporting with a track record covering Bungie and Sony, corroborated by multiple independent outlets.",
-      "published_at": "2026-06-25T00:00:00.000Z",
+      "credibility_note": "Forbes contributor reporting with direct sourcing on layoff scope and leadership departures.",
+      "published_at": "2026-06-26T08:43:00Z",
       "category": "layoffs-business",
       "corroborating_sources": [
-        "https://kotaku.com/mass-layoffs-have-started-at-bungie-following-the-end-of-destiny-2-2000710506",
-        "https://www.geekwire.com/2026/sony-cuts-significant-number-of-jobs-at-bungie-following-end-of-destiny-2-development/",
-        "https://www.king5.com/article/money/business/bellevue-based-bungie-announces-layoffs-studio-reorganization/281-122383c0-5877-44da-bae8-b012589202b7",
-        "https://thegamepost.com/sonys-bungie-layoffs-hit-marathon-senior-roles-general-manager/",
-        "https://thegamepost.com/bungie-layoffs-include-co-founder-chief-vision-officer-jason-jones/"
+        "https://thegamepost.com/sonys-bungie-layoffs-hit-marathon-senior-roles-general-manager/"
       ]
     },
     {
-      "title": "Player count trackers show Marathon peaking under 7,000 concurrent players",
-      "summary": "Third party tracking site PlayerAuctions logged a peak of about 6,970 concurrent Marathon players on July 6, an 8.7 percent drop from the day before, with the 24 hour range falling as low as 552 players. The numbers reflect the community's ongoing concern that the game's population is shrinking months after launch.",
-      "source_name": "PlayerAuctions",
-      "source_url": "https://www.playerauctions.com/player-count/marathon/",
+      "title": "Analysis: Marathon called Bungie's last hope as some Destiny fans stay away",
+      "summary": "A new opinion piece argues Marathon is one of the few Sony live-service titles to actually launch and sustain a player base, unlike Concord or the struggling Horizon Hunters Gathering, though it still falls short of Destiny 2 level numbers. The piece notes Bungie is reportedly experimenting with a PvE mode for Marathon, seemingly to win over Destiny fans who have little interest in a PvP-focused extraction shooter.",
+      "source_name": "Game Rant",
+      "source_url": "https://gamerant.com/marathon-bungie-last-hope-destiny-2-fans/",
+      "credibility_tier": "verified-journalist",
+      "credibility_note": "Published by an established gaming outlet as analysis, though framed as opinion rather than news reporting.",
+      "published_at": "2026-07-08T00:00:00Z",
+      "category": "layoffs-business",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Marathon discounted 30% on Steam amid retention concerns",
+      "summary": "Marathon's official Steam store page is currently showing a 30 percent discount on the base game. The sale arrives amid ongoing concerns about player retention for the extraction shooter following its rocky launch, as Sony continues trying to grow the game's audience.",
+      "source_name": "Steam",
+      "source_url": "https://store.steampowered.com/app/3065800/Marathon/",
+      "credibility_tier": "official",
+      "credibility_note": "Direct listing from the official Steam storefront for the game.",
+      "published_at": "2026-07-07T00:00:00Z",
+      "category": "other",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Bungie posts new in-fiction update on UESC crackdown and the Anomaly",
+      "summary": "Bungie's official Marathon site added a new in-universe narrative post on July 7, continuing Season 2's story where the UESC escalates its crackdown on Runners while a mysterious Anomaly grows stronger on Tau Ceti IV. The post does not include mechanical changes, but it shows Bungie is still publishing regular narrative content for the current season.",
+      "source_name": "Bungie.net / Marathon official site",
+      "source_url": "https://marathonthegame.com/",
+      "credibility_tier": "official",
+      "credibility_note": "Published directly on Bungie's official Marathon site.",
+      "published_at": "2026-07-07T00:00:00Z",
+      "category": "gameplay-content",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Context: Bungie stays silent on promised Marathon Deluxe Edition compensation",
+      "summary": "This story was first reported around June 17, 2026. A storefront bug let Open Trial players buy the Marathon Deluxe Edition for just 14 dollars, and Bungie initially promised affected buyers the full game, but weeks later had still not delivered it or responded to inquiries. It adds to broader community frustration over sparse communication from the studio.",
+      "source_name": "MP1st",
+      "source_url": "https://mp1st.com/news/bungie-silent-after-promising-marathon-open-trial-deluxe-edition-buyers-full-game",
+      "credibility_tier": "verified-journalist",
+      "credibility_note": "Reported by an established gaming news outlet tracking player complaints and lack of studio response.",
+      "published_at": "2026-06-17T10:00:00-07:00",
+      "category": "other",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Community debates whether Marathon is 'dead' ahead of Steam sale ending",
+      "summary": "A Reddit thread asks whether Marathon is worth buying before the Steam sale ends, with the poster describing a rough first impression from a free trial period, including blurry text and UI issues. The thread reflects ongoing community anxiety about the game's population and long term prospects.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1ur0bo5/is_this_game_dead/",
       "credibility_tier": "community-speculation",
-      "credibility_note": "Third party player count tracker rather than an established gaming outlet, tiered as community-speculation.",
-      "published_at": "2026-07-07T00:00:00.000Z",
+      "credibility_note": "Unverified community discussion thread reflecting player sentiment, not independently corroborated.",
+      "published_at": "2026-07-08T17:58:17.000Z",
       "category": "community-discussion",
       "corroborating_sources": []
     },
     {
-      "title": "Reddit thread: 'FIX YOUR GAME BUNGIE' after solo queue matchmaking breaks",
-      "summary": "A player posted frustration that they could not queue into solo matches, linking the bug directly to worries that the game is losing players. The thread reflects a recurring community complaint that bugs are compounding population decline.",
+      "title": "Players debate whether Marathon is really an 'ultra hardcore' extraction shooter",
+      "summary": "A widely discussed Reddit post argues that calling Marathon an ultra hardcore PvP extraction shooter is cope used to excuse low player counts, contrasting it with Tarkov's hunger, weight, and permadeath systems. The post sparked a broader debate about the game's identity and difficulty compared to genre peers.",
       "source_name": "r/Marathon",
-      "source_url": "https://www.reddit.com/r/Marathon/comments/1uqh3ya/fix_your_game_bungie/",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1uqyg9l/this_game_being_an_ultra_hardcore_pvp_extraction/",
       "credibility_tier": "community-speculation",
-      "credibility_note": "Reddit community post reflecting player sentiment, not independently verified.",
-      "published_at": "2026-07-08T03:28:13.000Z",
+      "credibility_note": "Community opinion thread, not an independently verified report.",
+      "published_at": "2026-07-08T16:54:08.000Z",
       "category": "community-discussion",
       "corroborating_sources": []
     },
     {
-      "title": "Reddit thread: players frustrated by Alien Alloys gating Gold Mods progression",
-      "summary": "A player at rank 120 plus on the season pass says they remain stuck at 2 Alien Alloys for weeks despite completing plenty of Anomalies and Upper Complexes, blocking access to Gold Mods. The post argues the resource gating is poor design and has drawn agreement from other players about progression pacing.",
+      "title": "Players report rising toxicity and tension in recent Marathon matches",
+      "summary": "A Reddit thread describes an uptick in angry, toxic behavior from teammates over the past week, including a player berating a teammate over a callout during a free kit match on Outpost. Commenters discussed whether this reflects a broader shift in community mood as the game's population concerns grow.",
       "source_name": "r/Marathon",
-      "source_url": "https://www.reddit.com/r/Marathon/comments/1uqi5q6/im_rank_120_on_the_season_pass_i_am_vip_20/",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1uqyt0k/why_is_everyone_flipping_out_lol/",
       "credibility_tier": "community-speculation",
-      "credibility_note": "Reddit community post reflecting player sentiment, not independently verified.",
-      "published_at": "2026-07-08T04:19:42.000Z",
+      "credibility_note": "Personal anecdote and community discussion thread, unverified beyond the original poster's account.",
+      "published_at": "2026-07-08T17:06:12.000Z",
       "category": "community-discussion",
       "corroborating_sources": []
     },
     {
-      "title": "Reddit thread: a player announces they have quit Marathon",
-      "summary": "A short but widely discussed post reads simply that the player has quit Marathon and is thanking the community for the good times. It adds to a broader pattern of player departure sentiment showing up alongside declining concurrent player counts.",
+      "title": "Players report ongoing solo queue bug after latest update",
+      "summary": "Following the July 7 update, players report that switching to solo queue with crew fill off currently reverts to trio matchmaking, and describe a workaround of queuing anyway and requeuing after the match ends. A separate Reddit post the same day complained about waiting 20 minutes for a match, adding to frustration over matchmaking reliability this week.",
       "source_name": "r/Marathon",
-      "source_url": "https://www.reddit.com/r/Marathon/comments/1uqi0o6/ive_done_it_everyone/",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1uqy69c/work_around_the_solo_bug/",
       "credibility_tier": "community-speculation",
-      "credibility_note": "Reddit community post reflecting player sentiment, not independently verified.",
-      "published_at": "2026-07-08T04:12:24.000Z",
+      "credibility_note": "Community bug reports and workaround, not confirmed by an official Bungie statement.",
+      "published_at": "2026-07-08T16:44:34.000Z",
       "category": "community-discussion",
-      "corroborating_sources": []
-    },
-    {
-      "title": "Reddit thread: fans celebrate Bungie Day with appreciation for Marathon",
-      "summary": "Not every recent post was negative, one player marked Bungie Day by thanking the developers and fellow Runners for the game world and its cosmetics. The post offers a counterpoint to the frustration seen elsewhere in the subreddit this week.",
-      "source_name": "r/Marathon",
-      "source_url": "https://www.reddit.com/r/Marathon/comments/1uqeu0v/happy_bungie_day/",
-      "credibility_tier": "community-speculation",
-      "credibility_note": "Reddit community post reflecting player sentiment, not independently verified.",
-      "published_at": "2026-07-08T01:41:36.000Z",
-      "category": "community-discussion",
-      "corroborating_sources": []
+      "corroborating_sources": [
+        "https://www.reddit.com/r/Marathon/comments/1ur0z3d/been_trying_to_find_a_match_for_20min/"
+      ]
     }
   ],
   "no_news_found": false
