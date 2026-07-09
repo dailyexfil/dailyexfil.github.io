@@ -1,0 +1,117 @@
+{
+  "date": "2026-07-09",
+  "items": [
+    {
+      "title": "Former Marathon director Christopher Barrett settles lawsuit, restored to game's credits",
+      "summary": "Christopher Barrett, the original game director fired from Bungie in 2024 after a misconduct investigation, has settled his lawsuit against Sony and Bungie. As part of the resolution his name was added back to Marathon's credits, and coverage notes the studio has gone largely quiet since layoffs cut nearly 300 staff, with new seasonal content for Marathon still expected through the rest of the year.",
+      "source_name": "Kotaku",
+      "source_url": "https://kotaku.com/sony-reaches-settlement-with-bungie-director-it-accused-of-sexual-misconduct-and-adds-his-name-to-marathons-credits-2000713874",
+      "credibility_tier": "verified-journalist",
+      "credibility_note": "Established gaming outlet reporting confirmed directly by Barrett's own public statement and corroborated by multiple other outlets.",
+      "published_at": "2026-07-08T00:00:00Z",
+      "category": "layoffs-business",
+      "corroborating_sources": [
+        "https://www.pcgamer.com/games/former-destiny-2-and-marathon-director-settles-usd200-million-lawsuit-against-sony-and-bungie-the-outcome-is-one-i-am-very-satisfied-with/",
+        "https://gamesbeat.com/christopher-barrett-settles-longtime-lawsuit-about-45m-bonus-with-bungie-and-sony/"
+      ]
+    },
+    {
+      "title": "Marathon down again on July 9 for Update 1.1.0.5, fixes Solo Queue bug",
+      "summary": "Just two days after its last patch, Bungie took Marathon offline again on July 9 for Update 1.1.0.5. The patch mainly fixes an issue where selecting Solo Queue could fail to update a player's matchmaking state, which could leave them stuck in the wrong queue type or in a crew-based match unexpectedly.",
+      "source_name": "MP1st",
+      "source_url": "https://mp1st.com/news/marathon-down-on-july-9-to-bring-update-1-1-0-5",
+      "credibility_tier": "verified-journalist",
+      "credibility_note": "Established gaming outlet reporting on official patch downtime, matched by community reposts of the same patch notes.",
+      "published_at": "2026-07-09T00:00:00Z",
+      "category": "patch-notes",
+      "corroborating_sources": [
+        "https://www.reddit.com/r/Marathon/comments/1urzlnx/patch_notes_marathon_update_1105/",
+        "https://www.reddit.com/r/Marathon/comments/1urzidm/marathon_update_1105/"
+      ]
+    },
+    {
+      "title": "Context: Marathon Update 1.1.0.4 added new Armory items and fixed matchmaking bugs",
+      "summary": "This update was originally published on July 7, 2026. Bungie's patch 1.1.0.4 added new Wares to the C.A.R.R.I Armory, including a Deluxe Key Template, Blue Backpack, and Self Revive, along with pricing changes and fixes for mailbox delivery issues and a login-blocking disconnect loop. It is included here for context because Bungie followed it just two days later with the July 9 Update 1.1.0.5 covered above, and because coverage of it noted a recent free trial and Season 2 launch had struggled to meaningfully boost player engagement.",
+      "source_name": "Bungie.net",
+      "source_url": "https://www.bungie.net/7/en/News/Article/marathon_update_1_1_0_4",
+      "credibility_tier": "official",
+      "credibility_note": "Direct official patch notes from Bungie's own news channel.",
+      "published_at": "2026-07-07T00:00:00Z",
+      "category": "patch-notes",
+      "corroborating_sources": [
+        "https://www.psu.com/news/marathon-update-1-1-0-4-brings-now-available-with-c-a-r-r-i-armory-updates-stability-improvements/",
+        "https://mp1st.com/news/marathon-down-on-july-7-for-update-1-1-0-4",
+        "https://mp1st.com/title-updates-and-patches/marathon-version-1-1-0-4-live-on-july-7-update-1-023"
+      ]
+    },
+    {
+      "title": "Context: Sony's Bungie layoffs cut senior Marathon roles",
+      "summary": "This reporting was originally published June 25 to 26, 2026. Sony's layoffs at Bungie, tied to the end of Destiny 2 support, affected roughly 400 of the studio's remaining 800 roles, with senior Marathon figures including General Manager Scott Taylor and Engineering Directors Brad Fish and Eamon McKenzie among those let go, and studio head Justin Truman stepping down. It is included here for context because it underpins the ongoing concerns about Bungie's stability referenced in the Barrett settlement coverage above.",
+      "source_name": "Forbes (Paul Tassi)",
+      "source_url": "https://www.forbes.com/sites/paultassi/2026/06/25/bungie-hit-with-widespread-layoffs-as-destiny-2-ends-and-marathon-continues/",
+      "credibility_tier": "verified-journalist",
+      "credibility_note": "Reporting from a journalist with a long track record covering Bungie, corroborated by a second outlet's review of WARN filings.",
+      "published_at": "2026-06-25T10:42:00-04:00",
+      "category": "layoffs-business",
+      "corroborating_sources": [
+        "https://thegamepost.com/sonys-bungie-layoffs-hit-marathon-senior-roles-general-manager/"
+      ]
+    },
+    {
+      "title": "Community reacts to Barrett settlement with worry about Bungie's future",
+      "summary": "A ResetEra discussion thread reacted to news of the Barrett settlement with mixed feelings, given the prior misconduct allegations against him and broader anxiety about Bungie's stability. One commenter wrote they truly feared for the future of Bungie in light of the ongoing layoffs and uncertainty around Marathon.",
+      "source_name": "ResetEra",
+      "source_url": "https://www.resetera.com/threads/sony-bungie-and-christopher-barrett-original-director-of-marathon-have-reached-an-agreement-to-resolve-200m-lawsuit-will-be-added-to-credits.1572571/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Unverified forum discussion included to reflect community sentiment rather than factual reporting.",
+      "published_at": "2026-07-08T00:00:00Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Players call for a rework of Marathon's core system",
+      "summary": "A Reddit thread argues that Marathon's core system does not currently support meaningful build crafting, since cores are scattered across the game and vault space is too tight to hold onto them for later use. The poster suggests a cradle style system that would let players actually build around specific cores instead of discarding most of what they find.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1uryv1u/cores_need_a_rework/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Reddit community feedback thread, not independently verified but reflective of player sentiment.",
+      "published_at": "2026-07-09T18:33:30.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Community debates adding a timer to Night Marsh's new area",
+      "summary": "Players discussing Season 2's Night Marsh map say reaching the new Upper Complex area and its boss depends on a fully random Labs Observatory Key drop, which can take three or four completed towers to appear. The original poster suggests adding a fixed timer to the objective, arguing the current pacing relies too heavily on chance.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1uryp00/night_marsh_should_have_a_30minute_timer_what_do/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Reddit community feedback thread, not independently verified but reflective of player sentiment.",
+      "published_at": "2026-07-09T18:27:48.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Players say Marathon's solo queue needs a design overhaul",
+      "summary": "A Reddit thread argues that Marathon's class system, built around roles meant to complement each other in trios, does not translate well to solo queue, where players say only Assassin and Thief type classes see much use. The poster suggests either a dedicated solo focused class or a classless solo mode to address the imbalance.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1urxatf/solo_play_needs_an_overhaul/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Reddit community feedback thread, not independently verified but reflective of player sentiment.",
+      "published_at": "2026-07-09T17:39:52.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Players frustrated that maintenance was scheduled right as Cryo Archive reopened",
+      "summary": "When Bungie scheduled server downtime just as the Cryo Archive endgame area reopened, players pushed back, saying the timing undercut a mode the community had been anticipating all week. The complaint reflects a broader frustration with how Bungie times and communicates its maintenance windows.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1urwu52/why_in_the_world_do_you_schedule_downtime_the/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Reddit community feedback thread, not independently verified but reflective of player sentiment on studio communication.",
+      "published_at": "2026-07-09T17:23:42.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    }
+  ],
+  "no_news_found": false
+}
