@@ -1,0 +1,80 @@
+{
+  "date": "2026-07-12",
+  "items": [
+    {
+      "title": "Context: Bungie Layoffs Cut 292 Employees, Hit Marathon Leadership",
+      "summary": "This story was originally reported on June 25, 2026. Sony and Bungie laid off 292 employees in Bellevue, eliminating most of the Destiny 2 team and affecting Marathon leadership including General Manager Scott Taylor, who left his position. Studio head Justin Truman also stepped down and was replaced by former VP of Operations Poria Torken, and Bungie's entire cinematic department was dissolved.",
+      "source_name": "Forbes",
+      "source_url": "https://www.forbes.com/sites/paultassi/2026/06/25/bungie-hit-with-widespread-layoffs-as-destiny-2-ends-and-marathon-continues/",
+      "credibility_tier": "verified-journalist",
+      "credibility_note": "Established outlet reporting on confirmed layoffs, corroborated by other outlets citing WARN filings.",
+      "published_at": "2026-06-25T00:00:00Z",
+      "category": "layoffs-business",
+      "corroborating_sources": [
+        "https://thegamepost.com/sonys-bungie-layoffs-hit-marathon-senior-roles-general-manager/",
+        "https://respawn.outlookindia.com/gaming/gaming-news/bungie-layoffs-destiny-2-marathon-teams-cut-in-major-reshuffle"
+      ]
+    },
+    {
+      "title": "Context: Marathon Vault Breaker PvE Mode and Season 3 Roadmap Announced",
+      "summary": "This story was originally reported on June 23, 2026. Bungie announced Vault Breaker, a new full PvE mode launching July 21, 2026, where players tackle the Cryo Archive solo, in duos, or as crews without facing other player teams, alongside a Cradle Evolution progression reset system arriving the same day. Bungie also confirmed Season 3 begins September 22, 2026 with a major redesign of the Perimeter starting map.",
+      "source_name": "Bungie.net",
+      "source_url": "https://www.bungie.net/7/en/News/Article/season_2_key_dates",
+      "credibility_tier": "official",
+      "credibility_note": "Direct announcement from Bungie's official news page.",
+      "published_at": "2026-06-23T00:00:00Z",
+      "category": "gameplay-content",
+      "corroborating_sources": [
+        "https://www.pcgamer.com/games/fps/marathons-vault-breaker-pve-mode-is-coming-in-july-and-heres-the-twist-you-leave-your-loot-behind/",
+        "https://www.forbes.com/sites/paultassi/2026/06/24/marathon-is-getting-a-separate-pve-mode-an-fps-roguelike/"
+      ]
+    },
+    {
+      "title": "Long-time player explains why they are quitting Marathon",
+      "summary": "A Reddit user posted a detailed breakdown of what they see as Marathon's core problems, saying they were the last of their friend group still playing after everyone else quit. They argued the extraction format functions too much like a battle royale where only one team can realistically survive, calling this a bigger driver of player loss than bugs or smaller issues.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1utyruj/dropping_the_game_for_now_heres_what_i_think_went/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Single Reddit post reflecting one player's opinion, included because it captures a recurring sentiment theme in the community.",
+      "published_at": "2026-07-11T23:19:34.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": [
+        "https://www.reddit.com/r/Marathon/comments/1uu0h3f/after_9_days_of_playing_its_time_to_say_goodbye/"
+      ]
+    },
+    {
+      "title": "Players debate whether Outpost map has become too safe late in matches",
+      "summary": "A Reddit user reporting over a 60 percent extraction success rate on the Outpost map said they have started disliking it because there is no real threat to survival after the first 8 to 10 minutes of a 25 to 26 minute match. They pointed to Rooks being toned down as the reason late-game tension has disappeared, sparking discussion about whether recent AI nerfs removed necessary risk.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1uu0ule/outpost_is_boring_if_you_can_win_and_exfil/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Reddit discussion thread offering player balance feedback, not independently verified data.",
+      "published_at": "2026-07-12T00:50:08.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Community calls for Sentinel shell buff, saying it lacks any standout strength",
+      "summary": "A Reddit user with hundreds of hours across every shell said Sentinel is currently the weakest option in Marathon, arguing they have never had an opponent react with fear at facing one. They said Sentinel's ultimate and mine ability are both underwhelming and called on Bungie to give the shell a meaningful buff.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1utzr3v/sentinel_really_needs_a_buff/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Reddit opinion thread on character balance, not an official statement.",
+      "published_at": "2026-07-12T00:01:54.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Community proposes making Sponsored Playlist a permanent casual option",
+      "summary": "A Reddit poster suggested Bungie turn the popular end-of-season Sponsored Playlist, which gave everyone matching starter kits, into a permanent rotating mode to cut down on gear disparity between hardcore and casual players. They argued this would guarantee a baseline decent kit for newer or less-equipped players regardless of how their season is going.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1utxwt5/embrace_the_sponsored_playlist_and_make_it_the/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Reddit suggestion thread reflecting community feedback on matchmaking fairness, not an official proposal.",
+      "published_at": "2026-07-11T22:40:40.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    }
+  ],
+  "no_news_found": false
+}
