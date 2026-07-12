@@ -2,76 +2,80 @@
   "date": "2026-07-12",
   "items": [
     {
-      "title": "Context: Bungie Layoffs Cut 292 Employees, Hit Marathon Leadership",
-      "summary": "This story was originally reported on June 25, 2026. Sony and Bungie laid off 292 employees in Bellevue, eliminating most of the Destiny 2 team and affecting Marathon leadership including General Manager Scott Taylor, who left his position. Studio head Justin Truman also stepped down and was replaced by former VP of Operations Poria Torken, and Bungie's entire cinematic department was dissolved.",
+      "title": "Context: Bungie layoffs hit Marathon leadership as Destiny 2 ends",
+      "summary": "This story was originally reported on June 25, 2026, when Sony and Bungie announced layoffs affecting roughly 292 employees at the Bellevue studio, about half the workforce, largely gutting the Destiny 2 team but also striking senior Marathon roles including a General Manager and an Engineering Director. Studio head Justin Truman stepped down, and Sony maintained that Marathon remains an important part of its portfolio despite the cuts. This background helps explain community frustration today over sparse communication and slow content updates from Bungie.",
       "source_name": "Forbes",
       "source_url": "https://www.forbes.com/sites/paultassi/2026/06/25/bungie-hit-with-widespread-layoffs-as-destiny-2-ends-and-marathon-continues/",
       "credibility_tier": "verified-journalist",
-      "credibility_note": "Established outlet reporting on confirmed layoffs, corroborated by other outlets citing WARN filings.",
-      "published_at": "2026-06-25T00:00:00Z",
+      "credibility_note": "Forbes reporting from a journalist with an established track record covering Bungie and Sony.",
+      "published_at": "2026-06-25T10:42:00Z",
       "category": "layoffs-business",
       "corroborating_sources": [
-        "https://thegamepost.com/sonys-bungie-layoffs-hit-marathon-senior-roles-general-manager/",
-        "https://respawn.outlookindia.com/gaming/gaming-news/bungie-layoffs-destiny-2-marathon-teams-cut-in-major-reshuffle"
+        "https://www.gamedeveloper.com/business/sony-is-laying-off-most-of-the-destiny-team-and-some-marathon-devs",
+        "https://www.vice.com/en/article/destiny-is-officially-dead-major-layoffs-end-the-series-after-12-years-as-sony-refocuses-bungie-on-marathon/",
+        "https://www.windowscentral.com/gaming/destiny-2-dev-bungie-hit-with-major-layoffs-across-most-of-the-destiny-team-and-marathon-says-sony-ceo",
+        "https://thegamepost.com/sonys-bungie-layoffs-hit-marathon-senior-roles-general-manager-engineering-director-and-more"
       ]
     },
     {
-      "title": "Context: Marathon Vault Breaker PvE Mode and Season 3 Roadmap Announced",
-      "summary": "This story was originally reported on June 23, 2026. Bungie announced Vault Breaker, a new full PvE mode launching July 21, 2026, where players tackle the Cryo Archive solo, in duos, or as crews without facing other player teams, alongside a Cradle Evolution progression reset system arriving the same day. Bungie also confirmed Season 3 begins September 22, 2026 with a major redesign of the Perimeter starting map.",
-      "source_name": "Bungie.net",
-      "source_url": "https://www.bungie.net/7/en/News/Article/season_2_key_dates",
-      "credibility_tier": "official",
-      "credibility_note": "Direct announcement from Bungie's official news page.",
-      "published_at": "2026-06-23T00:00:00Z",
-      "category": "gameplay-content",
+      "title": "Context: Marathon's Steam player count fell below 1,000 concurrent multiple times",
+      "summary": "This was originally reported on July 10, 2026, when GameReactor found Marathon's concurrent Steam player count had dropped as low as 641 on July 7 and 822 on July 9, a steep fall from its March 5 launch peak of 88,337 players, with an average now around 4,000. The figures underscore the retention problems being discussed by players in the community today.",
+      "source_name": "GameReactor",
+      "source_url": "https://www.gamereactor.eu/marathons-woes-continue-concurrent-player-count-dropped-below-1000-on-steam-on-two-separate-days-this-week-1746093/",
+      "credibility_tier": "verified-journalist",
+      "credibility_note": "GameReactor is an established gaming outlet citing concurrent player data.",
+      "published_at": "2026-07-10T00:00:00Z",
+      "category": "other",
       "corroborating_sources": [
-        "https://www.pcgamer.com/games/fps/marathons-vault-breaker-pve-mode-is-coming-in-july-and-heres-the-twist-you-leave-your-loot-behind/",
-        "https://www.forbes.com/sites/paultassi/2026/06/24/marathon-is-getting-a-separate-pve-mode-an-fps-roguelike/"
+        "https://www.psu.com/news/marathon-update-1-1-0-4-brings-now-available-with-c-a-r-r-i-armory-updates-stability-improvements/"
       ]
     },
     {
-      "title": "Long-time player explains why they are quitting Marathon",
-      "summary": "A Reddit user posted a detailed breakdown of what they see as Marathon's core problems, saying they were the last of their friend group still playing after everyone else quit. They argued the extraction format functions too much like a battle royale where only one team can realistically survive, calling this a bigger driver of player loss than bugs or smaller issues.",
+      "title": "Players renew calls for Cryo mode to run through Sunday nights",
+      "summary": "Multiple Reddit threads posted today argue that Bungie should keep the Cryo game mode active for all of Sunday instead of ending it mid-day. Posters say the current schedule leaves them stuck replaying maps like Perimeter, Dire, and Outpost with worse loot, and that extending Cryo hours would boost weekend engagement.",
       "source_name": "r/Marathon",
-      "source_url": "https://www.reddit.com/r/Marathon/comments/1utyruj/dropping_the_game_for_now_heres_what_i_think_went/",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1uuo2qw/sundays_are_such_a_letdown_when_it_comes_to_this/",
       "credibility_tier": "community-speculation",
-      "credibility_note": "Single Reddit post reflecting one player's opinion, included because it captures a recurring sentiment theme in the community.",
-      "published_at": "2026-07-11T23:19:34.000Z",
+      "credibility_note": "Reddit community threads expressing a recurring player request, not an official announcement.",
+      "published_at": "2026-07-12T18:53:19.000Z",
       "category": "community-discussion",
       "corroborating_sources": [
-        "https://www.reddit.com/r/Marathon/comments/1uu0h3f/after_9_days_of_playing_its_time_to_say_goodbye/"
+        "https://www.reddit.com/r/Marathon/comments/1uum5hl/cryo_sundays/",
+        "https://www.reddit.com/r/Marathon/comments/1uukd8m/once_again_very_bummed_by_cryo_end_time_on_sunday/"
       ]
     },
     {
-      "title": "Players debate whether Outpost map has become too safe late in matches",
-      "summary": "A Reddit user reporting over a 60 percent extraction success rate on the Outpost map said they have started disliking it because there is no real threat to survival after the first 8 to 10 minutes of a 25 to 26 minute match. They pointed to Rooks being toned down as the reason late-game tension has disappeared, sparking discussion about whether recent AI nerfs removed necessary risk.",
+      "title": "Community members say Marathon fails to retain new players",
+      "summary": "A Reddit post from a player with about 20 hours in the game describes repeatedly facing opponents with 200-plus hours and far better gear, saying newer players almost never get a fair fight. The thread argues this gear and skill gap is a core reason the game struggles to hold onto newcomers, echoing broader concerns about the ongoing population decline.",
       "source_name": "r/Marathon",
-      "source_url": "https://www.reddit.com/r/Marathon/comments/1uu0ule/outpost_is_boring_if_you_can_win_and_exfil/",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1uuipht/its_not_surprising_to_me_this_game_doesnt_manage/",
       "credibility_tier": "community-speculation",
-      "credibility_note": "Reddit discussion thread offering player balance feedback, not independently verified data.",
-      "published_at": "2026-07-12T00:50:08.000Z",
+      "credibility_note": "Single Reddit user account of personal experience, reflective of wider community sentiment rather than verified data.",
+      "published_at": "2026-07-12T15:35:08.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": [
+        "https://www.gamereactor.eu/marathons-woes-continue-concurrent-player-count-dropped-below-1000-on-steam-on-two-separate-days-this-week-1746093/"
+      ]
+    },
+    {
+      "title": "Veteran player lists fixes needed to retain and re-engage players",
+      "summary": "A self-described 1,000-plus hour player posted a wishlist for Bungie including new Cryo Archive skins for the current season, a full week-long Cryo and ranked cycle similar to a trials-length mode, a Sentinel cryo skin, and a proper story mode to introduce new players to the lore. The post criticizes Bungie for not delivering seasonal content players say has been requested repeatedly.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1uuijgg/how_to_improve_the_game_make_it_fun_and_bring/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Community feedback thread from a long-time player, not an official source.",
+      "published_at": "2026-07-12T15:28:32.000Z",
       "category": "community-discussion",
       "corroborating_sources": []
     },
     {
-      "title": "Community calls for Sentinel shell buff, saying it lacks any standout strength",
-      "summary": "A Reddit user with hundreds of hours across every shell said Sentinel is currently the weakest option in Marathon, arguing they have never had an opponent react with fear at facing one. They said Sentinel's ultimate and mine ability are both underwhelming and called on Bungie to give the shell a meaningful buff.",
+      "title": "Community debate flares over Marathon's abstract art style",
+      "summary": "A Reddit thread argues that criticism of Marathon's visual design, which leans abstract rather than the mil-sim look common in the extraction shooter genre, is unfairly met with hostility on social media. The poster says a large number of players genuinely dislike the aesthetic and that this feedback is being dismissed rather than discussed.",
       "source_name": "r/Marathon",
-      "source_url": "https://www.reddit.com/r/Marathon/comments/1utzr3v/sentinel_really_needs_a_buff/",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1uulpuf/stop_crucifying_people_who_dont_like_the_game/",
       "credibility_tier": "community-speculation",
-      "credibility_note": "Reddit opinion thread on character balance, not an official statement.",
-      "published_at": "2026-07-12T00:01:54.000Z",
-      "category": "community-discussion",
-      "corroborating_sources": []
-    },
-    {
-      "title": "Community proposes making Sponsored Playlist a permanent casual option",
-      "summary": "A Reddit poster suggested Bungie turn the popular end-of-season Sponsored Playlist, which gave everyone matching starter kits, into a permanent rotating mode to cut down on gear disparity between hardcore and casual players. They argued this would guarantee a baseline decent kit for newer or less-equipped players regardless of how their season is going.",
-      "source_name": "r/Marathon",
-      "source_url": "https://www.reddit.com/r/Marathon/comments/1utxwt5/embrace_the_sponsored_playlist_and_make_it_the/",
-      "credibility_tier": "community-speculation",
-      "credibility_note": "Reddit suggestion thread reflecting community feedback on matchmaking fairness, not an official proposal.",
-      "published_at": "2026-07-11T22:40:40.000Z",
+      "credibility_note": "Reddit opinion post reflecting one side of an ongoing community debate over art direction.",
+      "published_at": "2026-07-12T17:26:48.000Z",
       "category": "community-discussion",
       "corroborating_sources": []
     }
