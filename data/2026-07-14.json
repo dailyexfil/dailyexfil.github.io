@@ -1,0 +1,70 @@
+{
+  "date": "2026-07-14",
+  "items": [
+    {
+      "title": "Context: Vault Breaker PvE Mode Confirmed for July 21 Launch",
+      "summary": "This story was originally reported on June 24, 2026. Bungie announced a full experimental PvE mode called Vault Breaker, launching July 21 as part of Marathon's mid season update, letting solo, duo, and three player teams explore the endgame Cryo Archive map without PvP threats. The mode uses roguelike progression through increasingly difficult vaults and marks Bungie's biggest pivot away from pure extraction shooter mechanics so far.",
+      "source_name": "PC Gamer",
+      "source_url": "https://www.pcgamer.com/games/fps/marathons-vault-breaker-pve-mode-is-coming-in-july-and-heres-the-twist-you-leave-your-loot-behind/",
+      "credibility_tier": "verified-journalist",
+      "credibility_note": "Established gaming outlet reporting confirmed by matching Forbes coverage of the same Bungie announcement.",
+      "published_at": "2026-06-24T00:00:00Z",
+      "category": "gameplay-content",
+      "corroborating_sources": [
+        "https://www.forbes.com/sites/paultassi/2026/06/24/marathon-is-getting-a-separate-pve-mode-an-fps-roguelike/"
+      ]
+    },
+    {
+      "title": "Players Report CARRI Shop Mizzy Surplus and Possible Duplication Bug",
+      "summary": "Multiple r/Marathon threads posted today describe an unusual glut of the weapon mod item called Mizzy appearing in Bungie's CARRI shop, with players reporting six to eight available for purchase or barter at once. One player said they were able to buy the same set of eight Mizzys twice after restarting the game, ending up with sixteen total, which suggests a possible duplication bug rather than an intended shop event.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1uwgkrt/able_to_buy_the_8_mizzis_twice/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Multiple unverified subreddit reports with no official Bungie confirmation of a bug or event.",
+      "published_at": "2026-07-14T18:12:25.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": [
+        "https://www.reddit.com/r/Marathon/comments/1uwhtsh/holy_durandal/",
+        "https://www.reddit.com/r/Marathon/comments/1uwgbus/psa_mizzys_for_daysssdd/",
+        "https://www.reddit.com/r/Marathon/comments/1uwfdn3/happy_free_mizzy_day/",
+        "https://www.reddit.com/r/Marathon/comments/1uwgv8t/cyberachme_mizzython/"
+      ]
+    },
+    {
+      "title": "Community Anticipates Vault Breaker PvE Mode Launch Next Week",
+      "summary": "With Bungie's Vault Breaker PvE mode set to launch July 21, r/Marathon members are discussing whether it will hold their attention, since some enjoy the game's aesthetic but have little interest in its PvP focus. Others noted that Bungie has effectively offered a PvE style loop for decades already, comparing the new mode to classic sci-fi shooter missions of exploring alien terrain and extracting loot.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1uwg322/anyone_else_pumped_for_the_pve_mode_next_week/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Community sentiment thread reflecting anticipation ahead of a confirmed Bungie feature, not an official statement itself.",
+      "published_at": "2026-07-14T17:55:52.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": [
+        "https://www.reddit.com/r/Marathon/comments/1uwfk3a/weve_had_a_pve_mode_for_20_years/"
+      ]
+    },
+    {
+      "title": "Players Flag Runner Codex Challenges That Reward Working Against Teammates",
+      "summary": "A detailed r/Marathon post argues that some Runner shell codex challenges, particularly ones tied to unlocking Shadow Index skins, unintentionally push players to work against their own trio teammates instead of cooperating. The poster cites the Assassin's Hidden Strike challenge, which requires defeating a fellow Runner, as an example of a design that conflicts with team based play.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1uwhfbu/runner_codex_challenge_inconsistencies/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Single detailed community feedback post that has not been acknowledged by Bungie.",
+      "published_at": "2026-07-14T18:42:15.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Community Suggests Test Mode Without Shield Bubbles and Mizzys to Address Balance Complaints",
+      "summary": "A r/Marathon suggestion proposes a limited test playlist that removes shield bubbles and Mizzy items entirely, arguing these tools currently distort fight pacing and let gear overshadow skill. The poster says shell utility should matter more than stacked consumables, feeding into a broader ongoing community debate about item balance in the game.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1uwgfr3/new_test_mode_idea/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Community proposal thread reflecting an ongoing balance debate, with no official Bungie response yet.",
+      "published_at": "2026-07-14T18:07:35.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    }
+  ],
+  "no_news_found": false
+}
