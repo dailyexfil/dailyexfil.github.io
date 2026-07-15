@@ -1,0 +1,75 @@
+{
+  "date": "2026-07-15",
+  "items": [
+    {
+      "title": "So, what happened to Marathon's 'Revival Week'?",
+      "summary": "A Reddit thread on r/Marathon asks why a post about a proposed 'Revival Week' for the game was removed from the subreddit, with the original poster saying it seemed well intentioned and did not appear to break any rules. The thread reflects ongoing community frustration over moderation and the lack of visible engagement from Bungie as players look for signs the studio is actively working to bring players back.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1uxa50i/so_what_happened_to_marathons_revival_week/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Single Reddit thread with no official response, reflects community sentiment rather than confirmed fact.",
+      "published_at": "2026-07-15T16:02:50.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Petition for per-instance matchmaking as population declines",
+      "summary": "A Reddit post calls for Marathon to add per-instance matchmaking that would let matches start even with only a few players in a lobby, similar to systems used in Synduality or Vigor. The poster says several regions already feel collapsed and near unplayable due to long waits, framing this as a direct effect of the shrinking player base.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1uxaz2w/petition_for_perinstance_matchmaking/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Community suggestion thread based on player observation of queue times, not verified population data.",
+      "published_at": "2026-07-15T16:31:50.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Community debates nerfing the Misriah and D54",
+      "summary": "A Reddit discussion argues the Misriah and D54 weapons are overtuned, especially in close range fights when paired with bubble shields and recon gear, and pushes back on players who resist nerfing them. The thread is part of ongoing weapon balance debate within the community, with the poster comparing the situation to the previous WSTR nerf.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1ux8unr/why_are_some_so_against_nerfing_the_misriah_and/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Player opinion thread on weapon balance, not an official patch note or dev statement.",
+      "published_at": "2026-07-15T15:19:06.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Long-form post argues Rook's sandbox role has shifted for the worse",
+      "summary": "A detailed Reddit post argues that Rook's role in Marathon's sandbox has changed substantially since Season 1, and that both the character and the overall game suffer as a result. The post is part of a broader pattern of community members raising concerns about how balance and design choices have evolved across seasons.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1uxbi9a/rooks_role_in_the_sandbox_has_completely_shifted/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Personal opinion essay from a community member, not an official design statement.",
+      "published_at": "2026-07-15T16:50:24.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Context: Bungie layoffs and Marathon leadership shakeup",
+      "summary": "Forbes first reported on June 25, 2026 that Bungie underwent widespread layoffs affecting roughly 292 employees, about half the studio, even as Marathon continued development with several hundred staff remaining. A follow up Forbes report on June 26, 2026 detailed leadership changes, noting studio head Justin Truman departed and was replaced by Poria Torken, while Marathon game director Joe Ziegler kept his role and PlayStation's Herman Hulst said Marathon remains an important part of Sony's portfolio.",
+      "source_name": "Forbes",
+      "source_url": "https://www.forbes.com/sites/paultassi/2026/06/25/bungie-hit-with-widespread-layoffs-as-destiny-2-ends-and-marathon-continues/",
+      "credibility_tier": "verified-journalist",
+      "credibility_note": "Established outlet reporting with track record on Bungie coverage, corroborated by WARN filing reporting.",
+      "published_at": "2026-06-25T14:42:00Z",
+      "category": "layoffs-business",
+      "corroborating_sources": [
+        "https://thegamepost.com/sonys-bungie-layoffs-hit-marathon-senior-roles-general-manager/",
+        "https://respawn.outlookindia.com/gaming/gaming-news/bungie-layoffs-destiny-2-marathon-teams-cut-in-major-reshuffle"
+      ]
+    },
+    {
+      "title": "Context: Vault Breaker PvE mode and Season 3 roadmap announced",
+      "summary": "PC Gamer reported on June 23, 2026 that Marathon's new experimental PvE mode, Vault Breaker, will launch July 21 as part of a mid season update, letting players run solo, duo, or crew through Cryo Archive using a separate Vault Data currency rather than extractable loot. Bungie also confirmed Season 3 will begin September 22, 2026, bringing a revamped Perimeter map, a new Runner shell, and other early-game improvements.",
+      "source_name": "PC Gamer",
+      "source_url": "https://www.pcgamer.com/games/fps/marathons-vault-breaker-pve-mode-is-coming-in-july-and-heres-the-twist-you-leave-your-loot-behind/",
+      "credibility_tier": "verified-journalist",
+      "credibility_note": "Established gaming outlet reporting directly on Bungie's announced roadmap.",
+      "published_at": "2026-06-23T00:00:00Z",
+      "category": "gameplay-content",
+      "corroborating_sources": []
+    }
+  ],
+  "no_news_found": false
+}
