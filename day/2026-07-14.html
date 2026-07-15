@@ -59,6 +59,14 @@ h1 .l2{display:block; color:var(--volt); font-style:italic;}
   margin-top:4px; letter-spacing:-1px;}
 .cell.alert .val{color:var(--red);}
 .cell .val small{font-size:12px; font-weight:500; color:var(--mut); letter-spacing:0;}
+.cell.patch{display:block; transition:background .2s ease;}
+.cell.patch:hover{background:var(--panel2);}
+.cell.patch .val.ok{color:var(--volt);}
+.cell.patch .val.wait{color:var(--violet-l);}
+.cell.patch .val.miss{color:var(--red);}
+.cell.patch .plink{font-family:'IBM Plex Mono',monospace; font-size:10px;
+  letter-spacing:1px; color:var(--faint); margin-top:6px;}
+.cell.patch:hover .plink{color:var(--volt);}
 
 .sect{display:flex; align-items:baseline; gap:16px; padding:52px 0 22px; position:relative;}
 .sect .num{font-size:clamp(54px,7vw,92px); font-weight:900; line-height:.8; color:transparent;
@@ -183,6 +191,11 @@ footer a:hover{text-decoration:underline;}
 <div class="lbl">SEASON 3 <span class="faint">// PERIMETER REVAMP</span></div>
 <div class="val" data-count="2026-09-22T17:00:00Z" id="cd1">T-&#8230; <small>SEP 22</small></div>
 </div>
+<a class="cell patch" href="../patches.html" id="patchcell" data-lastpatch="2026-07-09" style="text-decoration:none">
+<div class="lbl">PATCH TUESDAY <span class="faint">// WEEKLY WATCH</span></div>
+<div class="val" id="patchval">&#8230;</div>
+<div class="plink">FULL PATCH LOG &#8594;</div>
+</a>
 <div class="cell alert">
 <div class="lbl">BUNGIE SILENCE <span style="color:#6b4a42">// LAST OFFICIAL POST</span></div>
 <div class="val" data-up="2026-07-07T16:00:06.000Z" id="cdup">&#8230;</div>
@@ -225,7 +238,7 @@ footer a:hover{text-decoration:underline;}
 <div class="wrap"><div class="ticker"><div class="in"><b>+</b> Context: Vault Breaker PvE Mode Confirmed for July 21 Launch &nbsp;&nbsp;&nbsp; <b>+</b> Players Report CARRI Shop Mizzy Surplus and Possible Duplication Bug &nbsp;&nbsp;&nbsp; <b>+</b> Community Anticipates Vault Breaker PvE Mode Launch Next Week &nbsp;&nbsp;&nbsp; <b>+</b> Players Flag Runner Codex Challenges That Reward Working Against Teammates &nbsp;&nbsp;&nbsp; <b>+</b> Community Suggests Test Mode Without Shield Bubbles and Mizzys to Address Balance Complaints &nbsp;&nbsp;&nbsp; <b>+</b> Context: Vault Breaker PvE Mode Confirmed for July 21 Launch &nbsp;&nbsp;&nbsp; <b>+</b> Players Report CARRI Shop Mizzy Surplus and Possible Duplication Bug &nbsp;&nbsp;&nbsp; <b>+</b> Community Anticipates Vault Breaker PvE Mode Launch Next Week &nbsp;&nbsp;&nbsp; <b>+</b> Players Flag Runner Codex Challenges That Reward Working Against Teammates &nbsp;&nbsp;&nbsp; <b>+</b> Community Suggests Test Mode Without Shield Bubbles and Mizzys to Address Balance Complaints</div></div></div>
 <div class="wrap"><footer>
 <span>ALL ITEMS TRACE TO SOURCE // LINK-CHECKED // AUTOMATED // NOT AFFILIATED WITH BUNGIE OR SONY</span>
-<span><a href="../archive.html">ARCHIVE &#8594;</a> &nbsp; <a href="../index.html">LATEST &#8594;</a> &nbsp; <span class="faint">BUILT 2026-07-14 19:02Z</span></span>
+<span><a href="../patches.html">PATCH LOG &#8594;</a> &nbsp; <a href="../archive.html">ARCHIVE &#8594;</a> &nbsp; <a href="../index.html">LATEST &#8594;</a> &nbsp; <span class="faint">BUILT 2026-07-15 16:12Z</span></span>
 </footer></div>
 <script>
 (function(){
@@ -326,6 +339,29 @@ footer a:hover{text-decoration:underline;}
     animated.forEach(function(el){ el.classList.add("vis"); });
   }
 
+  var pc = document.getElementById("patchcell");
+  if (pc) {
+    var lp = pc.getAttribute("data-lastpatch");
+    var pv = document.getElementById("patchval");
+    var nowPT = new Date(Date.now() - 7 * 3600000);
+    var t = new Date(nowPT);
+    var diff = (t.getUTCDay() - 2 + 7) % 7;
+    t.setUTCDate(t.getUTCDate() - diff);
+    var lastTue = t.toISOString().slice(0, 10);
+    if (lp >= lastTue) {
+      pv.textContent = "RELEASED";
+      pv.className = "val ok";
+      pv.innerHTML = 'RELEASED <small>' + lp + '</small>';
+    } else if (diff === 0) {
+      pv.className = "val wait";
+      pv.innerHTML = 'DUE TODAY <small>LAST ' + lp + '</small>';
+    } else {
+      var days = Math.floor((nowPT - new Date(lp + "T12:00:00Z")) / 86400000);
+      pv.className = "val miss";
+      pv.innerHTML = days + "d NO PATCH <small>LAST " + lp + "</small>";
+    }
+  }
+
   var glitchables = Array.prototype.slice.call(document.querySelectorAll(".gl"));
   function flash(el, dur){
     el.classList.add("on");
@@ -341,5 +377,6 @@ footer a:hover{text-decoration:underline;}
   }
 })();
 </script>
+<script data-goatcounter="https://dailyexfil.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>
 </body>
 </html>
