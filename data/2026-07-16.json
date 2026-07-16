@@ -1,0 +1,77 @@
+{
+  "date": "2026-07-16",
+  "items": [
+    {
+      "title": "Mid-Season 2 Update Preview: Vault Breaker PvE Mode Coming July 21",
+      "summary": "Bungie posted a preview blog on Steam detailing next week's mid-season update, which introduces Marathon's first experimental PvE mode called Vault Breaker. In it, runners use hit-and-run tactics to raid vaults inside the Cryo Archive for loot, alongside a batch of balance and progression changes. Full patch notes are expected when the update goes live on July 21.",
+      "source_name": "Steam News (official Bungie posts)",
+      "source_url": "https://store.steampowered.com/news/app/3065800/view/681881951065342103",
+      "credibility_tier": "official",
+      "credibility_note": "Direct post from Bungie's official Steam news channel.",
+      "published_at": "2026-07-16T16:20:06.000Z",
+      "category": "patch-notes",
+      "corroborating_sources": [
+        "https://x.com/MarathonDevTeam/status/2077795005448818831"
+      ]
+    },
+    {
+      "title": "Reddit reports Joshua Dean becomes Marathon General Manager, Lars Bakken departs",
+      "summary": "A Reddit thread claims Joshua Dean has taken over as General Manager for Marathon while Lars Bakken has left the studio, prompting mixed reactions from the community. There is no official Bungie statement confirming the change yet, but it follows weeks of leadership turnover tied to the studio's mass layoffs.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1uydft8/joshua_dean_becomes_general_manager_lars_bakken/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Sourced only from an unconfirmed Reddit thread with no accompanying official statement or news article.",
+      "published_at": "2026-07-16T19:54:44.000Z",
+      "category": "layoffs-business",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Community frustration over rare Cryo Archive Vault 6 keys",
+      "summary": "A player described spending an entire season with a squad and finding only one Vault 6 key in the Cryo Archive, with the run ending in a chaotic three-team fight. The post says many players are stuck without access to compiler runs because the vault 6 subroutine keys are so scarce, and hopes the upcoming update will address it.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1uyelzg/an_end_to_the_vault_6_bottleneck/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Single Reddit post reflecting player experience, not independently verified.",
+      "published_at": "2026-07-16T20:38:38.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Clarification: new equipment limits only apply to offensive grenades",
+      "summary": "A community member clarified that the recently discussed equipment limit only restricts offensive grenades and bubbles at the start of a match, not sensors, ammo, or claymores. The post pushes back on claims that Sentinel is now useless in Cryo or that ammo boxes can no longer be carried.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1uyef4u/equipment_limit_only_affects_offensive_grenades/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Community clarification post without an official Bungie source cited.",
+      "published_at": "2026-07-16T20:31:28.000Z",
+      "category": "gameplay-content",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Debate: Marathon needs to support multiple playstyles in one lobby",
+      "summary": "A Reddit poster argues Marathon will keep struggling until it can support different playstyles within the same match, saying the game currently plays more like an arena shooter with extraction elements attached rather than the reverse. The thread reflects an ongoing community debate about pacing and the game's core identity.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1uycl6h/the_game_will_suffer_until_multiple_play_styles/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Opinion thread from the community, not corroborated by other reporting.",
+      "published_at": "2026-07-16T19:22:59.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Context: Bungie layoffs hit Marathon team including General Manager and Engineering Director roles",
+      "summary": "This story was originally reported on June 26, 2026: roughly 292 Bungie employees were laid off on June 25, with separations effective July 9, and the cuts affected several senior Marathon roles including General Manager, at least one Engineering Director, producers, and creative leads. This helps explain today's community reports of a new General Manager taking over the Marathon team.",
+      "source_name": "TheGamePost",
+      "source_url": "https://thegamepost.com/sonys-bungie-layoffs-hit-marathon-senior-roles-general-manager/",
+      "credibility_tier": "verified-journalist",
+      "credibility_note": "Reported by an established gaming outlet covering the layoffs with specific role details.",
+      "published_at": "2026-06-26T00:00:00.000Z",
+      "category": "layoffs-business",
+      "corroborating_sources": [
+        "https://www.forbes.com/sites/paultassi/2026/06/26/a-studio-shattered-the-aftermath-of-the-mass-bungie-layoffs/",
+        "https://www.gamedeveloper.com/business/sony-is-laying-off-most-of-the-destiny-team-and-some-marathon-devs"
+      ]
+    }
+  ],
+  "no_news_found": false
+}
