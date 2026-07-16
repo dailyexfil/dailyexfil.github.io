@@ -191,6 +191,13 @@ footer a:hover{text-decoration:underline;}
   letter-spacing:1px; margin-top:12px; line-height:1.8;}
 .bigstat{display:grid; grid-template-columns:repeat(auto-fit,minmax(200px,1fr)); gap:1px;
   background:var(--line); border:1px solid var(--line); margin-bottom:18px;}
+.opfoto{float:right; width:min(200px,38vw); margin:4px 0 14px 22px; position:relative; padding:10px;}
+.opfoto img{display:block; width:100%; border:1px solid var(--line2); filter:saturate(.9);}
+.opfoto::before,.opfoto::after{content:""; position:absolute; width:16px; height:16px; border:0 solid var(--volt);}
+.opfoto::before{top:0; left:0; border-top-width:2px; border-left-width:2px;}
+.opfoto::after{bottom:0; right:0; border-bottom-width:2px; border-right-width:2px;}
+.opfoto .cap{font-family:'IBM Plex Mono',monospace; font-size:9.5px; letter-spacing:1.5px;
+  color:var(--faint); margin-top:8px; text-align:right;}
 .quiet{border:1px dashed var(--line2); padding:34px; text-align:center;
   font-family:'IBM Plex Mono',monospace; font-size:13px; color:var(--mut); letter-spacing:1px; line-height:2.2;}
 
@@ -207,7 +214,7 @@ footer a:hover{text-decoration:underline;}
 </style>
 </head>
 <body>
-<script type="application/ld+json">[{"@context":"https://schema.org","@type":"AboutPage","name":"About DAILY EXFIL: who runs it and how it works","url":"https://dailyexfil.github.io/about.html","description":"DAILY EXFIL is built and run by Aubrey Ballard, a longtime Bungie fan and day-one Marathon player. How the daily digest works, what the automation does, how credibility tiers are assigned, and why every item links to its source."},{"@context":"https://schema.org","@type":"Person","name":"Aubrey Ballard","url":"https://ko-fi.com/aubreyballard","knowsAbout":"Marathon (Bungie)"}]</script>
+<script type="application/ld+json">[{"@context":"https://schema.org","@type":"AboutPage","name":"About DAILY EXFIL: who runs it and how it works","url":"https://dailyexfil.github.io/about.html","description":"DAILY EXFIL is built and run by Aubrey Ballard, a longtime Bungie fan and day-one Marathon player. How the daily digest works, what the automation does, how credibility tiers are assigned, and why every item links to its source."},{"@context":"https://schema.org","@type":"Person","name":"Aubrey Ballard","url":"https://ko-fi.com/aubreyballard","image":"https://dailyexfil.github.io/aubrey.jpg","knowsAbout":"Marathon (Bungie)"}]</script>
 <div class="wrap"><div class="topbar mono">
 <span>TAU CETI RELAY // CIVILIAN BAND</span>
 <span class="bars" id="bars" aria-hidden="true"></span>
@@ -250,6 +257,7 @@ footer a:hover{text-decoration:underline;}
 <span><h2 class="q">Who runs this</h2><span class="sub">A PERSON, NOT A PORTAL</span></span>
 </div></div>
 <div class="wrap"><div class="panel-p">
+<div class="opfoto"><img src="aubrey.jpg" alt="Aubrey Ballard" width="640" height="640" loading="lazy"><div class="cap">OPERATOR // TAU CETI IV</div></div>
 <p>Hi, I'm <b>Aubrey Ballard</b>. I've been playing Bungie games for most of my life, and I've been in Tau Ceti since Marathon's launch day on March 5, 2026. I'm also a homelab person: the kind who keeps a rack of small servers at home for the joy of it. DAILY EXFIL runs on one of them.</p>
 <p>This site is a one-person fan project. No company, no staff, no ad network. Just a player who wanted a better way to follow a game I care about, and then decided to share it.</p>
 </div></div>
@@ -283,7 +291,7 @@ footer a:hover{text-decoration:underline;}
 
 <div class="wrap"><footer>
 <span>ALL ITEMS TRACE TO SOURCE // LINK-CHECKED // AUTOMATED // NOT AFFILIATED WITH BUNGIE OR SONY</span>
-<span><a href="index.html">LATEST &#8594;</a> &nbsp; <a href="status.html">STATE OF THE GAME &#8594;</a> &nbsp; <a href="archive.html">ARCHIVE &#8594;</a> &nbsp; <a href="https://ko-fi.com/aubreyballard" rel="noopener" target="_blank">SUPPORT THE RELAY &#8599;</a> &nbsp; <span class="faint">BUILT 2026-07-16 05:12Z</span></span>
+<span><a href="index.html">LATEST &#8594;</a> &nbsp; <a href="status.html">STATE OF THE GAME &#8594;</a> &nbsp; <a href="archive.html">ARCHIVE &#8594;</a> &nbsp; <a href="https://ko-fi.com/aubreyballard" rel="noopener" target="_blank">SUPPORT THE RELAY &#8599;</a> &nbsp; <span class="faint">BUILT 2026-07-16 05:20Z</span></span>
 </footer></div>
 <script>
 (function(){
