@@ -1,0 +1,106 @@
+{
+  "date": "2026-07-17",
+  "items": [
+    {
+      "title": "Marathon Game Director Joe Ziegler Departs Bungie, Del Chafe III Takes Over",
+      "summary": "Joe Ziegler announced on July 17, 2026 that he is leaving Bungie, just four months after Marathon's March 5 launch. Del Chafe III becomes the new Game Director, working alongside Creative Director Julia Nardin. Ziegler said he is moving on to something new but has not shared details, and the timing has fueled community concern given the game's post-launch struggles and recent studio layoffs.",
+      "source_name": "The Gamer",
+      "source_url": "https://www.thegamer.com/marathon-game-director-leaving-bungie/",
+      "credibility_tier": "verified-journalist",
+      "credibility_note": "Reported by an established gaming outlet with independent corroboration from other outlets.",
+      "published_at": "2026-07-17T13:23:00Z",
+      "category": "layoffs-business",
+      "corroborating_sources": [
+        "https://playday.one/2026/07/17/marathon-game-director-stepping-down/",
+        "https://gamerant.com/marathon-game-director-quit/",
+        "https://www.reddit.com/r/Marathon/comments/1uz5p3x/joe_ziegler_is_leaving_bungie/"
+      ]
+    },
+    {
+      "title": "Marathon Mid-Season Update Adds Experimental PvE Mode Vault Breaker on July 21",
+      "summary": "Bungie's Marathon Development Team posted a preview on July 16 confirming Update 1.1.5 will add an experimental PvE mode called Vault Breaker starting July 21, running through August 4 on Cryo Archive with solo, duo and trio options. The mode introduces a Vault Data currency and a Cradle Evolution reset system for bonus energy and exclusive cosmetics. The same preview detailed balance changes including WSTR shotgun adjustments, D54 pistol tweaks, and new limits capping throwables and shields at two items per loadout.",
+      "source_name": "Marathon Development Team (X)",
+      "source_url": "https://x.com/MarathonDevTeam/status/2077795005448818831",
+      "credibility_tier": "official",
+      "credibility_note": "Direct post from Bungie's official Marathon Development Team account.",
+      "published_at": "2026-07-16T20:38:00Z",
+      "category": "gameplay-content",
+      "corroborating_sources": [
+        "https://www.pcgamer.com/games/fps/marathons-experimental-pve-mode-will-only-be-playable-for-2-weeks-when-it-goes-live-in-july-full-rollout-expected-to-happen-sometime-in-season-3/",
+        "https://shatteredvault.com/marathon-mid-season-2-update-preview/"
+      ]
+    },
+    {
+      "title": "New Marathon General Manager Named After June Layoffs, Veteran Designer Retires",
+      "summary": "Following June's Bungie layoffs, James Deane has been identified as Marathon's new General Manager, replacing Scott Taylor who was among those laid off. Separately, 20-year Bungie veteran Lars Bakken, who worked on Halo and Destiny titles, retired from the studio in June.",
+      "source_name": "The Game Post",
+      "source_url": "https://thegamepost.com/bungie-new-marathon-general-manager-20-year-studio-veteran-leaves/",
+      "credibility_tier": "verified-journalist",
+      "credibility_note": "Reported by an established games industry outlet.",
+      "published_at": "2026-07-16T00:00:00Z",
+      "category": "layoffs-business",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Community Debate: Did the PvE Pivot Cost Marathon Its Director?",
+      "summary": "A widely discussed Reddit post argues Joe Ziegler's departure is tied to Bungie's pivot away from a pure PvP focus, blaming players who pushed for PvE content for changing the game's direction. The post drew heavy engagement and pushback, reflecting a broader split in the community over whether Marathon should lean more into PvP or PvE experiences.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1uz6jr2/pve_players_ruined_the_game_congratulations/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Unverified community opinion thread reflecting player sentiment, not a confirmed causal claim.",
+      "published_at": "2026-07-17T17:37:46.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Players Report Repeated Encounters With Coordinated Six-Player Squads",
+      "summary": "A Reddit thread describes players repeatedly running into what appear to be full six-person squads working together with no in-game voice comms, raising questions about how easily large coordinated groups can queue against smaller teams. Several commenters shared similar experiences, pointing to ongoing concerns about matchmaking fairness.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1uz72hv/why_so_many_6_mans/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Community thread describing anecdotal matchmaking experiences, unverified against server data.",
+      "published_at": "2026-07-17T17:56:27.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Solo Player Frustration Over Long Matchmaking Times and Rook Restrictions",
+      "summary": "A returning player describes repeatedly waiting around ten minutes for matches across normal, night-sponsored, and solo perimeter modes before quitting, then getting stuck in a low-tier Rook loadout against a fully geared squad. The post highlights ongoing complaints about matchmaking speed and difficulty for solo and returning players.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1uz4c36/how_can_i_even_try_to_enjoy/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Single player account of matchmaking issues, representative of a recurring community complaint.",
+      "published_at": "2026-07-17T16:18:18.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Players Report Cryo Free Kit Bug Recurring",
+      "summary": "A Reddit post claims the Cryo Archive free kit system is broken again, with gear loading into a player's bag instead of being usable at the start of the match, only appearing once the match ends. Commenters expressed frustration that a previously reported bug appears to have resurfaced.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1uz2swb/cryo_free_kits_not_working_again/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Unverified bug report from a community member, not confirmed by Bungie.",
+      "published_at": "2026-07-17T15:22:13.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Context: Bungie Layoffs Cut Around 292 Staff, Hit Marathon Leadership",
+      "summary": "This story was originally published June 25, 2026. Sony confirmed major Bungie layoffs affecting roughly 292 employees at the Bellevue headquarters, cutting most of the Destiny 2 team and some Marathon staff including senior roles such as General Manager Scott Taylor and an Engineering Director. Studio head Justin Truman stepped down and was replaced by Poria Torken, setting the stage for the leadership turnover that continued three weeks later with Joe Ziegler's departure.",
+      "source_name": "Forbes",
+      "source_url": "https://www.forbes.com/sites/paultassi/2026/06/25/bungie-hit-with-widespread-layoffs-as-destiny-2-ends-and-marathon-continues/",
+      "credibility_tier": "verified-journalist",
+      "credibility_note": "Established outlet reporting corroborated by multiple other verified journalism sources.",
+      "published_at": "2026-06-25T16:42:00Z",
+      "category": "layoffs-business",
+      "corroborating_sources": [
+        "https://thegamepost.com/sonys-bungie-layoffs-hit-marathon-senior-roles-general-manager/",
+        "https://aftermath.site/bungie-destiny-2-marathon-layoffs-sony/",
+        "https://gameinformer.com/2026/06/25/bungie-is-laying-off-most-of-the-destiny-2-development-team",
+        "https://www.forbes.com/sites/paultassi/2026/06/26/a-studio-shattered-the-aftermath-of-the-mass-bungie-layoffs/"
+      ]
+    }
+  ],
+  "no_news_found": false
+}
