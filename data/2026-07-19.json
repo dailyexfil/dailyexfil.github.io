@@ -1,0 +1,107 @@
+{
+  "date": "2026-07-19",
+  "items": [
+    {
+      "title": "Marathon Game Director Joe Ziegler Departs Bungie, Design Lead Lars Bakken Also Retires",
+      "summary": "Joe Ziegler, Marathon's game director since December 2022, announced he is leaving Bungie just four months after the game's March launch. Assistant game director Del Chafe III has been promoted to replace him, working alongside creative director Julia Nardin. Design lead Lars Bakken, a Bungie veteran of more than 20 years, has also left the studio and is now retired from the games industry, adding to a wave of leadership departures following recent layoffs.",
+      "source_name": "PC Gamer",
+      "source_url": "https://www.pcgamer.com/games/fps/marathon-game-director-leaves-bungie-just-4-months-after-launch-ill-be-heading-to-something-new-somewhere-else/",
+      "credibility_tier": "verified-journalist",
+      "credibility_note": "Reported by an established gaming outlet with direct confirmation from Ziegler's own social media statement.",
+      "published_at": "2026-07-18T00:00:00Z",
+      "category": "layoffs-business",
+      "corroborating_sources": [
+        "https://www.videogameschronicle.com/news/marathons-director-confirms-hes-quit-bungie-four-months-after-launch/"
+      ]
+    },
+    {
+      "title": "Marathon Player Base Keeps Shrinking as Destiny 2 Pulls Ahead",
+      "summary": "Windows Central reports Marathon's Steam concurrent player count has fallen to roughly 6,000 while Destiny 2 recently hit around 60,000 at the same time, prompting concerns about Bungie's direction under its live service strategy. The piece links the decline to recent layoffs, a reported 766 million dollar valuation drop, and Joe Ziegler's departure. Separate tracking sites show Marathon's Steam population down about 44 percent over the last 30 days, with concurrent players briefly dropping below 1,000 on two days in early July.",
+      "source_name": "Windows Central",
+      "source_url": "https://www.windowscentral.com/gaming/marathons-player-base-is-collapsing-and-bungies-future-looks-increasingly-bleak-as-concerns-grow-around-the-studios-live-service-direction",
+      "credibility_tier": "verified-journalist",
+      "credibility_note": "Established outlet analyzing publicly tracked Steam concurrency data, corroborated by multiple independent trackers and reporters.",
+      "published_at": "2026-07-18T00:00:00Z",
+      "category": "other",
+      "corroborating_sources": [
+        "https://www.gamereactor.eu/marathons-woes-continue-concurrent-player-count-dropped-below-1000-on-steam-on-two-separate-days-this-week-1746093/",
+        "https://massivelyop.com/2026/07/17/bungie-talks-up-marathons-mid-season-2-update-but-players-are-far-more-interested-in-destiny-2-these-days/",
+        "https://tracker.gg/population/steam/3065800"
+      ]
+    },
+    {
+      "title": "\"If Season 3 was our last update, where are we migrating to runners?\"",
+      "summary": "A Reddit thread in r/Marathon voices concern that the current season could be the game's final content update, reflecting community anxiety after Bungie's recent leadership departures and layoffs. Commenters discussed alternative extraction shooters like Arc Raiders and Escape from Tarkov as fallback options if Marathon were to be discontinued. The thread captures a growing sense of uncertainty among players about the game's long term future.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1v0wbse/if_season_3_was_our_last_update_where_are_we/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Unverified Reddit discussion reflecting player sentiment, not a confirmed report of Bungie's plans.",
+      "published_at": "2026-07-19T17:18:44.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "\"A Beautiful Mess That I Love\": Veteran Player's Cryo Feedback Sparks Discussion",
+      "summary": "A player with 850 hours in Marathon posted detailed feedback describing a brutal weekend in the Cryo Archive mode, including a losing streak of roughly 13 to 15 matches against well-geared opponents. Framed as a feedback letter rather than a complaint, the post ties the difficulty spike to the game's shrinking population leaving mostly high-skill players in matchmaking. It generated discussion about whether population decline is creating an increasingly hardcore-only experience.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1v0xo6h/a_beautiful_mess_that_i_love/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Long-form Reddit feedback post offering a player's firsthand perspective, not independently verified data.",
+      "published_at": "2026-07-19T18:10:47.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Community Excitement Builds for Vault Breaker PvE Mode",
+      "summary": "A r/Marathon thread shows player anticipation for Vault Breaker, the new PvE roguelite mode arriving with the mid-season update on July 21. The original poster hopes the mode will draw back friends who had stopped playing and asks what other PvE ideas the community wants on future maps. Replies show a mix of genuine excitement and cautious optimism given the game's recent struggles.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1v0yg43/whos_hyped_for_vault_breakers/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Community discussion anticipating official content, reflecting player mood rather than confirmed news.",
+      "published_at": "2026-07-19T18:41:26.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": [
+        "https://www.reddit.com/r/Marathon/comments/1v0wc09/the_cyro_fill_experience/"
+      ]
+    },
+    {
+      "title": "Players Report Long Matchmaking Queues as Population Concerns Continue",
+      "summary": "A Reddit post describing a 40 minute wait to find a match highlights ongoing matchmaking problems in Marathon. A similar thread the same day describes a Cryo Archive session hurt by fill teams and low turnout over the weekend. These player anecdotes add ground level evidence to the broader population decline reported by outlets like Windows Central and GameReactor.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1v0ytfr/40_minutes_to_find_a_game_last_night/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Single Reddit anecdote illustrative of a wider trend but not independently verified data.",
+      "published_at": "2026-07-19T18:56:33.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": [
+        "https://www.reddit.com/r/Marathon/comments/1v0wc09/the_cyro_fill_experience/"
+      ]
+    },
+    {
+      "title": "Context: Bungie Laid Off 292 Employees Including Marathon Leadership",
+      "summary": "This story was originally reported on June 26, 2026 by Game Developer. Sony laid off approximately 292 Bungie employees, hitting most of the Destiny team along with senior Marathon staff including general manager Scott Taylor and an engineering director, while studio head Justin Truman stepped down less than a year into his tenure. Game Developer also reported Sony recorded a 765 million dollar impairment loss tied to Bungie's underperformance, which directly preceded the restructuring and sets the context for this week's leadership departures.",
+      "source_name": "Game Developer",
+      "source_url": "https://www.gamedeveloper.com/business/sony-is-laying-off-most-of-the-destiny-team-and-some-marathon-devs",
+      "credibility_tier": "verified-journalist",
+      "credibility_note": "Established industry trade outlet reporting on confirmed layoffs and financial disclosures.",
+      "published_at": "2026-06-26T00:00:00Z",
+      "category": "layoffs-business",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Context: Bungie Previewed Mid-Season 2 Update Ahead of July 21 Launch",
+      "summary": "This preview was originally shared on July 16, 2026 by the Marathon Development Team on X. It detailed the mid-season update landing July 21, introducing the Vault Breaker PvE mode set in Cryo Archive, a new Cradle Evolution prestige progression system, and balance changes to weapons like the WSTR and D54 Battle Pistol. The post came after Bungie had acknowledged going quiet on communications and said it wanted to resume regular updates as the patch approached.",
+      "source_name": "Marathon Development Team (X)",
+      "source_url": "https://x.com/MarathonDevTeam/status/2077795005448818831",
+      "credibility_tier": "official",
+      "credibility_note": "Direct post from Bungie's official Marathon development account previewing an unreleased update.",
+      "published_at": "2026-07-16T16:38:00Z",
+      "category": "gameplay-content",
+      "corroborating_sources": [
+        "https://www.pcgamer.com/games/fps/marathons-vault-breaker-pve-mode-is-coming-in-july-and-heres-the-twist-you-leave-your-loot-behind/",
+        "https://x.com/MarathonDevTeam/status/2077135186043806201"
+      ]
+    }
+  ],
+  "no_news_found": false
+}
