@@ -1,0 +1,125 @@
+{
+  "date": "2026-07-20",
+  "items": [
+    {
+      "title": "Vault Breaker PvE Mode Launches July 21",
+      "summary": "Bungie announced Vault Breaker, Marathon's first experimental PvE mode, running from July 21 to August 4 in a new area called Cryo Archive. Players can tackle it solo, in a duo, or as a trio with no enemy players, using roguelite run based progression to fight through UESC forces, vault security, and a mysterious entity called the Compiler.",
+      "source_name": "Steam News (Bungie official)",
+      "source_url": "https://store.steampowered.com/news/app/3065800/view/681881951065343566",
+      "credibility_tier": "official",
+      "credibility_note": "Posted directly by Bungie through the official Steam news feed for Marathon.",
+      "published_at": "2026-07-20T18:50:46.000Z",
+      "category": "gameplay-content",
+      "corroborating_sources": [
+        "https://www.pcgamer.com/games/fps/marathons-vault-breaker-pve-mode-is-coming-in-july-and-heres-the-twist-you-leave-your-loot-behind/",
+        "https://www.forbes.com/sites/paultassi/2026/06/24/marathon-is-getting-a-separate-pve-mode-an-fps-roguelike/",
+        "https://dotesports.com/marathon/guides/vault-breaker-marathon-pve-mode-explained",
+        "https://x.com/MarathonDevTeam/status/2077795005448818831"
+      ]
+    },
+    {
+      "title": "Marathon Game Director Joe Ziegler Departs Bungie",
+      "summary": "Joe Ziegler, Marathon's game director, announced on July 17 that he is leaving Bungie effective immediately, just four months after the game's launch. Del Chafe III, formerly assistant game director, takes over leadership alongside creative director Julia Nardin, and coverage of the announcement notes fan reaction has been largely negative given ongoing studio turmoil.",
+      "source_name": "Massively Overpowered",
+      "source_url": "https://massivelyop.com/2026/07/20/marathons-game-director-resigned-from-bungie-for-something-new-somewhere-else/",
+      "credibility_tier": "verified-journalist",
+      "credibility_note": "Established gaming outlet reporting confirmed by multiple other outlets independently.",
+      "published_at": "2026-07-20T12:00:00.000Z",
+      "category": "layoffs-business",
+      "corroborating_sources": [
+        "https://www.pcgamer.com/games/fps/marathon-game-director-leaves-bungie-just-4-months-after-launch-ill-be-heading-to-something-new-somewhere-else/",
+        "https://kotaku.com/marathons-game-director-is-leaving-bungie-2000717221",
+        "https://www.videogameschronicle.com/news/marathons-director-confirms-hes-quit-bungie-four-months-after-launch/",
+        "https://www.neowin.net/news/marathon-director-departs-bungie-four-months-into-launch/",
+        "https://www.windowscentral.com/gaming/marathons-player-base-is-collapsing-and-bungies-future-looks-increasingly-bleak-as-concerns-grow-around-the-studios-live-service-direction",
+        "https://wolfsgamingblog.com/2026/07/19/marathon-game-director-joe-ziegler-leaves-bungie-four-months-after-launch/"
+      ]
+    },
+    {
+      "title": "Marathon Steam Reviews Stay Positive but Player Counts Remain Low",
+      "summary": "Marathon's official Steam page currently shows 85 percent positive reviews overall out of more than 35,000 total, and 71 percent positive among recent reviews. Despite the generally favorable review scores, concurrent player counts remain low relative to the scale of the game's development, feeding into wider concerns about retention.",
+      "source_name": "Steam",
+      "source_url": "https://store.steampowered.com/app/3065800/Marathon/",
+      "credibility_tier": "official",
+      "credibility_note": "Data pulled directly from Marathon's official Steam store listing, a platform holder source.",
+      "published_at": "2026-07-20T00:00:00.000Z",
+      "category": "other",
+      "corroborating_sources": [
+        "https://www.windowscentral.com/gaming/marathons-player-base-is-collapsing-and-bungies-future-looks-increasingly-bleak-as-concerns-grow-around-the-studios-live-service-direction"
+      ]
+    },
+    {
+      "title": "Community Critique: Longtime Player Lays Out 'The Problem(s) With Marathon'",
+      "summary": "A r/Marathon poster with over 800 hours across Seasons 1 and 2 wrote a detailed breakdown of what they see as structural design problems, especially matches devolving into a battle royale style endgame. The post says these issues are why they are stepping away from the game, and it sparked broad discussion in the community.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1v1qk02/the_problems_with_marathon/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Unverified Reddit user post, included for its substantive critique and community engagement.",
+      "published_at": "2026-07-20T16:35:38.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Reddit Thread: Vault Breaker's PvP-Free Design Called a Potential 'Step in the Right Direction'",
+      "summary": "A r/Marathon poster who says they were previously skeptical of the game called the upcoming PvE-only Vault Breaker mode a major improvement after playing for the past month. They hope the mode becomes a permanent staple and that Bungie adds more PvE content, possibly even a story mode down the line.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1v1ubpb/pvp_could_save_this_game/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Unverified Reddit user opinion, included to reflect community sentiment ahead of the Vault Breaker launch.",
+      "published_at": "2026-07-20T18:49:23.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Community Feedback: Implants Still Feel Disconnected From Loadouts",
+      "summary": "A r/Marathon player argued that although Season 2's Cradle system gives broader access to implants, most implants still do not meaningfully interact with the rest of a player's weapon and ammo choices. They want more implants that reward specific playstyles or engagement ranges rather than feeling like isolated bonuses.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1v1q6bu/implants_are_still_missing_the_mark/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Unverified Reddit user feedback on game design, included as substantive balance discussion.",
+      "published_at": "2026-07-20T16:21:31.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Players React to Upcoming Grenade and Deployable Limit",
+      "summary": "Ahead of the July 21 mid-season patch, a r/Marathon thread discussed a change limiting players to two grenades or deployables per run. Many commenters welcomed the change, saying it should cut down on grenade and bubble spam in late game fights.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1v1q1nd/only_being_allowed_to_bring_in_two/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Unverified Reddit discussion, included because it reflects community reaction to a confirmed upcoming patch change.",
+      "published_at": "2026-07-20T16:16:46.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Context: Bungie Layoffs Cut Roughly 300 Staff, Hit Marathon Leadership",
+      "summary": "This story was originally reported on June 25, 2026. Sony confirmed layoffs affecting about 292 Bungie staff, including most of the Destiny 2 team and senior Marathon leaders such as general manager Scott Taylor, while stating Marathon remains a portfolio priority through at least the end of 2026. Studio head Justin Truman also stepped down following the cuts.",
+      "source_name": "Forbes",
+      "source_url": "https://www.forbes.com/sites/paultassi/2026/06/25/bungie-hit-with-widespread-layoffs-as-destiny-2-ends-and-marathon-continues/",
+      "credibility_tier": "verified-journalist",
+      "credibility_note": "Established outlet reporting, corroborated by multiple other outlets, provided as background for today's leadership departure news.",
+      "published_at": "2026-06-25T00:00:00.000Z",
+      "category": "layoffs-business",
+      "corroborating_sources": [
+        "https://thegamepost.com/sonys-bungie-layoffs-hit-marathon-senior-roles-general-manager-engineering-director-and-more",
+        "https://www.ghacks.net/2026/06/26/bungie-hit-with-major-layoffs-affecting-destiny-2-and-marathon-teams-following-sony-restructuring/",
+        "https://www.forbes.com/sites/paultassi/2026/06/26/a-studio-shattered-the-aftermath-of-the-mass-bungie-layoffs/"
+      ]
+    },
+    {
+      "title": "Context: Report Says Marathon's Player Base Is Collapsing",
+      "summary": "This story was originally reported on July 18, 2026. Windows Central reported that Marathon's peak concurrent players on Steam sit around 6,000, far below Destiny 2's roughly 60,000, and that the game ranks outside the top 100 on Xbox. The report ties these numbers to growing concerns about Bungie's live service direction following the studio's layoffs.",
+      "source_name": "Windows Central",
+      "source_url": "https://www.windowscentral.com/gaming/marathons-player-base-is-collapsing-and-bungies-future-looks-increasingly-bleak-as-concerns-grow-around-the-studios-live-service-direction",
+      "credibility_tier": "verified-journalist",
+      "credibility_note": "Established outlet reporting, provided as background context for today's leadership departure and retention concerns.",
+      "published_at": "2026-07-18T00:00:00.000Z",
+      "category": "layoffs-business",
+      "corroborating_sources": [
+        "https://wolfsgamingblog.com/2026/07/19/marathon-game-director-joe-ziegler-leaves-bungie-four-months-after-launch/"
+      ]
+    }
+  ],
+  "no_news_found": false
+}
