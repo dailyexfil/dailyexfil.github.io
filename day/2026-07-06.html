@@ -312,7 +312,7 @@ footer a:hover{text-decoration:underline;}
 <div class="wrap"><div class="ticker"><div class="in"><b>+</b> Marathon Update 1.1.0.4 maintenance scheduled for July 7 &nbsp;&nbsp;&nbsp; <b>+</b> Context: Bungie layoffs cut most of Destiny 2 team and part of Marathon's crew &nbsp;&nbsp;&nbsp; <b>+</b> Context: Marathon's first PvE mode, Vault Breaker, coming July 21 &nbsp;&nbsp;&nbsp; <b>+</b> Community frustration grows over Bungie's silence following layoffs &nbsp;&nbsp;&nbsp; <b>+</b> Players call for new modes and loot buffs as population concerns continue &nbsp;&nbsp;&nbsp; <b>+</b> Players debate whether the new Cradle progression system is a step backward &nbsp;&nbsp;&nbsp; <b>+</b> Player pitches changes to save Marathon amid low population &nbsp;&nbsp;&nbsp; <b>+</b> Marathon Update 1.1.0.4 maintenance scheduled for July 7 &nbsp;&nbsp;&nbsp; <b>+</b> Context: Bungie layoffs cut most of Destiny 2 team and part of Marathon's crew &nbsp;&nbsp;&nbsp; <b>+</b> Context: Marathon's first PvE mode, Vault Breaker, coming July 21 &nbsp;&nbsp;&nbsp; <b>+</b> Community frustration grows over Bungie's silence following layoffs &nbsp;&nbsp;&nbsp; <b>+</b> Players call for new modes and loot buffs as population concerns continue &nbsp;&nbsp;&nbsp; <b>+</b> Players debate whether the new Cradle progression system is a step backward &nbsp;&nbsp;&nbsp; <b>+</b> Player pitches changes to save Marathon amid low population</div></div></div>
 <div class="wrap"><footer>
 <span>ALL ITEMS TRACE TO SOURCE // LINK-CHECKED // AUTOMATED // NOT AFFILIATED WITH BUNGIE OR SONY</span>
-<span><a href="../status.html">STATE OF THE GAME &#8594;</a> &nbsp; <a href="../patches.html">PATCH LOG &#8594;</a> &nbsp; <a href="../archive.html">ARCHIVE &#8594;</a> &nbsp; <a href="../index.html">LATEST &#8594;</a> &nbsp; <a href="https://ko-fi.com/aubreyballard" rel="noopener" target="_blank">SUPPORT THE RELAY &#8599;</a> &nbsp; <span class="faint">BUILT 2026-07-21 01:29Z</span></span>
+<span><a href="../status.html">STATE OF THE GAME &#8594;</a> &nbsp; <a href="../patches.html">PATCH LOG &#8594;</a> &nbsp; <a href="../archive.html">ARCHIVE &#8594;</a> &nbsp; <a href="../index.html">LATEST &#8594;</a> &nbsp; <a href="https://ko-fi.com/aubreyballard" rel="noopener" target="_blank">SUPPORT THE RELAY &#8599;</a> &nbsp; <span class="faint">BUILT 2026-07-21 01:50Z</span></span>
 </footer></div>
 <script>
 (function(){
@@ -413,6 +413,43 @@ footer a:hover{text-decoration:underline;}
     };
     updLive();
     setInterval(updLive, 60000);
+  }
+
+  var lcb = document.getElementById("livechartbox");
+  if (lcb) {
+    fetch("https://exfil-live.aubreybcollier.workers.dev/history").then(function(r){ return r.json(); }).then(function(hist){
+      if (!hist || hist.length < 2) return;
+      var cut = Date.now() - 48 * 3600000;
+      var pts = hist.filter(function(e){ return e && e.t >= cut; });
+      if (pts.length < 2) return;
+      var svg = document.getElementById("livechart");
+      var NS = "http://www.w3.org/2000/svg";
+      var W = 720, H = 220, PX = 46, PY = 24;
+      var lo = Infinity, hi = -Infinity, i;
+      for (i = 0; i < pts.length; i++) { if (pts[i].p < lo) lo = pts[i].p; if (pts[i].p > hi) hi = pts[i].p; }
+      var span = (hi - lo) || 1;
+      var t0 = pts[0].t, t1 = pts[pts.length - 1].t, tp = (t1 - t0) || 1;
+      function X(t){ return PX + ((t - t0) / tp) * (W - PX * 2); }
+      function Y(v){ return H - PY - ((v - lo) / span) * (H - PY * 2); }
+      var d = "";
+      for (i = 0; i < pts.length; i++) { d += (i ? " " : "") + X(pts[i].t).toFixed(1) + "," + Y(pts[i].p).toFixed(1); }
+      function mk(tag, at){ var el = document.createElementNS(NS, tag); for (var k in at) el.setAttribute(k, at[k]); return el; }
+      [0.25, 0.5, 0.75].forEach(function(f){
+        var gy = PY + f * (H - PY * 2);
+        svg.appendChild(mk("line", { x1: PX, y1: gy, x2: W - PX, y2: gy, stroke: "#1e1e25", "stroke-width": 1 }));
+      });
+      svg.appendChild(mk("polyline", { points: d, fill: "none", stroke: "#c9f23c", "stroke-width": 2 }));
+      var last = pts[pts.length - 1];
+      svg.appendChild(mk("circle", { cx: X(last.t), cy: Y(last.p), r: 3.5, fill: "#c9f23c" }));
+      function lbl(x, y, txt, anchor, fill){ var t = mk("text", { x: x, y: y, "font-family": "monospace", "font-size": 11, fill: fill || "#85858d" }); if (anchor) t.setAttribute("text-anchor", anchor); t.textContent = txt; return t; }
+      svg.appendChild(lbl(PX - 8, Y(hi) + 4, hi.toLocaleString("en-US"), "end"));
+      svg.appendChild(lbl(PX - 8, Y(lo) + 4, lo.toLocaleString("en-US"), "end"));
+      function hm(t){ var dt = new Date(t); return dt.toLocaleString("en-US", { weekday: "short", hour: "numeric" }); }
+      svg.appendChild(lbl(PX, H - 6, hm(t0), null, "#5b5b63"));
+      svg.appendChild(lbl(W - PX, H - 6, hm(t1), "end", "#5b5b63"));
+      svg.appendChild(lbl(X(last.t) - 6, Y(last.p) - 8, last.p.toLocaleString("en-US"), "end", "#c9f23c"));
+      lcb.style.display = "";
+    }).catch(function(){});
   }
 
   var animated = document.querySelectorAll(".hero, .card, .row");
