@@ -1,0 +1,104 @@
+{
+  "date": "2026-07-21",
+  "items": [
+    {
+      "title": "Update 1.1.5 Ships with Vault Breaker PvE Mode",
+      "summary": "Bungie released Update 1.1.5 today, adding Vault Breaker, Marathon's first dedicated PvE mode. The experimental roguelike mode lets solo, duo, or trio teams explore the Cryo Archive with progression unique to the mode, running through August 4. The patch also adds voice reporting and moderation support and changes to Ganglion faction barters.",
+      "source_name": "Steam News (Bungie official)",
+      "source_url": "https://store.steampowered.com/news/app/3065800/view/681881951065343303",
+      "credibility_tier": "official",
+      "credibility_note": "Direct official patch notes posted to Steam by Bungie.",
+      "published_at": "2026-07-21T16:00:42.000Z",
+      "category": "patch-notes",
+      "corroborating_sources": [
+        "https://www.dlcompare.com/gaming-news/marathon-s-biggest-pve-update-goes-live-today",
+        "https://massivelyop.com/2026/07/21/marathons-mid-season-update-adds-a-temporary-pve-roguelike-mode-and-several-balance-tweaks/"
+      ]
+    },
+    {
+      "title": "Faction Reward Bugs Flood Player Accounts After Update 1.1.5",
+      "summary": "Following today's update, many players report faction and rank reward systems breaking in confusing ways. Some players with VIP faction status say they can no longer claim VIP-tier rewards even after leveling up, while others found dozens of old rewards suddenly claimable, netting free credits and materials. Multiple separate threads describe the same issue, suggesting a widespread bug tied to the patch's item economy changes.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1v2r58z/update_115_broke_faction_rewards_there_seem_a/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Unverified player bug reports on Reddit, not yet acknowledged by Bungie.",
+      "published_at": "2026-07-21T18:38:00.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": [
+        "https://www.reddit.com/r/Marathon/comments/1v2rqxs/rank_rewards_dont_work_at_all_if_you_viped_the/",
+        "https://www.reddit.com/r/Marathon/comments/1v2rqh4/anyone_else_have_a_ton_of_faction_rewards_to/",
+        "https://www.reddit.com/r/Marathon/comments/1v2rdeg/i_logged_in_after_update_and_all_my_agent_rank/",
+        "https://www.reddit.com/r/Marathon/comments/1v2qtln/good_news_might_be_a_bug_the_level_rewards/"
+      ]
+    },
+    {
+      "title": "Community Reacts to Low Concurrent Player Counts",
+      "summary": "A Reddit post noting 12,500 concurrent players on a Tuesday morning drew sarcastic celebration from the community, a nod to how far the game's population has fallen since launch. The thread reflects ongoing concern among players about Marathon's health months after release.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1v2rl06/125_k_players_on_a_tuesday_morning/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Community sentiment post on Reddit, not an official player count source.",
+      "published_at": "2026-07-21T18:53:18.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Players Say New Vault Breaker Mode Is Too Difficult",
+      "summary": "Some players trying the newly launched Vault Breaker PvE mode report that even a level 68 character struggled to get past the first wave of bots in a trio. The feedback suggests the mode's early difficulty curve may need tuning during its two week trial run.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1v2rhln/new_mode/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Single player report on Reddit about mode difficulty, not independently corroborated.",
+      "published_at": "2026-07-21T18:49:56.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Patch Changes to UI and Controls Frustrate Some Players",
+      "summary": "Update 1.1.5 changed several interface and control details that players are unhappy about, including moving vault opening on console from R2 to the Start button and shrinking parts of the UI. A separate thread notes mission objectives no longer show in the top right corner, making it harder for players who farm missions to track their goals.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1v2r1he/unneccesery_change_on_console_vault_open_now_in/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Player complaints on Reddit about interface changes introduced with the patch.",
+      "published_at": "2026-07-21T18:34:20.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": [
+        "https://www.reddit.com/r/Marathon/comments/1v2rscg/new_patch_removed_mission_objectives_from_the_top/",
+        "https://www.reddit.com/r/Marathon/comments/1v2qni4/who_made_my_ui_petite/"
+      ]
+    },
+    {
+      "title": "Context: Marathon Game Director Joe Ziegler Departs Bungie",
+      "summary": "This story was originally reported on July 17, 2026. Joe Ziegler, who had led Marathon's development since December 2022, announced he is leaving Bungie for an opportunity elsewhere without giving specifics. Del Chafe III, previously assistant game director, is taking over alongside creative director Julia Nardin, adding to a string of leadership changes at the studio.",
+      "source_name": "GamesRadar",
+      "source_url": "https://www.gamesradar.com/games/fps/marathon-just-lost-its-game-director-joe-ziegler-is-bungies-latest-high-profile-departure/",
+      "credibility_tier": "verified-journalist",
+      "credibility_note": "Reported by GamesRadar, an established gaming outlet, with corroboration from multiple other outlets.",
+      "published_at": "2026-07-17T00:00:00.000Z",
+      "category": "layoffs-business",
+      "corroborating_sources": [
+        "https://www.pushsquare.com/news/2026/07/big-shake-up-on-sonys-struggling-live-service-as-marathons-game-director-departs",
+        "https://www.pcgamer.com/games/fps/marathon-game-director-leaves-bungie-just-4-months-after-launch-ill-be-heading-to-something-new-somewhere-else/",
+        "https://www.videogameschronicle.com/news/marathons-director-confirms-hes-quit-bungie-four-months-after-launch/",
+        "https://www.neowin.net/news/marathon-director-departs-bungie-four-months-into-launch/",
+        "https://massivelyop.com/2026/07/20/marathons-game-director-resigned-from-bungie-for-something-new-somewhere-else/",
+        "https://wolfsgamingblog.com/2026/07/19/marathon-game-director-joe-ziegler-leaves-bungie-four-months-after-launch/"
+      ]
+    },
+    {
+      "title": "Context: Marathon's Steam Player Count Has Collapsed Since Launch",
+      "summary": "This story was originally reported on July 18, 2026. Marathon's concurrent player count on Steam had dropped to around 6,000 to 7,000, less than 15 percent of its launch day peak of 88,337 players. The decline underscores why community sentiment around player counts, including today's discussion of a 12,500 player Tuesday, is treated with sarcasm rather than optimism.",
+      "source_name": "Windows Central",
+      "source_url": "https://www.windowscentral.com/gaming/marathons-player-base-is-collapsing-and-bungies-future-looks-increasingly-bleak-as-concerns-grow-around-the-studios-live-service-direction",
+      "credibility_tier": "verified-journalist",
+      "credibility_note": "Reported by Windows Central with corroborating figures from other established outlets.",
+      "published_at": "2026-07-18T00:00:00.000Z",
+      "category": "layoffs-business",
+      "corroborating_sources": [
+        "https://www.techradar.com/gaming/bungie-outlines-plan-to-save-marathon-with-steam-player-count-at-less-than-15-percent-of-launch-day-peak",
+        "https://www.gamesradar.com/games/fps/marathon-just-lost-its-game-director-joe-ziegler-is-bungies-latest-high-profile-departure/"
+      ]
+    }
+  ],
+  "no_news_found": false
+}
