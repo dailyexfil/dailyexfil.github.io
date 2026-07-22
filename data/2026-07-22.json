@@ -1,0 +1,108 @@
+{
+  "date": "2026-07-22",
+  "items": [
+    {
+      "title": "Vault Breaker PvE Mode Goes Live in Marathon",
+      "summary": "Marathon's Update 1.1.5 shipped on July 21, introducing Vault Breaker, the game's first experimental PvE mode. Players can tackle Cryo Archive solo, in duos, or in trios without other player squads through August 4, earning progress toward a separate Vault Data track instead of extractable loot. The update also included Solo Queue matchmaking, a Cradle Evolution reset system, balance tuning, and more than 100 bug fixes.",
+      "source_name": "Forbes",
+      "source_url": "https://www.forbes.com/sites/paultassi/2026/07/21/marathon-pve-mode-is-live-today-but-expectations-should-be-tempered/",
+      "credibility_tier": "verified-journalist",
+      "credibility_note": "Reported by an established journalist who covers Bungie closely, corroborated by multiple other outlets and Bungie's own update materials.",
+      "published_at": "2026-07-21T00:00:00.000Z",
+      "category": "patch-notes",
+      "corroborating_sources": [
+        "https://www.dlcompare.com/gaming-news/marathon-s-biggest-pve-update-goes-live-today",
+        "https://beebom.com/marathon-adds-new-experimental-pve-mode-vault-breaker-for-a-limited-time/",
+        "https://en.softonic.com/articles/marathon-gets-vault-breaker-bungie-tests-a-limited-pve-event",
+        "https://steamcommunity.com/games/3065800/announcements/detail/681881951065342104",
+        "https://www.bungie.net/7/en/News/Article/mid_season_2_preview"
+      ]
+    },
+    {
+      "title": "Vault Breaker should be Bungie's entire focus",
+      "summary": "A Reddit thread argues Bungie should shift all development effort toward the new Vault Breaker PvE mode, claiming it is currently pulling in more players than the core extraction loop. The post frames Marathon's PvPvE balance as badly broken and sparked debate over whether the studio should pivot the game's direction.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1v3p9hg/vault_breaker_should_be_bungies_entire_focus/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Unverified Reddit opinion thread reflecting community sentiment rather than confirmed studio plans.",
+      "published_at": "2026-07-22T18:49:33.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Vaultbreaker is a great start BUT it's TOO difficult",
+      "summary": "A player who says they normally dislike extraction shooters welcomed Vault Breaker but argued its difficulty is too steep for the newcomers Bungie is trying to attract. The thread turned into a broader debate about whether the mode actually lowers Marathon's notoriously harsh barrier to entry.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1v3mwdt/vaulbreaker_is_a_great_start_but_its_too_difficult/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Reddit feedback thread representing individual player opinion, not verified data.",
+      "published_at": "2026-07-22T17:28:16.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Please don't fall for the same trap twice",
+      "summary": "A community member warned against pushing Bungie to split its limited resources evenly between PvE and PvP content, pointing to Destiny 2's decade-long struggle to serve both audiences at once. The post notes Marathon is already reported as a major financial loss for the studio, arguing there is no realistic path to expanding one side of the game without hurting the other.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1v3o1dc/please_dont_fall_for_the_same_trap_twice/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Reddit opinion post offering community analysis, not an official statement.",
+      "published_at": "2026-07-22T18:06:55.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "PSA: don't attempt Unsanctioned Hostilities 4/5 right now",
+      "summary": "Players are warning each other that the later stages of the Unsanctioned Hostilities contract appear to be crashing entire squads, with reported loot loss tied to picking up the Unsent Missives item in the Command Wing. The original poster says earlier warnings about the bug had been removed from the subreddit before this thread went up.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1v3pbyg/psa_dont_attempt_unsanctioned_hostilities_45/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Unverified player bug report, not confirmed by Bungie, but relevant as a community pulse item.",
+      "published_at": "2026-07-22T18:52:07.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Marathon Season 3 Set for September 22 With Full PvE Mode",
+      "summary": "Gaming aggregator sites report that Bungie has set Marathon Season 3 for September 22, 2026, promising a permanent PvE mode building on Vault Breaker, a redesigned Perimeter map meant to help new players, a new Runner, and additional weapons. The claim is plausible and echoed by more than one outlet, but none of the sources reporting it in our records are a primary Bungie post.",
+      "source_name": "VGTimes",
+      "source_url": "https://vgtimes.com/gaming-news/158973-bungie-unveils-vault-breaker-pve-mode-for-marathon-launching-july-21-with-major-gameplay-twist.html",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Only available through aggregator sites rather than a primary Bungie announcement in our records, so treated cautiously despite specific details.",
+      "published_at": "2026-07-21T00:00:00.000Z",
+      "category": "gameplay-content",
+      "corroborating_sources": [
+        "https://ixbt.games/en/news/2026/06/24/419249-bungie-gotovit-krupnoe-obnovlenie-marathon-pve-rezim-vault-breaker-startuet-v-iiule.html"
+      ]
+    },
+    {
+      "title": "Context: Marathon Game Director Joe Ziegler Departs Bungie",
+      "summary": "This story was first reported on July 17, 2026, when Marathon game director Joe Ziegler announced he was leaving Bungie effective immediately, about a week after the studio laid off roughly 300 employees. Assistant game director Del Chafe III has been promoted to lead the game alongside creative director Julia Nardin. The departure has fueled ongoing worry about leadership stability as Marathon works through its post-launch struggles.",
+      "source_name": "Push Square",
+      "source_url": "https://www.pushsquare.com/news/2026/07/big-shake-up-on-sonys-struggling-live-service-as-marathons-game-director-departs",
+      "credibility_tier": "verified-journalist",
+      "credibility_note": "Reported by an established PlayStation-focused outlet, corroborated by Shacknews, Massively Overpowered, and Windows Central.",
+      "published_at": "2026-07-17T00:00:00.000Z",
+      "category": "layoffs-business",
+      "corroborating_sources": [
+        "https://www.shacknews.com/article/150070/marathon-director-leaves-bungie-joe-ziegler",
+        "https://massivelyop.com/2026/07/20/marathons-game-director-resigned-from-bungie-for-something-new-somewhere-else/",
+        "https://www.windowscentral.com/gaming/marathons-player-base-is-collapsing-and-bungies-future-looks-increasingly-bleak-as-concerns-grow-around-the-studios-live-service-direction"
+      ]
+    },
+    {
+      "title": "Context: Marathon Concurrent Player Count Falls Sharply Since Launch",
+      "summary": "This report was originally published on July 20, 2026, citing SteamDB data showing Marathon's concurrent player count fell from a March launch peak of 88,337 to somewhere between 6,000 and 14,771 by mid-July. It noted Vault Breaker's July 21 launch produced a roughly 182 percent one-day spike in concurrent players, though it remains far below launch numbers. The figures give useful context for community debate over whether the new PvE mode can meaningfully revive engagement.",
+      "source_name": "TechTimes",
+      "source_url": "https://www.techtimes.com/articles/321081/20260720/marathon-drops-third-game-director-two-years-player-count-nears-zero.htm",
+      "credibility_tier": "verified-journalist",
+      "credibility_note": "Established tech and gaming news outlet citing SteamDB data directly, partially corroborated by Windows Central's player figures.",
+      "published_at": "2026-07-20T00:00:00.000Z",
+      "category": "other",
+      "corroborating_sources": [
+        "https://www.windowscentral.com/gaming/marathons-player-base-is-collapsing-and-bungies-future-looks-increasingly-bleak-as-concerns-grow-around-the-studios-live-service-direction"
+      ]
+    }
+  ],
+  "no_news_found": false
+}
