@@ -6,7 +6,14 @@
 <atom:link href="https://dailyexfil.github.io/feed.xml" rel="self" type="application/rss+xml"/>
 <description>Daily Marathon (Bungie) news digest. Official, press, and community items tiered by credibility, cross-referenced, and link-checked.</description>
 <language>en</language>
-<lastBuildDate>Wed, 22 Jul 2026 19:05:12 GMT</lastBuildDate>
+<lastBuildDate>Thu, 23 Jul 2026 19:03:45 GMT</lastBuildDate>
+<item>
+<title>DAILY EXFIL 2026-07-23: Vault Breaker PvE mode triples Marathon's player count, then surge quickly fades</title>
+<link>https://dailyexfil.github.io/day/2026-07-23.html</link>
+<guid isPermaLink="true">https://dailyexfil.github.io/day/2026-07-23.html</guid>
+<pubDate>Thu, 23 Jul 2026 20:00:00 GMT</pubDate>
+<description><![CDATA[[PRESS] Vault Breaker PvE mode triples Marathon's player count, then surge quickly fades<br>[PRESS] Community organizes informal 'Revival Week' to coincide with Vault Breaker launch<br>[COMMS] Reddit thread praises Bungie's pace of updates despite layoffs and turmoil<br>[COMMS] Players debate Rook AI design and propose a low-risk casual PvPvE mode<br>[COMMS] Community pushes back on V22 Volt Thrower nerf, calls for sandbox to 'breathe'<br>[COMMS] Players request auto-loadout builder to speed up pre-run prep<br>[PRESS] Context: Marathon game director Joe Ziegler departs Bungie, Del Chafe III takes over]]></description>
+</item>
 <item>
 <title>DAILY EXFIL 2026-07-22: Vault Breaker PvE Mode Goes Live in Marathon</title>
 <link>https://dailyexfil.github.io/day/2026-07-22.html</link>
@@ -97,13 +104,6 @@
 <guid isPermaLink="true">https://dailyexfil.github.io/day/2026-07-07.html</guid>
 <pubDate>Tue, 07 Jul 2026 20:00:00 GMT</pubDate>
 <description><![CDATA[[OFFICIAL] Marathon Update 1.1.0.4 Released<br>[PRESS] Bungie posts new UI/UX director job listing for Marathon two weeks after mass layoffs<br>[PRESS] Context: Bungie layoffs hit Marathon senior roles including General Manager and Engineering Director<br>[PRESS] Context: Bungie details Vault Breaker PvE mode and Season 3 dates for Marathon]]></description>
-</item>
-<item>
-<title>DAILY EXFIL 2026-07-06: Marathon Update 1.1.0.4 maintenance scheduled for July 7</title>
-<link>https://dailyexfil.github.io/day/2026-07-06.html</link>
-<guid isPermaLink="true">https://dailyexfil.github.io/day/2026-07-06.html</guid>
-<pubDate>Mon, 06 Jul 2026 20:00:00 GMT</pubDate>
-<description><![CDATA[[OFFICIAL] Marathon Update 1.1.0.4 maintenance scheduled for July 7<br>[PRESS] Context: Bungie layoffs cut most of Destiny 2 team and part of Marathon's crew<br>[PRESS] Context: Marathon's first PvE mode, Vault Breaker, coming July 21<br>[COMMS] Community frustration grows over Bungie's silence following layoffs<br>[COMMS] Players call for new modes and loot buffs as population concerns continue<br>[COMMS] Players debate whether the new Cradle progression system is a step backward<br>[COMMS] Player pitches changes to save Marathon amid low population]]></description>
 </item>
 </channel>
 </rss>

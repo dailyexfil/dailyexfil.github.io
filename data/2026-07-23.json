@@ -1,0 +1,89 @@
+{
+  "date": "2026-07-23",
+  "items": [
+    {
+      "title": "Vault Breaker PvE mode triples Marathon's player count, then surge quickly fades",
+      "summary": "Bungie shipped Update 1.1.5 on July 21, introducing Vault Breaker, an experimental cooperative PvE mode set in the Cryo Archive with no enemy players, running through August 4. The same update included weapon balance changes such as a WSTR shotgun damage buff and a Misriah 2442 nerf. Steam concurrent players jumped from around 5,000 to over 14,800 within hours of the mode going live, but the boost proved short lived, falling back under 10,000 within about 36 hours.",
+      "source_name": "PC Gamer",
+      "source_url": "https://www.pcgamer.com/games/fps/marathons-experimental-pve-mode-is-live-immediately-tripling-its-daily-player-count/",
+      "credibility_tier": "verified-journalist",
+      "credibility_note": "PC Gamer is an established gaming outlet reporting directly on the update and its player count impact.",
+      "published_at": "2026-07-22T00:00:00Z",
+      "category": "patch-notes",
+      "corroborating_sources": [
+        "https://www.gamereactor.eu/marathon-player-figures-surge-following-launch-of-pve-mode-vault-breaker-1751273/",
+        "https://www.psu.com/news/marathon-update-1-1-5-adds-new-vault-breaker-pve-mode-stability-improvements-weapon-balancing-full-patch-notes/"
+      ]
+    },
+    {
+      "title": "Community organizes informal 'Revival Week' to coincide with Vault Breaker launch",
+      "summary": "Players ran a grassroots social media campaign called Revival Week timed to the July 21 launch of Vault Breaker. The player-driven push aimed to reinvigorate interest in Marathon alongside Bungie's official content drop, reflecting the community's desire to keep the game's population and visibility up.",
+      "source_name": "Insider Gaming",
+      "source_url": "https://insider-gaming.com/marathon-pve-mode-triple-games-player-count/",
+      "credibility_tier": "verified-journalist",
+      "credibility_note": "Insider Gaming is a recognized outlet reporting on organized community activity tied to the update.",
+      "published_at": "2026-07-22T00:00:00Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Reddit thread praises Bungie's pace of updates despite layoffs and turmoil",
+      "summary": "A popular r/Marathon post argues that critics are overlooking how much Bungie has shipped in the 4.5 months since launch, including patches, progression changes, new gear, and the new PvE mode, all while dealing with layoffs and leadership departures. The poster predicts Season 3 will bring a major overhaul and credits the dev team for listening to feedback despite the turbulence.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1v4lfky/lets_appreciate_the_rate_of_change_the_game_hasnt/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Unverified Reddit community opinion thread, included as a notable sentiment shift discussion.",
+      "published_at": "2026-07-23T17:58:26.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Players debate Rook AI design and propose a low-risk casual PvPvE mode",
+      "summary": "A r/Marathon thread argues Bungie should make Rook bot appearance consistent and let players easily identify them, rather than pushing the game toward a full PvE mode. The poster suggests a low-risk casual variant where AI-controlled Rooks carry only low-rarity loot, aiming to draw in players who currently avoid PvP until they are fully geared from PvE grinding.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1v4lzls/fixing_the_game_is_easy_actually/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Unverified Reddit design feedback thread reflecting ongoing PvP versus PvE balance debate in the community.",
+      "published_at": "2026-07-23T18:17:34.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Community pushes back on V22 Volt Thrower nerf, calls for sandbox to 'breathe'",
+      "summary": "A r/Marathon post reacts to a recent nerf of the V22 Volt Thrower, comparing the community's appetite for constant nerfs to how a modern audience might have reacted to Halo 3's sword or gravity hammer. The poster argues Bungie should let stronger weapons exist rather than immediately balancing them into the ground.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1v4lqk7/the_v22_volt_thrower_change_has_taught_me_one/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Unverified Reddit opinion thread on weapon balance, included as a representative sandbox debate.",
+      "published_at": "2026-07-23T18:09:05.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Players request auto-loadout builder to speed up pre-run prep",
+      "summary": "A r/Marathon feature request suggests Bungie add an option to automatically build a loadout from the vault based on a chosen preset, such as close range, long range, or balanced, which players could then fine-tune. The poster says squads currently waste time waiting on each other to manually assemble similar gear before each run.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1v4m48q/feature_request_feedback_automatically_select/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Unverified Reddit feature request thread reflecting community quality of life feedback.",
+      "published_at": "2026-07-23T18:22:03.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Context: Marathon game director Joe Ziegler departs Bungie, Del Chafe III takes over",
+      "summary": "This story was first reported around July 19, 2026, after Joe Ziegler announced on July 17 that he was leaving Bungie, four months after Marathon's March launch. Assistant game director Del Chafe III is taking over leadership alongside creative director Julia Nardin, following the studio's June layoffs and the earlier departure of studio head Justin Truman. Bungie's Marathon team posted publicly thanking Ziegler and pledging continuity as the game moves toward its next update cycle.",
+      "source_name": "VideoGamesChronicle",
+      "source_url": "https://www.videogameschronicle.com/news/marathons-director-confirms-hes-quit-bungie-four-months-after-launch/",
+      "credibility_tier": "verified-journalist",
+      "credibility_note": "VideoGamesChronicle is an established outlet with direct confirmation of the departure, corroborated by other outlets.",
+      "published_at": "2026-07-19T00:00:00Z",
+      "category": "layoffs-business",
+      "corroborating_sources": [
+        "https://mmo.net/2026/07/19/marathon-game-director-joseph-ziegler-is-leaving-bungie/",
+        "https://massivelyop.com/2026/07/20/marathons-game-director-resigned-from-bungie-for-something-new-somewhere-else/"
+      ]
+    }
+  ],
+  "no_news_found": false
+}
