@@ -312,7 +312,7 @@ footer a:hover{text-decoration:underline;}
 <div class="wrap"><div class="ticker"><div class="in"><b>+</b> Vault Breaker PvE Mode Goes Live in Marathon &nbsp;&nbsp;&nbsp; <b>+</b> Vault Breaker should be Bungie's entire focus &nbsp;&nbsp;&nbsp; <b>+</b> Vaultbreaker is a great start BUT it's TOO difficult &nbsp;&nbsp;&nbsp; <b>+</b> Please don't fall for the same trap twice &nbsp;&nbsp;&nbsp; <b>+</b> PSA: don't attempt Unsanctioned Hostilities 4/5 right now &nbsp;&nbsp;&nbsp; <b>+</b> Marathon Season 3 Set for September 22 With Full PvE Mode &nbsp;&nbsp;&nbsp; <b>+</b> Context: Marathon Game Director Joe Ziegler Departs Bungie &nbsp;&nbsp;&nbsp; <b>+</b> Context: Marathon Concurrent Player Count Falls Sharply Since Launch &nbsp;&nbsp;&nbsp; <b>+</b> Vault Breaker PvE Mode Goes Live in Marathon &nbsp;&nbsp;&nbsp; <b>+</b> Vault Breaker should be Bungie's entire focus &nbsp;&nbsp;&nbsp; <b>+</b> Vaultbreaker is a great start BUT it's TOO difficult &nbsp;&nbsp;&nbsp; <b>+</b> Please don't fall for the same trap twice &nbsp;&nbsp;&nbsp; <b>+</b> PSA: don't attempt Unsanctioned Hostilities 4/5 right now &nbsp;&nbsp;&nbsp; <b>+</b> Marathon Season 3 Set for September 22 With Full PvE Mode &nbsp;&nbsp;&nbsp; <b>+</b> Context: Marathon Game Director Joe Ziegler Departs Bungie &nbsp;&nbsp;&nbsp; <b>+</b> Context: Marathon Concurrent Player Count Falls Sharply Since Launch</div></div></div>
 <div class="wrap"><footer>
 <span>ALL ITEMS TRACE TO SOURCE // LINK-CHECKED // AUTOMATED // NOT AFFILIATED WITH BUNGIE OR SONY</span>
-<span><a href="../status.html">STATE OF THE GAME &#8594;</a> &nbsp; <a href="../patches.html">PATCH LOG &#8594;</a> &nbsp; <a href="../archive.html">ARCHIVE &#8594;</a> &nbsp; <a href="../index.html">LATEST &#8594;</a> &nbsp; <a href="https://ko-fi.com/aubreyballard" rel="noopener" target="_blank">SUPPORT THE RELAY &#8599;</a> &nbsp; <span class="faint">BUILT 2026-07-24 03:53Z</span></span>
+<span><a href="../status.html">STATE OF THE GAME &#8594;</a> &nbsp; <a href="../patches.html">PATCH LOG &#8594;</a> &nbsp; <a href="../archive.html">ARCHIVE &#8594;</a> &nbsp; <a href="../index.html">LATEST &#8594;</a> &nbsp; <a href="https://ko-fi.com/aubreyballard" rel="noopener" target="_blank">SUPPORT THE RELAY &#8599;</a> &nbsp; <span class="faint">BUILT 2026-07-24 03:54Z</span></span>
 </footer></div>
 <script>
 (function(){
@@ -447,7 +447,7 @@ footer a:hover{text-decoration:underline;}
       function hm(t){ var dt = new Date(t); return dt.toLocaleString("en-US", { weekday: "short", hour: "numeric" }); }
       svg.appendChild(lbl(PX, H - 6, hm(t0), null, "#5b5b63"));
       svg.appendChild(lbl(W - PX, H - 6, hm(t1), "end", "#5b5b63"));
-      svg.appendChild(lbl(X(last.t) - 6, Y(last.p) - 8, last.p.toLocaleString("en-US"), "end", "#c9f23c"));
+      var ll = mk("text", { x: X(last.t) - 12, y: (Y(last.p) < 34 ? Y(last.p) + 18 : Y(last.p) - 12), "font-family": "monospace", "font-size": 13, "font-weight": "700", fill: "#f1f1ec", stroke: "#08080a", "stroke-width": 4, "paint-order": "stroke", "text-anchor": "end" }); ll.textContent = last.p.toLocaleString("en-US"); svg.appendChild(ll);
       lcb.style.display = "";
     }).catch(function(){});
   }

@@ -316,7 +316,7 @@ footer a:hover{text-decoration:underline;}
 <div class="wrap"><div class="ticker"><div class="in"><b>+</b> Marathon Game Director Joe Ziegler Departs Bungie, Design Lead Lars Bakken Also Retires &nbsp;&nbsp;&nbsp; <b>+</b> Marathon Player Base Keeps Shrinking as Destiny 2 Pulls Ahead &nbsp;&nbsp;&nbsp; <b>+</b> &quot;If Season 3 was our last update, where are we migrating to runners?&quot; &nbsp;&nbsp;&nbsp; <b>+</b> &quot;A Beautiful Mess That I Love&quot;: Veteran Player's Cryo Feedback Sparks Discussion &nbsp;&nbsp;&nbsp; <b>+</b> Community Excitement Builds for Vault Breaker PvE Mode &nbsp;&nbsp;&nbsp; <b>+</b> Players Report Long Matchmaking Queues as Population Concerns Continue &nbsp;&nbsp;&nbsp; <b>+</b> Context: Bungie Laid Off 292 Employees Including Marathon Leadership &nbsp;&nbsp;&nbsp; <b>+</b> Context: Bungie Previewed Mid-Season 2 Update Ahead of July 21 Launch &nbsp;&nbsp;&nbsp; <b>+</b> Marathon Game Director Joe Ziegler Departs Bungie, Design Lead Lars Bakken Also Retires &nbsp;&nbsp;&nbsp; <b>+</b> Marathon Player Base Keeps Shrinking as Destiny 2 Pulls Ahead &nbsp;&nbsp;&nbsp; <b>+</b> &quot;If Season 3 was our last update, where are we migrating to runners?&quot; &nbsp;&nbsp;&nbsp; <b>+</b> &quot;A Beautiful Mess That I Love&quot;: Veteran Player's Cryo Feedback Sparks Discussion &nbsp;&nbsp;&nbsp; <b>+</b> Community Excitement Builds for Vault Breaker PvE Mode &nbsp;&nbsp;&nbsp; <b>+</b> Players Report Long Matchmaking Queues as Population Concerns Continue &nbsp;&nbsp;&nbsp; <b>+</b> Context: Bungie Laid Off 292 Employees Including Marathon Leadership &nbsp;&nbsp;&nbsp; <b>+</b> Context: Bungie Previewed Mid-Season 2 Update Ahead of July 21 Launch</div></div></div>
 <div class="wrap"><footer>
 <span>ALL ITEMS TRACE TO SOURCE // LINK-CHECKED // AUTOMATED // NOT AFFILIATED WITH BUNGIE OR SONY</span>
-<span><a href="../status.html">STATE OF THE GAME &#8594;</a> &nbsp; <a href="../patches.html">PATCH LOG &#8594;</a> &nbsp; <a href="../archive.html">ARCHIVE &#8594;</a> &nbsp; <a href="../index.html">LATEST &#8594;</a> &nbsp; <a href="https://ko-fi.com/aubreyballard" rel="noopener" target="_blank">SUPPORT THE RELAY &#8599;</a> &nbsp; <span class="faint">BUILT 2026-07-24 03:53Z</span></span>
+<span><a href="../status.html">STATE OF THE GAME &#8594;</a> &nbsp; <a href="../patches.html">PATCH LOG &#8594;</a> &nbsp; <a href="../archive.html">ARCHIVE &#8594;</a> &nbsp; <a href="../index.html">LATEST &#8594;</a> &nbsp; <a href="https://ko-fi.com/aubreyballard" rel="noopener" target="_blank">SUPPORT THE RELAY &#8599;</a> &nbsp; <span class="faint">BUILT 2026-07-24 03:54Z</span></span>
 </footer></div>
 <script>
 (function(){
@@ -451,7 +451,7 @@ footer a:hover{text-decoration:underline;}
       function hm(t){ var dt = new Date(t); return dt.toLocaleString("en-US", { weekday: "short", hour: "numeric" }); }
       svg.appendChild(lbl(PX, H - 6, hm(t0), null, "#5b5b63"));
       svg.appendChild(lbl(W - PX, H - 6, hm(t1), "end", "#5b5b63"));
-      svg.appendChild(lbl(X(last.t) - 6, Y(last.p) - 8, last.p.toLocaleString("en-US"), "end", "#c9f23c"));
+      var ll = mk("text", { x: X(last.t) - 12, y: (Y(last.p) < 34 ? Y(last.p) + 18 : Y(last.p) - 12), "font-family": "monospace", "font-size": 13, "font-weight": "700", fill: "#f1f1ec", stroke: "#08080a", "stroke-width": 4, "paint-order": "stroke", "text-anchor": "end" }); ll.textContent = last.p.toLocaleString("en-US"); svg.appendChild(ll);
       lcb.style.display = "";
     }).catch(function(){});
   }
