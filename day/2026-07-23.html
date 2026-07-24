@@ -310,7 +310,7 @@ footer a:hover{text-decoration:underline;}
 <div class="wrap"><div class="ticker"><div class="in"><b>+</b> Vault Breaker PvE mode triples Marathon's player count, then surge quickly fades &nbsp;&nbsp;&nbsp; <b>+</b> Community organizes informal 'Revival Week' to coincide with Vault Breaker launch &nbsp;&nbsp;&nbsp; <b>+</b> Reddit thread praises Bungie's pace of updates despite layoffs and turmoil &nbsp;&nbsp;&nbsp; <b>+</b> Players debate Rook AI design and propose a low-risk casual PvPvE mode &nbsp;&nbsp;&nbsp; <b>+</b> Community pushes back on V22 Volt Thrower nerf, calls for sandbox to 'breathe' &nbsp;&nbsp;&nbsp; <b>+</b> Players request auto-loadout builder to speed up pre-run prep &nbsp;&nbsp;&nbsp; <b>+</b> Context: Marathon game director Joe Ziegler departs Bungie, Del Chafe III takes over &nbsp;&nbsp;&nbsp; <b>+</b> Vault Breaker PvE mode triples Marathon's player count, then surge quickly fades &nbsp;&nbsp;&nbsp; <b>+</b> Community organizes informal 'Revival Week' to coincide with Vault Breaker launch &nbsp;&nbsp;&nbsp; <b>+</b> Reddit thread praises Bungie's pace of updates despite layoffs and turmoil &nbsp;&nbsp;&nbsp; <b>+</b> Players debate Rook AI design and propose a low-risk casual PvPvE mode &nbsp;&nbsp;&nbsp; <b>+</b> Community pushes back on V22 Volt Thrower nerf, calls for sandbox to 'breathe' &nbsp;&nbsp;&nbsp; <b>+</b> Players request auto-loadout builder to speed up pre-run prep &nbsp;&nbsp;&nbsp; <b>+</b> Context: Marathon game director Joe Ziegler departs Bungie, Del Chafe III takes over</div></div></div>
 <div class="wrap"><footer>
 <span>ALL ITEMS TRACE TO SOURCE // LINK-CHECKED // AUTOMATED // NOT AFFILIATED WITH BUNGIE OR SONY</span>
-<span><a href="../status.html">STATE OF THE GAME &#8594;</a> &nbsp; <a href="../patches.html">PATCH LOG &#8594;</a> &nbsp; <a href="../archive.html">ARCHIVE &#8594;</a> &nbsp; <a href="../index.html">LATEST &#8594;</a> &nbsp; <a href="https://ko-fi.com/aubreyballard" rel="noopener" target="_blank">SUPPORT THE RELAY &#8599;</a> &nbsp; <span class="faint">BUILT 2026-07-24 04:45Z</span></span>
+<span><a href="../status.html">STATE OF THE GAME &#8594;</a> &nbsp; <a href="../patches.html">PATCH LOG &#8594;</a> &nbsp; <a href="../archive.html">ARCHIVE &#8594;</a> &nbsp; <a href="../index.html">LATEST &#8594;</a> &nbsp; <a href="https://ko-fi.com/aubreyballard" rel="noopener" target="_blank">SUPPORT THE RELAY &#8599;</a> &nbsp; <span class="faint">BUILT 2026-07-24 04:47Z</span></span>
 </footer></div>
 <script>
 (function(){
@@ -406,6 +406,32 @@ footer a:hover{text-decoration:underline;}
           lv.textContent = d.players.toLocaleString("en-US");
           var lc = document.getElementById("livecell");
           if (lc) lc.style.display = "";
+          try {
+            var _t = localStorage.getItem("exfil_lv_time");
+            var _p = localStorage.getItem("exfil_lv_pop");
+            if (_t && _p) {
+              var _ago = Date.now() - parseInt(_t, 10);
+              if (_ago > 3600000) {
+                var _prev = parseInt(_p, 10);
+                var _diff = d.players - _prev;
+                var _pc = _prev ? Math.round(_diff / _prev * 100) : 0;
+                var _at = _ago < 86400000 ? Math.round(_ago / 3600000) + "h" : Math.round(_ago / 86400000) + "d";
+                var _ar = _diff > 0 ? "&#9650;" : _diff < 0 ? "&#9660;" : "&#8226;";
+                var _co = _diff > 0 ? "#c9f23c" : _diff < 0 ? "#f0533a" : "#85858d";
+                var _b = document.getElementById("sincevisit");
+                if (!_b) {
+                  _b = document.createElement("div");
+                  _b.id = "sincevisit";
+                  _b.style.cssText = "width:100%;background:#0d0d10;border-bottom:1px solid #1e1e25;font-family:monospace;font-size:11px;letter-spacing:1px;color:#85858d;text-align:center;padding:8px 12px";
+                  document.body.insertBefore(_b, document.body.firstChild);
+                }
+                _b.innerHTML = "SINCE YOUR LAST VISIT (" + _at + " AGO): <span style='color:#f1f1ec'>" + d.players.toLocaleString("en-US") + "</span> IN GAME, <span style='color:" + _co + "'>" + _ar + " " + Math.abs(_diff).toLocaleString("en-US") + " (" + (_pc >= 0 ? "+" : "") + _pc + "%)</span>";
+              }
+            }
+            localStorage.setItem("exfil_lv_time", String(Date.now()));
+            localStorage.setItem("exfil_lv_pop", String(d.players));
+          } catch (e) {}
+
         }
       }).catch(function(){});
     };
