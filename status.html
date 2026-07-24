@@ -218,7 +218,7 @@ footer a:hover{text-decoration:underline;}
 </style>
 </head>
 <body>
-<script type="application/ld+json">{"@context":"https://schema.org","@type":"WebPage","name":"Marathon State of the Game: player count, patch tracker, Bungie communication","url":"https://dailyexfil.github.io/status.html","description":"Is Marathon dying? Live state of the game tracker for Bungie's Marathon: daily Steam player count samples, patch cadence with missed weeks called out, days since the last official Bungie post, and the business context, all sourced.","dateModified":"2026-07-23T19:03:45.294Z"}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"WebPage","name":"Marathon State of the Game: player count, patch tracker, Bungie communication","url":"https://dailyexfil.github.io/status.html","description":"Is Marathon dying? Live state of the game tracker for Bungie's Marathon: daily Steam player count samples, patch cadence with missed weeks called out, days since the last official Bungie post, and the business context, all sourced.","dateModified":"2026-07-24T03:53:16.982Z"}</script>
 <div class="wrap"><div class="topbar mono">
 <span>TAU CETI RELAY // CIVILIAN BAND</span>
 <span class="bars" id="bars" aria-hidden="true"></span>
@@ -361,7 +361,7 @@ footer a:hover{text-decoration:underline;}
 
 <div class="wrap"><footer>
 <span>ALL ITEMS TRACE TO SOURCE // LINK-CHECKED // AUTOMATED // NOT AFFILIATED WITH BUNGIE OR SONY</span>
-<span><a href="index.html">LATEST &#8594;</a> &nbsp; <a href="patches.html">PATCH LOG &#8594;</a> &nbsp; <a href="archive.html">ARCHIVE &#8594;</a> &nbsp; <a href="https://ko-fi.com/aubreyballard" rel="noopener" target="_blank">SUPPORT THE RELAY &#8599;</a> &nbsp; <span class="faint">BUILT 2026-07-23 19:03Z</span></span>
+<span><a href="index.html">LATEST &#8594;</a> &nbsp; <a href="patches.html">PATCH LOG &#8594;</a> &nbsp; <a href="archive.html">ARCHIVE &#8594;</a> &nbsp; <a href="https://ko-fi.com/aubreyballard" rel="noopener" target="_blank">SUPPORT THE RELAY &#8599;</a> &nbsp; <span class="faint">BUILT 2026-07-24 03:53Z</span></span>
 </footer></div>
 <script>
 (function(){
@@ -469,7 +469,7 @@ footer a:hover{text-decoration:underline;}
     fetch("https://exfil-live.aubreybcollier.workers.dev/history").then(function(r){ return r.json(); }).then(function(hist){
       if (!hist || hist.length < 2) return;
       var cut = Date.now() - 48 * 3600000;
-      var pts = hist.filter(function(e){ return e && e.t >= cut; });
+      var pts = hist.filter(function(e){ return e && e.t >= cut && e.p > 0; });
       if (pts.length < 2) return;
       var svg = document.getElementById("livechart");
       var NS = "http://www.w3.org/2000/svg";
