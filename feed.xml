@@ -6,7 +6,14 @@
 <atom:link href="https://dailyexfil.github.io/feed.xml" rel="self" type="application/rss+xml"/>
 <description>Daily Marathon (Bungie) news digest. Official, press, and community items tiered by credibility, cross-referenced, and link-checked.</description>
 <language>en</language>
-<lastBuildDate>Fri, 24 Jul 2026 05:10:47 GMT</lastBuildDate>
+<lastBuildDate>Fri, 24 Jul 2026 19:03:46 GMT</lastBuildDate>
+<item>
+<title>DAILY EXFIL 2026-07-24: Players react positively to new Vault Breaker PvE mode</title>
+<link>https://dailyexfil.github.io/day/2026-07-24.html</link>
+<guid isPermaLink="true">https://dailyexfil.github.io/day/2026-07-24.html</guid>
+<pubDate>Fri, 24 Jul 2026 20:00:00 GMT</pubDate>
+<description><![CDATA[[COMMS] Players react positively to new Vault Breaker PvE mode<br>[COMMS] Community debates whether PvE content can grow Marathon's player base<br>[COMMS] Players say progression focus makes Marathon's content feel thin<br>[COMMS] Player shares tips after grinding Vault Breaker Compiler clear<br>[OFFICIAL] Marathon discounted 30 percent on Steam through August 4<br>[COMMS] Report claims Marathon faces critical scrutiny amid studio turbulence<br>[PRESS] Context: Vault Breaker PvE mode launched July 21, tripling concurrent players<br>[PRESS] Context: Marathon game director Joe Ziegler departs Bungie]]></description>
+</item>
 <item>
 <title>DAILY EXFIL 2026-07-23: Vault Breaker PvE mode triples Marathon's player count, then surge quickly fades</title>
 <link>https://dailyexfil.github.io/day/2026-07-23.html</link>
@@ -97,13 +104,6 @@
 <guid isPermaLink="true">https://dailyexfil.github.io/day/2026-07-08.html</guid>
 <pubDate>Wed, 08 Jul 2026 20:00:00 GMT</pubDate>
 <description><![CDATA[[OFFICIAL] Marathon Update 1.1.0.4 released with Armory changes and bug fixes<br>[PRESS] Context: Bungie layoffs hit Marathon leadership roles<br>[PRESS] Analysis: Marathon called Bungie's last hope as some Destiny fans stay away<br>[OFFICIAL] Marathon discounted 30% on Steam amid retention concerns<br>[OFFICIAL] Bungie posts new in-fiction update on UESC crackdown and the Anomaly<br>[PRESS] Context: Bungie stays silent on promised Marathon Deluxe Edition compensation<br>[COMMS] Community debates whether Marathon is 'dead' ahead of Steam sale ending<br>[COMMS] Players debate whether Marathon is really an 'ultra hardcore' extraction shooter<br>[COMMS] Players report rising toxicity and tension in recent Marathon matches<br>[COMMS] Players report ongoing solo queue bug after latest update]]></description>
-</item>
-<item>
-<title>DAILY EXFIL 2026-07-07: Marathon Update 1.1.0.4 Released</title>
-<link>https://dailyexfil.github.io/day/2026-07-07.html</link>
-<guid isPermaLink="true">https://dailyexfil.github.io/day/2026-07-07.html</guid>
-<pubDate>Tue, 07 Jul 2026 20:00:00 GMT</pubDate>
-<description><![CDATA[[OFFICIAL] Marathon Update 1.1.0.4 Released<br>[PRESS] Bungie posts new UI/UX director job listing for Marathon two weeks after mass layoffs<br>[PRESS] Context: Bungie layoffs hit Marathon senior roles including General Manager and Engineering Director<br>[PRESS] Context: Bungie details Vault Breaker PvE mode and Season 3 dates for Marathon]]></description>
 </item>
 </channel>
 </rss>

@@ -1,0 +1,98 @@
+{
+  "date": "2026-07-24",
+  "items": [
+    {
+      "title": "Players react positively to new Vault Breaker PvE mode",
+      "summary": "A player posted praise for Marathon's new Vault Breaker mode after trying it for the first time, saying enemy AI felt challenging without being a pushover. They said the mode is bringing them back to log in regularly after mostly skipping Season 2 content until now.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1v5ic25/great_job_on_vault_breaker_bungie/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Single unverified Reddit post reflecting one player's sentiment, not independently corroborated.",
+      "published_at": "2026-07-24T17:40:18.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Community debates whether PvE content can grow Marathon's player base",
+      "summary": "A Reddit thread argues that adding PvE modes will not solve Marathon's population problems, pointing to competitors like Valorant, Apex, and Overwatch that thrive without PvE content. The poster says the core criticism of the game being live service and extraction based cannot be fixed by adding side modes.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1v5ji6a/pve_will_not_bring_players_in/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Reddit opinion thread, unverified and reflects one player's view among ongoing community debate.",
+      "published_at": "2026-07-24T18:21:12.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Players say progression focus makes Marathon's content feel thin",
+      "summary": "A Reddit post argues Marathon's heavy focus on progression systems is causing player burnout because the next big map is not expected until next summer. The poster compares this unfavorably to Valve's Deadlock, still in invite-only beta, which they say is retaining players better with less progression pressure.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1v5jtku/the_games_focus_on_progression_makes_the_content/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Reddit opinion post making a comparative argument, unverified claims about a competing game's beta performance.",
+      "published_at": "2026-07-24T18:32:27.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Player shares tips after grinding Vault Breaker Compiler clear",
+      "summary": "A player detailed lessons learned after 12 unsuccessful attempts before finally clearing the Compiler boss in the new Vault Breaker mode. Key advice included that vault sequence variation matters a lot and that killing extra bots wastes time better spent rushing to level 3 clearance.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1v5is6z/i_got_a_vault_breaker_compiler_clear_today_heres/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Player-submitted strategy writeup on Reddit, useful community feedback but unverified and anecdotal.",
+      "published_at": "2026-07-24T17:56:06.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Marathon discounted 30 percent on Steam through August 4",
+      "summary": "Steam is currently offering Marathon at 30 percent off, dropping the Standard Edition from 39.99 to 27.99 dollars and the Deluxe Edition from 59.99 to 41.99 dollars. The sale runs through August 4, the same date the limited-time Vault Breaker PvE event is scheduled to end.",
+      "source_name": "Steam",
+      "source_url": "https://store.steampowered.com/app/3065800/Marathon/",
+      "credibility_tier": "official",
+      "credibility_note": "Direct listing from the official Steam store page for Marathon.",
+      "published_at": "2026-07-24T00:00:00Z",
+      "category": "other",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Report claims Marathon faces critical scrutiny amid studio turbulence",
+      "summary": "A report published July 23 says Marathon faces intensifying industry scrutiny over its production and timeline as Bungie restructures under Sony, with the studio keeping tight control over build details. The piece offers no new concrete facts beyond general commentary on analysts and players waiting for updates.",
+      "source_name": "World Today News",
+      "source_url": "https://www.world-today-news.com/marathon-last-chance-for-bungie-to-deliver/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Sourced from an unrecognized aggregator site with no independent corroboration found, treated as community-speculation over source quality concerns.",
+      "published_at": "2026-07-23T00:00:00Z",
+      "category": "layoffs-business",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Context: Vault Breaker PvE mode launched July 21, tripling concurrent players",
+      "summary": "This story was originally reported on July 21, 2026, when Bungie shipped Marathon's 1.1.5 update, headlined by Vault Breaker, the game's first experimental PvE mode set in the Cryo Archive. SteamDB showed concurrent players jump to over 14,800 shortly after launch, about triple the prior daily count, with the mode running as a limited-time event through August 4. The same update also included weapon balance changes, such as a damage buff to the WSTR Combat Shotgun and a nerf to the Misriah 2442.",
+      "source_name": "PC Gamer",
+      "source_url": "https://www.pcgamer.com/games/fps/marathons-experimental-pve-mode-is-live-immediately-tripling-its-daily-player-count/",
+      "credibility_tier": "verified-journalist",
+      "credibility_note": "Established gaming outlet reporting with player count data cited from SteamDB.",
+      "published_at": "2026-07-21T00:00:00Z",
+      "category": "patch-notes",
+      "corroborating_sources": [
+        "https://www.dlcompare.com/gaming-news/marathon-s-biggest-pve-update-goes-live-today",
+        "https://www.psu.com/news/marathon-update-1-1-5-adds-new-vault-breaker-pve-mode-stability-improvements-weapon-balancing-full-patch-notes/",
+        "https://www.bungie.net/7/en/News/Article/mid_season_2_preview"
+      ]
+    },
+    {
+      "title": "Context: Marathon game director Joe Ziegler departs Bungie",
+      "summary": "This was originally reported on July 20, 2026, when Massively Overpowered revealed that Joe Ziegler, Marathon's game director, had left Bungie effective July 17. Assistant game director Del Chafe III is taking over the role alongside creative director Julia Nardin, with the departure coming about a month after Sony-led layoffs and studio head Justin Truman's exit.",
+      "source_name": "Massively Overpowered",
+      "source_url": "https://massivelyop.com/2026/07/20/marathons-game-director-resigned-from-bungie-for-something-new-somewhere-else/",
+      "credibility_tier": "verified-journalist",
+      "credibility_note": "Established gaming outlet reporting on a confirmed leadership departure.",
+      "published_at": "2026-07-20T00:00:00Z",
+      "category": "layoffs-business",
+      "corroborating_sources": []
+    }
+  ],
+  "no_news_found": false
+}
