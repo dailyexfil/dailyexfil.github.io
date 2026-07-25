@@ -245,21 +245,6 @@ footer a:hover{text-decoration:underline;}
 <a href="about.html" class="on">ABOUT</a>
 </nav>
 </header></div>
-<div class="wrap"><div class="strip"><div class="cell" id="livecell" style="display:none">
-<div class="lbl">IN GAME RIGHT NOW <span class="faint">// STEAM, LIVE</span></div>
-<div class="val" id="liveval">&#8230;</div>
-</div>
-<div class="cell"><div class="lbl">SEASON 3 <span class="faint">// PERIMETER REVAMP</span></div>
-<div class="val" data-count="2026-09-22T17:00:00Z" id="cd0">T-&#8230; <small>SEP 22</small></div></div>
-<a class="cell patch" href="patches.html" id="patchcell" data-lastpatch="2026-07-21" style="text-decoration:none">
-<div class="lbl">PATCH TUESDAY <span class="faint">// WEEKLY WATCH</span></div>
-<div class="val" id="patchval">&#8230;</div>
-<div class="plink">FULL PATCH LOG &#8594;</div>
-</a>
-<div class="cell" id="silcell">
-<div class="lbl">BUNGIE SILENCE <span class="faint">// LAST OFFICIAL POST</span></div>
-<div class="val" data-up="2026-07-24T00:00:00.000Z" id="cdup">&#8230;</div>
-</div></div></div>
 
 <div class="wrap"><div class="sect">
 <span class="num" aria-hidden="true">01</span>
@@ -300,7 +285,7 @@ footer a:hover{text-decoration:underline;}
 
 <div class="wrap"><footer>
 <span>ALL ITEMS TRACE TO SOURCE // LINK-CHECKED // AUTOMATED // NOT AFFILIATED WITH BUNGIE OR SONY</span>
-<span><a href="index.html">LATEST &#8594;</a> &nbsp; <a href="status.html">STATE OF THE GAME &#8594;</a> &nbsp; <a href="archive.html">ARCHIVE &#8594;</a> &nbsp; <a href="https://ko-fi.com/errberr" rel="noopener" target="_blank">SUPPORT THE RELAY &#8599;</a> &nbsp; <span class="faint">BUILT 2026-07-25 19:03Z</span></span>
+<span><a href="index.html">LATEST &#8594;</a> &nbsp; <a href="status.html">STATE OF THE GAME &#8594;</a> &nbsp; <a href="archive.html">ARCHIVE &#8594;</a> &nbsp; <a href="https://ko-fi.com/errberr" rel="noopener" target="_blank">SUPPORT THE RELAY &#8599;</a> &nbsp; <span class="faint">BUILT 2026-07-25 22:13Z</span></span>
 </footer></div>
 <script>
 (function(){
@@ -389,11 +374,11 @@ footer a:hover{text-decoration:underline;}
   setInterval(tick, 1000);
 
   var lv = document.getElementById("liveval");
-  if (lv) {
+  {
     var updLive = function() {
       fetch("https://exfil-live.aubreybcollier.workers.dev/").then(function(r){ return r.json(); }).then(function(d){
         if (d && typeof d.players === "number") {
-          lv.textContent = d.players.toLocaleString("en-US");
+          if (lv) lv.textContent = d.players.toLocaleString("en-US");
           var sb = document.getElementById("sbLive");
           if (sb) sb.textContent = d.players.toLocaleString("en-US");
           var lc = document.getElementById("livecell");
