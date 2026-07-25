@@ -191,6 +191,11 @@ footer a:hover{text-decoration:underline;}
 .panel-p a:hover{text-decoration:underline;}
 .chartbox{border:1px solid var(--line2); background:var(--panel); padding:20px 22px;}
 .chartbox svg{width:100%; height:auto; display:block;}
+.rangebar{display:flex; gap:6px; margin-bottom:14px;}
+.rangebar button{font-family:'IBM Plex Mono',monospace; font-size:10.5px; letter-spacing:1.5px; color:var(--mut); background:transparent; border:1px solid var(--line2); padding:5px 13px; cursor:pointer;}
+.rangebar button:hover{color:var(--volt); border-color:var(--volt);}
+.rangebar button.on{background:var(--volt); color:#141804; border-color:var(--volt); font-weight:600;}
+.charttip{position:absolute; top:2px; transform:translateX(-50%); background:#0d0d10; border:1px solid var(--line2); padding:5px 10px; font-family:'IBM Plex Mono',monospace; font-size:10.5px; color:var(--ink); white-space:nowrap; pointer-events:none; display:none; z-index:5;}
 .chart-note{font-family:'IBM Plex Mono',monospace; font-size:10.5px; color:var(--faint);
   letter-spacing:1px; margin-top:12px; line-height:1.8;}
 .bigstat{display:grid; grid-template-columns:repeat(auto-fit,minmax(200px,1fr)); gap:1px;
@@ -304,7 +309,7 @@ footer a:hover{text-decoration:underline;}
 <div class="wrap"><div class="ticker"><div class="in"><b>+</b> Context: Bungie layoffs hit Marathon leadership as Destiny 2 ends &nbsp;&nbsp;&nbsp; <b>+</b> Context: Marathon's Steam player count fell below 1,000 concurrent multiple times &nbsp;&nbsp;&nbsp; <b>+</b> Players renew calls for Cryo mode to run through Sunday nights &nbsp;&nbsp;&nbsp; <b>+</b> Community members say Marathon fails to retain new players &nbsp;&nbsp;&nbsp; <b>+</b> Veteran player lists fixes needed to retain and re-engage players &nbsp;&nbsp;&nbsp; <b>+</b> Community debate flares over Marathon's abstract art style &nbsp;&nbsp;&nbsp; <b>+</b> Context: Bungie layoffs hit Marathon leadership as Destiny 2 ends &nbsp;&nbsp;&nbsp; <b>+</b> Context: Marathon's Steam player count fell below 1,000 concurrent multiple times &nbsp;&nbsp;&nbsp; <b>+</b> Players renew calls for Cryo mode to run through Sunday nights &nbsp;&nbsp;&nbsp; <b>+</b> Community members say Marathon fails to retain new players &nbsp;&nbsp;&nbsp; <b>+</b> Veteran player lists fixes needed to retain and re-engage players &nbsp;&nbsp;&nbsp; <b>+</b> Community debate flares over Marathon's abstract art style</div></div></div>
 <div class="wrap"><footer>
 <span>ALL ITEMS TRACE TO SOURCE // LINK-CHECKED // AUTOMATED // NOT AFFILIATED WITH BUNGIE OR SONY</span>
-<span><a href="../status.html">STATE OF THE GAME &#8594;</a> &nbsp; <a href="../patches.html">PATCH LOG &#8594;</a> &nbsp; <a href="../archive.html">ARCHIVE &#8594;</a> &nbsp; <a href="../index.html">LATEST &#8594;</a> &nbsp; <a href="https://ko-fi.com/aubreyballard" rel="noopener" target="_blank">SUPPORT THE RELAY &#8599;</a> &nbsp; <span class="faint">BUILT 2026-07-25 17:46Z</span></span>
+<span><a href="../status.html">STATE OF THE GAME &#8594;</a> &nbsp; <a href="../patches.html">PATCH LOG &#8594;</a> &nbsp; <a href="../archive.html">ARCHIVE &#8594;</a> &nbsp; <a href="../index.html">LATEST &#8594;</a> &nbsp; <a href="https://ko-fi.com/aubreyballard" rel="noopener" target="_blank">SUPPORT THE RELAY &#8599;</a> &nbsp; <span class="faint">BUILT 2026-07-25 18:04Z</span></span>
 </footer></div>
 <script>
 (function(){
@@ -524,6 +529,76 @@ footer a:hover{text-decoration:underline;}
     }, 3800);
   }
 })();
+
+  (function(){
+    var host=document.getElementById("dailychart");
+    if(!host||!window.EXFIL_PEAKS)return;
+    var ALL=window.EXFIL_PEAKS,EV=window.EXFIL_EVENTS||[],range=0;
+    var W=720,H=250,PX=56,PY=34;
+    var tip=document.getElementById("charttip");
+    function fmt(n){return n.toLocaleString("en-US")}
+    function draw(){
+      var d=range>0?ALL.slice(-range):ALL;
+      if(d.length<2)return;
+      var vals=d.map(function(p){return p[1]});
+      var lo=Math.min.apply(null,vals),hi=Math.max.apply(null,vals);
+      var pad=(hi-lo)*0.12||1;lo=Math.max(0,Math.floor(lo-pad));hi=Math.ceil(hi+pad);
+      var span=hi-lo||1;
+      function X(i){return PX+(i/(d.length-1))*(W-PX*2)}
+      function Y(v){return H-PY-((v-lo)/span)*(H-PY*2)}
+      var s='<svg viewBox="0 0 '+W+' '+H+'" xmlns="http://www.w3.org/2000/svg" style="width:100%;height:auto;display:block">';
+      [0,0.25,0.5,0.75,1].forEach(function(f){
+        var gy=PY+f*(H-PY*2);
+        s+='<line x1="'+PX+'" y1="'+gy+'" x2="'+(W-PX)+'" y2="'+gy+'" stroke="#1e1e25" stroke-width="1"/>';
+        s+='<text x="'+(PX-8)+'" y="'+(gy+4)+'" text-anchor="end" font-family="monospace" font-size="10" fill="#85858d">'+fmt(Math.round(hi-f*span))+'</text>';
+      });
+      var lane=0;
+      EV.forEach(function(ev){
+        if(d[0][0]>ev.date)return;
+        var idx=-1;
+        for(var i=0;i<d.length;i++){if(d[i][0]>=ev.date){idx=i;break}}
+        if(idx<0)return;
+        var mx=X(idx),flip=mx>W-130;
+        s+='<line x1="'+mx.toFixed(1)+'" y1="'+PY+'" x2="'+mx.toFixed(1)+'" y2="'+(H-PY)+'" stroke="#8e5ef2" stroke-width="1.2" stroke-dasharray="4 4"/>';
+        s+='<text x="'+(flip?mx-5:mx+5).toFixed(1)+'" y="'+(PY+10+lane*13)+'" text-anchor="'+(flip?"end":"start")+'" font-family="monospace" font-size="9.5" fill="#b79df0">'+ev.label+'</text>';
+        lane=(lane+1)%2;
+      });
+      s+='<polyline points="'+d.map(function(p,i){return X(i).toFixed(1)+","+Y(p[1]).toFixed(1)}).join(" ")+'" fill="none" stroke="#c9f23c" stroke-width="2"/>';
+      if(d.length<=45){d.forEach(function(p,i){s+='<circle cx="'+X(i).toFixed(1)+'" cy="'+Y(p[1]).toFixed(1)+'" r="2.4" fill="#c9f23c"/>'})}
+      s+='<line id="gd" x1="0" y1="'+PY+'" x2="0" y2="'+(H-PY)+'" stroke="#85858d" stroke-width="1" style="display:none"/>';
+      s+='<circle id="hd" r="4" fill="#f1f1ec" style="display:none"/>';
+      s+='<text x="'+PX+'" y="'+(H-8)+'" font-family="monospace" font-size="9.5" fill="#5b5b63">'+d[0][0]+'</text>';
+      s+='<text x="'+(W-PX)+'" y="'+(H-8)+'" text-anchor="end" font-family="monospace" font-size="9.5" fill="#5b5b63">'+d[d.length-1][0]+'</text>';
+      s+='</svg>';
+      host.innerHTML=s;
+      host.appendChild(tip);
+      var svg=host.querySelector("svg"),gd=svg.querySelector("#gd"),hd=svg.querySelector("#hd");
+      svg.addEventListener("mousemove",function(e){
+        var r=svg.getBoundingClientRect();
+        var i=Math.round(((e.clientX-r.left)*(W/r.width)-PX)/(W-PX*2)*(d.length-1));
+        if(i<0)i=0;if(i>d.length-1)i=d.length-1;
+        var p=d[i];
+        gd.setAttribute("x1",X(i));gd.setAttribute("x2",X(i));gd.style.display="";
+        hd.setAttribute("cx",X(i));hd.setAttribute("cy",Y(p[1]));hd.style.display="";
+        tip.style.display="block";
+        tip.textContent=p[0]+"   "+fmt(p[1]);
+        tip.style.left=Math.max(46,Math.min(r.width-46,(X(i)/W)*r.width))+"px";
+      });
+      svg.addEventListener("mouseleave",function(){tip.style.display="none";gd.style.display="none";hd.style.display="none"});
+    }
+    var bar=document.getElementById("rangebar");
+    if(bar)bar.addEventListener("click",function(e){
+      var b=e.target;
+      if(!b||b.tagName!=="BUTTON")return;
+      range=parseInt(b.getAttribute("data-r"),10)||0;
+      var bs=bar.getElementsByTagName("button");
+      for(var i=0;i<bs.length;i++)bs[i].className="";
+      b.className="on";
+      draw();
+    });
+    draw();
+  })();
+
 </script>
 <script data-goatcounter="https://der-labs.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>
 <script src="https://storage.ko-fi.com/cdn/scripts/overlay-widget.js"></script>
