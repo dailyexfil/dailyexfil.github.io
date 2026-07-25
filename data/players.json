@@ -732,5 +732,13 @@
   "peak": 8649,
   "peak_at": "20:20",
   "peak_src": "steamdb"
+ },
+ {
+  "date": "2026-07-25",
+  "players": 6681,
+  "sampled_at": "2026-07-25T19:03:02.835Z",
+  "peak": 7970,
+  "peak_at": "03:20",
+  "peak_src": "exfil"
  }
 ]

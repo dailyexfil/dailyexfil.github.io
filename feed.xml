@@ -6,7 +6,14 @@
 <atom:link href="https://dailyexfil.github.io/feed.xml" rel="self" type="application/rss+xml"/>
 <description>Daily Marathon (Bungie) news digest. Official, press, and community items tiered by credibility, cross-referenced, and link-checked.</description>
 <language>en</language>
-<lastBuildDate>Sat, 25 Jul 2026 18:19:24 GMT</lastBuildDate>
+<lastBuildDate>Sat, 25 Jul 2026 19:03:03 GMT</lastBuildDate>
+<item>
+<title>DAILY EXFIL 2026-07-25: Community asks: what's the plan now that PvE hasn't revived the game?</title>
+<link>https://dailyexfil.github.io/day/2026-07-25.html</link>
+<guid isPermaLink="true">https://dailyexfil.github.io/day/2026-07-25.html</guid>
+<pubDate>Sat, 25 Jul 2026 20:00:00 GMT</pubDate>
+<description><![CDATA[[COMMS] Community asks: what's the plan now that PvE hasn't revived the game?<br>[COMMS] Players say Vault Breaker's PvE needs an overhaul, calling AI enemies too weak<br>[COMMS] Community calls for deeper shell customization in Marathon<br>[COMMS] Players struggle against Mizzy rush tactics in Cryo after mid-season nerf<br>[PRESS] Context: Marathon director Joe Ziegler departs Bungie<br>[PRESS] Context: Vault Breaker PvE mode went live with update 1.1.5]]></description>
+</item>
 <item>
 <title>DAILY EXFIL 2026-07-24: Players react positively to new Vault Breaker PvE mode</title>
 <link>https://dailyexfil.github.io/day/2026-07-24.html</link>
@@ -97,13 +104,6 @@
 <guid isPermaLink="true">https://dailyexfil.github.io/day/2026-07-09.html</guid>
 <pubDate>Thu, 09 Jul 2026 20:00:00 GMT</pubDate>
 <description><![CDATA[[PRESS] Former Marathon director Christopher Barrett settles lawsuit, restored to game's credits<br>[PRESS] Marathon down again on July 9 for Update 1.1.0.5, fixes Solo Queue bug<br>[OFFICIAL] Context: Marathon Update 1.1.0.4 added new Armory items and fixed matchmaking bugs<br>[PRESS] Context: Sony's Bungie layoffs cut senior Marathon roles<br>[COMMS] Community reacts to Barrett settlement with worry about Bungie's future<br>[COMMS] Players call for a rework of Marathon's core system<br>[COMMS] Community debates adding a timer to Night Marsh's new area<br>[COMMS] Players say Marathon's solo queue needs a design overhaul<br>[COMMS] Players frustrated that maintenance was scheduled right as Cryo Archive reopened]]></description>
-</item>
-<item>
-<title>DAILY EXFIL 2026-07-08: Marathon Update 1.1.0.4 released with Armory changes and bug fixes</title>
-<link>https://dailyexfil.github.io/day/2026-07-08.html</link>
-<guid isPermaLink="true">https://dailyexfil.github.io/day/2026-07-08.html</guid>
-<pubDate>Wed, 08 Jul 2026 20:00:00 GMT</pubDate>
-<description><![CDATA[[OFFICIAL] Marathon Update 1.1.0.4 released with Armory changes and bug fixes<br>[PRESS] Context: Bungie layoffs hit Marathon leadership roles<br>[PRESS] Analysis: Marathon called Bungie's last hope as some Destiny fans stay away<br>[OFFICIAL] Marathon discounted 30% on Steam amid retention concerns<br>[OFFICIAL] Bungie posts new in-fiction update on UESC crackdown and the Anomaly<br>[PRESS] Context: Bungie stays silent on promised Marathon Deluxe Edition compensation<br>[COMMS] Community debates whether Marathon is 'dead' ahead of Steam sale ending<br>[COMMS] Players debate whether Marathon is really an 'ultra hardcore' extraction shooter<br>[COMMS] Players report rising toxicity and tension in recent Marathon matches<br>[COMMS] Players report ongoing solo queue bug after latest update]]></description>
 </item>
 </channel>
 </rss>

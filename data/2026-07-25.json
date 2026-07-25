@@ -1,0 +1,76 @@
+{
+  "date": "2026-07-25",
+  "items": [
+    {
+      "title": "Community asks: what's the plan now that PvE hasn't revived the game?",
+      "summary": "A Reddit thread argues that Marathon's new PvE mode has not reversed the game's player decline, with retention reportedly dropping back to earlier lows within days of the Vault Breaker launch. The original poster asks what direction Bungie should take next, sparking discussion about whether the game's problems go beyond a PvP versus PvE debate.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1v6dut4/so_whats_the_plan_now_pve_evidently_did_not_work/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Unverified Reddit discussion reflecting player sentiment, not an official or journalistic report.",
+      "published_at": "2026-07-25T17:08:24.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Players say Vault Breaker's PvE needs an overhaul, calling AI enemies too weak",
+      "summary": "A Reddit post argues that Marathon's PvE, including the new Vault Breaker mode and Sponsored Survival, is undertuned, describing bots as more of a nuisance than a real threat. The poster says the mode is only briefly challenging near the start and becomes trivial once players have decent gear.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1v6ccvk/pve_needs_an_overhaul_before_its_a_mode_in_the/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Community feedback thread on Reddit, not independently verified by a news outlet.",
+      "published_at": "2026-07-25T16:09:34.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Community calls for deeper shell customization in Marathon",
+      "summary": "A Reddit post argues that because Marathon plays like a hero shooter where each shell's abilities dictate playstyle, Bungie needs to expand how much players can customize their chosen shell. The poster frames this as a genuine design gap rather than a minor complaint.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1v6dqvd/so_we_need_further_shell_customization/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Player feedback thread on Reddit, single-sourced and not corroborated elsewhere.",
+      "published_at": "2026-07-25T17:04:12.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Players struggle against Mizzy rush tactics in Cryo after mid-season nerf",
+      "summary": "A Reddit thread describes Cryo matches being dominated by coordinated Mizzy grenade pushes even after the weapon's mid-season nerf, especially in solo queue where teams cannot easily counter the combo. The poster asks for advice on countering the tactic, reflecting ongoing balance frustration since the mid-season 2 patch.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1v6dqr5/how_to_actually_fight_mizzy_pushes_in_cryo/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Player discussion thread on Reddit about in-game balance, not independently verified.",
+      "published_at": "2026-07-25T17:04:04.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Context: Marathon director Joe Ziegler departs Bungie",
+      "summary": "This story was originally reported on July 17, 2026, when Joe Ziegler, Marathon's game director since 2022, announced he was leaving Bungie for another project, less than a month after major studio-wide layoffs. Leadership now passes to Del Chafe III as game director and Julia Nardin as creative director, and Bungie later issued a statement pledging transparency and outlining upcoming updates including Vault Breaker.",
+      "source_name": "Video Games Chronicle",
+      "source_url": "https://www.videogameschronicle.com/news/marathons-director-confirms-hes-quit-bungie-four-months-after-launch/",
+      "credibility_tier": "verified-journalist",
+      "credibility_note": "Reported by an established gaming outlet with corroboration from other verified reporting.",
+      "published_at": "2026-07-17T00:00:00.000Z",
+      "category": "layoffs-business",
+      "corroborating_sources": [
+        "https://massivelyop.com/2026/07/20/marathons-game-director-resigned-from-bungie-for-something-new-somewhere-else/",
+        "https://gamerant.com/marathon-game-director-quit/",
+        "https://mmo.net/2026/07/19/marathon-game-director-joseph-ziegler-is-leaving-bungie/"
+      ]
+    },
+    {
+      "title": "Context: Vault Breaker PvE mode went live with update 1.1.5",
+      "summary": "This story was originally reported on July 21, 2026, when Bungie launched Marathon's first dedicated PvE mode, Vault Breaker, as part of update 1.1.5 and Season 2. The cooperative dungeon mode, available until August 4 as an experimental feature, temporarily tripled Marathon's daily Steam player count to over 14,800 concurrent players.",
+      "source_name": "PC Gamer",
+      "source_url": "https://www.pcgamer.com/games/fps/marathons-experimental-pve-mode-is-live-immediately-tripling-its-daily-player-count/",
+      "credibility_tier": "verified-journalist",
+      "credibility_note": "Reported by an established gaming outlet tracking Steam concurrency data.",
+      "published_at": "2026-07-21T00:00:00.000Z",
+      "category": "patch-notes",
+      "corroborating_sources": []
+    }
+  ],
+  "no_news_found": false
+}
