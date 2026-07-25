@@ -1,60 +1,736 @@
 [
  {
+  "date": "2026-03-05",
+  "peak": 86718,
+  "peak_src": "steamdb"
+ },
+ {
+  "date": "2026-03-06",
+  "peak": 88337,
+  "peak_src": "steamdb"
+ },
+ {
+  "date": "2026-03-07",
+  "peak": 78498,
+  "peak_src": "steamdb"
+ },
+ {
+  "date": "2026-03-08",
+  "peak": 77371,
+  "peak_src": "steamdb"
+ },
+ {
+  "date": "2026-03-09",
+  "peak": 71346,
+  "peak_src": "steamdb"
+ },
+ {
+  "date": "2026-03-10",
+  "peak": 66593,
+  "peak_src": "steamdb"
+ },
+ {
+  "date": "2026-03-11",
+  "peak": 62495,
+  "peak_src": "steamdb"
+ },
+ {
+  "date": "2026-03-12",
+  "peak": 60649,
+  "peak_src": "steamdb"
+ },
+ {
+  "date": "2026-03-13",
+  "peak": 57246,
+  "peak_src": "steamdb"
+ },
+ {
+  "date": "2026-03-14",
+  "peak": 59357,
+  "peak_src": "steamdb"
+ },
+ {
+  "date": "2026-03-15",
+  "peak": 62830,
+  "peak_src": "steamdb"
+ },
+ {
+  "date": "2026-03-16",
+  "peak": 56597,
+  "peak_src": "steamdb"
+ },
+ {
+  "date": "2026-03-17",
+  "peak": 53846,
+  "peak_src": "steamdb"
+ },
+ {
+  "date": "2026-03-18",
+  "peak": 54414,
+  "peak_src": "steamdb"
+ },
+ {
+  "date": "2026-03-19",
+  "peak": 51731,
+  "peak_src": "steamdb"
+ },
+ {
+  "date": "2026-03-20",
+  "peak": 50287,
+  "peak_src": "steamdb"
+ },
+ {
+  "date": "2026-03-21",
+  "peak": 56683,
+  "peak_src": "steamdb"
+ },
+ {
+  "date": "2026-03-22",
+  "peak": 53678,
+  "peak_src": "steamdb"
+ },
+ {
+  "date": "2026-03-23",
+  "peak": 49944,
+  "peak_src": "steamdb"
+ },
+ {
+  "date": "2026-03-24",
+  "peak": 44371,
+  "peak_src": "steamdb"
+ },
+ {
+  "date": "2026-03-25",
+  "peak": 42091,
+  "peak_src": "steamdb"
+ },
+ {
+  "date": "2026-03-26",
+  "peak": 39796,
+  "peak_src": "steamdb"
+ },
+ {
+  "date": "2026-03-27",
+  "peak": 40834,
+  "peak_src": "steamdb"
+ },
+ {
+  "date": "2026-03-28",
+  "peak": 43927,
+  "peak_src": "steamdb"
+ },
+ {
+  "date": "2026-03-29",
+  "peak": 41975,
+  "peak_src": "steamdb"
+ },
+ {
+  "date": "2026-03-30",
+  "peak": 36782,
+  "peak_src": "steamdb"
+ },
+ {
+  "date": "2026-03-31",
+  "peak": 34185,
+  "peak_src": "steamdb"
+ },
+ {
+  "date": "2026-04-01",
+  "peak": 33820,
+  "peak_src": "steamdb"
+ },
+ {
+  "date": "2026-04-02",
+  "peak": 32854,
+  "peak_src": "steamdb"
+ },
+ {
+  "date": "2026-04-03",
+  "peak": 36374,
+  "peak_src": "steamdb"
+ },
+ {
+  "date": "2026-04-04",
+  "peak": 36203,
+  "peak_src": "steamdb"
+ },
+ {
+  "date": "2026-04-05",
+  "peak": 33822,
+  "peak_src": "steamdb"
+ },
+ {
+  "date": "2026-04-06",
+  "peak": 31022,
+  "peak_src": "steamdb"
+ },
+ {
+  "date": "2026-04-07",
+  "peak": 28325,
+  "peak_src": "steamdb"
+ },
+ {
+  "date": "2026-04-08",
+  "peak": 27670,
+  "peak_src": "steamdb"
+ },
+ {
+  "date": "2026-04-09",
+  "peak": 25392,
+  "peak_src": "steamdb"
+ },
+ {
+  "date": "2026-04-10",
+  "peak": 26913,
+  "peak_src": "steamdb"
+ },
+ {
+  "date": "2026-04-11",
+  "peak": 28549,
+  "peak_src": "steamdb"
+ },
+ {
+  "date": "2026-04-12",
+  "peak": 27393,
+  "peak_src": "steamdb"
+ },
+ {
+  "date": "2026-04-13",
+  "peak": 23909,
+  "peak_src": "steamdb"
+ },
+ {
+  "date": "2026-04-14",
+  "peak": 22914,
+  "peak_src": "steamdb"
+ },
+ {
+  "date": "2026-04-15",
+  "peak": 26637,
+  "peak_src": "steamdb"
+ },
+ {
+  "date": "2026-04-16",
+  "peak": 24563,
+  "peak_src": "steamdb"
+ },
+ {
+  "date": "2026-04-17",
+  "peak": 24999,
+  "peak_src": "steamdb"
+ },
+ {
+  "date": "2026-04-18",
+  "peak": 25359,
+  "peak_src": "steamdb"
+ },
+ {
+  "date": "2026-04-19",
+  "peak": 24121,
+  "peak_src": "steamdb"
+ },
+ {
+  "date": "2026-04-20",
+  "peak": 20746,
+  "peak_src": "steamdb"
+ },
+ {
+  "date": "2026-04-21",
+  "peak": 19362,
+  "peak_src": "steamdb"
+ },
+ {
+  "date": "2026-04-22",
+  "peak": 19811,
+  "peak_src": "steamdb"
+ },
+ {
+  "date": "2026-04-23",
+  "peak": 18360,
+  "peak_src": "steamdb"
+ },
+ {
+  "date": "2026-04-24",
+  "peak": 20269,
+  "peak_src": "steamdb"
+ },
+ {
+  "date": "2026-04-25",
+  "peak": 20967,
+  "peak_src": "steamdb"
+ },
+ {
+  "date": "2026-04-26",
+  "peak": 20727,
+  "peak_src": "steamdb"
+ },
+ {
+  "date": "2026-04-27",
+  "peak": 17371,
+  "peak_src": "steamdb"
+ },
+ {
+  "date": "2026-04-28",
+  "peak": 16639,
+  "peak_src": "steamdb"
+ },
+ {
+  "date": "2026-04-29",
+  "peak": 15714,
+  "peak_src": "steamdb"
+ },
+ {
+  "date": "2026-04-30",
+  "peak": 15243,
+  "peak_src": "steamdb"
+ },
+ {
+  "date": "2026-05-01",
+  "peak": 17131,
+  "peak_src": "steamdb"
+ },
+ {
+  "date": "2026-05-02",
+  "peak": 17050,
+  "peak_src": "steamdb"
+ },
+ {
+  "date": "2026-05-03",
+  "peak": 16528,
+  "peak_src": "steamdb"
+ },
+ {
+  "date": "2026-05-04",
+  "peak": 13969,
+  "peak_src": "steamdb"
+ },
+ {
+  "date": "2026-05-05",
+  "peak": 13191,
+  "peak_src": "steamdb"
+ },
+ {
+  "date": "2026-05-06",
+  "peak": 13443,
+  "peak_src": "steamdb"
+ },
+ {
+  "date": "2026-05-07",
+  "peak": 13384,
+  "peak_src": "steamdb"
+ },
+ {
+  "date": "2026-05-08",
+  "peak": 15178,
+  "peak_src": "steamdb"
+ },
+ {
+  "date": "2026-05-09",
+  "peak": 15378,
+  "peak_src": "steamdb"
+ },
+ {
+  "date": "2026-05-10",
+  "peak": 14541,
+  "peak_src": "steamdb"
+ },
+ {
+  "date": "2026-05-11",
+  "peak": 11218,
+  "peak_src": "steamdb"
+ },
+ {
+  "date": "2026-05-12",
+  "peak": 11798,
+  "peak_src": "steamdb"
+ },
+ {
+  "date": "2026-05-13",
+  "peak": 11497,
+  "peak_src": "steamdb"
+ },
+ {
+  "date": "2026-05-14",
+  "peak": 11975,
+  "peak_src": "steamdb"
+ },
+ {
+  "date": "2026-05-15",
+  "peak": 13022,
+  "peak_src": "steamdb"
+ },
+ {
+  "date": "2026-05-16",
+  "peak": 13107,
+  "peak_src": "steamdb"
+ },
+ {
+  "date": "2026-05-17",
+  "peak": 12560,
+  "peak_src": "steamdb"
+ },
+ {
+  "date": "2026-05-18",
+  "peak": 10377,
+  "peak_src": "steamdb"
+ },
+ {
+  "date": "2026-05-19",
+  "peak": 10285,
+  "peak_src": "steamdb"
+ },
+ {
+  "date": "2026-05-20",
+  "peak": 11943,
+  "peak_src": "steamdb"
+ },
+ {
+  "date": "2026-05-21",
+  "peak": 10828,
+  "peak_src": "steamdb"
+ },
+ {
+  "date": "2026-05-22",
+  "peak": 12054,
+  "peak_src": "steamdb"
+ },
+ {
+  "date": "2026-05-23",
+  "peak": 11795,
+  "peak_src": "steamdb"
+ },
+ {
+  "date": "2026-05-24",
+  "peak": 11412,
+  "peak_src": "steamdb"
+ },
+ {
+  "date": "2026-05-25",
+  "peak": 11074,
+  "peak_src": "steamdb"
+ },
+ {
+  "date": "2026-05-26",
+  "peak": 10837,
+  "peak_src": "steamdb"
+ },
+ {
+  "date": "2026-05-27",
+  "peak": 11398,
+  "peak_src": "steamdb"
+ },
+ {
+  "date": "2026-05-28",
+  "peak": 12148,
+  "peak_src": "steamdb"
+ },
+ {
+  "date": "2026-05-29",
+  "peak": 11201,
+  "peak_src": "steamdb"
+ },
+ {
+  "date": "2026-05-30",
+  "peak": 11444,
+  "peak_src": "steamdb"
+ },
+ {
+  "date": "2026-05-31",
+  "peak": 11321,
+  "peak_src": "steamdb"
+ },
+ {
+  "date": "2026-06-01",
+  "peak": 10921,
+  "peak_src": "steamdb"
+ },
+ {
+  "date": "2026-06-02",
+  "peak": 30711,
+  "peak_src": "steamdb"
+ },
+ {
+  "date": "2026-06-03",
+  "peak": 40686,
+  "peak_src": "steamdb"
+ },
+ {
+  "date": "2026-06-04",
+  "peak": 37164,
+  "peak_src": "steamdb"
+ },
+ {
+  "date": "2026-06-05",
+  "peak": 33905,
+  "peak_src": "steamdb"
+ },
+ {
+  "date": "2026-06-06",
+  "peak": 32561,
+  "peak_src": "steamdb"
+ },
+ {
+  "date": "2026-06-07",
+  "peak": 32661,
+  "peak_src": "steamdb"
+ },
+ {
+  "date": "2026-06-08",
+  "peak": 28851,
+  "peak_src": "steamdb"
+ },
+ {
+  "date": "2026-06-09",
+  "peak": 25807,
+  "peak_src": "steamdb"
+ },
+ {
+  "date": "2026-06-10",
+  "peak": 19781,
+  "peak_src": "steamdb"
+ },
+ {
+  "date": "2026-06-11",
+  "peak": 17986,
+  "peak_src": "steamdb"
+ },
+ {
+  "date": "2026-06-12",
+  "peak": 15844,
+  "peak_src": "steamdb"
+ },
+ {
+  "date": "2026-06-13",
+  "peak": 14891,
+  "peak_src": "steamdb"
+ },
+ {
+  "date": "2026-06-14",
+  "peak": 14766,
+  "peak_src": "steamdb"
+ },
+ {
+  "date": "2026-06-15",
+  "peak": 12560,
+  "peak_src": "steamdb"
+ },
+ {
+  "date": "2026-06-16",
+  "peak": 12753,
+  "peak_src": "steamdb"
+ },
+ {
+  "date": "2026-06-17",
+  "peak": 12141,
+  "peak_src": "steamdb"
+ },
+ {
+  "date": "2026-06-18",
+  "peak": 11736,
+  "peak_src": "steamdb"
+ },
+ {
+  "date": "2026-06-19",
+  "peak": 11725,
+  "peak_src": "steamdb"
+ },
+ {
+  "date": "2026-06-20",
+  "peak": 11948,
+  "peak_src": "steamdb"
+ },
+ {
+  "date": "2026-06-21",
+  "peak": 11262,
+  "peak_src": "steamdb"
+ },
+ {
+  "date": "2026-06-22",
+  "peak": 9838,
+  "peak_src": "steamdb"
+ },
+ {
+  "date": "2026-06-23",
+  "peak": 10115,
+  "peak_src": "steamdb"
+ },
+ {
+  "date": "2026-06-24",
+  "peak": 10765,
+  "peak_src": "steamdb"
+ },
+ {
+  "date": "2026-06-25",
+  "peak": 9131,
+  "peak_src": "steamdb"
+ },
+ {
+  "date": "2026-06-26",
+  "peak": 9550,
+  "peak_src": "steamdb"
+ },
+ {
+  "date": "2026-06-27",
+  "peak": 10281,
+  "peak_src": "steamdb"
+ },
+ {
+  "date": "2026-06-28",
+  "peak": 9860,
+  "peak_src": "steamdb"
+ },
+ {
+  "date": "2026-06-29",
+  "peak": 8795,
+  "peak_src": "steamdb"
+ },
+ {
+  "date": "2026-06-30",
+  "peak": 8333,
+  "peak_src": "steamdb"
+ },
+ {
+  "date": "2026-07-01",
+  "peak": 7898,
+  "peak_src": "steamdb"
+ },
+ {
+  "date": "2026-07-02",
+  "peak": 7419,
+  "peak_src": "steamdb"
+ },
+ {
+  "date": "2026-07-03",
+  "peak": 8630,
+  "peak_src": "steamdb"
+ },
+ {
+  "date": "2026-07-04",
+  "peak": 7885,
+  "peak_src": "steamdb"
+ },
+ {
+  "date": "2026-07-05",
+  "peak": 7681,
+  "peak_src": "steamdb"
+ },
+ {
+  "date": "2026-07-06",
+  "peak": 6976,
+  "peak_src": "steamdb"
+ },
+ {
+  "date": "2026-07-07",
+  "peak": 6755,
+  "peak_src": "steamdb"
+ },
+ {
+  "date": "2026-07-08",
+  "peak": 7077,
+  "peak_src": "steamdb"
+ },
+ {
+  "date": "2026-07-09",
+  "peak": 6808,
+  "peak_src": "steamdb"
+ },
+ {
+  "date": "2026-07-10",
+  "peak": 7547,
+  "peak_src": "steamdb"
+ },
+ {
+  "date": "2026-07-11",
+  "peak": 7158,
+  "peak_src": "steamdb"
+ },
+ {
+  "date": "2026-07-12",
+  "peak": 6381,
+  "peak_src": "steamdb"
+ },
+ {
+  "date": "2026-07-13",
+  "peak": 5693,
+  "peak_src": "steamdb"
+ },
+ {
+  "date": "2026-07-14",
+  "peak": 5840,
+  "peak_src": "steamdb"
+ },
+ {
   "date": "2026-07-15",
   "players": 4952,
-  "sampled_at": "2026-07-15T23:46:57.320Z"
+  "sampled_at": "2026-07-15T23:46:57.320Z",
+  "peak": 6598,
+  "peak_src": "steamdb"
  },
  {
   "date": "2026-07-16",
   "players": 5628,
-  "sampled_at": "2026-07-16T20:52:43.939Z"
+  "sampled_at": "2026-07-16T20:52:43.939Z",
+  "peak": 5782,
+  "peak_src": "steamdb"
  },
  {
   "date": "2026-07-17",
   "players": 4900,
-  "sampled_at": "2026-07-17T19:03:22.926Z"
+  "sampled_at": "2026-07-17T19:03:22.926Z",
+  "peak": 6775,
+  "peak_src": "steamdb"
  },
  {
   "date": "2026-07-18",
   "players": 5862,
-  "sampled_at": "2026-07-18T19:04:05.380Z"
+  "sampled_at": "2026-07-18T19:04:05.380Z",
+  "peak": 6551,
+  "peak_src": "steamdb"
  },
  {
   "date": "2026-07-19",
   "players": 5097,
-  "sampled_at": "2026-07-19T19:03:49.331Z"
+  "sampled_at": "2026-07-19T19:03:49.331Z",
+  "peak": 6384,
+  "peak_src": "steamdb"
  },
  {
   "date": "2026-07-20",
   "players": 4164,
-  "sampled_at": "2026-07-20T19:04:12.688Z"
+  "sampled_at": "2026-07-20T19:04:12.688Z",
+  "peak": 5257,
+  "peak_src": "steamdb"
  },
  {
   "date": "2026-07-21",
   "players": 12967,
   "sampled_at": "2026-07-21T19:02:57.975Z",
-  "peak": 14805,
-  "peak_at": "13:00"
+  "peak": 14809,
+  "peak_at": "13:00",
+  "peak_src": "steamdb"
  },
  {
   "date": "2026-07-22",
   "players": 8159,
   "sampled_at": "2026-07-22T19:05:12.219Z",
-  "peak": 9534,
-  "peak_at": "19:30"
+  "peak": 13910,
+  "peak_at": "19:30",
+  "peak_src": "steamdb"
  },
  {
   "date": "2026-07-23",
   "players": 6750,
   "sampled_at": "2026-07-23T19:03:45.291Z",
-  "peak": 8611,
-  "peak_at": "19:30"
+  "peak": 9549,
+  "peak_at": "19:30",
+  "peak_src": "steamdb"
  },
  {
   "date": "2026-07-24",
   "players": 6144,
   "sampled_at": "2026-07-24T19:03:46.197Z",
-  "peak": 7970,
-  "peak_at": "20:20"
+  "peak": 8649,
+  "peak_at": "20:20",
+  "peak_src": "steamdb"
  }
 ]
