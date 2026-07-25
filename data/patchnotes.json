@@ -1,0 +1,65 @@
+[
+ {
+  "version": "1.1.5",
+  "title": "Marathon Update 1.1.5",
+  "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329269349",
+  "date": "2026-07-21",
+  "summary": "GeneralAdded a new experimental PVE mode, Vault Breaker.Explore Cryo Archive as a crew, duo, or a solo player, taking on a progressively challenging series of vaults.Grow stronger across multiple matches with progression that’s unique to Va"
+ },
+ {
+  "version": "1.1.0.5",
+  "title": "Marathon Update 1.1.0.5",
+  "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165584491",
+  "date": "2026-07-09",
+  "summary": "GeneralFixed an issue where selecting Solo Queue could fail to update your matchmaking state, which could leave you locked into another queue or in a crew-based queue unexpectedly."
+ },
+ {
+  "version": "1.1.0.4",
+  "title": "Marathon Update 1.1.0.4",
+  "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165578399",
+  "date": "2026-07-07",
+  "summary": "GeneralSponsored Mode: Zone updated to Dire Marsh (Night).The C.A.R.R.I. Armory has been updated with the following changes.Wares Added:Deluxe Key TemplateBlue BackpackSelf ReviveWares Changed:Lockbox Key Commendations Cost: 10 → 7Reputatio"
+ },
+ {
+  "version": "1.1.0.3",
+  "title": "Marathon Update 1.1.0.3",
+  "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199315985",
+  "date": "2026-06-23",
+  "summary": "Item EconomyFixed an issue where barter options were not populating for the Compiler Ganglion.Swapped Arachne and Sekiguchi VIP upgrade costs so Synapse Cubes can be used for certain upgrades instead of the previous prestige salvage.Adjuste"
+ },
+ {
+  "version": "1.1.0.2",
+  "title": "Marathon Update 1.1.0.2",
+  "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783574842",
+  "date": "2026-06-16",
+  "summary": "General ONI is now announcing the return of C.A.R.R.I., the CyberAcme Runner Reinforcement Initiative. This Initiative returns with following changes and additions: CyberAcme Commendations: A new material which is awarded to Runners that pr"
+ },
+ {
+  "version": "1.1.0.1",
+  "title": "Marathon Update 1.1.0.1",
+  "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721201849",
+  "date": "2026-06-09",
+  "summary": "Item Economy Slightly reduced the chance for Prestige Shield to appear in all sources. Slightly reduced the chance for Prestige Weapon Mods to appear in all sources. Fixed various issues where Schemas granted more or fewer Credits than thei"
+ },
+ {
+  "version": "1.1.0",
+  "title": "Marathon Update 1.1.0",
+  "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530900587",
+  "date": "2026-06-02",
+  "summary": "General Added Streamer Mode option in the Settings: The ability to hide you and your Crew’s names on your screen. The ability to replace your in-run name with a generic one across places like pings, kill feed, death recap, and spectate. The"
+ },
+ {
+  "version": "1.0.9.1",
+  "title": "Marathon Update 1.0.9.1",
+  "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318579437",
+  "date": "2026-05-26",
+  "summary": "Item Economy Fixed an issue where loot previews could briefly show the wrong item when inspecting nearby loot. Improved clarity for item-related UI messaging in specific flows. Runners Rook: Fixed an issue that would cause Rook to spawn ins"
+ },
+ {
+  "version": "1.0.9",
+  "title": "Marathon Update 1.0.9",
+  "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592801070",
+  "date": "2026-05-19",
+  "summary": "NEW: Warden Hunt Warden Hunt will be available until the end of Season 1 New Warden Encounters: Wardens can spawn at new POIs in Perimeter, Dire Marsh, and Outpost. Locked room keys are guaranteed to drop from Wardens for the remainder of t"
+ }
+]
