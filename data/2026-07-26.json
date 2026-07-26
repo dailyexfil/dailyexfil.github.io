@@ -1,0 +1,79 @@
+{
+  "date": "2026-07-26",
+  "items": [
+    {
+      "title": "Community Debates Marathon's Matchmaking After Sponsored Queue Removal",
+      "summary": "A r/Marathon thread argues the game feels much less playable since the sponsored queue option was removed, calling the contrast night and day. The poster says the current alternative, crew filling with a free kit into regular maps, feels miserable and almost unintended to be fun, sparking wider discussion about the game's social and matchmaking systems.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1v7bp7s/marathon_feels_way_less_playable_without/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Unverified Reddit discussion thread, but reflects active player sentiment on a core system.",
+      "published_at": "2026-07-26T18:21:28.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Players Report Toxicity Concerns in Marathon's New Vault Breaker Mode",
+      "summary": "A r/Marathon post says Vault Breaker, meant to be a low pressure way to learn the Cryo map, has turned toxic, with players refusing to revive teammates who fall behind and cursing at them instead. The poster argues this undercuts the mode's purpose as a practice space, prompting broader discussion about community behavior in the temporary PvE mode.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1v78ivt/vault_breaker_too_toxic/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Single Reddit thread reflecting player experience, not independently verified.",
+      "published_at": "2026-07-26T16:24:55.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "PSA: Claim Vault Breaker Contracts Before Cryo Mode Ends",
+      "summary": "A r/Marathon post warns players to claim their CYAC cryo quest rewards before the temporary Vault Breaker window closes, after the poster lost a completed contract reward when cryo shut down mid run. The reminder comes as Bungie's experimental PvE mode approaches its planned end date in early August.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1v7axh3/psa_claim_your_contracts_before_cryo_ends/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Practical community PSA from a single Reddit user, unverified but useful for players.",
+      "published_at": "2026-07-26T17:53:18.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Players Report Random Stuttering Since Marathon's Latest Update",
+      "summary": "A r/Marathon thread asks whether others are seeing sudden, random stuttering since the newest update, including choppiness that can appear even on the main menu at startup. A separate post describes a laptop's frame rate being tanked by the same update, suggesting a wider performance regression.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1v76278/anyone_else_getting_really_bad_random_stuttering/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Unverified player reports of technical issues, corroborated by a second independent Reddit thread describing similar symptoms.",
+      "published_at": "2026-07-26T14:53:23.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": [
+        "https://www.reddit.com/r/Marathon/comments/1v7atq5/laptop_performance_lenovo_loq_4050/"
+      ]
+    },
+    {
+      "title": "Context: Marathon's Vault Breaker PvE Mode Went Live in Update 1.1.5",
+      "summary": "This story was originally reported around July 20 to July 21, 2026. Bungie shipped Update 1.1.5 on July 21, adding Vault Breaker, Marathon's first dedicated PvE mode, as a temporary experiment running through August 4. The roguelite dungeon crawling mode lets players tackle the Cryo Archive cooperatively without PvP threats, which is the mode referenced throughout today's community discussions.",
+      "source_name": "Marathon Help Center",
+      "source_url": "https://help.marathonthegame.com/hc/en-us/articles/39001626488596-Marathon-Server-and-Update-Status",
+      "credibility_tier": "official",
+      "credibility_note": "Official Bungie support page confirming the update rollout, corroborated by independent journalism covering the same launch.",
+      "published_at": "2026-07-20T00:00:00.000Z",
+      "category": "patch-notes",
+      "corroborating_sources": [
+        "https://www.dlcompare.com/gaming-news/marathon-s-biggest-pve-update-goes-live-today",
+        "https://massivelyop.com/2026/07/17/bungie-talks-up-marathons-mid-season-2-update-but-players-are-far-more-interested-in-destiny-2-these-days/"
+      ]
+    },
+    {
+      "title": "Context: Marathon Game Director Joe Ziegler Departs Bungie",
+      "summary": "This story was originally reported on July 20, 2026. Joe Ziegler, Marathon's game director, announced he is leaving Bungie for something new just four months after the game's launch, with Del Chafe III taking over as game director alongside creative director Julia Nardin. The departure came weeks after Bungie's layoffs affecting roughly 292 employees, adding to community concerns about leadership stability on the project.",
+      "source_name": "PC Gamer",
+      "source_url": "https://www.pcgamer.com/games/fps/marathon-game-director-leaves-bungie-just-4-months-after-launch-ill-be-heading-to-something-new-somewhere-else/",
+      "credibility_tier": "verified-journalist",
+      "credibility_note": "Reported by an established gaming outlet, corroborated by another independent outlet covering the same departure.",
+      "published_at": "2026-07-20T00:00:00.000Z",
+      "category": "layoffs-business",
+      "corroborating_sources": [
+        "https://massivelyop.com/2026/07/20/marathons-game-director-resigned-from-bungie-for-something-new-somewhere-else/"
+      ]
+    }
+  ],
+  "no_news_found": false
+}
