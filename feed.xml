@@ -6,7 +6,14 @@
 <atom:link href="https://dailyexfil.github.io/feed.xml" rel="self" type="application/rss+xml"/>
 <description>Daily Marathon (Bungie) news digest. Official, press, and community items tiered by credibility, cross-referenced, and link-checked.</description>
 <language>en</language>
-<lastBuildDate>Sun, 26 Jul 2026 19:04:57 GMT</lastBuildDate>
+<lastBuildDate>Mon, 27 Jul 2026 19:02:51 GMT</lastBuildDate>
+<item>
+<title>DAILY EXFIL 2026-07-27: Marathon Update 1.1.5.1 Scheduled for July 28</title>
+<link>https://dailyexfil.github.io/day/2026-07-27.html</link>
+<guid isPermaLink="true">https://dailyexfil.github.io/day/2026-07-27.html</guid>
+<pubDate>Mon, 27 Jul 2026 20:00:00 GMT</pubDate>
+<description><![CDATA[[OFFICIAL] Marathon Update 1.1.5.1 Scheduled for July 28<br>[OFFICIAL] PlayStation Store Discounts Marathon by 30 Percent<br>[COMMS] Marathon Steam Review Scores and Player Counts Show Mixed Picture<br>[COMMS] Community Notices Prox Chat Going Quiet as Player Sentiment Shifts<br>[COMMS] New Players Report Difficulty Finding Consistent Squads<br>[COMMS] Players Debate Whether Cryo's DNA Key and Ganglion Economy Is Worth It<br>[COMMS] Community Debates Whether Vault Breaker Is Meant for Boss Fights<br>[PRESS] Context: Marathon Game Director Joe Ziegler Departs Bungie<br>[PRESS] Context: Bungie Mass Layoffs Hit Marathon Team]]></description>
+</item>
 <item>
 <title>DAILY EXFIL 2026-07-26: Community Debates Marathon's Matchmaking After Sponsored Queue Removal</title>
 <link>https://dailyexfil.github.io/day/2026-07-26.html</link>
@@ -97,13 +104,6 @@
 <guid isPermaLink="true">https://dailyexfil.github.io/day/2026-07-14.html</guid>
 <pubDate>Tue, 14 Jul 2026 20:00:00 GMT</pubDate>
 <description><![CDATA[[PRESS] Context: Vault Breaker PvE Mode Confirmed for July 21 Launch<br>[COMMS] Players Report CARRI Shop Mizzy Surplus and Possible Duplication Bug<br>[COMMS] Community Anticipates Vault Breaker PvE Mode Launch Next Week<br>[COMMS] Players Flag Runner Codex Challenges That Reward Working Against Teammates<br>[COMMS] Community Suggests Test Mode Without Shield Bubbles and Mizzys to Address Balance Complaints]]></description>
-</item>
-<item>
-<title>DAILY EXFIL 2026-07-12: Players renew calls for Cryo mode to run through Sunday nights</title>
-<link>https://dailyexfil.github.io/day/2026-07-12.html</link>
-<guid isPermaLink="true">https://dailyexfil.github.io/day/2026-07-12.html</guid>
-<pubDate>Sun, 12 Jul 2026 20:00:00 GMT</pubDate>
-<description><![CDATA[[PRESS] Context: Bungie layoffs hit Marathon leadership as Destiny 2 ends<br>[PRESS] Context: Marathon's Steam player count fell below 1,000 concurrent multiple times<br>[COMMS] Players renew calls for Cryo mode to run through Sunday nights<br>[COMMS] Community members say Marathon fails to retain new players<br>[COMMS] Veteran player lists fixes needed to retain and re-engage players<br>[COMMS] Community debate flares over Marathon's abstract art style]]></description>
 </item>
 </channel>
 </rss>

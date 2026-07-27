@@ -1,0 +1,112 @@
+{
+  "date": "2026-07-27",
+  "items": [
+    {
+      "title": "Marathon Update 1.1.5.1 Scheduled for July 28",
+      "summary": "Bungie has scheduled maintenance for Update 1.1.5.1 on Tuesday, July 28, 2026, with background maintenance already running on July 27. The update follows the July 21 launch of the Vault Breaker PvE mode, though full patch notes have not yet been published.",
+      "source_name": "Marathon Help Center",
+      "source_url": "https://help.marathonthegame.com/hc/en-us/articles/39001626488596-Marathon-Server-and-Update-Status",
+      "credibility_tier": "official",
+      "credibility_note": "Direct maintenance notice from Bungie's official help center.",
+      "published_at": "2026-07-27T00:00:00.000Z",
+      "category": "gameplay-content",
+      "corroborating_sources": []
+    },
+    {
+      "title": "PlayStation Store Discounts Marathon by 30 Percent",
+      "summary": "Marathon is currently priced at $27.99, down from $39.99, on the PlayStation Store, with the discount set to end July 30, 2026. The price cut comes as the community continues to discuss player retention and the game's long-term health.",
+      "source_name": "PlayStation.com",
+      "source_url": "https://www.playstation.com/en-us/games/marathon/",
+      "credibility_tier": "official",
+      "credibility_note": "Listed directly on Sony's official PlayStation Store page.",
+      "published_at": "2026-07-27T00:00:00.000Z",
+      "category": "other",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Marathon Steam Review Scores and Player Counts Show Mixed Picture",
+      "summary": "As of July 27, 2026, Marathon holds a 77 to 84 percent positive rating across nearly 63,000 Steam reviews. Concurrent player counts range from roughly 2,000 to 7,300 depending on time of day, far below the 88,000 peak seen at launch in March, with estimated total sales around 2 million copies.",
+      "source_name": "Raijin.gg / SteamDB",
+      "source_url": "https://raijin.gg/app/3065800/Marathon",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Source is a third-party stats tracker rather than a staffed news outlet, so figures are not independently verified against official disclosures.",
+      "published_at": "2026-07-27T00:00:00.000Z",
+      "category": "other",
+      "corroborating_sources": [
+        "https://www.windowscentral.com/gaming/marathons-player-base-is-collapsing-and-bungies-future-looks-increasingly-bleak-as-concerns-grow-around-the-studios-live-service-direction"
+      ]
+    },
+    {
+      "title": "Community Notices Prox Chat Going Quiet as Player Sentiment Shifts",
+      "summary": "A Reddit post titled 'the death of joy and whimsy' describes how proximity chat banter, once a defining social feature of Marathon with mercy requests and post-fight chatter, has largely dried up over the last two weeks. The poster, with over 300 hours played, says only about 1 in 15 players now respond in prox chat, suggesting a shift in remaining player mood or population.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1v86gui/the_death_of_joy_and_whimsy/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Unverified player anecdote from a Reddit thread, included for its substantive discussion of community sentiment.",
+      "published_at": "2026-07-27T17:08:27.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "New Players Report Difficulty Finding Consistent Squads",
+      "summary": "A Reddit thread from a newer Marathon player describes struggling to find a reliable group to play with, noting that most veteran players already have established crews since launch. The poster says random teammates are often self-centered and loot-greedy, reflecting broader concerns about matchmaking and community fragmentation.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1v89cr8/hard_to_find_a_consistent_group/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Single Reddit post, included as representative of a recurring community concern about player population and social matchmaking.",
+      "published_at": "2026-07-27T18:47:23.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Players Debate Whether Cryo's DNA Key and Ganglion Economy Is Worth It",
+      "summary": "A Reddit post argues that the Ganglion barter limit tied to the Compiler encounter has become a burden, with players accumulating currency they cannot spend before resets eat their vault space. The poster also says many teams have stopped bringing DNA keys, preferring to simply take one from another squad during a run, calling it a sign of fatigue with the current PvE loop.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1v88x7t/is_anyone_else_kind_of_over_the_dna_keyganglion/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Reddit feedback thread on game economy design, included as substantive player feedback rather than routine discussion.",
+      "published_at": "2026-07-27T18:32:00.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Community Debates Whether Vault Breaker Is Meant for Boss Fights",
+      "summary": "A Reddit discussion questions the community assumption that Vault Breaker, Marathon's new PvE mode, is only meant to teach map layouts before players move to Cryo proper rather than being a legitimate way to fight the Compiler boss. The poster says they could not find any official Bungie statement clarifying the mode's intended purpose, highlighting ongoing confusion around the limited-time PvE experiment.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1v8854b/should_you_be_able_to_fight_compiler_in_vault/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Community design debate thread with no official Bungie clarification cited, tiered accordingly.",
+      "published_at": "2026-07-27T18:05:21.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Context: Marathon Game Director Joe Ziegler Departs Bungie",
+      "summary": "This story was originally reported around July 17 to 19, 2026. Marathon game director Joe Ziegler announced he was leaving Bungie, with assistant game director Del Chafe III, a 15-year studio veteran, taking over the role alongside creative director Julia Nardin. The departure came amid reports of dwindling player counts and broader studio instability following recent layoffs.",
+      "source_name": "Kotaku",
+      "source_url": "https://kotaku.com/marathons-game-director-is-leaving-bungie-2000717221",
+      "credibility_tier": "verified-journalist",
+      "credibility_note": "Established gaming outlet reporting confirmed by Bungie's own statement, provided as background for ongoing leadership changes.",
+      "published_at": "2026-07-18T00:00:00.000Z",
+      "category": "layoffs-business",
+      "corroborating_sources": [
+        "https://www.videogameschronicle.com/news/marathons-director-confirms-hes-quit-bungie-four-months-after-launch/"
+      ]
+    },
+    {
+      "title": "Context: Bungie Mass Layoffs Hit Marathon Team",
+      "summary": "This story was originally reported June 25 to 26, 2026. Bungie laid off approximately 292 employees, affecting Marathon's general manager, engineering director, producers, and art leadership, with WARN filings referencing the game's internal codename Goliath. Studio head Justin Truman also stepped down and was replaced by Poria Torken, with Sony stating Marathon remains part of its portfolio despite an uncertain studio future.",
+      "source_name": "Forbes",
+      "source_url": "https://www.forbes.com/sites/paultassi/2026/06/25/bungie-hit-with-widespread-layoffs-as-destiny-2-ends-and-marathon-continues/",
+      "credibility_tier": "verified-journalist",
+      "credibility_note": "Reporting from an established journalist with a strong track record covering Bungie, provided as background for the studio's ongoing instability.",
+      "published_at": "2026-06-25T00:00:00.000Z",
+      "category": "layoffs-business",
+      "corroborating_sources": [
+        "https://thegamepost.com/sonys-bungie-layoffs-hit-marathon-senior-roles-general-manager/",
+        "https://www.forbes.com/sites/paultassi/2026/06/26/a-studio-shattered-the-aftermath-of-the-mass-bungie-layoffs/"
+      ]
+    }
+  ],
+  "no_news_found": false
+}
