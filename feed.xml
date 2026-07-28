@@ -6,7 +6,14 @@
 <atom:link href="https://dailyexfil.com/feed.xml" rel="self" type="application/rss+xml"/>
 <description>Daily Marathon (Bungie) news digest. Official, press, and community items tiered by credibility, cross-referenced, and link-checked.</description>
 <language>en</language>
-<lastBuildDate>Tue, 28 Jul 2026 02:50:22 GMT</lastBuildDate>
+<lastBuildDate>Tue, 28 Jul 2026 19:04:14 GMT</lastBuildDate>
+<item>
+<title>DAILY EXFIL 2026-07-28: Marathon Update 1.1.5.1 Adds Solo Queue Option for Vault Breaker</title>
+<link>https://dailyexfil.com/day/2026-07-28.html</link>
+<guid isPermaLink="true">https://dailyexfil.com/day/2026-07-28.html</guid>
+<pubDate>Tue, 28 Jul 2026 20:00:00 GMT</pubDate>
+<description><![CDATA[[OFFICIAL] Marathon Update 1.1.5.1 Adds Solo Queue Option for Vault Breaker<br>[COMMS] Community Calls Vault Breaker's Second Week 'Underwhelming'<br>[COMMS] Patch Confusion: Players Feared Faction Progress Was Reset<br>[COMMS] Players Debate Whether PvE Modes Are What Marathon Needs<br>[COMMS] Long-Form Reddit Post Defends Marathon's Identity Amid Criticism<br>[PRESS] Context: Vault Breaker Launch Tripled Marathon's Daily Player Count<br>[PRESS] Context: Marathon's Player Count Decline Raises Questions About Bungie's Future]]></description>
+</item>
 <item>
 <title>DAILY EXFIL 2026-07-27: Marathon Update 1.1.5.1 Scheduled for July 28</title>
 <link>https://dailyexfil.com/day/2026-07-27.html</link>
@@ -97,13 +104,6 @@
 <guid isPermaLink="true">https://dailyexfil.com/day/2026-07-15.html</guid>
 <pubDate>Wed, 15 Jul 2026 20:00:00 GMT</pubDate>
 <description><![CDATA[[PRESS] Context: Bungie Layoffs Hit Marathon Senior Roles Including General Manager and Engineering Director<br>[COMMS] Players Petition for Per-Instance Matchmaking as Regions Report Population Collapse<br>[COMMS] Community Debate Grows Over Rook's Shifting Role in the Sandbox<br>[COMMS] Players Report Login Reward CyAc Kit Loading In With No Equipment<br>[COMMS] Community Reacts Positively to Sponsored Night Marsh Ranked Mode]]></description>
-</item>
-<item>
-<title>DAILY EXFIL 2026-07-14: Players Report CARRI Shop Mizzy Surplus and Possible Duplication Bug</title>
-<link>https://dailyexfil.com/day/2026-07-14.html</link>
-<guid isPermaLink="true">https://dailyexfil.com/day/2026-07-14.html</guid>
-<pubDate>Tue, 14 Jul 2026 20:00:00 GMT</pubDate>
-<description><![CDATA[[PRESS] Context: Vault Breaker PvE Mode Confirmed for July 21 Launch<br>[COMMS] Players Report CARRI Shop Mizzy Surplus and Possible Duplication Bug<br>[COMMS] Community Anticipates Vault Breaker PvE Mode Launch Next Week<br>[COMMS] Players Flag Runner Codex Challenges That Reward Working Against Teammates<br>[COMMS] Community Suggests Test Mode Without Shield Bubbles and Mizzys to Address Balance Complaints]]></description>
 </item>
 </channel>
 </rss>

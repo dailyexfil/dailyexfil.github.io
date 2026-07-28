@@ -1,0 +1,90 @@
+{
+  "date": "2026-07-28",
+  "items": [
+    {
+      "title": "Marathon Update 1.1.5.1 Adds Solo Queue Option for Vault Breaker",
+      "summary": "Bungie shipped patch 1.1.5.1 on July 28 after server maintenance, adding a solo-only queue option for the experimental Vault Breaker PvE mode following complaints that the crew-based version was too punishing in week one. The patch also increases critical damage against UESC combatants, reduces enemy aggression and accuracy, and includes item economy fixes.",
+      "source_name": "Steam News (official Bungie posts)",
+      "source_url": "https://store.steampowered.com/news/app/3065800/view/684134384916235641",
+      "credibility_tier": "official",
+      "credibility_note": "Direct official patch notes posted by Bungie via the Steam news feed.",
+      "published_at": "2026-07-28T16:00:49Z",
+      "category": "patch-notes",
+      "corroborating_sources": [
+        "https://mp1st.com/title-updates-and-patches/marathon-update-1-1-5-1-adds-solo-only-queue-option-vault-breaker-patch-1-026",
+        "https://help.marathonthegame.com/hc/en-us/articles/39001626488596-Marathon-Server-and-Update-Status"
+      ]
+    },
+    {
+      "title": "Community Calls Vault Breaker's Second Week 'Underwhelming'",
+      "summary": "A widely upvoted r/Marathon post argues that the week two refresh of Vault Breaker changed little beyond adding a solo queue option, with no new kit variations, weapons, or attachments added. The poster criticizes Bungie's track record running live service content, comparing the light touch update to past complaints about low-effort Destiny 2 seasons.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1v97hhv/unsurprisingly_the_second_week_of_vault_breaker/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Single Reddit thread reflecting player opinion, not verified reporting.",
+      "published_at": "2026-07-28T18:49:38Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Patch Confusion: Players Feared Faction Progress Was Reset",
+      "summary": "After the 1.1.5.1 update, some players reported their faction VIP ranks appeared to drop to zero, sparking worry on r/Marathon that progress had been wiped. Other community members quickly clarified that progress was not actually lost and that claiming pending reward packages restores the correct VIP rank.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1v95qks/the_update_reset_my_faction_progress/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Community bug reports and player-sourced clarification, not confirmed by Bungie.",
+      "published_at": "2026-07-28T17:49:20Z",
+      "category": "community-discussion",
+      "corroborating_sources": [
+        "https://www.reddit.com/r/Marathon/comments/1v95u2v/you_did_not_lose_faction_progress/"
+      ]
+    },
+    {
+      "title": "Players Debate Whether PvE Modes Are What Marathon Needs",
+      "summary": "A r/Marathon thread argues the game should lean into PvPvE modes, such as a Gambit-style Lockdown mode, rather than standalone PvE content, even while praising Vault Breaker itself. The discussion reflects an ongoing community debate about the game's core identity as Bungie continues testing pure PvE content.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1v951py/pve_is_not_what_marathon_needs/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Community opinion thread, not official guidance or confirmed plans.",
+      "published_at": "2026-07-28T17:25:02Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Long-Form Reddit Post Defends Marathon's Identity Amid Criticism",
+      "summary": "A detailed r/Marathon post pushes back on genre and mode complaints, arguing Marathon deserves deeper exploration on its own terms rather than being judged purely by extraction shooter conventions. The post has generated significant discussion about how the community should fairly evaluate the game.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1v95vx5/marathon_is_its_own_thing_that_deserves_to_be/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Community opinion piece reflecting player sentiment rather than verified facts.",
+      "published_at": "2026-07-28T17:54:42Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Context: Vault Breaker Launch Tripled Marathon's Daily Player Count",
+      "summary": "This PC Gamer story, originally published July 21, 2026, reported that Marathon's experimental Vault Breaker PvE mode immediately tripled the game's daily player count upon release. That early boost provides context for today's community complaints that the mode's second week update felt underwhelming by comparison.",
+      "source_name": "PC Gamer",
+      "source_url": "https://www.pcgamer.com/games/fps/marathons-experimental-pve-mode-is-live-immediately-tripling-its-daily-player-count/",
+      "credibility_tier": "verified-journalist",
+      "credibility_note": "Established gaming outlet reporting, published outside the current 24 hour window.",
+      "published_at": "2026-07-21T00:00:00Z",
+      "category": "gameplay-content",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Context: Marathon's Player Count Decline Raises Questions About Bungie's Future",
+      "summary": "This Windows Central report, originally published around July 18, 2026, detailed how Marathon's concurrent Steam player count had fallen to roughly 6,000, far below Destiny 2's numbers, and that the game ranked outside Xbox's top 100 most-played titles. The story raised broader concerns about Bungie's live-service direction following the studio's layoffs.",
+      "source_name": "Windows Central",
+      "source_url": "https://www.windowscentral.com/gaming/marathons-player-base-is-collapsing-and-bungies-future-looks-increasingly-bleak-as-concerns-grow-around-the-studios-live-service-direction",
+      "credibility_tier": "verified-journalist",
+      "credibility_note": "Established outlet reporting on player metrics, published before the current 24 hour window.",
+      "published_at": "2026-07-18T00:00:00Z",
+      "category": "layoffs-business",
+      "corroborating_sources": [
+        "https://massivelyop.com/2026/07/17/bungie-talks-up-marathons-mid-season-2-update-but-players-are-far-more-interested-in-destiny-2-these-days/"
+      ]
+    }
+  ],
+  "no_news_found": false
+}
