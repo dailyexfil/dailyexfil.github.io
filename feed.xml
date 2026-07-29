@@ -6,7 +6,14 @@
 <atom:link href="https://dailyexfil.com/feed.xml" rel="self" type="application/rss+xml"/>
 <description>Daily Marathon (Bungie) news digest. Official, press, and community items tiered by credibility, cross-referenced, and link-checked.</description>
 <language>en</language>
-<lastBuildDate>Tue, 28 Jul 2026 19:04:14 GMT</lastBuildDate>
+<lastBuildDate>Wed, 29 Jul 2026 00:05:50 GMT</lastBuildDate>
+<item>
+<title>DAILY EXFIL 2026-07-29: Marathon Update 1.1.5.1 Adds Solo Queue Option for Vault Breaker</title>
+<link>https://dailyexfil.com/day/2026-07-29.html</link>
+<guid isPermaLink="true">https://dailyexfil.com/day/2026-07-29.html</guid>
+<pubDate>Wed, 29 Jul 2026 20:00:00 GMT</pubDate>
+<description><![CDATA[[OFFICIAL] Marathon Update 1.1.5.1 Adds Solo Queue Option for Vault Breaker<br>[COMMS] Community Frustration Grows Over Crew Fill Matchmaking as Population Concerns Persist<br>[COMMS] Community Debate: Does Vault Breaker Expose PvE Design Limits in Marathon<br>[COMMS] Players Praise New Solo Vault Breaker Mode but Want Further Tuning<br>[COMMS] Players Report Excessive Voice Moderation Warnings After Latest Update<br>[OFFICIAL] Marathon Discounted 30% on Steam Through August 4<br>[PRESS] Context: Vault Breaker PvE Mode Launch Briefly Tripled Marathon's Player Count<br>[PRESS] Context: Marathon's Concurrent Player Count Collapses to About 6,000 on Steam]]></description>
+</item>
 <item>
 <title>DAILY EXFIL 2026-07-28: Marathon Update 1.1.5.1 Adds Solo Queue Option for Vault Breaker</title>
 <link>https://dailyexfil.com/day/2026-07-28.html</link>
@@ -97,13 +104,6 @@
 <guid isPermaLink="true">https://dailyexfil.com/day/2026-07-16.html</guid>
 <pubDate>Thu, 16 Jul 2026 20:00:00 GMT</pubDate>
 <description><![CDATA[[OFFICIAL] Mid-Season 2 Update Preview: Vault Breaker PvE Mode Coming July 21<br>[COMMS] Reddit reports Joshua Dean becomes Marathon General Manager, Lars Bakken departs<br>[COMMS] Community frustration over rare Cryo Archive Vault 6 keys<br>[COMMS] Clarification: new equipment limits only apply to offensive grenades<br>[COMMS] Debate: Marathon needs to support multiple playstyles in one lobby<br>[PRESS] Context: Bungie layoffs hit Marathon team including General Manager and Engineering Director roles]]></description>
-</item>
-<item>
-<title>DAILY EXFIL 2026-07-15: Players Petition for Per-Instance Matchmaking as Regions Report Population Collapse</title>
-<link>https://dailyexfil.com/day/2026-07-15.html</link>
-<guid isPermaLink="true">https://dailyexfil.com/day/2026-07-15.html</guid>
-<pubDate>Wed, 15 Jul 2026 20:00:00 GMT</pubDate>
-<description><![CDATA[[PRESS] Context: Bungie Layoffs Hit Marathon Senior Roles Including General Manager and Engineering Director<br>[COMMS] Players Petition for Per-Instance Matchmaking as Regions Report Population Collapse<br>[COMMS] Community Debate Grows Over Rook's Shifting Role in the Sandbox<br>[COMMS] Players Report Login Reward CyAc Kit Loading In With No Equipment<br>[COMMS] Community Reacts Positively to Sponsored Night Marsh Ranked Mode]]></description>
 </item>
 </channel>
 </rss>

@@ -1,0 +1,100 @@
+{
+  "date": "2026-07-29",
+  "items": [
+    {
+      "title": "Marathon Update 1.1.5.1 Adds Solo Queue Option for Vault Breaker",
+      "summary": "Bungie shipped Update 1.1.5.1 on July 28, adding an experimental solo only queue option for the Vault Breaker PvE mode, with adjusted combat difficulty to account for the smaller crew size. The patch also increases critical damage against UESC combatants and reduces enemy aggression and accuracy so the solo experience is less punishing than it was in week one.",
+      "source_name": "Steam News (official Bungie posts)",
+      "source_url": "https://store.steampowered.com/news/app/3065800/view/684134384916235641",
+      "credibility_tier": "official",
+      "credibility_note": "Official Bungie patch notes posted directly to the Steam news feed.",
+      "published_at": "2026-07-28T16:00:49.000Z",
+      "category": "patch-notes",
+      "corroborating_sources": [
+        "https://help.marathonthegame.com/hc/en-us/articles/39001626488596-Marathon-Server-and-Update-Status"
+      ]
+    },
+    {
+      "title": "Community Frustration Grows Over Crew Fill Matchmaking as Population Concerns Persist",
+      "summary": "A widely discussed Reddit post argues that forced crew fill matchmaking is driving players away, pointing to a concurrent player count below 6,000 as evidence of a matchmaking system that rewards try hards and punishes casual players. The poster asks whether anyone at Bungie actually plays the game under these conditions.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1v9asfg/i_have_no_fun_playing_crew_fills/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Unverified Reddit opinion post, included because it reflects a recurring and substantive population concern in the community.",
+      "published_at": "2026-07-28T20:51:10.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Community Debate: Does Vault Breaker Expose PvE Design Limits in Marathon",
+      "summary": "A detailed Reddit post argues that most character Shells were designed around PvP abilities, leaving only a couple genuinely useful against Vault Breaker's AI enemies. The thread sparked wider discussion about whether Bungie's underlying systems can properly support the PvE mode players have been asking for.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1v9e231/vault_breaker_shows_the_game_doesnt_support_pve/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Reddit analysis and opinion, unverified but substantive critique of the new game mode.",
+      "published_at": "2026-07-28T22:54:59.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Players Praise New Solo Vault Breaker Mode but Want Further Tuning",
+      "summary": "After the July 28 patch added a solo queue option for Vault Breaker, a Reddit thread praised the mode's atmosphere and exploration in the Cryo Archive, calling it one of the game's biggest strengths. The poster said the recent difficulty adjustment was a step in the right direction but felt it could still be improved much further.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1v9e256/solo_vb_mode_is_really_good_but_could_still_be/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Reddit player feedback, unverified but a direct first hand reaction to the day's patch.",
+      "published_at": "2026-07-28T22:55:03.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Players Report Excessive Voice Moderation Warnings After Latest Update",
+      "summary": "A Reddit thread asks whether others are getting what posters describe as absurd voice moderation warnings, following the voice reporting and moderation tools added in a recent Marathon update. Commenters suggest the new moderation system may be flagging players incorrectly.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1v9f8wt/anyone_else_getting_absurd_voice_moderation/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Unverified Reddit report, included because it points to a possible bug in a recently shipped feature.",
+      "published_at": "2026-07-28T23:43:00.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Marathon Discounted 30% on Steam Through August 4",
+      "summary": "Marathon's Standard and Deluxe Editions are on sale on Steam at $27.99 and $41.99, down from their normal $39.99 and $59.99. The discount runs until August 4, 2026.",
+      "source_name": "Steam",
+      "source_url": "https://store.steampowered.com/app/3065800/Marathon/",
+      "credibility_tier": "official",
+      "credibility_note": "Direct listing from Marathon's official Steam store page.",
+      "published_at": "2026-07-29T00:00:00.000Z",
+      "category": "other",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Context: Vault Breaker PvE Mode Launch Briefly Tripled Marathon's Player Count",
+      "summary": "This story was first reported on July 21, 2026, when Vault Breaker, Marathon's first experimental PvE mode, launched as part of Update 1.1.5 and runs through August 4. Steam concurrent players jumped from about 5,200 to nearly 15,000 shortly after launch, but the surge faded within roughly 36 hours as numbers fell back below 10,000.",
+      "source_name": "PC Gamer",
+      "source_url": "https://www.pcgamer.com/games/fps/marathons-experimental-pve-mode-is-live-immediately-tripling-its-daily-player-count/",
+      "credibility_tier": "verified-journalist",
+      "credibility_note": "Reporting from an established gaming outlet citing Steam concurrent player data.",
+      "published_at": "2026-07-21T00:00:00.000Z",
+      "category": "gameplay-content",
+      "corroborating_sources": [
+        "https://insider-gaming.com/marathon-pve-mode-triple-games-player-count/",
+        "https://www.forbes.com/sites/paultassi/2026/07/21/marathon-pve-mode-is-live-today-but-expectations-should-be-tempered/",
+        "https://www.gamereactor.eu/marathon-player-figures-surge-following-launch-of-pve-mode-vault-breaker-1751273/"
+      ]
+    },
+    {
+      "title": "Context: Marathon's Concurrent Player Count Collapses to About 6,000 on Steam",
+      "summary": "This story was first reported on July 18, 2026, when Windows Central found Marathon's Steam concurrent player count had fallen to roughly 6,000, less than 15 percent of its launch day peak of 88,337. The report noted the game now trails decade old titles like Gears of War 2 and Fable 3 in active players, raising concerns about Bungie's live service strategy following major layoffs.",
+      "source_name": "Windows Central",
+      "source_url": "https://www.windowscentral.com/gaming/marathons-player-base-is-collapsing-and-bungies-future-looks-increasingly-bleak-as-concerns-grow-around-the-studios-live-service-direction",
+      "credibility_tier": "verified-journalist",
+      "credibility_note": "Reporting from an established gaming and tech outlet citing platform player data.",
+      "published_at": "2026-07-18T00:00:00.000Z",
+      "category": "layoffs-business",
+      "corroborating_sources": []
+    }
+  ],
+  "no_news_found": false
+}
