@@ -2,98 +2,104 @@
   "date": "2026-07-29",
   "items": [
     {
-      "title": "Marathon Update 1.1.5.1 Adds Solo Queue Option for Vault Breaker",
-      "summary": "Bungie shipped Update 1.1.5.1 on July 28, adding an experimental solo only queue option for the Vault Breaker PvE mode, with adjusted combat difficulty to account for the smaller crew size. The patch also increases critical damage against UESC combatants and reduces enemy aggression and accuracy so the solo experience is less punishing than it was in week one.",
-      "source_name": "Steam News (official Bungie posts)",
-      "source_url": "https://store.steampowered.com/news/app/3065800/view/684134384916235641",
-      "credibility_tier": "official",
-      "credibility_note": "Official Bungie patch notes posted directly to the Steam news feed.",
-      "published_at": "2026-07-28T16:00:49.000Z",
-      "category": "patch-notes",
-      "corroborating_sources": [
-        "https://help.marathonthegame.com/hc/en-us/articles/39001626488596-Marathon-Server-and-Update-Status"
-      ]
-    },
-    {
-      "title": "Community Frustration Grows Over Crew Fill Matchmaking as Population Concerns Persist",
-      "summary": "A widely discussed Reddit post argues that forced crew fill matchmaking is driving players away, pointing to a concurrent player count below 6,000 as evidence of a matchmaking system that rewards try hards and punishes casual players. The poster asks whether anyone at Bungie actually plays the game under these conditions.",
+      "title": "Vault Breaker PvE Trial Extended Until August 18",
+      "summary": "A Reddit post today shares a tweet indicating Bungie is extending the Vault Breaker PvE trial mode past its original August 4 end date to August 18. The news sparked debate in the community, with some players welcoming the extension because the mode has been well received, while others worry it could further thin out the game's PvP population.",
       "source_name": "r/Marathon",
-      "source_url": "https://www.reddit.com/r/Marathon/comments/1v9asfg/i_have_no_fun_playing_crew_fills/",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1va2p8z/vault_breaker_extended_until_august_18/",
       "credibility_tier": "community-speculation",
-      "credibility_note": "Unverified Reddit opinion post, included because it reflects a recurring and substantive population concern in the community.",
-      "published_at": "2026-07-28T20:51:10.000Z",
-      "category": "community-discussion",
-      "corroborating_sources": []
-    },
-    {
-      "title": "Community Debate: Does Vault Breaker Expose PvE Design Limits in Marathon",
-      "summary": "A detailed Reddit post argues that most character Shells were designed around PvP abilities, leaving only a couple genuinely useful against Vault Breaker's AI enemies. The thread sparked wider discussion about whether Bungie's underlying systems can properly support the PvE mode players have been asking for.",
-      "source_name": "r/Marathon",
-      "source_url": "https://www.reddit.com/r/Marathon/comments/1v9e231/vault_breaker_shows_the_game_doesnt_support_pve/",
-      "credibility_tier": "community-speculation",
-      "credibility_note": "Reddit analysis and opinion, unverified but substantive critique of the new game mode.",
-      "published_at": "2026-07-28T22:54:59.000Z",
-      "category": "community-discussion",
-      "corroborating_sources": []
-    },
-    {
-      "title": "Players Praise New Solo Vault Breaker Mode but Want Further Tuning",
-      "summary": "After the July 28 patch added a solo queue option for Vault Breaker, a Reddit thread praised the mode's atmosphere and exploration in the Cryo Archive, calling it one of the game's biggest strengths. The poster said the recent difficulty adjustment was a step in the right direction but felt it could still be improved much further.",
-      "source_name": "r/Marathon",
-      "source_url": "https://www.reddit.com/r/Marathon/comments/1v9e256/solo_vb_mode_is_really_good_but_could_still_be/",
-      "credibility_tier": "community-speculation",
-      "credibility_note": "Reddit player feedback, unverified but a direct first hand reaction to the day's patch.",
-      "published_at": "2026-07-28T22:55:03.000Z",
-      "category": "community-discussion",
-      "corroborating_sources": []
-    },
-    {
-      "title": "Players Report Excessive Voice Moderation Warnings After Latest Update",
-      "summary": "A Reddit thread asks whether others are getting what posters describe as absurd voice moderation warnings, following the voice reporting and moderation tools added in a recent Marathon update. Commenters suggest the new moderation system may be flagging players incorrectly.",
-      "source_name": "r/Marathon",
-      "source_url": "https://www.reddit.com/r/Marathon/comments/1v9f8wt/anyone_else_getting_absurd_voice_moderation/",
-      "credibility_tier": "community-speculation",
-      "credibility_note": "Unverified Reddit report, included because it points to a possible bug in a recently shipped feature.",
-      "published_at": "2026-07-28T23:43:00.000Z",
-      "category": "community-discussion",
-      "corroborating_sources": []
-    },
-    {
-      "title": "Marathon Discounted 30% on Steam Through August 4",
-      "summary": "Marathon's Standard and Deluxe Editions are on sale on Steam at $27.99 and $41.99, down from their normal $39.99 and $59.99. The discount runs until August 4, 2026.",
-      "source_name": "Steam",
-      "source_url": "https://store.steampowered.com/app/3065800/Marathon/",
-      "credibility_tier": "official",
-      "credibility_note": "Direct listing from Marathon's official Steam store page.",
-      "published_at": "2026-07-29T00:00:00.000Z",
-      "category": "other",
-      "corroborating_sources": []
-    },
-    {
-      "title": "Context: Vault Breaker PvE Mode Launch Briefly Tripled Marathon's Player Count",
-      "summary": "This story was first reported on July 21, 2026, when Vault Breaker, Marathon's first experimental PvE mode, launched as part of Update 1.1.5 and runs through August 4. Steam concurrent players jumped from about 5,200 to nearly 15,000 shortly after launch, but the surge faded within roughly 36 hours as numbers fell back below 10,000.",
-      "source_name": "PC Gamer",
-      "source_url": "https://www.pcgamer.com/games/fps/marathons-experimental-pve-mode-is-live-immediately-tripling-its-daily-player-count/",
-      "credibility_tier": "verified-journalist",
-      "credibility_note": "Reporting from an established gaming outlet citing Steam concurrent player data.",
-      "published_at": "2026-07-21T00:00:00.000Z",
+      "credibility_note": "Sourced from a tweet shared via a Reddit post; the original poster's account was not independently verifiable among available candidates, though multiple community threads discuss the same extension.",
+      "published_at": "2026-07-29T17:20:37.000Z",
       "category": "gameplay-content",
       "corroborating_sources": [
-        "https://insider-gaming.com/marathon-pve-mode-triple-games-player-count/",
-        "https://www.forbes.com/sites/paultassi/2026/07/21/marathon-pve-mode-is-live-today-but-expectations-should-be-tempered/",
-        "https://www.gamereactor.eu/marathon-player-figures-surge-following-launch-of-pve-mode-vault-breaker-1751273/"
+        "https://www.reddit.com/r/Marathon/comments/1va54cx/so_they_extended_vaultbreaker/",
+        "https://www.reddit.com/r/Marathon/comments/1va38ga/petty_joy/"
       ]
     },
     {
-      "title": "Context: Marathon's Concurrent Player Count Collapses to About 6,000 on Steam",
-      "summary": "This story was first reported on July 18, 2026, when Windows Central found Marathon's Steam concurrent player count had fallen to roughly 6,000, less than 15 percent of its launch day peak of 88,337. The report noted the game now trails decade old titles like Gears of War 2 and Fable 3 in active players, raising concerns about Bungie's live service strategy following major layoffs.",
-      "source_name": "Windows Central",
-      "source_url": "https://www.windowscentral.com/gaming/marathons-player-base-is-collapsing-and-bungies-future-looks-increasingly-bleak-as-concerns-grow-around-the-studios-live-service-direction",
-      "credibility_tier": "verified-journalist",
-      "credibility_note": "Reporting from an established gaming and tech outlet citing platform player data.",
-      "published_at": "2026-07-18T00:00:00.000Z",
-      "category": "layoffs-business",
+      "title": "Marathon Update 1.1.5.1 Deployed on July 28",
+      "summary": "Bungie deployed Update 1.1.5.1 on July 28, 2026, confirmed by scheduled maintenance listed on the official Marathon support page. The patch is roughly 1.6 GB on Steam and follows the mid season 2 update from July 21 that added the Vault Breaker mode.",
+      "source_name": "Marathon Help - Official Support",
+      "source_url": "https://help.marathonthegame.com/hc/en-us/articles/39001626488596-Marathon-Server-and-Update-Status",
+      "credibility_tier": "official",
+      "credibility_note": "Direct from Bungie's official support and status page confirming the maintenance and update rollout.",
+      "published_at": "2026-07-28T00:00:00.000Z",
+      "category": "patch-notes",
+      "corroborating_sources": [
+        "https://shatteredvault.com/marathon-update-1-1-5-1/"
+      ]
+    },
+    {
+      "title": "Players frustrated Bungie won't address why Destroyer has no new skin",
+      "summary": "A Reddit thread today criticizes Bungie for staying silent on why the Destroyer operator has not received a shop skin since launch, despite months of player requests. The poster says even a definitive no would feel better than the ongoing lack of acknowledgement, reflecting broader community frustration with the studio's sparse communication.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1va23mg/why_wont_bungie_just_say_something_literally/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Unverified Reddit discussion thread, included because it reflects a substantive and recurring community complaint about studio communication.",
+      "published_at": "2026-07-29T16:59:55.000Z",
+      "category": "community-discussion",
       "corroborating_sources": []
+    },
+    {
+      "title": "Community debates whether Marathon has a long term future",
+      "summary": "A lengthy Reddit post today asks whether Marathon has a viable long term future, with the author describing an earlier free weekend attempt as feeling empty before deciding to give the game a more earnest try. The thread has drawn a range of community responses on retention, direction, and whether recent changes are enough to keep players engaged.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1va283d/does_marathon_have_a_long_term_future/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Unverified Reddit discussion thread reflecting community sentiment rather than confirmed reporting.",
+      "published_at": "2026-07-29T17:04:07.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Debate over whether Marathon should focus more on PvP",
+      "summary": "A community thread today argues Marathon should double down on PvP rather than expanding PvE content like Vault Breaker, with the poster claiming the new mode did not meaningfully change player counts or retention. Other commenters push back, illustrating an ongoing split in the community over whether the game should broaden its focus or stay true to its extraction shooter PvP roots.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1va2539/the_game_should_be_more_pvp_focused/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Unverified Reddit opinion thread, included as a representative sample of an ongoing community debate.",
+      "published_at": "2026-07-29T17:01:15.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Returning season 1 players say loot changes hurt their experience",
+      "summary": "A Reddit post today from a self described heavily invested season 1 player describes coming back mid season 2 and finding the loot loop gutted compared to before, despite being level 50 with several golds and purples. The thread captures a sentiment shift among some longtime players who feel recent balance changes made gearing up less rewarding.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1va2ydi/came_back_halfway_into_the_season_not_having_the/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Single Reddit user account of returning to the game, included as representative feedback rather than confirmed fact.",
+      "published_at": "2026-07-29T17:29:25.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Context: Marathon game director Joe Ziegler departs Bungie after four months",
+      "summary": "This story was originally reported around July 17 to 19, 2026, when Joe Ziegler announced he was leaving Bungie only four months after Marathon's launch, with Del Chafe III taking over as game director alongside creative director Julia Nardin. The departure followed Bungie's broader June 2026 layoffs and adds context to ongoing community complaints about the studio's sparse communication seen in today's threads.",
+      "source_name": "Video Games Chronicle",
+      "source_url": "https://www.videogameschronicle.com/news/marathons-director-confirms-hes-quit-bungie-four-months-after-launch/",
+      "credibility_tier": "verified-journalist",
+      "credibility_note": "Established gaming outlet reporting confirmed by the director's own public statement.",
+      "published_at": "2026-07-19T00:00:00.000Z",
+      "category": "layoffs-business",
+      "corroborating_sources": [
+        "https://massivelyop.com/2026/07/20/marathons-game-director-resigned-from-bungie-for-something-new-somewhere-else/",
+        "https://www.pushsquare.com/news/2026/07/big-shake-up-on-sonys-struggling-live-service-as-marathons-game-director-departs",
+        "https://mmo.net/2026/07/19/marathon-game-director-joseph-ziegler-is-leaving-bungie/"
+      ]
+    },
+    {
+      "title": "Context: Marathon's Steam player count dropped below 1,000 in early July",
+      "summary": "This story was originally reported on July 17, 2026, showing Marathon's concurrent Steam player count fell below 1,000 on multiple days in early July, including a low of 641 players on July 7, with average counts hovering around 4,000. The decline underlies today's Reddit discussion about whether the game has a long term future and whether new content like Vault Breaker can turn the trend around.",
+      "source_name": "GameReactor",
+      "source_url": "https://www.gamereactor.eu/marathons-woes-continue-concurrent-player-count-dropped-below-1000-on-steam-on-two-separate-days-this-week-1746093/",
+      "credibility_tier": "verified-journalist",
+      "credibility_note": "Established gaming outlet citing publicly tracked Steam concurrent player data.",
+      "published_at": "2026-07-17T00:00:00.000Z",
+      "category": "other",
+      "corroborating_sources": [
+        "https://www.techtimes.com/articles/321081/20260720/marathon-drops-third-game-director-two-years-player-count-nears-zero.htm",
+        "https://www.windowscentral.com/gaming/marathons-player-base-is-collapsing-and-bungies-future-looks-increasingly-bleak-as-concerns-grow-around-the-studios-live-service-direction"
+      ]
     }
   ],
   "no_news_found": false
