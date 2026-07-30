@@ -6,7 +6,14 @@
 <atom:link href="https://dailyexfil.com/feed.xml" rel="self" type="application/rss+xml"/>
 <description>Daily Marathon (Bungie) news digest. Official, press, and community items tiered by credibility, cross-referenced, and link-checked.</description>
 <language>en</language>
-<lastBuildDate>Wed, 29 Jul 2026 19:04:21 GMT</lastBuildDate>
+<lastBuildDate>Thu, 30 Jul 2026 19:03:34 GMT</lastBuildDate>
+<item>
+<title>DAILY EXFIL 2026-07-30: Bungie extends Marathon's Vault Breaker PvE mode until August 18</title>
+<link>https://dailyexfil.com/day/2026-07-30.html</link>
+<guid isPermaLink="true">https://dailyexfil.com/day/2026-07-30.html</guid>
+<pubDate>Thu, 30 Jul 2026 20:00:00 GMT</pubDate>
+<description><![CDATA[[PRESS] Bungie extends Marathon's Vault Breaker PvE mode until August 18<br>[COMMS] Reddit thread argues toxic community behavior is driving away new Marathon players<br>[COMMS] Players frustrated over lack of Destroyer shell skins since Season 1 launch<br>[COMMS] Community feedback calls for more narrative events beyond launch ARG<br>[COMMS] Sentinel players push for buffs to counter mobility mismatch<br>[PRESS] Context: Marathon director Joe Ziegler leaves Bungie after mass layoffs<br>[PRESS] Context: New Marathon General Manager Joshua Deane named amid leadership restructuring]]></description>
+</item>
 <item>
 <title>DAILY EXFIL 2026-07-29: Vault Breaker PvE Trial Extended Until August 18</title>
 <link>https://dailyexfil.com/day/2026-07-29.html</link>
@@ -97,13 +104,6 @@
 <guid isPermaLink="true">https://dailyexfil.com/day/2026-07-17.html</guid>
 <pubDate>Fri, 17 Jul 2026 20:00:00 GMT</pubDate>
 <description><![CDATA[[PRESS] Marathon Game Director Joe Ziegler Departs Bungie, Del Chafe III Takes Over<br>[OFFICIAL] Marathon Mid-Season Update Adds Experimental PvE Mode Vault Breaker on July 21<br>[PRESS] New Marathon General Manager Named After June Layoffs, Veteran Designer Retires<br>[COMMS] Community Debate: Did the PvE Pivot Cost Marathon Its Director?<br>[COMMS] Players Report Repeated Encounters With Coordinated Six-Player Squads<br>[COMMS] Solo Player Frustration Over Long Matchmaking Times and Rook Restrictions<br>[COMMS] Players Report Cryo Free Kit Bug Recurring<br>[PRESS] Context: Bungie Layoffs Cut Around 292 Staff, Hit Marathon Leadership]]></description>
-</item>
-<item>
-<title>DAILY EXFIL 2026-07-16: Mid-Season 2 Update Preview: Vault Breaker PvE Mode Coming July 21</title>
-<link>https://dailyexfil.com/day/2026-07-16.html</link>
-<guid isPermaLink="true">https://dailyexfil.com/day/2026-07-16.html</guid>
-<pubDate>Thu, 16 Jul 2026 20:00:00 GMT</pubDate>
-<description><![CDATA[[OFFICIAL] Mid-Season 2 Update Preview: Vault Breaker PvE Mode Coming July 21<br>[COMMS] Reddit reports Joshua Dean becomes Marathon General Manager, Lars Bakken departs<br>[COMMS] Community frustration over rare Cryo Archive Vault 6 keys<br>[COMMS] Clarification: new equipment limits only apply to offensive grenades<br>[COMMS] Debate: Marathon needs to support multiple playstyles in one lobby<br>[PRESS] Context: Bungie layoffs hit Marathon team including General Manager and Engineering Director roles]]></description>
 </item>
 </channel>
 </rss>

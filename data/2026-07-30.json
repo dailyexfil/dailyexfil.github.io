@@ -1,0 +1,83 @@
+{
+  "date": "2026-07-30",
+  "items": [
+    {
+      "title": "Bungie extends Marathon's Vault Breaker PvE mode until August 18",
+      "summary": "Bungie announced it is keeping Vault Breaker, Marathon's experimental PvE mode, live until August 18 instead of ending it on August 4 as originally planned. The studio credited positive player response during the mode's first week for the extension. Vault Breaker is a roguelite-style cooperative dungeon crawl set in the Cryo Archive.",
+      "source_name": "TheSixthAxis",
+      "source_url": "https://www.thesixthaxis.com/2026/07/29/bungie-will-keep-marathons-vault-breaker-pve-mode-online/",
+      "credibility_tier": "verified-journalist",
+      "credibility_note": "Established gaming outlet reporting directly on a Bungie announcement.",
+      "published_at": "2026-07-29T00:00:00Z",
+      "category": "gameplay-content",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Reddit thread argues toxic community behavior is driving away new Marathon players",
+      "summary": "A widely discussed r/Marathon post argues that new players asking for help are routinely told to have a 'skill issue' or quit, and that this hostility is a major reason the game struggles to retain newcomers. The poster ties this directly to ongoing concerns about population health in a live service game. Replies debated whether the community or the game's difficulty curve is more to blame.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1vb2m95/destroying_your_own_game/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Reddit discussion thread reflecting player sentiment, not independently verified data.",
+      "published_at": "2026-07-30T18:53:10.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Players frustrated over lack of Destroyer shell skins since Season 1 launch",
+      "summary": "A popular r/Marathon post complains that Bungie has only released cosmetic skins for the Recon, Assassin, and Thief shells since Season 1, with none for Destroyer, and calls out a recent platform-locked skin as another sore point. The poster compares the rotation unfavorably to other live service shooters and says continued neglect could push them away from the game. The thread drew significant community agreement in comments.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1vb2q8s/no_destroyer_skin_no_more_play/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Reddit thread expressing player frustration over cosmetic content, unverified but representative of community sentiment.",
+      "published_at": "2026-07-30T18:57:10.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Community feedback calls for more narrative events beyond launch ARG",
+      "summary": "A r/Marathon post argues the game's biggest weakness is a lack of ongoing present-day narrative content, pointing out that beyond the launch ARG and terminal activations, Season 2 has offered little in the way of community events or story progression. The poster says the early ARG moments were a peak experience that first hooked them, and wants Bungie to bring back similar live storytelling. The thread reflects broader community desire for more frequent narrative beats tied to seasonal content.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1vazkai/my_biggest_criticism_of_marathon/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Individual player opinion piece on Reddit, useful as community sentiment but not independently verified.",
+      "published_at": "2026-07-30T17:05:23.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Sentinel players push for buffs to counter mobility mismatch",
+      "summary": "A detailed r/Marathon feedback post argues Sentinel struggles because its stationary abilities do not suit Marathon's high mobility gameplay. Suggested changes include faster animation speeds for snare, tracker, and ultimate activation, and moving the ultimate's defender system to follow the runner shell instead of staying fixed. The thread is part of ongoing player discussion about shell balance heading into future patches.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1vayj9t/sentinel_feedback/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Player-authored balance feedback on Reddit, not an official statement from Bungie.",
+      "published_at": "2026-07-30T16:28:35.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Context: Marathon director Joe Ziegler leaves Bungie after mass layoffs",
+      "summary": "This story was originally published on July 19, 2026. Marathon game director Joe Ziegler confirmed he left Bungie following the June 25 layoffs that affected around 292 employees in Bellevue. Ziegler had taken over as director late in Marathon's development after original director Christopher Barrett departed, and his exit adds to leadership turnover following the game's rocky launch year.",
+      "source_name": "VGC (Video Game Chronicle)",
+      "source_url": "https://www.videogameschronicle.com/news/marathons-director-confirms-hes-quit-bungie-four-months-after-launch/",
+      "credibility_tier": "verified-journalist",
+      "credibility_note": "Established gaming outlet reporting confirmed by the departing director himself.",
+      "published_at": "2026-07-19T00:00:00Z",
+      "category": "layoffs-business",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Context: New Marathon General Manager Joshua Deane named amid leadership restructuring",
+      "summary": "This story was originally published on July 15, 2026. Joshua Deane, formerly Bungie's Head of Product, was appointed as Marathon's new General Manager after previous GM Scott Taylor departed following the June layoffs. Deane's stated focus is product evolution, team organization, and player health as the game heads deeper into its live service roadmap.",
+      "source_name": "The Game Post",
+      "source_url": "https://thegamepost.com/bungie-new-marathon-general-manager-20-year-studio-veteran-leaves/",
+      "credibility_tier": "verified-journalist",
+      "credibility_note": "Established gaming news outlet reporting on confirmed leadership change.",
+      "published_at": "2026-07-15T00:00:00Z",
+      "category": "layoffs-business",
+      "corroborating_sources": []
+    }
+  ],
+  "no_news_found": false
+}
