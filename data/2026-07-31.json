@@ -1,0 +1,87 @@
+{
+  "date": "2026-07-31",
+  "items": [
+    {
+      "title": "Sony Earnings Report Says Marathon Maintains High User Retention in Season 2",
+      "summary": "Sony's July 31, 2026 earnings report stated that Marathon has kept a high user retention rate following the Season 2 launch in June while still picking up new players. Sony stopped short of counting Marathon as a steady revenue contributor the way it does with its other live service titles.",
+      "source_name": "Forbes",
+      "source_url": "https://www.forbes.com/sites/paultassi/2026/07/31/sony-addresses-bungies-marathon-performance-in-earnings-report/",
+      "credibility_tier": "verified-journalist",
+      "credibility_note": "Forbes reporting on an official Sony earnings disclosure, written by a journalist with a long track record covering Bungie.",
+      "published_at": "2026-07-31T09:11:00Z",
+      "category": "layoffs-business",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Community Debates Why Marathon Has Collected More Haters Than Players",
+      "summary": "A Reddit user who has played since the beta questioned why Marathon draws so much online hostility despite being a niche extraction shooter. They pointed to backlash from Destiny 2 players upset that support for their game ended while Bungie continues investing in Marathon, sparking a wider thread about community sentiment.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1vbwqj9/why_has_marathon_collected_more_haters_than/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Reddit discussion thread reflecting player sentiment, not independently verified reporting.",
+      "published_at": "2026-07-31T17:01:52.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Players Push Back on Vault Breaker Upgrade Grind",
+      "summary": "A Reddit poster said it takes about 10 runs of Vault Breaker to earn a single permanent upgrade, arguing that pace feels too slow for a mode advertised as a roguelite. The complaint drew discussion about whether Bungie's recent tuning changes to the mode have gone far enough.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1vbyigi/why_am_i_doing_10_runs_for_a_single_upgrade_in/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Single Reddit thread expressing a player complaint about game balance, unverified beyond community reaction.",
+      "published_at": "2026-07-31T18:05:50.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Community Wants Custom Loadouts in Marathon's Future Permanent PvE Mode",
+      "summary": "A Reddit user said they hope the eventual permanent PvE mode will let players bring their own gear rather than relying only on pre-built Sponsored loadouts. They argued that build crafting loses its point for PvE-focused players if only fixed kits are allowed.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1vbxhmc/i_hope_the_future_permanent_pve_mode_lets_us/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Reddit feedback thread representing individual player opinion, not confirmed studio plans.",
+      "published_at": "2026-07-31T17:28:24.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Some Players Report Renewed Enjoyment of Cryo Mode",
+      "summary": "A Reddit user said they are enjoying Cryo for the first time since Season 1, crediting more weapon variety and a better ability to keep pace with teammates after many Vault Breaker runs. They noted losing all their loot in the process but still calling it a good time, including a successful crew-fill run.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1vbvcof/enjoying_cryo_for_the_first_time_since_season_1/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Single Reddit post describing personal experience, offered as anecdotal community sentiment.",
+      "published_at": "2026-07-31T16:11:30.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Context: Bungie Adds Solo-Only Queue Option to Vault Breaker",
+      "summary": "This update originally shipped on July 28, 2026. Bungie's patch 1.1.5.1 added a dedicated solo-only matchmaking queue for the Vault Breaker PvE mode, along with increased player critical damage against UESC enemies and reduced UESC aggression and accuracy for solo players, addressing feedback that solo play felt too punishing.",
+      "source_name": "MP1st",
+      "source_url": "https://mp1st.com/title-updates-and-patches/marathon-update-1-1-5-1-adds-solo-only-queue-option-vault-breaker-patch-1-026",
+      "credibility_tier": "verified-journalist",
+      "credibility_note": "Reporting from an established patch-tracking gaming outlet, corroborated by a second outlet covering the same update.",
+      "published_at": "2026-07-28T00:00:00Z",
+      "category": "patch-notes",
+      "corroborating_sources": [
+        "https://massivelyop.com/2026/07/29/marathon-adjusts-the-solo-queue-for-its-pve-roguelike-mode-and-applies-a-small-list-of-fixes/"
+      ]
+    },
+    {
+      "title": "Context: Marathon Game Director Joe Ziegler Confirms Departure from Bungie",
+      "summary": "This news originally broke around July 19-20, 2026. Joe Ziegler, Marathon's game director, confirmed he was leaving Bungie about four months after the game's March launch, with Del Chafe III taking over as game director and Julia Nardin becoming creative director. The change adds to a period of leadership turnover following earlier studio-wide layoffs.",
+      "source_name": "Video Games Chronicle",
+      "source_url": "https://www.videogameschronicle.com/news/marathons-director-confirms-hes-quit-bungie-four-months-after-launch/",
+      "credibility_tier": "verified-journalist",
+      "credibility_note": "Reporting from an established gaming news outlet, corroborated by a second outlet covering the same departure.",
+      "published_at": "2026-07-19T13:28:00Z",
+      "category": "layoffs-business",
+      "corroborating_sources": [
+        "https://massivelyop.com/2026/07/20/marathons-game-director-resigned-from-bungie-for-something-new-somewhere-else/"
+      ]
+    }
+  ],
+  "no_news_found": false
+}
