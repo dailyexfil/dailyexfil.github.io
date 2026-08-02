@@ -1,0 +1,83 @@
+{
+  "date": "2026-08-02",
+  "items": [
+    {
+      "title": "Community Sentiment Shift: Players Say Marathon Is in Its Best State Since Season 1",
+      "summary": "A Reddit post from a self-described non-casual player argues the game feels better than it has since launch season, citing improved matchmaking times and overall meta health. The main complaint raised is room rushing in Cryo Archive runs with level 2 clearance, which the poster says can get annoying over time.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1vdoav7/currently_the_game_is_in_its_best_state_since_s1/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Single Reddit post reflecting one player's experience, not corroborated by other sources, but included as a notable sentiment data point.",
+      "published_at": "2026-08-02T17:39:54.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Marathon Discounted 30 Percent on Steam Through August 4",
+      "summary": "Marathon is currently on sale on Steam with 30 percent off both the Standard and Deluxe editions, running through August 4. The Standard Edition drops from $39.99 to $27.99, and the Deluxe Edition drops from $59.99 to $41.99.",
+      "source_name": "Steam",
+      "source_url": "https://store.steampowered.com/app/3065800/Marathon/",
+      "credibility_tier": "official",
+      "credibility_note": "Directly sourced from the official Steam store page for the game.",
+      "published_at": "2026-08-02T00:00:00Z",
+      "category": "other",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Players Debate Whether Recon Shell Buff Was a Mistake",
+      "summary": "A Reddit thread argues that a recent buff to the Recon shell went too far, saying it now grants what amounts to wall hacks compared to its weaker launch state. The post pushes back on earlier community calls for the shell to be strengthened, reflecting an ongoing balance debate.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1vdpqfm/to_all_those_who_called_for_recon_to_be_buffed/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Single Reddit opinion post on shell balance, unverified by Bungie and not corroborated elsewhere.",
+      "published_at": "2026-08-02T18:35:22.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Players Want New Vault Breaker Upgrades Before Mode Ends",
+      "summary": "A Reddit post asks Bungie to add new upgrades to the Vault Breaker PvE mode for its remaining weeks, suggesting ideas like faster paths to the Compiler boss, alternate loadout options, and ways to convert leftover stones into Cradle XP. The poster says the mode is enjoyable but starting to feel repetitive without fresh content.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1vdk02q/i_really_hope_vault_breaker_gets_some_new/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Single Reddit feedback post on the experimental PvE mode, not corroborated by other sources.",
+      "published_at": "2026-08-02T14:48:50.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Vault Breaker Prestige Key Templates Actually Give Cryo Keys, Players Say",
+      "summary": "A Reddit post reports that prestige key templates earned from Vault Breaker rewards, which require hacking three security monitors in Cryo, only unlock Cryo keys rather than regular prestige keys as the name implies. The poster says this naming mismatch was disappointing given how difficult the challenge is to complete.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1vdpsa2/prestige_key_templates_from_vault_breaker_rewards/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Single Reddit bug and naming complaint, unconfirmed by Bungie and not corroborated elsewhere.",
+      "published_at": "2026-08-02T18:37:22.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Context: Vault Breaker PvE Mode Extended to August 18",
+      "summary": "This story was originally published on 2026-07-29. Bungie extended the experimental Vault Breaker PvE mode from its original August 4 deadline to August 18 based on player feedback from the first week of testing. The mode is Marathon's first dedicated PvE experience, letting players run the Cryo Archive solo, in duos, or as a crew ahead of a fuller PvE mode planned for Season 3.",
+      "source_name": "TheSixthAxis",
+      "source_url": "https://www.thesixthaxis.com/2026/07/29/bungie-will-keep-marathons-vault-breaker-pve-mode-online-for-longer/",
+      "credibility_tier": "verified-journalist",
+      "credibility_note": "Established gaming outlet reporting on an official Bungie announcement.",
+      "published_at": "2026-07-29T00:00:00Z",
+      "category": "gameplay-content",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Context: Marathon Steam Player Count Declining Sharply",
+      "summary": "This story was originally published on 2026-07-18. Marathon's concurrent Steam player count fell to around 6,000 by mid-July, down from a launch peak of 88,337, with the game also ranking below older titles like Gears of War 2 on Xbox charts. The decline has fueled ongoing community debate about the sustainability of the game's paid extraction shooter model.",
+      "source_name": "Windows Central",
+      "source_url": "https://www.windowscentral.com/gaming/marathons-player-base-is-collapsing-and-bungies-future-looks-increasingly-bleak-as-concerns-grow-around-the-studios-live-service-direction",
+      "credibility_tier": "verified-journalist",
+      "credibility_note": "Established gaming outlet analysis citing platform player count data.",
+      "published_at": "2026-07-18T00:00:00Z",
+      "category": "layoffs-business",
+      "corroborating_sources": []
+    }
+  ],
+  "no_news_found": false
+}

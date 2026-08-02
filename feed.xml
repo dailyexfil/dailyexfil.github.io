@@ -6,7 +6,14 @@
 <atom:link href="https://dailyexfil.com/feed.xml" rel="self" type="application/rss+xml"/>
 <description>Daily Marathon (Bungie) news digest. Official, press, and community items tiered by credibility, cross-referenced, and link-checked.</description>
 <language>en</language>
-<lastBuildDate>Sun, 02 Aug 2026 04:38:14 GMT</lastBuildDate>
+<lastBuildDate>Sun, 02 Aug 2026 19:03:14 GMT</lastBuildDate>
+<item>
+<title>DAILY EXFIL 2026-08-02: Community Sentiment Shift: Players Say Marathon Is in Its Best State Since Season 1</title>
+<link>https://dailyexfil.com/day/2026-08-02.html</link>
+<guid isPermaLink="true">https://dailyexfil.com/day/2026-08-02.html</guid>
+<pubDate>Sun, 02 Aug 2026 20:00:00 GMT</pubDate>
+<description><![CDATA[[COMMS] Community Sentiment Shift: Players Say Marathon Is in Its Best State Since Season 1<br>[OFFICIAL] Marathon Discounted 30 Percent on Steam Through August 4<br>[COMMS] Players Debate Whether Recon Shell Buff Was a Mistake<br>[COMMS] Players Want New Vault Breaker Upgrades Before Mode Ends<br>[COMMS] Vault Breaker Prestige Key Templates Actually Give Cryo Keys, Players Say<br>[PRESS] Context: Vault Breaker PvE Mode Extended to August 18<br>[PRESS] Context: Marathon Steam Player Count Declining Sharply]]></description>
+</item>
 <item>
 <title>DAILY EXFIL 2026-08-01: Sony addresses Marathon's performance and retention in earnings report</title>
 <link>https://dailyexfil.com/day/2026-08-01.html</link>
@@ -97,13 +104,6 @@
 <guid isPermaLink="true">https://dailyexfil.com/day/2026-07-20.html</guid>
 <pubDate>Mon, 20 Jul 2026 20:00:00 GMT</pubDate>
 <description><![CDATA[[OFFICIAL] Vault Breaker PvE Mode Launches July 21<br>[PRESS] Marathon Game Director Joe Ziegler Departs Bungie<br>[OFFICIAL] Marathon Steam Reviews Stay Positive but Player Counts Remain Low<br>[COMMS] Community Critique: Longtime Player Lays Out 'The Problem(s) With Marathon'<br>[COMMS] Reddit Thread: Vault Breaker's PvP-Free Design Called a Potential 'Step in the Right Direction'<br>[COMMS] Community Feedback: Implants Still Feel Disconnected From Loadouts<br>[COMMS] Players React to Upcoming Grenade and Deployable Limit<br>[PRESS] Context: Bungie Layoffs Cut Roughly 300 Staff, Hit Marathon Leadership<br>[PRESS] Context: Report Says Marathon's Player Base Is Collapsing]]></description>
-</item>
-<item>
-<title>DAILY EXFIL 2026-07-19: Marathon Game Director Joe Ziegler Departs Bungie, Design Lead Lars Bakken Also Retires</title>
-<link>https://dailyexfil.com/day/2026-07-19.html</link>
-<guid isPermaLink="true">https://dailyexfil.com/day/2026-07-19.html</guid>
-<pubDate>Sun, 19 Jul 2026 20:00:00 GMT</pubDate>
-<description><![CDATA[[PRESS] Marathon Game Director Joe Ziegler Departs Bungie, Design Lead Lars Bakken Also Retires<br>[PRESS] Marathon Player Base Keeps Shrinking as Destiny 2 Pulls Ahead<br>[COMMS] "If Season 3 was our last update, where are we migrating to runners?"<br>[COMMS] "A Beautiful Mess That I Love": Veteran Player's Cryo Feedback Sparks Discussion<br>[COMMS] Community Excitement Builds for Vault Breaker PvE Mode<br>[COMMS] Players Report Long Matchmaking Queues as Population Concerns Continue<br>[PRESS] Context: Bungie Laid Off 292 Employees Including Marathon Leadership<br>[OFFICIAL] Context: Bungie Previewed Mid-Season 2 Update Ahead of July 21 Launch]]></description>
 </item>
 </channel>
 </rss>
