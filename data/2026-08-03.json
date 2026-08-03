@@ -1,0 +1,68 @@
+{
+  "date": "2026-08-03",
+  "items": [
+    {
+      "title": "Vault Breaker mode goes down early, Bungie confirms fix in progress",
+      "summary": "Bungie's Marathon dev team said today that the experimental Vault Breaker PvE mode was taken offline earlier than intended, but confirmed it is still scheduled to run through August 18 while a fix is worked on. Players reported the mode locked out for a couple hours before it came back online later the same day.",
+      "source_name": "r/Marathon (via MarathonDevTeam)",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1vekxrr/were_aware_of_reports_of_vault_breaker_closing/",
+      "credibility_tier": "official",
+      "credibility_note": "Content originates from Bungie's official MarathonDevTeam social account, mirrored here via a community thread since no direct platform link was provided in the candidates.",
+      "published_at": "2026-08-03T18:01:30.000Z",
+      "category": "other",
+      "corroborating_sources": [
+        "https://www.reddit.com/r/Marathon/comments/1vellt5/vault_breaker_is_live_once_again_it_will_remain/",
+        "https://www.reddit.com/r/Marathon/comments/1vejzkg/vault_breakers_mode_locked/",
+        "https://www.reddit.com/r/Marathon/comments/1vejoit/vault_breakers_locked/",
+        "https://www.reddit.com/r/Marathon/comments/1vejfqy/vault_breakers_locked/",
+        "https://www.reddit.com/r/Marathon/comments/1vejetc/vault_breaker_locked/",
+        "https://www.reddit.com/r/Marathon/comments/1vek64n/not_background_maintenance/"
+      ]
+    },
+    {
+      "title": "Players worry Vault Breaker PvE mode could be taken away for good",
+      "summary": "A Reddit post today argues Bungie should keep the experimental Vault Breaker PvE mode permanently, saying it fills a gap for players facing long PvP queue times. The poster admits they originally did not think Marathon needed a PvE mode but has changed their mind after trying it.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1vej5yw/i_really_dont_want_this_pve_mode_to_go/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Single Reddit community post reflecting player sentiment, not corroborated by other sources.",
+      "published_at": "2026-08-03T16:58:26.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Community member criticizes Marathon's marketing as too Tarkov-focused",
+      "summary": "A Redditor posted a self-made mock ad today arguing Bungie's marketing makes Marathon look like a slow tactical extraction game similar to Tarkov, when the poster believes its PvP should be marketed more like a fast-paced arena shooter to attract players from games like Apex. They argue this mismatch causes buyers to be disappointed by the actual pace of the game.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1vemhqy/proof_of_concept_ad_i_made_on_my_phone/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Individual community opinion post about marketing strategy, single-sourced.",
+      "published_at": "2026-08-03T18:57:45.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Community questions why big-name streamers haven't picked up Marathon",
+      "summary": "A Reddit thread today asks why prominent streamers who play other extraction shooters have not given Marathon similar attention, noting that only smaller or newer streamers seem to be covering the game. The discussion touches on ongoing concerns about the game's visibility and player base growth.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1vehzl3/why_some_famous_streamers_enjoyed_or_are_still/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Community discussion thread raising an unverified observation about streamer coverage, single-sourced.",
+      "published_at": "2026-08-03T16:16:26.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Context: Bungie extended Vault Breaker PvE mode through August 18",
+      "summary": "This story was originally published July 29, 2026. Bungie extended the experimental Vault Breaker PvE mode beyond its original August 4 end date to August 18 after positive player feedback during its first week, which explains the August 18 date referenced in today's outage reports and community threads.",
+      "source_name": "TheSixthAxis",
+      "source_url": "https://www.thesixthaxis.com/2026/07/29/bungie-will-keep-marathons-vault-breaker-pve-mode-online/",
+      "credibility_tier": "verified-journalist",
+      "credibility_note": "Established gaming outlet reporting on Bungie's official mode extension announcement, provided as background for today's lockout incident.",
+      "published_at": "2026-07-29T00:00:00.000Z",
+      "category": "gameplay-content",
+      "corroborating_sources": []
+    }
+  ],
+  "no_news_found": false
+}
