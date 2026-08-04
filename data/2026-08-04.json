@@ -1,0 +1,86 @@
+{
+  "date": "2026-08-04",
+  "items": [
+    {
+      "title": "Marathon Update 1.1.5.2: Vault Breaker Extended to August 18",
+      "summary": "Bungie shipped update 1.1.5.2 for Marathon, extending the experimental Vault Breaker PvE mode's run through August 18 instead of the original August 4 end date. The patch also corrected the Key Template Armory reward description and upgraded free Sponsored Kits so starting weapons come with a random Enhanced mod.",
+      "source_name": "Steam News (official Bungie posts)",
+      "source_url": "https://store.steampowered.com/news/app/3065800/view/671750120632485815",
+      "credibility_tier": "official",
+      "credibility_note": "Direct official patch notes posted to Steam by Bungie for an update that has already shipped.",
+      "published_at": "2026-08-04T16:00:52.000Z",
+      "category": "patch-notes",
+      "corroborating_sources": [
+        "https://www.reddit.com/r/Marathon/comments/1vfej02/marathon_update_1152/",
+        "https://www.thesixthaxis.com/2026/07/29/bungie-will-keep-marathons-vault-breaker-pve-mode-online/"
+      ]
+    },
+    {
+      "title": "Vault Breaker Megathread Week 2 Goes Live on r/Marathon",
+      "summary": "The r/Marathon community started its second weekly megathread dedicated to discussing the Vault Breaker PvE dungeon mode, collecting feedback on what is working and what isn't in the experimental activity. The thread launched the same day Bungie officially confirmed extending the mode through August 18.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1vfg85i/vault_breaker_megathread_week_2/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Organized Reddit megathread reflecting community sentiment, not independently verified reporting.",
+      "published_at": "2026-08-04T17:01:54.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Community Analysis Uses SteamDB Data to Question Marathon's Playerbase and Revenue",
+      "summary": "A r/Marathon post used publicly available SteamDB player count data to estimate the game's actual concurrent playerbase and argue whether current revenue could still support Bungie's operating costs. The analysis sparked discussion about the title's long term financial viability given persistently low player counts.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1vffoki/using_steamdb_playercounts_to_estimate_actual/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Unverified community analysis based on public SteamDB data, not confirmed by Bungie or Sony financial disclosures.",
+      "published_at": "2026-08-04T16:42:47.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Players Report Thin Outpost Lobbies With Only 2-3 Squads",
+      "summary": "A player described recent Outpost matches with only 2 to 3 squads present on the map instead of a full lobby, raising concerns about population or matchmaking changes. Other commenters speculated about players accidentally queueing as no-fill or Bungie deliberately reducing team counts per match.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1vfdwmc/every_outpost_game_is_usually_23_teams/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Anecdotal player observation about matchmaking, not confirmed by official population data.",
+      "published_at": "2026-08-04T15:39:26.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Player With 500 Hours Shares Suggestions for Marathon's Future",
+      "summary": "A longtime Marathon player with 500 hours logged shared a set of suggested changes after filtering through social media and Reddit feedback, arguing there are valid criticisms worth addressing beyond routine complaints. The post reflects a recurring community theme of praising the game's art direction and gunplay while pushing for further improvements.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1vfgcqu/suggestions_after_500_hours/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Individual player feedback thread, useful for gauging sentiment but not independently verified.",
+      "published_at": "2026-08-04T17:06:23.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Context: Marathon Game Director Joe Ziegler Departs Bungie",
+      "summary": "This story was originally reported on July 19, 2026. Marathon director Joe Ziegler left Bungie to join another project after four months in the role, with leadership passing to assistant game director Del Chafe III and creative director Julia Nardin. The departure adds to ongoing concerns about leadership instability at Marathon following the studio's mass layoffs.",
+      "source_name": "VGC (Video Games Chronicle)",
+      "source_url": "https://www.videogameschronicle.com/news/marathons-director-confirms-hes-quit-bungie-four-months-after-launch/",
+      "credibility_tier": "verified-journalist",
+      "credibility_note": "Established gaming outlet report citing direct comments from the departing director.",
+      "published_at": "2026-07-19T00:00:00.000Z",
+      "category": "layoffs-business",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Context: Sony Earnings Report Addresses Marathon Retention",
+      "summary": "This story was originally reported on July 31, 2026. Sony's quarterly earnings disclosure stated that Marathon has maintained high user retention since the Season 2 launch in June, addressing the game's performance amid Destiny 2's discontinuation and recent Bungie layoffs. The statement came as analysts continued to question the game's overall commercial health.",
+      "source_name": "Forbes",
+      "source_url": "https://www.forbes.com/sites/paultassi/2026/07/31/sony-addresses-bungies-marathon-performance-in-earnings-report/",
+      "credibility_tier": "verified-journalist",
+      "credibility_note": "Established outlet reporting directly on Sony's official earnings disclosure.",
+      "published_at": "2026-07-31T00:00:00.000Z",
+      "category": "layoffs-business",
+      "corroborating_sources": []
+    }
+  ],
+  "no_news_found": false
+}

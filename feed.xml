@@ -6,7 +6,14 @@
 <atom:link href="https://dailyexfil.com/feed.xml" rel="self" type="application/rss+xml"/>
 <description>Daily Marathon (Bungie) news digest. Official, press, and community items tiered by credibility, cross-referenced, and link-checked.</description>
 <language>en</language>
-<lastBuildDate>Mon, 03 Aug 2026 19:02:19 GMT</lastBuildDate>
+<lastBuildDate>Tue, 04 Aug 2026 19:04:03 GMT</lastBuildDate>
+<item>
+<title>DAILY EXFIL 2026-08-04: Marathon Update 1.1.5.2: Vault Breaker Extended to August 18</title>
+<link>https://dailyexfil.com/day/2026-08-04.html</link>
+<guid isPermaLink="true">https://dailyexfil.com/day/2026-08-04.html</guid>
+<pubDate>Tue, 04 Aug 2026 20:00:00 GMT</pubDate>
+<description><![CDATA[[OFFICIAL] Marathon Update 1.1.5.2: Vault Breaker Extended to August 18<br>[COMMS] Vault Breaker Megathread Week 2 Goes Live on r/Marathon<br>[COMMS] Community Analysis Uses SteamDB Data to Question Marathon's Playerbase and Revenue<br>[COMMS] Players Report Thin Outpost Lobbies With Only 2-3 Squads<br>[COMMS] Player With 500 Hours Shares Suggestions for Marathon's Future<br>[PRESS] Context: Marathon Game Director Joe Ziegler Departs Bungie<br>[PRESS] Context: Sony Earnings Report Addresses Marathon Retention]]></description>
+</item>
 <item>
 <title>DAILY EXFIL 2026-08-03: Vault Breaker mode goes down early, Bungie confirms fix in progress</title>
 <link>https://dailyexfil.com/day/2026-08-03.html</link>
@@ -97,13 +104,6 @@
 <guid isPermaLink="true">https://dailyexfil.com/day/2026-07-22.html</guid>
 <pubDate>Wed, 22 Jul 2026 20:00:00 GMT</pubDate>
 <description><![CDATA[[PRESS] Vault Breaker PvE Mode Goes Live in Marathon<br>[COMMS] Vault Breaker should be Bungie's entire focus<br>[COMMS] Vaultbreaker is a great start BUT it's TOO difficult<br>[COMMS] Please don't fall for the same trap twice<br>[COMMS] PSA: don't attempt Unsanctioned Hostilities 4/5 right now<br>[COMMS] Marathon Season 3 Set for September 22 With Full PvE Mode<br>[PRESS] Context: Marathon Game Director Joe Ziegler Departs Bungie<br>[PRESS] Context: Marathon Concurrent Player Count Falls Sharply Since Launch]]></description>
-</item>
-<item>
-<title>DAILY EXFIL 2026-07-21: Update 1.1.5 Ships with Vault Breaker PvE Mode</title>
-<link>https://dailyexfil.com/day/2026-07-21.html</link>
-<guid isPermaLink="true">https://dailyexfil.com/day/2026-07-21.html</guid>
-<pubDate>Tue, 21 Jul 2026 20:00:00 GMT</pubDate>
-<description><![CDATA[[OFFICIAL] Update 1.1.5 Ships with Vault Breaker PvE Mode<br>[COMMS] Faction Reward Bugs Flood Player Accounts After Update 1.1.5<br>[COMMS] Community Reacts to Low Concurrent Player Counts<br>[COMMS] Players Say New Vault Breaker Mode Is Too Difficult<br>[COMMS] Patch Changes to UI and Controls Frustrate Some Players<br>[PRESS] Context: Marathon Game Director Joe Ziegler Departs Bungie<br>[PRESS] Context: Marathon's Steam Player Count Has Collapsed Since Launch]]></description>
 </item>
 </channel>
 </rss>
