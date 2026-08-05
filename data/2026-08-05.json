@@ -1,0 +1,65 @@
+{
+  "date": "2026-08-05",
+  "items": [
+    {
+      "title": "Marathon Patch 1.1.5.2 Ships, Extending Vault Breaker PvE Mode to August 18",
+      "summary": "Bungie released update 1.1.5.2 on August 4, 2026, formally extending the experimental Vault Breaker PvE mode through August 18 to allow more testing before a fuller PvE experience arrives in September. The patch also included weapon balance changes for the V22 Volt Thrower and KKV-9SD. This follows an earlier late-July announcement that the mode's original two-week run was being extended due to positive player feedback.",
+      "source_name": "Destructoid",
+      "source_url": "https://www.destructoid.com/marathon-patch-update-1152-vault-breaker/",
+      "credibility_tier": "verified-journalist",
+      "credibility_note": "Reported by an established gaming outlet describing an update that has already shipped.",
+      "published_at": "2026-08-04T12:21:00Z",
+      "category": "patch-notes",
+      "corroborating_sources": [
+        "https://www.thesixthaxis.com/2026/07/29/bungie-will-keep-marathons-vault-breaker-pve-mode-online-for-longer/"
+      ]
+    },
+    {
+      "title": "Reddit threads describe Perimeter overrun by fully kitted premade squads",
+      "summary": "Two separate Reddit posts today describe Perimeter, often treated as a starter-friendly zone, being dominated by purple and gold shielded premade teams that hunt other players near spawn instead of looting. One player said they lost half their vault in a single day after running into fully kitted three-stacks, while another asked directly what has been going on with matchmaking in the zone. Both threads reflect frustration that solo and casual players cannot compete against coordinated squads there.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1vgc8uh/whats_going_on_with_perimeter_also_advice_request/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Unverified player accounts on Reddit describing personal match experiences.",
+      "published_at": "2026-08-05T16:27:40.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": [
+        "https://www.reddit.com/r/Marathon/comments/1vgblqj/what_in_the_world_was_going_on_in_perimeter/"
+      ]
+    },
+    {
+      "title": "Reddit debate: crew fills can't match coordination of premade 3-stacks",
+      "summary": "A Reddit thread argues that solo players placed into crew fills will never have the coordination needed to compete against organized premade three-stacks, and calls for separate matchmaking lobbies for the two groups. The poster argues this would actually shorten matchmaking times because more players would stick with the game if matches felt fair. The discussion feeds into broader community concerns about solo versus grouped balance in Marathon's queues.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1vggeb1/crew_fills_wont_ever_have_the_coordination_to/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Single Reddit thread offering a player opinion and suggestion, not independently verified.",
+      "published_at": "2026-08-05T18:54:54.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Players report Vault Breaker kit bug still letting items reach permanent vaults",
+      "summary": "A Reddit post says a known bug that lets a Vault Breaker starting kit end up in a player's permanent vault is still happening. The poster says a client crash left their kit visible and movable from the normal vault screen, letting items be pulled out of the mode illegitimately, and warned other players to expect exploit abuse before the mode's run ends on August 18. The report suggests the persistent bug has not yet been fixed despite the mode's extended testing window.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1vgf966/vault_breaker_kit_bug_still_happening/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Single unverified Reddit bug report from an individual player.",
+      "published_at": "2026-08-05T18:14:04.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Players say tier 3 loot boxes vanished from Dire Marsh at night since mid-season update",
+      "summary": "A Reddit thread claims the 5-certification tier 3 loot boxes on the Dire Marsh night map have disappeared entirely since Marathon's mid-season update, with the poster reporting zero drops across multiple runs despite checking every known spawn location. Other commenters are asking whether this is an intentional loot economy change or an unannounced bug. Bungie has not commented on the reported change.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1vgdq02/did_they_remove_the_tier_3_boxes_5_cert_from_dire/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Unverified player observation on Reddit without official confirmation.",
+      "published_at": "2026-08-05T17:19:56.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    }
+  ],
+  "no_news_found": false
+}
