@@ -1,0 +1,80 @@
+{
+  "date": "2026-08-06",
+  "items": [
+    {
+      "title": "Bungie Extends Vault Breaker Solo Queue Time Limit to 40 Minutes",
+      "summary": "A Reddit post relayed developer social media statements saying Bungie increased the solo queue time limit in the experimental Vault Breaker PvE mode to 40 minutes. The same update reportedly extended the final exfiltration timer to 120 seconds, addressing complaints that the mode's original pacing was too punishing for solo players.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1vh9px9/dev_team_update_the_solo_queue_time_limit_in/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "The claim originates from a Reddit repost of purported developer tweets; the original developer post could not be independently verified among the available candidates.",
+      "published_at": "2026-08-06T16:49:13.000Z",
+      "category": "gameplay-content",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Community Frustration Boils Over in 'No Brainer Updates' Thread",
+      "summary": "A widely discussed Reddit post argued Bungie needs urgent changes to save Marathon's player base, including making the game free to play and turning the Vault Breaker test into a full PvE mode. The post reflects growing community anxiety about the game's direction following reported player count declines and recent leadership departures.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1vhajyu/5_no_brainer_updates_to_make_the_game_more_fun/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "This is an individual player opinion post on Reddit, not verified by Bungie, though it reflects a broader sentiment being echoed in the community.",
+      "published_at": "2026-08-06T17:19:05.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "PSA Warns Sponsor Kit Runs Can Delete Players' Backpacks When Vault Is Full",
+      "summary": "A Reddit PSA warns that running sponsor kits while carrying a valued backpack, with a full vault, can result in that backpack being permanently deleted upon successful extraction. The poster says Bungie has acknowledged the bug on its official forums but that it has not been widely discussed elsewhere in the community.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1vh8tzv/psa_if_youre_doing_sponsor_kit_runs_and_your/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Bug report from a player, citing an unlinked acknowledgment on Bungie's forums that could not be directly verified.",
+      "published_at": "2026-08-06T16:17:15.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Players Report Repeated Mismatched Squads in Ranked Queue",
+      "summary": "A Reddit user posted clips showing a full 9-person squad being defeated by a much smaller 3-person high-rank squad, and separately described facing the same large stack repeatedly across matches. The posts add to ongoing community concerns about squad size disparities and matchmaking balance in ranked play.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1vh6c0i/9_man_squad_gets_smoked_by_3_diamonds_95k_ranked/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Based on individual player clips and anecdotes rather than official matchmaking data.",
+      "published_at": "2026-08-06T14:47:09.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": [
+        "https://www.reddit.com/r/Marathon/comments/1vh8xz1/4th_time_in_a_row_facing_this_9_stack_this_clip/"
+      ]
+    },
+    {
+      "title": "Context: Marathon's Vault Breaker PvE Mode Shipped in Update 1.1.5",
+      "summary": "Bungie originally announced on July 21, 2026 that Update 1.1.5 had deployed Marathon's first experimental PvE mode, called Vault Breaker, a roguelite experience set in the Cryo Archive. The update also added voice reporting and moderation support along with balance changes, and Bungie has continued adjusting Vault Breaker's timers since then, including the solo queue extension noted above.",
+      "source_name": "Bungie.net",
+      "source_url": "https://www.bungie.net/7/en/News/Article/mid_season_2_preview",
+      "credibility_tier": "official",
+      "credibility_note": "Direct announcement from Bungie's official news channel.",
+      "published_at": "2026-07-21T00:00:00.000Z",
+      "category": "patch-notes",
+      "corroborating_sources": [
+        "https://www.gamewatcher.com/marathon-patch-notes-and-roadmap-of-updates",
+        "https://www.dlcompare.com/gaming-news/marathon-s-biggest-pve-update-goes-live-today"
+      ]
+    },
+    {
+      "title": "Context: Marathon Director Joe Ziegler Exited Bungie After Layoffs",
+      "summary": "Video Games Chronicle reported on July 17-19, 2026 that Joe Ziegler, Marathon's game director, confirmed he had left Bungie about four months after the game's March 5 launch. His exit followed Bungie's layoffs affecting roughly 300 employees and the departure of studio head Justin Truman, with Del Chafe III taking over as the new game director.",
+      "source_name": "Video Games Chronicle (VGC)",
+      "source_url": "https://www.videogameschronicle.com/news/marathons-director-confirms-hes-quit-bungie-four-months-after-launch/",
+      "credibility_tier": "verified-journalist",
+      "credibility_note": "Reported by an established games industry outlet with direct confirmation from the departing director.",
+      "published_at": "2026-07-19T00:00:00.000Z",
+      "category": "layoffs-business",
+      "corroborating_sources": [
+        "https://gamerant.com/marathon-game-director-quit/",
+        "https://x.com/Ziegler_Dev"
+      ]
+    }
+  ],
+  "no_news_found": false
+}
