@@ -1,0 +1,72 @@
+{
+  "date": "2026-08-07",
+  "items": [
+    {
+      "title": "Community pushes Bungie to prioritize a real Solo PvPvE mode",
+      "summary": "A Marathon player posted another example of a fast, one sided loss to a coordinated trio while playing solo, arguing this is the typical experience for solo players against squads. The poster says they will keep sharing these clips to push Bungie toward developing a dedicated Solo PvPvE experience, saying the current squad heavy PvP is not fun for solo players even though they enjoy the game.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1vi7y6w/really_going_to_start_frequently_posting_deaths/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Reddit thread reflecting player sentiment, not independently verified by any outlet.",
+      "published_at": "2026-08-07T18:02:38.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Players ask Bungie to rework VIP faction progression for next season",
+      "summary": "A Reddit thread argues that the current VIP 10 requirement for unlocking faction contracts feels like a rushed economy fix and makes reaching VIP status less meaningful. The poster suggests Bungie return top tier faction contracts and unlock nodes to VIP 1 in a future season, even if it takes longer to hit VIP overall.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1vi6ql3/can_we_make_achieving_vip_with_factions_actually/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Community feedback thread on progression balance, not corroborated by other sources.",
+      "published_at": "2026-08-07T17:18:12.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Community debates what Season 3 needs to fix",
+      "summary": "A Reddit thread asks players what realistic changes Marathon needs in Season 3 to get the game back on track. The discussion reflects ongoing uncertainty in the community about the game's direction as players wait for more concrete Bungie communication about upcoming content.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1vi5uvo/season_3/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Open discussion thread on r/Marathon, reflects community sentiment rather than confirmed plans.",
+      "published_at": "2026-08-07T16:45:36.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Prospective players still weighing whether Marathon is worth buying",
+      "summary": "A Reddit user asked whether it is worth buying Marathon now, citing low Steam player counts and comparing it to competitor Arc Raiders. The thread shows that months after launch, population concerns and mixed early reviews are still shaping how new players view the game.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1vi5lmz/is_it_worth_it_to_buy_marathon/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Reddit discussion thread expressing player uncertainty, no independent data cited.",
+      "published_at": "2026-08-07T16:36:19.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Context: Marathon game director Joe Ziegler departs Bungie",
+      "summary": "This story was originally reported around July 18 to 19, 2026. Joe Ziegler, who had been Marathon's game director since December 2022, resigned from Bungie shortly after the game's rocky launch period, with assistant game director Del Chafe III and creative director Julia Nardin taking over leadership duties following Sony's mass layoffs at the studio.",
+      "source_name": "MMO.Net / Massively Overpowered",
+      "source_url": "https://mmo.net/2026/07/19/marathon-game-director-joseph-ziegler-is-leaving-bungie/",
+      "credibility_tier": "verified-journalist",
+      "credibility_note": "Reported by an established gaming outlet, provided as background for ongoing community concern about studio leadership and communication.",
+      "published_at": "2026-07-18T00:00:00Z",
+      "category": "layoffs-business",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Context: Bungie extended Marathon's Vault Breaker PvE mode through August 18",
+      "summary": "This story was originally reported on July 29, 2026. Bungie announced it would keep the experimental Vault Breaker PvE mode running through August 18 instead of ending it August 4, citing positive first week feedback and a desire to gather more data ahead of Season 3 planning.",
+      "source_name": "TheSixthAxis",
+      "source_url": "https://www.thesixthaxis.com/2026/07/29/bungie-will-keep-marathons-vault-breaker-pve-mode-online/",
+      "credibility_tier": "verified-journalist",
+      "credibility_note": "Reported by an established gaming outlet, included as background for current community discussion about Season 3 direction.",
+      "published_at": "2026-07-29T00:00:00Z",
+      "category": "gameplay-content",
+      "corroborating_sources": []
+    }
+  ],
+  "no_news_found": false
+}
