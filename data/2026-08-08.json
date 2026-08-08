@@ -1,0 +1,66 @@
+{
+  "date": "2026-08-08",
+  "items": [
+    {
+      "title": "Marathon Players Question Where the Population Went During Extended Vault Breaker Test",
+      "summary": "A Reddit thread posted August 8 raises concerns about lengthening queue times and a shrinking player base, even during the extended Vault Breaker PvE test that Bungie pushed back to August 18. The poster says matchmaking waits have become painfully long in their region and notes fewer visible players overall.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1viwr23/so_where_the_did_the_population_go/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Unverified Reddit discussion reflecting community sentiment, not independently confirmed player data.",
+      "published_at": "2026-08-08T13:59:26.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Community Pitches Broad Overhaul of Matchmaking, Progression, and Ranked Systems",
+      "summary": "A detailed Reddit post from August 8 lays out suggestions for improving matchmaking, progression pacing, shell balance, and ranked play. The author says they enjoy the game overall but believes several systems create unnecessary frustration and could better reward build diversity and fair fights.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1vj1jlh/discussion_some_ideas_for_improvement_matchmaking/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Community feedback thread offering player suggestions, not an official or journalistic source.",
+      "published_at": "2026-08-08T17:17:11.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Community Releases Updated and Verified TTK and Weapon Stats Resource",
+      "summary": "A Reddit user posted an expanded and refined time-to-kill and weapon stats resource on August 8, building on an earlier community dataset. The update accounts for burst-fire timing, which shot lands the killing blow, and revised charge times for weapons like the V85 and V99.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1vj3p71/updated_verified_and_expanded_ttks_and_weapon/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Player-generated data analysis, useful for build discussion but not officially verified by Bungie.",
+      "published_at": "2026-08-08T18:43:28.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Context: Bungie Extends Vault Breaker PvE Test Through August 18",
+      "summary": "This story was originally reported around August 3 to 4, 2026. Bungie's Marathon Development Team confirmed that Vault Breaker, the experimental PvE mode originally set to end August 4, would run through August 18 to gather more player feedback ahead of a full PvE mode planned for Season 3.",
+      "source_name": "X (Marathon Development Team)",
+      "source_url": "https://x.com/MarathonDevTeam/status/2084341590324351215",
+      "credibility_tier": "official",
+      "credibility_note": "Direct statement from Bungie's official Marathon Development Team account.",
+      "published_at": "2026-08-03",
+      "category": "gameplay-content",
+      "corroborating_sources": [
+        "https://www.techpowerup.com/351216/marathon-pve-game-mode-beta-gets-extended-for-further-testing",
+        "https://neonsect.com/marathon/marathon-season-3-roadmap/"
+      ]
+    },
+    {
+      "title": "Context: Marathon Steam Concurrent Player Count Continues to Slide",
+      "summary": "This data was originally reported by Dexerto on August 6, 2026 using SteamDB figures. Marathon's Steam concurrent player count fell to about 4,619 players in a 24-hour window, far below its March 5 launch peak of 88,337, though cross-platform daily active users reportedly held around 345,000.",
+      "source_name": "Dexerto",
+      "source_url": "https://www.dexerto.com/wikis/marathon/how-many-people-play-marathon-player-count-tracker/",
+      "credibility_tier": "verified-journalist",
+      "credibility_note": "Established gaming outlet citing publicly available SteamDB tracking data.",
+      "published_at": "2026-08-06",
+      "category": "other",
+      "corroborating_sources": [
+        "https://www.playerauctions.com/player-count/marathon/"
+      ]
+    }
+  ],
+  "no_news_found": false
+}

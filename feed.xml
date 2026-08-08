@@ -6,7 +6,14 @@
 <atom:link href="https://dailyexfil.com/feed.xml" rel="self" type="application/rss+xml"/>
 <description>Daily Marathon (Bungie) news digest. Official, press, and community items tiered by credibility, cross-referenced, and link-checked.</description>
 <language>en</language>
-<lastBuildDate>Fri, 07 Aug 2026 19:02:45 GMT</lastBuildDate>
+<lastBuildDate>Sat, 08 Aug 2026 19:03:15 GMT</lastBuildDate>
+<item>
+<title>DAILY EXFIL 2026-08-08: Marathon Players Question Where the Population Went During Extended Vault Breaker Test</title>
+<link>https://dailyexfil.com/day/2026-08-08.html</link>
+<guid isPermaLink="true">https://dailyexfil.com/day/2026-08-08.html</guid>
+<pubDate>Sat, 08 Aug 2026 20:00:00 GMT</pubDate>
+<description><![CDATA[[COMMS] Marathon Players Question Where the Population Went During Extended Vault Breaker Test<br>[COMMS] Community Pitches Broad Overhaul of Matchmaking, Progression, and Ranked Systems<br>[COMMS] Community Releases Updated and Verified TTK and Weapon Stats Resource<br>[OFFICIAL] Context: Bungie Extends Vault Breaker PvE Test Through August 18<br>[PRESS] Context: Marathon Steam Concurrent Player Count Continues to Slide]]></description>
+</item>
 <item>
 <title>DAILY EXFIL 2026-08-07: Community pushes Bungie to prioritize a real Solo PvPvE mode</title>
 <link>https://dailyexfil.com/day/2026-08-07.html</link>
@@ -97,13 +104,6 @@
 <guid isPermaLink="true">https://dailyexfil.com/day/2026-07-26.html</guid>
 <pubDate>Sun, 26 Jul 2026 20:00:00 GMT</pubDate>
 <description><![CDATA[[COMMS] Community Debates Marathon's Matchmaking After Sponsored Queue Removal<br>[COMMS] Players Report Toxicity Concerns in Marathon's New Vault Breaker Mode<br>[COMMS] PSA: Claim Vault Breaker Contracts Before Cryo Mode Ends<br>[COMMS] Players Report Random Stuttering Since Marathon's Latest Update<br>[OFFICIAL] Context: Marathon's Vault Breaker PvE Mode Went Live in Update 1.1.5<br>[PRESS] Context: Marathon Game Director Joe Ziegler Departs Bungie]]></description>
-</item>
-<item>
-<title>DAILY EXFIL 2026-07-25: Community asks: what's the plan now that PvE hasn't revived the game?</title>
-<link>https://dailyexfil.com/day/2026-07-25.html</link>
-<guid isPermaLink="true">https://dailyexfil.com/day/2026-07-25.html</guid>
-<pubDate>Sat, 25 Jul 2026 20:00:00 GMT</pubDate>
-<description><![CDATA[[COMMS] Community asks: what's the plan now that PvE hasn't revived the game?<br>[COMMS] Players say Vault Breaker's PvE needs an overhaul, calling AI enemies too weak<br>[COMMS] Community calls for deeper shell customization in Marathon<br>[COMMS] Players struggle against Mizzy rush tactics in Cryo after mid-season nerf<br>[PRESS] Context: Marathon director Joe Ziegler departs Bungie<br>[PRESS] Context: Vault Breaker PvE mode went live with update 1.1.5]]></description>
 </item>
 </channel>
 </rss>

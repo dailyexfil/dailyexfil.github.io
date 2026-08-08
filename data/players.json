@@ -844,5 +844,13 @@
   "peak": 5276,
   "peak_at": "03:00",
   "peak_src": "exfil"
+ },
+ {
+  "date": "2026-08-08",
+  "players": 4408,
+  "sampled_at": "2026-08-08T19:03:14.672Z",
+  "peak": 5141,
+  "peak_at": "03:00",
+  "peak_src": "exfil"
  }
 ]
