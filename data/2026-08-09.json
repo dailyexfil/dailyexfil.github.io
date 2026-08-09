@@ -1,0 +1,75 @@
+{
+  "date": "2026-08-09",
+  "items": [
+    {
+      "title": "Community Frustration Grows Over Cryo Map Spawn Rushing",
+      "summary": "Multiple Reddit threads today describe teams getting rushed and wiped within the first two minutes on the Cryo map, often before reaching basic security clearance. Players are floating fixes such as letting signal jammers be countered by mines and proximity sensors, alongside tips for surviving the early rush. The recurring complaints point to ongoing frustration with the map's PvP-first pacing.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1vjuggs/you_should_not_get_rushed_spawn_in_cryo_inside_of/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Reflects recurring Reddit sentiment across several threads but remains unverified player anecdote, not confirmed by Bungie.",
+      "published_at": "2026-08-09T16:36:03.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": [
+        "https://www.reddit.com/r/Marathon/comments/1vjuxnu/spawn_rushes_are_no_longer_a_problem_if_they_dont/",
+        "https://www.reddit.com/r/Marathon/comments/1vjrmo7/cryo_clearance_tips/"
+      ]
+    },
+    {
+      "title": "Players Criticize Marathon's Loot Distribution and Progression Grind",
+      "summary": "A Reddit post argues that loot quality outside the Cryo map is weak, with Outpost, Perimeter, and Dire Marsh offering little beyond basic crafting materials. The poster, who says they are VIP and maxed in most factions, argues the grind makes it hard to convince friends the risk of losing gear is worth it.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1vjvw3k/loot_is_trash/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Single Reddit post reflecting one player's experience and community reaction, not verified against game data.",
+      "published_at": "2026-08-09T17:32:33.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Players Report Sudden Spike in Match Difficulty and Aggression",
+      "summary": "A Reddit poster says they have been unable to extract across multiple maps this week, describing opponents as far more aggressive and kitted in gold and purple tier gear than usual. The thread reflects a broader sentiment shift among some players noticing harder matches and dwindling in-game currency.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1vjsqtp/wtf_is_going_on_this_week/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Single Reddit anecdote about match difficulty, not tied to any confirmed patch or matchmaking change.",
+      "published_at": "2026-08-09T15:27:44.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Community Calls for Rework of Invisibility Shield Combination",
+      "summary": "Players are criticizing the combination of the Spectre prestige shield's invisibility effect with healing items, saying it lets the Assassin shell chain invisibility indefinitely and breaks reticle friction and bullet magnetism mechanics. The Reddit thread argues the combo trivializes team fights and asks Bungie to rework it while leaving other shield variants alone.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1vjwj0q/spectre_shieldgoing_dark/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Single Reddit balance complaint reflecting player opinion, not an official acknowledgment from Bungie.",
+      "published_at": "2026-08-09T17:57:38.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Context: Bungie Admits Audio Balance Change Was an Overcorrection",
+      "summary": "This story was originally published August 6, 2026 by PC Gamer. Bungie acknowledged on Bluesky that a recent patch increasing gunfire and explosion audio range went too far, making stealth nearly impossible, and promised to pull the change back in an upcoming update while keeping combat audio cues audible.",
+      "source_name": "PC Gamer",
+      "source_url": "https://www.pcgamer.com/games/fps/marathons-murderous-audio-change-was-an-overcorrection-bungie-admits-promises-to-pull-it-back-in-an-upcoming-update/",
+      "credibility_tier": "verified-journalist",
+      "credibility_note": "PC Gamer is an established gaming outlet reporting on an official Bungie social media statement.",
+      "published_at": "2026-08-06T00:00:00.000Z",
+      "category": "gameplay-content",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Context: Marathon Game Director Joe Ziegler Confirms Departure From Bungie",
+      "summary": "This story was originally reported around July 19, 2026. Joe Ziegler, Marathon's game director, left Bungie about four months after the game's March launch, following June layoffs that cut roughly 292 staff and the exit of studio head Justin Truman. Assistant game director Del Chafe III and creative director Julia Nardin are reported to be taking over leadership duties.",
+      "source_name": "Video Games Chronicle",
+      "source_url": "https://www.videogameschronicle.com/news/marathons-director-confirms-hes-quit-bungie-four-months-after-launch/",
+      "credibility_tier": "verified-journalist",
+      "credibility_note": "Video Games Chronicle is an established outlet with direct confirmation from the departing director.",
+      "published_at": "2026-07-19T00:00:00.000Z",
+      "category": "layoffs-business",
+      "corroborating_sources": []
+    }
+  ],
+  "no_news_found": false
+}
