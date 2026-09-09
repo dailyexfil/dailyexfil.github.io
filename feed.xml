@@ -6,7 +6,14 @@
 <atom:link href="https://dailyexfil.com/feed.xml" rel="self" type="application/rss+xml"/>
 <description>Daily Marathon (Bungie) news digest. Official, press, and community items tiered by credibility, cross-referenced, and link-checked.</description>
 <language>en</language>
-<lastBuildDate>Sun, 09 Aug 2026 19:03:35 GMT</lastBuildDate>
+<lastBuildDate>Wed, 09 Sep 2026 04:25:46 GMT</lastBuildDate>
+<item>
+<title>DAILY EXFIL 2026-09-09: Bungie Hiring New Marathon Marketing Manager After Layoffs</title>
+<link>https://dailyexfil.com/day/2026-09-09.html</link>
+<guid isPermaLink="true">https://dailyexfil.com/day/2026-09-09.html</guid>
+<pubDate>Wed, 09 Sep 2026 20:00:00 GMT</pubDate>
+<description><![CDATA[[COMMS] Bungie Hiring New Marathon Marketing Manager After Layoffs<br>[COMMS] Players report packet loss and hit registration issues over past two days<br>[COMMS] Returning player says gold team camping made Marathon feel boring<br>[COMMS] Community notices spike in Rook-on-Rook kills<br>[COMMS] Community debates adding an open player trading market<br>[PRESS] Context: Marathon Season 3 set to begin September 22 amid steep player decline<br>[PRESS] Context: Bungie's June 2026 layoffs cut Marathon senior leadership including the General Manager]]></description>
+</item>
 <item>
 <title>DAILY EXFIL 2026-08-09: Community Frustration Grows Over Cryo Map Spawn Rushing</title>
 <link>https://dailyexfil.com/day/2026-08-09.html</link>
@@ -97,13 +104,6 @@
 <guid isPermaLink="true">https://dailyexfil.com/day/2026-07-28.html</guid>
 <pubDate>Tue, 28 Jul 2026 20:00:00 GMT</pubDate>
 <description><![CDATA[[OFFICIAL] Marathon Update 1.1.5.1 Adds Solo Queue Option for Vault Breaker<br>[COMMS] Community Calls Vault Breaker's Second Week 'Underwhelming'<br>[COMMS] Patch Confusion: Players Feared Faction Progress Was Reset<br>[COMMS] Players Debate Whether PvE Modes Are What Marathon Needs<br>[COMMS] Long-Form Reddit Post Defends Marathon's Identity Amid Criticism<br>[PRESS] Context: Vault Breaker Launch Tripled Marathon's Daily Player Count<br>[PRESS] Context: Marathon's Player Count Decline Raises Questions About Bungie's Future]]></description>
-</item>
-<item>
-<title>DAILY EXFIL 2026-07-27: Marathon Update 1.1.5.1 Scheduled for July 28</title>
-<link>https://dailyexfil.com/day/2026-07-27.html</link>
-<guid isPermaLink="true">https://dailyexfil.com/day/2026-07-27.html</guid>
-<pubDate>Mon, 27 Jul 2026 20:00:00 GMT</pubDate>
-<description><![CDATA[[OFFICIAL] Marathon Update 1.1.5.1 Scheduled for July 28<br>[OFFICIAL] PlayStation Store Discounts Marathon by 30 Percent<br>[COMMS] Marathon Steam Review Scores and Player Counts Show Mixed Picture<br>[COMMS] Community Notices Prox Chat Going Quiet as Player Sentiment Shifts<br>[COMMS] New Players Report Difficulty Finding Consistent Squads<br>[COMMS] Players Debate Whether Cryo's DNA Key and Ganglion Economy Is Worth It<br>[COMMS] Community Debates Whether Vault Breaker Is Meant for Boss Fights<br>[PRESS] Context: Marathon Game Director Joe Ziegler Departs Bungie<br>[PRESS] Context: Bungie Mass Layoffs Hit Marathon Team]]></description>
 </item>
 </channel>
 </rss>

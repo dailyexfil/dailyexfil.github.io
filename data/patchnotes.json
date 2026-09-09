@@ -1,5 +1,33 @@
 [
  {
+  "version": "1.1.9",
+  "title": "Marathon Update 1.1.9",
+  "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951313913",
+  "date": "2026-09-01",
+  "summary": "Item EconomyC.A.R.R.I Armory UpdateAdded a Superior Shield Implant and a Superior Backpack.These will be able to be acquired 3x per week.Reduced CyberAcme Commendations cost for some items.Deluxe Backpack: 20 -> 15.Deluxe Shield Implant: 12"
+ },
+ {
+  "version": "1.1.5.5",
+  "title": "Marathon Update 1.1.5.5",
+  "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228678739",
+  "date": "2026-08-25",
+  "summary": "Ordnance HeistFixed an issue where UESC Manifests were not shared among crew upon exfil.If you have not already claimed it, players should check their mailbox for the 150 Manifests we had previously sent out while this issue was active.Incr"
+ },
+ {
+  "version": "1.1.5.4",
+  "title": "Marathon Update 1.1.5.4",
+  "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183789202",
+  "date": "2026-08-18",
+  "summary": "Ordnance HeistThe Ordnance Heist PvPvE experience is live!Engage in a multi-run chase across different zones. Take down UESC, acquire Locker keys, hunt for the Firestorm. Let it rain.Extract with UESC Manifests to gear up in the updated MID"
+ },
+ {
+  "version": "1.1.5.3",
+  "title": "Marathon Update 1.1.5.3",
+  "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840310314354503",
+  "date": "2026-08-11",
+  "summary": "GeneralFixed an issue where the FPS counter was not displaying accurately when using DLSS Frame Generation.Fixed a visual issue where the error message for a solo player trying to launch into a Duos queue would incorrectly state that enabli"
+ },
+ {
   "version": "1.1.5.2",
   "title": "Marathon Update 1.1.5.2",
   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055897742",
