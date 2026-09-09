@@ -2,81 +2,74 @@
   "date": "2026-09-09",
   "items": [
     {
-      "title": "Bungie Hiring New Marathon Marketing Manager After Layoffs",
-      "summary": "Bungie is reportedly advertising for a principal marketing manager role focused on boosting Marathon's popularity. The listing comes months after major layoffs hit the studio, including Marathon leadership, as Bungie looks to reignite interest in the extraction shooter ahead of Season 3.",
-      "source_name": "FRVR",
-      "source_url": "https://frvr.com/blog/news/bungie-hires-for-new-marathon-marketing-manager-post-layoffs-in-a-bid-to-reignite-its-troubled-extraction-shooter/",
+      "title": "Community debates whether low player count is just \"extraction shooters are hard\"",
+      "summary": "A Reddit thread argues that the low player count excuse doesn't hold up because Escape from Tarkov, a ten year old game in the same genre and difficulty tier, reportedly has around 20 times more concurrent players. The post pushes back on the common community response of \"skill issue\" and asks Bungie and fellow players to look harder at what is driving people away.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1wbsb42/if_the_low_player_count_is_just_extraction/",
       "credibility_tier": "community-speculation",
-      "credibility_note": "FRVR is not an established gaming journalism outlet and no major outlet has corroborated this hiring report, so it is tiered as community-speculation despite reading like a news brief.",
-      "published_at": "2026-09-08T12:00:00Z",
+      "credibility_note": "Reddit discussion thread with community opinion and informal comparisons, not verified data.",
+      "published_at": "2026-09-09T17:34:12.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Players try to estimate active vs latent Marathon population",
+      "summary": "A Reddit user attempts to break down Marathon's player base into active players, using Steam charts plus console estimates of around 4,000, versus a larger pool of lapsed or returning players. The thread asks the community for better data to gauge whether the game can sustain itself long term.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1wbue89/active_vs_latent_marathon_players/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Informal fan analysis using self-reported estimates rather than verified platform data.",
+      "published_at": "2026-09-09T18:46:52.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Fans speculate on Season 3 changes ahead of September 22 launch",
+      "summary": "A community thread rounds up what players have heard so far about Season 3, including a Perimeter map revamp, a new Runner shell, new weapons and gear, and hopes for changes to the early game loop. The thread invites the community to share wishlist items before more official details arrive.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1wblr9i/season_3_theory_and_wishlist/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Fan speculation thread combining rumor and community wishlist items, not an official source.",
+      "published_at": "2026-09-09T13:34:16.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": [
+        "https://www.shacknews.com/article/150039/marathon-season-3-start-date"
+      ]
+    },
+    {
+      "title": "Player reports heavy matchmaking and connection problems in EU",
+      "summary": "A Reddit feedback post describes repeated login screen failures, long queue times with frequent errors, and persistent lag or desync during matches while playing in EU regions on ranked trios. The poster questions why a live service game still has these connection issues roughly a year after launch.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1wbiszc/feedback_losing_it/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Single player's firsthand feedback report, not independently verified but consistent with broader technical complaints.",
+      "published_at": "2026-09-09T11:22:35.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Context: Bungie shrinks to roughly 500 employees amid weak Marathon and Destiny performance",
+      "summary": "This story was originally published on September 7, 2026. Reporting says Bungie cut its workforce from about 1,600 to 500 employees and subleased its nearly 20,000 square foot Bellevue office, following weak commercial performance from both Marathon and the Destiny series.",
+      "source_name": "Gamereactor via IXBT Games",
+      "source_url": "https://ixbt.games/en/news/2026/09/07/433063-bungie-prodolzaet-szimatsia-posle-slabyx-pokazatelei-marathon.html",
+      "credibility_tier": "verified-journalist",
+      "credibility_note": "Originates from Gamereactor reporting though hosted on a lesser known syndication domain, treated as verified journalism given no other source is available.",
+      "published_at": "2026-09-07T00:00:00Z",
       "category": "layoffs-business",
       "corroborating_sources": []
     },
     {
-      "title": "Players report packet loss and hit registration issues over past two days",
-      "summary": "A Reddit post describes ongoing packet loss, high ping, and poor hit registration in Marathon over the past two days, with the poster saying they needed to step away from the game entirely. The thread also claims the official technical support megathread has gone unanswered, adding to community frustration over sparse studio communication.",
-      "source_name": "r/Marathon",
-      "source_url": "https://www.reddit.com/r/Marathon/comments/1wb6zl5/packet_loss_high_ping_and_no_hit_reg_really_sucks/",
-      "credibility_tier": "community-speculation",
-      "credibility_note": "Single Reddit post reflecting player sentiment about technical issues, not independently verified by Bungie or an outlet.",
-      "published_at": "2026-09-09T01:02:55.000Z",
-      "category": "community-discussion",
-      "corroborating_sources": []
-    },
-    {
-      "title": "Returning player says gold team camping made Marathon feel boring",
-      "summary": "A Reddit user who returned to Marathon after time away described giving up after repeated matches against gold-tier teams camping, saying the experience was not compelling enough to keep trying. The post reflects a recurring theme of community frustration with current match pacing and top-tier team strategies.",
-      "source_name": "r/Marathon",
-      "source_url": "https://www.reddit.com/r/Marathon/comments/1wb88zb/jumped_back_on_after_some_time_away_and/",
-      "credibility_tier": "community-speculation",
-      "credibility_note": "Single Reddit anecdote representing one player's experience, not verified data on broader trends.",
-      "published_at": "2026-09-09T01:59:47.000Z",
-      "category": "community-discussion",
-      "corroborating_sources": []
-    },
-    {
-      "title": "Community notices spike in Rook-on-Rook kills",
-      "summary": "Players on r/Marathon are discussing what they see as a rise in Rook operatives killing other Rooks instead of focusing on rival crews, sparking debate about the current meta. The thread shows an active community conversation about how faction dynamics are playing out in recent matches.",
-      "source_name": "r/Marathon",
-      "source_url": "https://www.reddit.com/r/Marathon/comments/1wb4z80/rook_on_rook_crime_on_the_rise/",
-      "credibility_tier": "community-speculation",
-      "credibility_note": "Reddit discussion thread based on player observation, not confirmed by any official data.",
-      "published_at": "2026-09-08T23:36:38.000Z",
-      "category": "community-discussion",
-      "corroborating_sources": []
-    },
-    {
-      "title": "Community debates adding an open player trading market",
-      "summary": "A Reddit thread suggests Marathon should add an open market system similar to Escape from Tarkov, letting players freely buy and sell items with each other. The proposal generated discussion about how such a system would affect the game's economy and progression loop.",
-      "source_name": "r/Marathon",
-      "source_url": "https://www.reddit.com/r/Marathon/comments/1wb5hxk/i_personally_think_an_open_market_system_would/",
-      "credibility_tier": "community-speculation",
-      "credibility_note": "Community suggestion thread, not an official proposal or confirmed feature.",
-      "published_at": "2026-09-08T23:59:35.000Z",
-      "category": "community-discussion",
-      "corroborating_sources": []
-    },
-    {
-      "title": "Context: Marathon Season 3 set to begin September 22 amid steep player decline",
-      "summary": "This story was originally published on August 20, 2026. It reported that Marathon's Season 3 launches September 22 with significant new content, arriving after Steam concurrent players fell more than 96 percent from the launch peak of 88,337 down to about 3,507, making the season a make or break test for Bungie's ability to rebuild the playerbase.",
-      "source_name": "The Game Post",
-      "source_url": "https://thegamepost.com/marathon-player-count-96-launch-bungie-season-3/",
+      "title": "Context: Marathon Season 3 confirmed for September 22, 2026",
+      "summary": "This story was originally reported on July 16, 2026. Bungie announced Season 3 will launch on September 22, bringing a revamped Perimeter map, a new Runner shell, new weapons and gear, and the game's first permanent PvE mode, though the exact timing of the PvE mode within the season was not confirmed.",
+      "source_name": "Shacknews",
+      "source_url": "https://www.shacknews.com/article/150039/marathon-season-3-start-date",
       "credibility_tier": "verified-journalist",
-      "credibility_note": "Reporting from The Game Post, an established outlet tracking Marathon's performance metrics.",
-      "published_at": "2026-08-20T00:00:00Z",
+      "credibility_note": "Established gaming outlet reporting based on official Bungie.net announcement.",
+      "published_at": "2026-07-16T00:00:00Z",
       "category": "gameplay-content",
-      "corroborating_sources": []
-    },
-    {
-      "title": "Context: Bungie's June 2026 layoffs cut Marathon senior leadership including the General Manager",
-      "summary": "This story was originally published on June 26, 2026. It reported that Bungie's layoffs that month hit senior Marathon roles including the General Manager, Engineering Director, producers, and creative leads, as part of a 292 person reduction across the studio affecting both Destiny and Marathon teams.",
-      "source_name": "The Game Post",
-      "source_url": "https://thegamepost.com/sonys-bungie-layoffs-hit-marathon-senior-roles-general-manager/",
-      "credibility_tier": "verified-journalist",
-      "credibility_note": "Reporting from The Game Post, an established outlet covering the Bungie layoffs.",
-      "published_at": "2026-06-26T00:00:00Z",
-      "category": "layoffs-business",
-      "corroborating_sources": []
+      "corroborating_sources": [
+        "https://www.reddit.com/r/Marathon/comments/1wblr9i/season_3_theory_and_wishlist/"
+      ]
     }
   ],
   "no_news_found": false
