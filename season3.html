@@ -346,9 +346,12 @@ footer a:hover{text-decoration:underline;}
     for (i = 0; i < 24; i++) { if (loc[i] > loc[best]) best = i; if (loc[i] < loc[worst]) worst = i; }
     for (i = 0; i < 24; i++) {
       var on = i === nowH;
-      out += "<div title="" + i + ":00"" style=""flex:1;min-width:2px;height:" + Math.max(4, loc[i]) + "%;background:" + (on ? "#9dff00" : "rgba(157,255,0,.30)") + """></div>";
+      var el = document.createElement("div");
+      el.title = i + ":00";
+      el.style.cssText = "flex:1;min-width:2px;height:" + Math.max(4, loc[i]) + "%;background:" + (on ? "#9dff00" : "rgba(157,255,0,.30)");
+      pwb.appendChild(el);
     }
-    pwb.innerHTML = out;
+    void 0;
     var f = function (h) { var a = h < 12 ? "am" : "pm", x = h % 12; if (x === 0) x = 12; return x + a; };
     var cur = loc[nowH];
     var st = cur >= 75 ? "Right now is a busy window. Matchmaking should be at its fastest." : cur >= 45 ? "Right now is moderate. Games fill, slower than peak." : "Right now is off-peak. Expect slower queues and thinner lobbies.";

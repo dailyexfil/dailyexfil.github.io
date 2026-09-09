@@ -306,7 +306,7 @@ footer a:hover{text-decoration:underline;}
 <div class="wrap"><div class="ticker"><div class="in"><b>+</b> Community Sentiment Shift: Players Say Marathon Is in Its Best State Since Season 1 &nbsp;&nbsp;&nbsp; <b>+</b> Marathon Discounted 30 Percent on Steam Through August 4 &nbsp;&nbsp;&nbsp; <b>+</b> Players Debate Whether Recon Shell Buff Was a Mistake &nbsp;&nbsp;&nbsp; <b>+</b> Players Want New Vault Breaker Upgrades Before Mode Ends &nbsp;&nbsp;&nbsp; <b>+</b> Vault Breaker Prestige Key Templates Actually Give Cryo Keys, Players Say &nbsp;&nbsp;&nbsp; <b>+</b> Context: Vault Breaker PvE Mode Extended to August 18 &nbsp;&nbsp;&nbsp; <b>+</b> Context: Marathon Steam Player Count Declining Sharply &nbsp;&nbsp;&nbsp; <b>+</b> Community Sentiment Shift: Players Say Marathon Is in Its Best State Since Season 1 &nbsp;&nbsp;&nbsp; <b>+</b> Marathon Discounted 30 Percent on Steam Through August 4 &nbsp;&nbsp;&nbsp; <b>+</b> Players Debate Whether Recon Shell Buff Was a Mistake &nbsp;&nbsp;&nbsp; <b>+</b> Players Want New Vault Breaker Upgrades Before Mode Ends &nbsp;&nbsp;&nbsp; <b>+</b> Vault Breaker Prestige Key Templates Actually Give Cryo Keys, Players Say &nbsp;&nbsp;&nbsp; <b>+</b> Context: Vault Breaker PvE Mode Extended to August 18 &nbsp;&nbsp;&nbsp; <b>+</b> Context: Marathon Steam Player Count Declining Sharply</div></div></div>
 <div class="wrap"><footer>
 <span>ALL ITEMS TRACE TO SOURCE // LINK-CHECKED // AUTOMATED // NOT AFFILIATED WITH BUNGIE OR SONY</span>
-<span><a href="../status.html">STATE OF THE GAME &#8594;</a> &nbsp; <a href="../patches.html">PATCH LOG &#8594;</a> &nbsp; <a href="../archive.html">ARCHIVE &#8594;</a> &nbsp; <a href="../index.html">LATEST &#8594;</a> &nbsp; <a href="https://ko-fi.com/errberr" rel="noopener" target="_blank">SUPPORT THE RELAY &#8599;</a> &nbsp; <span class="faint">BUILT 2026-09-09 04:55Z</span></span>
+<span><a href="../status.html">STATE OF THE GAME &#8594;</a> &nbsp; <a href="../patches.html">PATCH LOG &#8594;</a> &nbsp; <a href="../archive.html">ARCHIVE &#8594;</a> &nbsp; <a href="../index.html">LATEST &#8594;</a> &nbsp; <a href="https://ko-fi.com/errberr" rel="noopener" target="_blank">SUPPORT THE RELAY &#8599;</a> &nbsp; <span class="faint">BUILT 2026-09-09 04:59Z</span></span>
 </footer></div>
 <script>
 (function(){
@@ -404,9 +404,12 @@ footer a:hover{text-decoration:underline;}
     for (i = 0; i < 24; i++) { if (loc[i] > loc[best]) best = i; if (loc[i] < loc[worst]) worst = i; }
     for (i = 0; i < 24; i++) {
       var on = i === nowH;
-      out += "<div title="" + i + ":00"" style=""flex:1;min-width:2px;height:" + Math.max(4, loc[i]) + "%;background:" + (on ? "#9dff00" : "rgba(157,255,0,.30)") + """></div>";
+      var el = document.createElement("div");
+      el.title = i + ":00";
+      el.style.cssText = "flex:1;min-width:2px;height:" + Math.max(4, loc[i]) + "%;background:" + (on ? "#9dff00" : "rgba(157,255,0,.30)");
+      pwb.appendChild(el);
     }
-    pwb.innerHTML = out;
+    void 0;
     var f = function (h) { var a = h < 12 ? "am" : "pm", x = h % 12; if (x === 0) x = 12; return x + a; };
     var cur = loc[nowH];
     var st = cur >= 75 ? "Right now is a busy window. Matchmaking should be at its fastest." : cur >= 45 ? "Right now is moderate. Games fill, slower than peak." : "Right now is off-peak. Expect slower queues and thinner lobbies.";
