@@ -346,7 +346,7 @@ footer a:hover{text-decoration:underline;}
     for (i = 0; i < 24; i++) { if (loc[i] > loc[best]) best = i; if (loc[i] < loc[worst]) worst = i; }
     for (i = 0; i < 24; i++) {
       var on = i === nowH;
-      out += '<title="' + i + ':00  div ' + loc[i] + '% of peak" style="flex:1;min-width:2px;height:' + Math.max(4, loc[i]) + '%;background:' + (on ? "#9dff00" : "rgba(157,255,0,.30)") + '"></div>';
+      out += "<div title="" + i + ":00"" style=""flex:1;min-width:2px;height:" + Math.max(4, loc[i]) + "%;background:" + (on ? "#9dff00" : "rgba(157,255,0,.30)") + """></div>";
     }
     pwb.innerHTML = out;
     var f = function (h) { var a = h < 12 ? "am" : "pm", x = h % 12; if (x === 0) x = 12; return x + a; };
