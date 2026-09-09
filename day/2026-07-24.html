@@ -238,9 +238,11 @@ footer a:hover{text-decoration:underline;}
 </div>
 <div class="tagline"><span class="chip">INTEL EXTRACTED DAILY</span><span>MARATHON STATE OF THE GAME // CROSS-REFERENCED // LINK-CHECKED</span></div>
 <p class="plain">One page that separates what is <b>actually confirmed</b> about Marathon from what is rumor: official Bungie posts, press reports, and community chatter, every item tiered by credibility, cross-referenced, and link-checked. Updated automatically every day.</p>
+<p class="verdict" style="margin:12px 0 6px;font-size:15px;line-height:1.55">Marathon is holding around 3,266 players at its daily peak this week, about 3.3 percent of its launch high of 88,337. The last patch shipped 2026-09-01. SEASON 3 arrives SEP 22, in 14 days.</p>
+<div class="pw"><div style="font-size:11px;letter-spacing:.12em;opacity:.65">CAN YOU GET A GAME RIGHT NOW? // TYPICAL DAY, YOUR LOCAL TIME</div><div id="pwbars" style="display:flex;align-items:flex-end;gap:2px;height:34px;margin:8px 0 5px"></div><div id="pwnote" style="font-size:12.5px;opacity:.85"></div></div><script>window.EXFIL_HOURS=[95,99,100,95,85,72,57,46,39,35,33,35,38,44,47,51,58,68,72,79,81,80,80,85];</script>
 <nav class="nav" aria-label="Site">
 <a href="../index.html">LATEST</a>
-<a href="../vaultbreaker.html">VAULT BREAKER</a>
+<a href="../season3.html">SEASON 3</a><a href="../vaultbreaker.html">VAULT BREAKER</a>
 <a href="../status.html">STATE OF THE GAME</a>
 <a href="../patches.html">PATCH LOG</a>
 <a href="../archive.html">ARCHIVE</a>
@@ -308,7 +310,7 @@ footer a:hover{text-decoration:underline;}
 <div class="wrap"><div class="ticker"><div class="in"><b>+</b> Players react positively to new Vault Breaker PvE mode &nbsp;&nbsp;&nbsp; <b>+</b> Community debates whether PvE content can grow Marathon's player base &nbsp;&nbsp;&nbsp; <b>+</b> Players say progression focus makes Marathon's content feel thin &nbsp;&nbsp;&nbsp; <b>+</b> Player shares tips after grinding Vault Breaker Compiler clear &nbsp;&nbsp;&nbsp; <b>+</b> Marathon discounted 30 percent on Steam through August 4 &nbsp;&nbsp;&nbsp; <b>+</b> Report claims Marathon faces critical scrutiny amid studio turbulence &nbsp;&nbsp;&nbsp; <b>+</b> Context: Vault Breaker PvE mode launched July 21, tripling concurrent players &nbsp;&nbsp;&nbsp; <b>+</b> Context: Marathon game director Joe Ziegler departs Bungie &nbsp;&nbsp;&nbsp; <b>+</b> Players react positively to new Vault Breaker PvE mode &nbsp;&nbsp;&nbsp; <b>+</b> Community debates whether PvE content can grow Marathon's player base &nbsp;&nbsp;&nbsp; <b>+</b> Players say progression focus makes Marathon's content feel thin &nbsp;&nbsp;&nbsp; <b>+</b> Player shares tips after grinding Vault Breaker Compiler clear &nbsp;&nbsp;&nbsp; <b>+</b> Marathon discounted 30 percent on Steam through August 4 &nbsp;&nbsp;&nbsp; <b>+</b> Report claims Marathon faces critical scrutiny amid studio turbulence &nbsp;&nbsp;&nbsp; <b>+</b> Context: Vault Breaker PvE mode launched July 21, tripling concurrent players &nbsp;&nbsp;&nbsp; <b>+</b> Context: Marathon game director Joe Ziegler departs Bungie</div></div></div>
 <div class="wrap"><footer>
 <span>ALL ITEMS TRACE TO SOURCE // LINK-CHECKED // AUTOMATED // NOT AFFILIATED WITH BUNGIE OR SONY</span>
-<span><a href="../status.html">STATE OF THE GAME &#8594;</a> &nbsp; <a href="../patches.html">PATCH LOG &#8594;</a> &nbsp; <a href="../archive.html">ARCHIVE &#8594;</a> &nbsp; <a href="../index.html">LATEST &#8594;</a> &nbsp; <a href="https://ko-fi.com/errberr" rel="noopener" target="_blank">SUPPORT THE RELAY &#8599;</a> &nbsp; <span class="faint">BUILT 2026-09-09 04:25Z</span></span>
+<span><a href="../status.html">STATE OF THE GAME &#8594;</a> &nbsp; <a href="../patches.html">PATCH LOG &#8594;</a> &nbsp; <a href="../archive.html">ARCHIVE &#8594;</a> &nbsp; <a href="../index.html">LATEST &#8594;</a> &nbsp; <a href="https://ko-fi.com/errberr" rel="noopener" target="_blank">SUPPORT THE RELAY &#8599;</a> &nbsp; <span class="faint">BUILT 2026-09-09 04:49Z</span></span>
 </footer></div>
 <script>
 (function(){
@@ -396,6 +398,25 @@ footer a:hover{text-decoration:underline;}
   tick();
   setInterval(tick, 1000);
 
+  var pwb = document.getElementById("pwbars");
+  if (pwb && window.EXFIL_HOURS) {
+    var H = window.EXFIL_HOURS;
+    var off = Math.round(-new Date().getTimezoneOffset() / 60);
+    var loc = [], i;
+    for (i = 0; i < 24; i++) { loc[i] = H[(((i - off) % 24) + 24) % 24]; }
+    var nowH = new Date().getHours(), best = 0, worst = 0, out = "";
+    for (i = 0; i < 24; i++) { if (loc[i] > loc[best]) best = i; if (loc[i] < loc[worst]) worst = i; }
+    for (i = 0; i < 24; i++) {
+      var on = i === nowH;
+      out += '<title="' + i + ':00  div ' + loc[i] + '% of peak" style="flex:1;min-width:2px;height:' + Math.max(4, loc[i]) + '%;background:' + (on ? "#9dff00" : "rgba(157,255,0,.30)") + '"></div>';
+    }
+    pwb.innerHTML = out;
+    var f = function (h) { var a = h < 12 ? "am" : "pm", x = h % 12; if (x === 0) x = 12; return x + a; };
+    var cur = loc[nowH];
+    var st = cur >= 75 ? "Right now is a busy window. Matchmaking should be at its fastest." : cur >= 45 ? "Right now is moderate. Games fill, slower than peak." : "Right now is off-peak. Expect slower queues and thinner lobbies.";
+    var nt = document.getElementById("pwnote");
+    if (nt) nt.textContent = st + " Busiest around " + f(best) + ", quietest around " + f(worst) + ".";
+  }
   var lv = document.getElementById("liveval");
   {
     var updLive = function() {
