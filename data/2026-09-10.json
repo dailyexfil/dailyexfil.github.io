@@ -1,0 +1,96 @@
+{
+  "date": "2026-09-10",
+  "items": [
+    {
+      "title": "Paul Tassi Reportedly Confirms Marathon Is Not Shutting Down",
+      "summary": "A Reddit thread reports that Forbes contributor Paul Tassi said on X that Marathon is not being shut down, addressing community fears fueled by recent layoffs and studio downsizing. The claim comes from Tassi's social media comments rather than a linked article or post, so it has not been independently verified through a primary source available here.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1wcjq86/paul_tassi_confirms_marathon_not_shutting_down/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "The only available source is a Reddit thread describing a journalist's social media comment, not Tassi's original post, so the claim cannot be verified as primary reporting.",
+      "published_at": "2026-09-10T13:47:52.000Z",
+      "category": "layoffs-business",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Season 3 Announcement Reportedly Drops, Details Thin",
+      "summary": "A Reddit post says a Season 3 announcement for Marathon has just gone live, but the thread does not include specifics about new content, weapons, or a release date. The community is discussing the news while waiting on an official Bungie post or patch notes with actual details.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1wco6vj/season_3_announcement_just_dropped/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Only source available is a Reddit thread title with no linked official announcement, so specifics cannot be confirmed.",
+      "published_at": "2026-09-10T16:32:32.000Z",
+      "category": "gameplay-content",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Marathon Creative Director Hints at Upcoming News, Community Speculates",
+      "summary": "A Reddit thread claims Marathon's creative director has hinted that more news is coming soon, though the original statement or platform is not included in the source. Players are speculating about what the announcement could involve, with some connecting it to the recent Season 3 news.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1wcrc50/marathon_creative_director_hinting_at_news_soon/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "The claim about the creative director's comments is relayed only through a Reddit post without a direct link to the original statement.",
+      "published_at": "2026-09-10T18:23:26.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Community Debate: Is Marathon's Player Decline Tied to the Extraction Formula?",
+      "summary": "A widely discussed Reddit post argues that Marathon's declining player numbers stem from the core extraction shooter design rather than any coordinated hate campaign. Commenters debate whether Bungie should have listened more closely to tester feedback before committing to that formula.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1wckgyt/if_the_developers_had_listened_to_the_testers_and/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Reflects unverified player sentiment and opinion rather than confirmed player count data.",
+      "published_at": "2026-09-10T14:15:58.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Players Argue Marathon's Maps Are Too Small for More Than Three Squads",
+      "summary": "A Reddit thread argues current maps cannot support more than three trio teams without matches turning into battle royale style chaos, with players getting jumped seconds after spawning. The poster says early complaints about too little PvP led to an overcorrection toward roaming death squads.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1wchv2i/having_more_than_3_trio_teams_on_these_maps_is_an/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Player opinion thread on map design and squad density, not an official balance statement.",
+      "published_at": "2026-09-10T12:31:29.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Runners Debate Marathon's PvP Balance, Knife and Faction Strength",
+      "summary": "A Reddit post praises Marathon's gunplay and runner abilities but argues the knife is overpowered while certain shields underperform, and that one runner is especially strong in the Cryo Archive mode. The discussion also touches on complaints about roaming death squads limiting time to loot.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1wcigb1/how_do_we_feel_about_pvp/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Player opinion on weapon and runner balance without official confirmation.",
+      "published_at": "2026-09-10T12:56:36.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Player Documents a Friend's First 10 Hours With Marathon",
+      "summary": "A Reddit user set up an experiment having a new-to-Marathon friend play solo, without guides or teammates, for 10 hours while recording the session. The goal was to test community claims about a harsh new player experience, adding firsthand detail to ongoing debate about onboarding difficulty and early loss streaks.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1wcq78j/i_interviewed_a_new_marathon_player_after_10_hours/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Single player anecdote and self-run experiment, not a formal study.",
+      "published_at": "2026-09-10T17:43:58.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Context: Bungie Subleases Bellevue Campus, Workforce Down to About 500",
+      "summary": "This story was originally reported on September 4, 2026. Bungie put most of its roughly 211,000 square foot Bellevue headquarters up for sublease through 2035 as the studio shifts to a more digital-first model, with staff falling from about 1,600 at the time of Sony's acquisition to around 500 after repeated layoffs tied to Marathon's weak player retention and Destiny 2's decline. This downsizing is the backdrop for the community's ongoing shutdown fears referenced in today's Paul Tassi thread.",
+      "source_name": "The Game Post",
+      "source_url": "https://thegamepost.com/bungie-bellevue-hq-sublease-major-layoffs/",
+      "credibility_tier": "verified-journalist",
+      "credibility_note": "Established gaming outlet reporting on confirmed studio real estate and staffing changes.",
+      "published_at": "2026-09-04T00:00:00Z",
+      "category": "layoffs-business",
+      "corroborating_sources": [
+        "https://ixbt.games/en/news/2026/09/07/433063-bungie-prodolzaet-szimatsia-posle-slabyx-pokazatelei-marathon.html"
+      ]
+    }
+  ],
+  "no_news_found": false
+}
