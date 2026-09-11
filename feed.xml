@@ -6,7 +6,14 @@
 <atom:link href="https://dailyexfil.com/feed.xml" rel="self" type="application/rss+xml"/>
 <description>Daily Marathon (Bungie) news digest. Official, press, and community items tiered by credibility, cross-referenced, and link-checked.</description>
 <language>en</language>
-<lastBuildDate>Thu, 10 Sep 2026 19:03:37 GMT</lastBuildDate>
+<lastBuildDate>Fri, 11 Sep 2026 19:03:51 GMT</lastBuildDate>
+<item>
+<title>DAILY EXFIL 2026-09-11: Community asks: 'Is there any news on Season 3?'</title>
+<link>https://dailyexfil.com/day/2026-09-11.html</link>
+<guid isPermaLink="true">https://dailyexfil.com/day/2026-09-11.html</guid>
+<pubDate>Fri, 11 Sep 2026 20:00:00 GMT</pubDate>
+<description><![CDATA[[COMMS] Community asks: 'Is there any news on Season 3?'<br>[COMMS] Players debate crew fill etiquette around free Cryo kits and blue shields<br>[COMMS] Player reports credits disappearing without explanation<br>[PRESS] Context: Bungie's June 2026 layoffs cut Marathon leadership roles<br>[OFFICIAL] Context: Marathon's official site shows news posts dated September 1 and August 25]]></description>
+</item>
 <item>
 <title>DAILY EXFIL 2026-09-10: Paul Tassi Reportedly Confirms Marathon Is Not Shutting Down</title>
 <link>https://dailyexfil.com/day/2026-09-10.html</link>
@@ -97,13 +104,6 @@
 <guid isPermaLink="true">https://dailyexfil.com/day/2026-07-30.html</guid>
 <pubDate>Thu, 30 Jul 2026 20:00:00 GMT</pubDate>
 <description><![CDATA[[PRESS] Bungie extends Marathon's Vault Breaker PvE mode until August 18<br>[COMMS] Reddit thread argues toxic community behavior is driving away new Marathon players<br>[COMMS] Players frustrated over lack of Destroyer shell skins since Season 1 launch<br>[COMMS] Community feedback calls for more narrative events beyond launch ARG<br>[COMMS] Sentinel players push for buffs to counter mobility mismatch<br>[PRESS] Context: Marathon director Joe Ziegler leaves Bungie after mass layoffs<br>[PRESS] Context: New Marathon General Manager Joshua Deane named amid leadership restructuring]]></description>
-</item>
-<item>
-<title>DAILY EXFIL 2026-07-29: Vault Breaker PvE Trial Extended Until August 18</title>
-<link>https://dailyexfil.com/day/2026-07-29.html</link>
-<guid isPermaLink="true">https://dailyexfil.com/day/2026-07-29.html</guid>
-<pubDate>Wed, 29 Jul 2026 20:00:00 GMT</pubDate>
-<description><![CDATA[[COMMS] Vault Breaker PvE Trial Extended Until August 18<br>[OFFICIAL] Marathon Update 1.1.5.1 Deployed on July 28<br>[COMMS] Players frustrated Bungie won't address why Destroyer has no new skin<br>[COMMS] Community debates whether Marathon has a long term future<br>[COMMS] Debate over whether Marathon should focus more on PvP<br>[COMMS] Returning season 1 players say loot changes hurt their experience<br>[PRESS] Context: Marathon game director Joe Ziegler departs Bungie after four months<br>[PRESS] Context: Marathon's Steam player count dropped below 1,000 in early July]]></description>
 </item>
 </channel>
 </rss>

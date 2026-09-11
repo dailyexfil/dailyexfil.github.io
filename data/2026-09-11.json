@@ -1,0 +1,64 @@
+{
+  "date": "2026-09-11",
+  "items": [
+    {
+      "title": "Community asks: 'Is there any news on Season 3?'",
+      "summary": "A Reddit thread posted today asks whether Bungie has said anything about Season 3, which players recall was teased for the 22nd back at midseason. The lack of replies in the thread reflects a broader pattern of players feeling left in the dark between official Bungie communications.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1wdpe6d/is_there_any_news_on_s3/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Single Reddit thread with a community question, no official response confirmed.",
+      "published_at": "2026-09-11T19:00:53.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Players debate crew fill etiquette around free Cryo kits and blue shields",
+      "summary": "A Reddit post describes a player being paired with gold shield teammates in Cryo crew fill who reacted rudely to their blue shield loadout and then abandoned communication, resulting in a bad run. The thread highlights ongoing tension between veteran and newer players in the Cryo mode's matchmaking, especially since every player receives a free starter kit this season.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1wdl8li/if_you_dont_want_to_be_paired_with_blue_shields/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Community anecdote and discussion thread, not independently verified beyond the poster's account.",
+      "published_at": "2026-09-11T16:33:11.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Player reports credits disappearing without explanation",
+      "summary": "A Reddit user says they logged out with about 60,000 in-game credits and logged back in to find only 986 left, with no purchases made in between. They also report losing credits between runs without spending anything, and are asking if others have experienced the same issue.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1wdp0zm/anyone_elses_credits_randomly_going_missing/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Unverified single player report of a possible economy bug, no official acknowledgment found.",
+      "published_at": "2026-09-11T18:49:01.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Context: Bungie's June 2026 layoffs cut Marathon leadership roles",
+      "summary": "This story was originally reported on June 25, 2026, when Sony confirmed layoffs affecting more than 292 Bungie employees, including Marathon's General Manager and Engineering Director according to WARN filings. Studio head Justin Truman also stepped down amid the restructuring, less than a year after taking the role. The cuts help explain ongoing community frustration over sparse communication and the slow pace of Marathon updates, including today's questions about Season 3.",
+      "source_name": "Forbes / Paul Tassi",
+      "source_url": "https://www.forbes.com/sites/paultassi/2026/06/25/bungie-hit-with-widespread-layoffs-as-destiny-2-ends-and-marathon-continues/",
+      "credibility_tier": "verified-journalist",
+      "credibility_note": "Reported by Forbes journalist Paul Tassi with track record covering Bungie, corroborated by other outlets.",
+      "published_at": "2026-06-25T00:00:00Z",
+      "category": "layoffs-business",
+      "corroborating_sources": [
+        "https://thegamepost.com/sonys-bungie-layoffs-hit-marathon-senior-roles-general-manager/",
+        "https://www.windowscentral.com/gaming/as-destiny-2-ends-ex-bungie-dev-says-supporting-marathon-will-help-keep-the-studio-afloat"
+      ]
+    },
+    {
+      "title": "Context: Marathon's official site shows news posts dated September 1 and August 25",
+      "summary": "As of research around September 1, 2026, the official Marathon homepage listed its two most recent news posts dated September 1 and August 25, 2026, teasing escalating UESC security efforts and mysteries tied to the Anomaly. Full details of these posts were not accessible in available archives. This shows Bungie has posted some updates in recent weeks even as players today ask why they have not heard more about a Season 3 launch.",
+      "source_name": "marathonthegame.com",
+      "source_url": "https://marathonthegame.com/",
+      "credibility_tier": "official",
+      "credibility_note": "Direct observation of Bungie's official game homepage, though specific post content could not be verified in full.",
+      "published_at": "2026-09-01T00:00:00Z",
+      "category": "other",
+      "corroborating_sources": []
+    }
+  ],
+  "no_news_found": false
+}
