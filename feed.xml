@@ -6,7 +6,14 @@
 <atom:link href="https://dailyexfil.com/feed.xml" rel="self" type="application/rss+xml"/>
 <description>Daily Marathon (Bungie) news digest. Official, press, and community items tiered by credibility, cross-referenced, and link-checked.</description>
 <language>en</language>
-<lastBuildDate>Fri, 11 Sep 2026 19:03:51 GMT</lastBuildDate>
+<lastBuildDate>Sat, 12 Sep 2026 19:05:20 GMT</lastBuildDate>
+<item>
+<title>DAILY EXFIL 2026-09-12: Bungie and Marathon Are Not Shutting Down, Forbes Reports</title>
+<link>https://dailyexfil.com/day/2026-09-12.html</link>
+<guid isPermaLink="true">https://dailyexfil.com/day/2026-09-12.html</guid>
+<pubDate>Sat, 12 Sep 2026 20:00:00 GMT</pubDate>
+<description><![CDATA[[PRESS] Bungie and Marathon Are Not Shutting Down, Forbes Reports<br>[COMMS] Marathon Player Count Holding at About 3,035, Still a Fraction of Launch Peak<br>[COMMS] Bungie Stays Silent on Season 3 Details Ahead of September 22 Launch<br>[COMMS] Player Reports Running Into Seven Others Solo on Outpost, More Than Expected<br>[COMMS] Players Debate Whether the Prestige Salvage Grind Is Worth It<br>[COMMS] Rooking Playstyle Sparks Discussion on Player Trust and Toxicity<br>[COMMS] Community Speculates About Future Maps and a Possible Megastructure<br>[PRESS] Context: Bungie's June 2026 Layoffs Gutted Marathon Leadership<br>[PRESS] Context: Bungie Downsizes to About 500 Employees, Subleases Bellevue HQ]]></description>
+</item>
 <item>
 <title>DAILY EXFIL 2026-09-11: Community asks: 'Is there any news on Season 3?'</title>
 <link>https://dailyexfil.com/day/2026-09-11.html</link>
@@ -97,13 +104,6 @@
 <guid isPermaLink="true">https://dailyexfil.com/day/2026-07-31.html</guid>
 <pubDate>Fri, 31 Jul 2026 20:00:00 GMT</pubDate>
 <description><![CDATA[[PRESS] Sony Earnings Report Says Marathon Maintains High User Retention in Season 2<br>[COMMS] Community Debates Why Marathon Has Collected More Haters Than Players<br>[COMMS] Players Push Back on Vault Breaker Upgrade Grind<br>[COMMS] Community Wants Custom Loadouts in Marathon's Future Permanent PvE Mode<br>[COMMS] Some Players Report Renewed Enjoyment of Cryo Mode<br>[PRESS] Context: Bungie Adds Solo-Only Queue Option to Vault Breaker<br>[PRESS] Context: Marathon Game Director Joe Ziegler Confirms Departure from Bungie]]></description>
-</item>
-<item>
-<title>DAILY EXFIL 2026-07-30: Bungie extends Marathon's Vault Breaker PvE mode until August 18</title>
-<link>https://dailyexfil.com/day/2026-07-30.html</link>
-<guid isPermaLink="true">https://dailyexfil.com/day/2026-07-30.html</guid>
-<pubDate>Thu, 30 Jul 2026 20:00:00 GMT</pubDate>
-<description><![CDATA[[PRESS] Bungie extends Marathon's Vault Breaker PvE mode until August 18<br>[COMMS] Reddit thread argues toxic community behavior is driving away new Marathon players<br>[COMMS] Players frustrated over lack of Destroyer shell skins since Season 1 launch<br>[COMMS] Community feedback calls for more narrative events beyond launch ARG<br>[COMMS] Sentinel players push for buffs to counter mobility mismatch<br>[PRESS] Context: Marathon director Joe Ziegler leaves Bungie after mass layoffs<br>[PRESS] Context: New Marathon General Manager Joshua Deane named amid leadership restructuring]]></description>
 </item>
 </channel>
 </rss>

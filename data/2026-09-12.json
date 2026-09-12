@@ -1,0 +1,107 @@
+{
+  "date": "2026-09-12",
+  "items": [
+    {
+      "title": "Bungie and Marathon Are Not Shutting Down, Forbes Reports",
+      "summary": "Forbes journalist Paul Tassi said on X that neither Marathon nor Bungie is shutting down, pushing back on community speculation about the game's future. When pressed for details, Tassi said the report is based on his sources, though he did not clarify what level of ongoing support Marathon will actually get given its low current player counts.",
+      "source_name": "GameRant (reporting on Forbes)",
+      "source_url": "https://gamerant.com/marathon-bungie-not-shutting-down/",
+      "credibility_tier": "verified-journalist",
+      "credibility_note": "Relayed from Forbes journalist Paul Tassi, who has a track record covering Bungie, via GameRant, an established outlet.",
+      "published_at": "2026-09-12T04:00:00Z",
+      "category": "layoffs-business",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Marathon Player Count Holding at About 3,035, Still a Fraction of Launch Peak",
+      "summary": "A community tracker reports Marathon's daily concurrent player peak is sitting around 3,035 this week, roughly 3.3 percent of its launch high of 88,337. The last patch shipped September 1, and Season 3 is scheduled for September 22.",
+      "source_name": "Daily Exfil (community tracker)",
+      "source_url": "https://dailyexfil.com/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Independent community tracker aggregating public Steam data, not an official or newsroom source.",
+      "published_at": "2026-09-12T00:00:00Z",
+      "category": "other",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Bungie Stays Silent on Season 3 Details Ahead of September 22 Launch",
+      "summary": "With Season 3 scheduled for September 22, Bungie has not posted fresh official details about what the update contains. A community tracker notes the official Marathon news page still shows posts from September 1 and August 25 as the most recent, fueling speculation in the community about a possible delay or scaled-back rollout.",
+      "source_name": "Daily Exfil (community tracker)",
+      "source_url": "https://dailyexfil.com/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Community tracker observation based on official page activity, not confirmed by Bungie directly.",
+      "published_at": "2026-09-12T00:00:00Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Player Reports Running Into Seven Others Solo on Outpost, More Than Expected",
+      "summary": "A solo player posted about encountering six other runners in a single Outpost match, more than the commonly assumed cap of six total including themselves. The thread drew interest from a community closely watching population and matchmaking health given Marathon's declining player counts.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1wegku0/ran_into_6_other_runners_not_including_myself_on/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Single Reddit anecdote about matchmaking population, unverified against official matchmaking data.",
+      "published_at": "2026-09-12T16:10:05.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Players Debate Whether the Prestige Salvage Grind Is Worth It",
+      "summary": "A Reddit user questioned whether progressing factions far enough to use prestige salvage is realistic, since evolving a maxed-out cradle requires wiping all accumulated energy for one extra slot. The post reflects broader community frustration with endgame progression systems feeling punishing rather than rewarding.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1wel2ti/i_dont_think_ill_ever_use_these/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Individual player feedback thread on Reddit, not an official design statement.",
+      "published_at": "2026-09-12T19:02:06.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Rooking Playstyle Sparks Discussion on Player Trust and Toxicity",
+      "summary": "A veteran player described trying to Rook peacefully on Outpost, announcing themselves as friendly, but being shot on sight by most teams and betrayed by others who claimed to be friendly first. The thread captures ongoing community conversation about trust, griefing, and social dynamics unique to Marathon's Rook mechanic.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1wekw6w/rooking_is_tough/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Personal anecdote and community discussion thread, reflects player sentiment rather than verified fact.",
+      "published_at": "2026-09-12T18:55:11.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Community Speculates About Future Maps and a Possible Megastructure",
+      "summary": "A Reddit thread speculates on when Marathon will get a new map, questioning whether the upcoming Perimeter map will be as large and significant as its pre-launch marketing and concept art suggested. Commenters floated the idea of a future megastructure-style map given the game's bold art direction.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1wehzsw/marathon_maps/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Player speculation thread with no official confirmation of future map plans.",
+      "published_at": "2026-09-12T17:05:09.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Context: Bungie's June 2026 Layoffs Gutted Marathon Leadership",
+      "summary": "This story was originally reported around June 26, 2026. Bungie laid off at least 292 employees, cutting senior Marathon roles including General Manager Scott Taylor and an Engineering Director, while studio head Justin Truman stepped down and was replaced by Poria Torken. Sony reportedly confirmed Marathon remains a priority with content support pledged through 2026, but the leadership losses help explain the sparse communication the community has noted since.",
+      "source_name": "The Game Post",
+      "source_url": "https://thegamepost.com/sonys-bungie-layoffs-hit-marathon-senior-roles-general-manager-engineering-director-and-more/",
+      "credibility_tier": "verified-journalist",
+      "credibility_note": "Established gaming outlet reporting on confirmed layoff details, corroborated by a second outlet.",
+      "published_at": "2026-06-26T00:00:00Z",
+      "category": "layoffs-business",
+      "corroborating_sources": [
+        "https://respawn.outlookindia.com/gaming/gaming-news/bungie-layoffs-destiny-2-marathon-teams-cut-in-major-reshuffle"
+      ]
+    },
+    {
+      "title": "Context: Bungie Downsizes to About 500 Employees, Subleases Bellevue HQ",
+      "summary": "This story was originally reported around September 7, 2026. Bungie has reportedly shrunk from roughly 1,600 employees after the Sony acquisition to about 500, and is subleasing a nearly 20,000-square-foot section of its Bellevue headquarters. The downsizing was tied to weak performance from both Destiny 2 and Marathon, adding context to why fans are asking Forbes-level questions about whether the studio can sustain the game.",
+      "source_name": "IXBT Games",
+      "source_url": "https://ixbt.games/en/news/2026/09/07/433063-bungie-prodolzaet-szimatsia-posle-slabyx-pokazatelei-marathon.html",
+      "credibility_tier": "verified-journalist",
+      "credibility_note": "Reported by a gaming news outlet citing real estate and headcount specifics, though it is a less internationally established source than top-tier outlets.",
+      "published_at": "2026-09-07T00:00:00Z",
+      "category": "layoffs-business",
+      "corroborating_sources": []
+    }
+  ],
+  "no_news_found": false
+}
