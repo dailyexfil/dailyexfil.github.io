@@ -6,7 +6,14 @@
 <atom:link href="https://dailyexfil.com/feed.xml" rel="self" type="application/rss+xml"/>
 <description>Daily Marathon (Bungie) news digest. Official, press, and community items tiered by credibility, cross-referenced, and link-checked.</description>
 <language>en</language>
-<lastBuildDate>Sat, 12 Sep 2026 19:05:20 GMT</lastBuildDate>
+<lastBuildDate>Sun, 13 Sep 2026 19:03:12 GMT</lastBuildDate>
+<item>
+<title>DAILY EXFIL 2026-09-13: Marathon Not Shutting Down Despite Steep Player Decline, Says Forbes Journalist</title>
+<link>https://dailyexfil.com/day/2026-09-13.html</link>
+<guid isPermaLink="true">https://dailyexfil.com/day/2026-09-13.html</guid>
+<pubDate>Sun, 13 Sep 2026 20:00:00 GMT</pubDate>
+<description><![CDATA[[PRESS] Marathon Not Shutting Down Despite Steep Player Decline, Says Forbes Journalist<br>[PRESS] Marathon Season 3 Set to Launch September 22 with Perimeter Revamp and New Runner Shell<br>[COMMS] Players Frustrated by Bungie's Silence Ahead of Season 3 Launch<br>[COMMS] Community Questions Whether Marathon's Player Numbers Are Sustainable<br>[COMMS] Players Say Marathon Needs a New Map in Season 3<br>[COMMS] Debate Resurfaces Over PvP Pacing and Encounter Design<br>[PRESS] Context: June 2026 Bungie Layoffs Cut Marathon Leadership and Hundreds of Staff]]></description>
+</item>
 <item>
 <title>DAILY EXFIL 2026-09-12: Bungie and Marathon Are Not Shutting Down, Forbes Reports</title>
 <link>https://dailyexfil.com/day/2026-09-12.html</link>
@@ -97,13 +104,6 @@
 <guid isPermaLink="true">https://dailyexfil.com/day/2026-08-01.html</guid>
 <pubDate>Sat, 01 Aug 2026 20:00:00 GMT</pubDate>
 <description><![CDATA[[PRESS] Sony addresses Marathon's performance and retention in earnings report<br>[COMMS] Community debate erupts over Destroyer class balance<br>[COMMS] Players say Cryo Archive mode feels rough but improved after grenade and bubble spam curbs<br>[COMMS] Players report bug exploit letting teams spawn rush with starting clearance in Cryo Archive<br>[COMMS] Players report dead lobbies and low population outside Rookie playlist<br>[PRESS] Context: Marathon's Steam player count reported to have collapsed to around 6,000 concurrent<br>[PRESS] Context: Bungie extended the experimental Vault Breaker PvE mode through August 18]]></description>
-</item>
-<item>
-<title>DAILY EXFIL 2026-07-31: Sony Earnings Report Says Marathon Maintains High User Retention in Season 2</title>
-<link>https://dailyexfil.com/day/2026-07-31.html</link>
-<guid isPermaLink="true">https://dailyexfil.com/day/2026-07-31.html</guid>
-<pubDate>Fri, 31 Jul 2026 20:00:00 GMT</pubDate>
-<description><![CDATA[[PRESS] Sony Earnings Report Says Marathon Maintains High User Retention in Season 2<br>[COMMS] Community Debates Why Marathon Has Collected More Haters Than Players<br>[COMMS] Players Push Back on Vault Breaker Upgrade Grind<br>[COMMS] Community Wants Custom Loadouts in Marathon's Future Permanent PvE Mode<br>[COMMS] Some Players Report Renewed Enjoyment of Cryo Mode<br>[PRESS] Context: Bungie Adds Solo-Only Queue Option to Vault Breaker<br>[PRESS] Context: Marathon Game Director Joe Ziegler Confirms Departure from Bungie]]></description>
 </item>
 </channel>
 </rss>

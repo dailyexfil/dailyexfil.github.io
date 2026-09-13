@@ -1,0 +1,89 @@
+{
+  "date": "2026-09-13",
+  "items": [
+    {
+      "title": "Marathon Not Shutting Down Despite Steep Player Decline, Says Forbes Journalist",
+      "summary": "Forbes journalist Paul Tassi, reporting via GameRant, said Marathon and Bungie are not shutting down despite community speculation fueled by a massive drop in concurrent players, with the game now seeing three-digit daily counts on Steam. Tassi noted Marathon has more runway than failed titles like Concord thanks to Bungie's reputation and Sony's continued backing.",
+      "source_name": "GameRant (reporting Paul Tassi)",
+      "source_url": "https://gamerant.com/marathon-bungie-not-shutting-down/",
+      "credibility_tier": "verified-journalist",
+      "credibility_note": "GameRant is an established outlet reporting original commentary from Forbes journalist Paul Tassi, who has a track record covering Bungie.",
+      "published_at": "2026-09-12T12:00:00.000Z",
+      "category": "layoffs-business",
+      "corroborating_sources": [
+        "https://dailyexfil.com/"
+      ]
+    },
+    {
+      "title": "Marathon Season 3 Set to Launch September 22 with Perimeter Revamp and New Runner Shell",
+      "summary": "Marathon's third season is scheduled to launch on September 22, 2026, and will include a revamp of Perimeter, the game's starting map long criticized as too safe, plus a new Runner shell meant to shake up the current meta. Earlier reporting from Shacknews also detailed plans for a full PvE mode and reworked early-game onboarding as part of the same season.",
+      "source_name": "GameRant",
+      "source_url": "https://gamerant.com/marathon-bungie-not-shutting-down/",
+      "credibility_tier": "verified-journalist",
+      "credibility_note": "GameRant is an established gaming outlet; details are corroborated by an independent Shacknews report on the same season.",
+      "published_at": "2026-09-12T12:00:00.000Z",
+      "category": "gameplay-content",
+      "corroborating_sources": [
+        "https://www.shacknews.com/article/150039/marathon-season-3-start-date"
+      ]
+    },
+    {
+      "title": "Players Frustrated by Bungie's Silence Ahead of Season 3 Launch",
+      "summary": "With Season 3 launching September 22 and only nine days out at the time of posting, a Reddit thread argues Bungie should already be releasing teasers the way it did before Season 2. The poster says the lack of any communication about whether the season will hit its date on schedule is adding to community confusion.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1wfdz5x/so_are_we_going_to_receive_any_teasers_for_season/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Reddit discussion thread reflecting community sentiment, not independently verified reporting.",
+      "published_at": "2026-09-13T17:31:06.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Community Questions Whether Marathon's Player Numbers Are Sustainable",
+      "summary": "A Reddit post titled 'Scott Bradford Needs Help' argues that Marathon's current player numbers are no longer enough to sustain the game, adding to a string of population-focused threads this week. It reflects broader community anxiety about the game's health following steep concurrent player declines reported elsewhere.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1wfdztl/scott_bradford_needs_help/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Single Reddit post expressing community opinion, not independently verified data.",
+      "published_at": "2026-09-13T17:31:46.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Players Say Marathon Needs a New Map in Season 3",
+      "summary": "A self-described 400+ level player with time since the server slam wrote that Marathon needs an entirely new map in Season 3, arguing the game feels stale between the three existing maps. The post specifically criticizes Outpost's loot quality compared to Season 1 and asks for a map with difficulty and complexity between Outpost and Cryo.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1wfexy8/they_need_a_new_map_in_s3_or_the_game_is_cooked/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Single Reddit post reflecting one player's opinion on content pacing, not verified reporting.",
+      "published_at": "2026-09-13T18:06:36.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Debate Resurfaces Over PvP Pacing and Encounter Design",
+      "summary": "A Reddit thread reignites an ongoing community debate about the balance between PvP, PvE, and ambiguous neutral encounters in Marathon. The poster describes a split between players who want aggressive, high-stakes PvP encounters and those who prefer more ambiguous or avoidable engagements.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1wfgdo4/is_pvp_getting_old/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Reddit discussion thread capturing community sentiment on game design, not independently verified.",
+      "published_at": "2026-09-13T18:59:43.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Context: June 2026 Bungie Layoffs Cut Marathon Leadership and Hundreds of Staff",
+      "summary": "This story was first reported around June 25 and 26, 2026. Bungie's layoffs that week cut Marathon's General Manager position and at least one Engineering Director role, with a Washington State WARN filing confirming at least 292 separations at the Bellevue headquarters and Forbes reporting over 400 people were on the layoff notification call. The cuts affected most of the Destiny 2 team and a portion of Marathon staff, and studio head Justin Truman stepped down after the restructuring, with Joshua Deane named Marathon's new General Manager.",
+      "source_name": "Forbes (Paul Tassi)",
+      "source_url": "https://www.forbes.com/sites/paultassi/2026/06/25/bungie-hit-with-widespread-layoffs-as-destiny-2-ends-and-marathon-continues/",
+      "credibility_tier": "verified-journalist",
+      "credibility_note": "Forbes reporting from a journalist with a long track record covering Bungie, corroborated by a WARN filing and additional outlet coverage.",
+      "published_at": "2026-06-25T12:00:00.000Z",
+      "category": "layoffs-business",
+      "corroborating_sources": [
+        "https://thegamepost.com/sonys-bungie-layoffs-hit-marathon-senior-roles-general-manager/"
+      ]
+    }
+  ],
+  "no_news_found": false
+}
