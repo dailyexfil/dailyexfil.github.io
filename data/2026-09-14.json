@@ -1,0 +1,139 @@
+{
+  "date": "2026-09-14",
+  "items": [
+    {
+      "title": "Marathon delays next major update from September 22 to December 8, ends fixed seasonal schedule",
+      "summary": "Bungie announced that the update originally planned for September 22 will not launch as scheduled. The content will now arrive on December 8 as part of a new update called Symbiosis, which will include a new Runner shell, a permanent PvE experience, and a refreshed Perimeter zone. Bungie says it is moving away from a strict seasonal calendar to give the team more time to meet player expectations.",
+      "source_name": "Steam News (Bungie)",
+      "source_url": "https://store.steampowered.com/news/app/3065800/view/674005725646684340",
+      "credibility_tier": "official",
+      "credibility_note": "Direct official post from Bungie distributed through the Steam news feed.",
+      "published_at": "2026-09-14T17:00:38.000Z",
+      "category": "gameplay-content",
+      "corroborating_sources": [
+        "https://www.bungie.net/7/en/News/Article/nightfallrefreshandsymbiosis",
+        "https://kotaku.com/marathon-delays-new-content-and-ditches-seasons-as-bungies-extraction-shooter-fights-for-its-life-2000734322",
+        "https://thegamepost.com/marathons-season-3-bungie-delays-major-content-december/"
+      ]
+    },
+    {
+      "title": "Kotaku: Marathon's delay and abandoned season model show an extraction shooter fighting for its life",
+      "summary": "Kotaku's analysis ties together Marathon's newly announced three month delay, the studio's decision to scrap fixed seasons, ongoing staff layoffs, and a sharp decline in player counts. The piece argues that despite Bungie's public commitment to the game, the combination of factors points to a precarious position for the project.",
+      "source_name": "Kotaku",
+      "source_url": "https://kotaku.com/marathon-delays-new-content-and-ditches-seasons-as-bungies-extraction-shooter-fights-for-its-life-2000734322",
+      "credibility_tier": "verified-journalist",
+      "credibility_note": "Established games outlet providing original analysis beyond the official announcement.",
+      "published_at": "2026-09-14T22:30:00.000Z",
+      "category": "layoffs-business",
+      "corroborating_sources": [
+        "https://thegamepost.com/marathons-season-3-bungie-delays-major-content-december/",
+        "https://store.steampowered.com/news/app/3065800/view/674005725646684340"
+      ]
+    },
+    {
+      "title": "Symbiosis update to add permanent PvE, new Runner shell, social space, and experimental team deathmatch",
+      "summary": "Kotaku reports that Bungie's December 8 Symbiosis update will introduce Marathon's first permanent PvE mode, a new Runner shell, a refreshed Perimeter zone, a social space with a firing range, and an experimental PvP team deathmatch mode. Bungie also teased further evolution of the game's alien and survival elements in a development blog expected later in September.",
+      "source_name": "Kotaku",
+      "source_url": "https://kotaku.com/marathon-looks-like-helldivers-in-first-peak-at-the-games-pve-future-we-will-be-evolving-marathon-into-a-more-alien-and-dynamic-survival-experience-2000734337",
+      "credibility_tier": "verified-journalist",
+      "credibility_note": "Established outlet reporting details from Bungie's development update.",
+      "published_at": "2026-09-14T20:00:00.000Z",
+      "category": "gameplay-content",
+      "corroborating_sources": [
+        "https://store.steampowered.com/news/app/3065800/view/674005725646684340",
+        "https://www.bungie.net/7/en/News/Article/nightfallrefreshandsymbiosis"
+      ]
+    },
+    {
+      "title": "Report: October 6 Nightfall Refresh will reset progression and economy ahead of December update",
+      "summary": "A gaming site called GameRiv reports that Bungie plans a smaller update on October 6 called the Nightfall Refresh, which will reset player progression and the in game economy, add a new rewards pass, and temporarily bring back the Vault Breaker PvE mode to gather data ahead of December's Symbiosis update. This specific date and detail have not been independently confirmed by a major outlet or seen in full in Bungie's own truncated announcement.",
+      "source_name": "GameRiv",
+      "source_url": "https://gameriv.com/marathon-season-3-delayed-to-december-as-bungie-abandons-strict-seasonal-schedule/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "GameRiv is not an established gaming outlet and this specific date has not been corroborated elsewhere, so it is treated cautiously.",
+      "published_at": "2026-09-14T23:00:00.000Z",
+      "category": "gameplay-content",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Marathon's Steam player count falls to 670 concurrent, below Concord's all time peak",
+      "summary": "The Game Post reports that Marathon's concurrent player count on Steam dropped to 670 during off peak hours, a figure lower than Concord's all time peak of 697 players before that game was shut down. The outlet frames this as added pressure on Bungie's October reset and December Symbiosis update to win players back.",
+      "source_name": "The Game Post",
+      "source_url": "https://thegamepost.com/marathons-season-3-bungie-delays-major-content-december/",
+      "credibility_tier": "verified-journalist",
+      "credibility_note": "The Game Post is a recognized outlet reporting directly on Steam player data.",
+      "published_at": "2026-09-14T22:00:00.000Z",
+      "category": "other",
+      "corroborating_sources": [
+        "https://steamcommunity.com/app/3065800/discussions/0/"
+      ]
+    },
+    {
+      "title": "Community debates whether player count is really Bungie's biggest problem",
+      "summary": "A widely discussed r/Marathon post argues that Bungie's concurrent player numbers, whether one thousand or ten thousand, may matter less than the game's broader financial sustainability given its microtransaction model. The poster doubts the delayed update alone will bring back the playerbase that left after recent wipes and studio silence.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1wgcjwp/if_anything_the_recent_news_shows_the_concurrent/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Reddit discussion thread reflecting community sentiment, not independently verified reporting.",
+      "published_at": "2026-09-14T18:57:50.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Community reaction turns harsh after delay announced one week before expected Season 3 launch",
+      "summary": "A heavily discussed r/Marathon thread quotes community members saying Bungie's recent silence was not a marketing strategy but a sign the product was not ready. Commenters criticized the timing of revealing a three month delay only a week before the previously expected Season 3 launch date.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1wgcjke/be_brave_face_the_reality_of_where_marathon_is/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Reddit discussion thread reflecting community sentiment, not independently verified reporting.",
+      "published_at": "2026-09-14T18:57:31.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Players ask what there is to play until December after Season 3 delay",
+      "summary": "In a widely discussed r/Marathon post, players note that Bungie is dropping fixed seasons entirely and question what content will sustain the game between the October reset and the December 8 Symbiosis update. The poster compares Bungie's approach unfavorably to Arc Raiders, which shipped a new map alongside its own recent update.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1wgcfis/season_3_delay/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Reddit discussion thread reflecting community sentiment, not independently verified reporting.",
+      "published_at": "2026-09-14T18:53:29.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Some players defend Bungie's plan and push back on 'hate tourists' after delay news",
+      "summary": "Not all reaction was negative. One r/Marathon poster pushed back on critics piling on the subreddit, arguing the upcoming wipe and December Symbiosis update sound promising and could act like a relaunch for the game. The thread shows a split in community sentiment between frustration and cautious optimism.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1wgb2n2/shoutout_to_all_the_hate_tourists_in_the_sub_today/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Reddit discussion thread reflecting community sentiment, not independently verified reporting.",
+      "published_at": "2026-09-14T18:06:21.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Context: Forbes journalist says Marathon and Bungie are not shutting down",
+      "summary": "This story was originally reported on September 12, 2026. Forbes journalist Paul Tassi stated on social media that neither Marathon nor Bungie is shutting down, pushing back on community speculation, though he noted this does not address how much ongoing support the game will actually receive.",
+      "source_name": "Game Rant",
+      "source_url": "https://gamerant.com/marathon-bungie-not-shutting-down/",
+      "credibility_tier": "verified-journalist",
+      "credibility_note": "Reports statements from Paul Tassi, a journalist with an established Bungie coverage track record.",
+      "published_at": "2026-09-12T00:00:00.000Z",
+      "category": "layoffs-business",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Context: June 2026 Bungie layoffs cut Marathon's General Manager and Engineering Director",
+      "summary": "This story was originally reported on June 26, 2026. Sony's reduction in force affected senior Marathon staff including the General Manager and Engineering Director, part of a broader round of layoffs that hit roughly 292 confirmed Bellevue employees and reportedly more than 400 total across Bungie.",
+      "source_name": "The Game Post",
+      "source_url": "https://thegamepost.com/sonys-bungie-layoffs-hit-marathon-senior-roles-general-manager-engineering-director-and-more/",
+      "credibility_tier": "verified-journalist",
+      "credibility_note": "Established outlet reporting on confirmed staffing changes at Bungie.",
+      "published_at": "2026-06-26T00:00:00.000Z",
+      "category": "layoffs-business",
+      "corroborating_sources": []
+    }
+  ],
+  "no_news_found": false
+}

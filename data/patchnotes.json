@@ -96,12 +96,5 @@
   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318579437",
   "date": "2026-05-26",
   "summary": "Item Economy Fixed an issue where loot previews could briefly show the wrong item when inspecting nearby loot. Improved clarity for item-related UI messaging in specific flows. Runners Rook: Fixed an issue that would cause Rook to spawn ins"
- },
- {
-  "version": "1.0.9",
-  "title": "Marathon Update 1.0.9",
-  "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592801070",
-  "date": "2026-05-19",
-  "summary": "NEW: Warden Hunt Warden Hunt will be available until the end of Season 1 New Warden Encounters: Wardens can spawn at new POIs in Perimeter, Dire Marsh, and Outpost. Locked room keys are guaranteed to drop from Wardens for the remainder of t"
  }
 ]
