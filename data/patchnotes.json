@@ -1,5 +1,12 @@
 [
  {
+  "version": "1.1.9.1",
+  "title": "Marathon Update 1.1.9.1",
+  "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262705014",
+  "date": "2026-09-15",
+  "summary": "GeneralFixed an issue in the Vault where holding the Sell button on selected items while Overflow was not open would sell all items in Overflow."
+ },
+ {
   "version": "1.1.9",
   "title": "Marathon Update 1.1.9",
   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951313913",
