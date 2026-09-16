@@ -6,7 +6,14 @@
 <atom:link href="https://dailyexfil.com/feed.xml" rel="self" type="application/rss+xml"/>
 <description>Daily Marathon (Bungie) news digest. Official, press, and community items tiered by credibility, cross-referenced, and link-checked.</description>
 <language>en</language>
-<lastBuildDate>Tue, 15 Sep 2026 19:04:40 GMT</lastBuildDate>
+<lastBuildDate>Wed, 16 Sep 2026 19:04:42 GMT</lastBuildDate>
+<item>
+<title>DAILY EXFIL 2026-09-16: Marathon Game Director Details What's Playable During October's Nightfall Refresh</title>
+<link>https://dailyexfil.com/day/2026-09-16.html</link>
+<guid isPermaLink="true">https://dailyexfil.com/day/2026-09-16.html</guid>
+<pubDate>Wed, 16 Sep 2026 20:00:00 GMT</pubDate>
+<description><![CDATA[[COMMS] Marathon Game Director Details What's Playable During October's Nightfall Refresh<br>[COMMS] Community Backlash After Ranked Mode Removal Announcement<br>[STAFF] Bungie's Julia Nardin Denies Marathon-Destiny Merger Rumor<br>[COMMS] Players Ask Bungie To Fix Vault Breaker Security Tag Glitch Before Its Return<br>[COMMS] Report: Warden Enemies Reportedly Not Spawning in Trios Matches<br>[COMMS] Community Speculates Bungie Hinted At Free-to-Play Shift For Marathon<br>[OFFICIAL] Context: Bungie Delays Marathon's Season 3 Update to December, Ends Seasonal Model<br>[PRESS] Context: Kotaku Says Marathon Is 'Fighting For Its Life' As Extraction Shooter]]></description>
+</item>
 <item>
 <title>DAILY EXFIL 2026-09-15: Bungie delays Marathon's next major update to December 8, ends seasonal model</title>
 <link>https://dailyexfil.com/day/2026-09-15.html</link>
@@ -97,13 +104,6 @@
 <guid isPermaLink="true">https://dailyexfil.com/day/2026-08-04.html</guid>
 <pubDate>Tue, 04 Aug 2026 20:00:00 GMT</pubDate>
 <description><![CDATA[[OFFICIAL] Marathon Update 1.1.5.2: Vault Breaker Extended to August 18<br>[COMMS] Vault Breaker Megathread Week 2 Goes Live on r/Marathon<br>[COMMS] Community Analysis Uses SteamDB Data to Question Marathon's Playerbase and Revenue<br>[COMMS] Players Report Thin Outpost Lobbies With Only 2-3 Squads<br>[COMMS] Player With 500 Hours Shares Suggestions for Marathon's Future<br>[PRESS] Context: Marathon Game Director Joe Ziegler Departs Bungie<br>[PRESS] Context: Sony Earnings Report Addresses Marathon Retention]]></description>
-</item>
-<item>
-<title>DAILY EXFIL 2026-08-03: Vault Breaker mode goes down early, Bungie confirms fix in progress</title>
-<link>https://dailyexfil.com/day/2026-08-03.html</link>
-<guid isPermaLink="true">https://dailyexfil.com/day/2026-08-03.html</guid>
-<pubDate>Mon, 03 Aug 2026 20:00:00 GMT</pubDate>
-<description><![CDATA[[OFFICIAL] Vault Breaker mode goes down early, Bungie confirms fix in progress<br>[COMMS] Players worry Vault Breaker PvE mode could be taken away for good<br>[COMMS] Community member criticizes Marathon's marketing as too Tarkov-focused<br>[COMMS] Community questions why big-name streamers haven't picked up Marathon<br>[PRESS] Context: Bungie extended Vault Breaker PvE mode through August 18]]></description>
 </item>
 </channel>
 </rss>

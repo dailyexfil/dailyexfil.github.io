@@ -1,0 +1,106 @@
+{
+  "date": "2026-09-16",
+  "items": [
+    {
+      "title": "Marathon Game Director Details What's Playable During October's Nightfall Refresh",
+      "summary": "A message attributed to Marathon game director Del Chafe III, circulated on r/Marathon, answers the community's top question after this week's schedule shake-up: what will actually be playable during October's Nightfall Refresh. Del says the refresh lets everyone restart Marathon's progression from the same starting point while keeping the improvements the team has made since launch. The full note was reproduced by community members rather than linked from an official Bungie page.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1wi1n8m/october_nightfall_refresh_details_a_note_from_del/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Purports to quote Marathon's game director directly, but the only available source is a Reddit repost rather than an official Bungie channel, so authenticity cannot be independently confirmed.",
+      "published_at": "2026-09-16T16:11:36.000Z",
+      "category": "gameplay-content",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Community Backlash After Ranked Mode Removal Announcement",
+      "summary": "A heavily discussed r/Marathon post criticizes Bungie for removing Ranked mode next season, arguing it abandons the players who invested the most time and money into the game. The poster says Marathon had built a unique competitive scene and worries Bungie is steering the game toward a more casual, Destiny-like experience instead.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1wi34p5/aaand_ranked_is_gone_next_season_what_a_way_to/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Single Reddit thread reflecting player sentiment, not independently verified reporting.",
+      "published_at": "2026-09-16T17:04:25.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Bungie's Julia Nardin Denies Marathon-Destiny Merger Rumor",
+      "summary": "Marathon creative director Julia Nardin publicly pushed back on a circulating rumor claiming Bungie plans to merge the Marathon and Destiny IPs. She said the two franchises share Bungie's creative DNA but remain independent 'siblings,' and asked fans not to believe everything they read online.",
+      "source_name": "r/Marathon (via Julia Nardin)",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1wi38fs/julia_nardin_as_someone_whos_worked_on_both/",
+      "credibility_tier": "verified-staff-social",
+      "credibility_note": "Direct quoted statement from a confirmed current Bungie employee speaking about the game.",
+      "published_at": "2026-09-16T17:08:00.000Z",
+      "category": "other",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Players Ask Bungie To Fix Vault Breaker Security Tag Glitch Before Its Return",
+      "summary": "A Reddit thread urges Bungie to fix a known Vault Breaker glitch involving security tags before the mode returns with the October 6 update. The poster says the bug disrupted the cryo economy for much of the current season and worries it will resurface again just weeks into the mode's comeback.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1wi611w/roadmap_looks_great_but_for_the_love_of_god_bungie/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Player bug report and feedback, not independently verified by Bungie.",
+      "published_at": "2026-09-16T18:47:08.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Report: Warden Enemies Reportedly Not Spawning in Trios Matches",
+      "summary": "A community bug report claims Wraith and Scorch Warden enemies are not spawning at all in trios matches on the Perimeter and Marsh maps, while spawning normally in other modes like Outpost. The poster says they reviewed multiple streams and their own gameplay without seeing a single Warden spawn in trios.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1whz6f1/warden_trios_bug/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Unverified player bug report based on personal observation, not confirmed by Bungie.",
+      "published_at": "2026-09-16T14:42:02.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Community Speculates Bungie Hinted At Free-to-Play Shift For Marathon",
+      "summary": "A Reddit post picks apart wording from a recent Del Chafe community message referencing a reward pass for 'everyone who owns Marathon,' suggesting it might hint the game could eventually go free to play. The poster admits it may just be an odd phrasing choice rather than an actual business model signal.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1wi5y99/well_also_have_a_nucaloric_reward_pass_available/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Speculative reading of wording in a developer message, not confirmed by any official statement.",
+      "published_at": "2026-09-16T18:44:33.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Context: Bungie Delays Marathon's Season 3 Update to December, Ends Seasonal Model",
+      "summary": "On September 14, 2026, Bungie announced it is delaying Marathon's planned September 22 update to December 8 and scrapping the game's seasonal content structure entirely, moving instead to a flexible development schedule. The December 8 'Symbiosis' update will add the game's first permanent PvE mode, a new social space, an experimental Team Deathmatch mode and a new Runner shell, while a smaller October 6 update will reset player progression and the economy and bring back the limited-time Vault Breaker mode.",
+      "source_name": "Bungie.net",
+      "source_url": "https://www.bungie.net/7/en/News/Article/nightfallrefreshandsymbiosis",
+      "credibility_tier": "official",
+      "credibility_note": "Direct official announcement from Bungie's own news channel.",
+      "published_at": "2026-09-14T00:00:00Z",
+      "category": "gameplay-content",
+      "corroborating_sources": [
+        "https://kotaku.com/marathon-looks-like-helldivers-in-first-peak-at-the-games-pve-future-we-will-be-evolving-marathon-into-a-more-alien-and-dynamic-survival-experience-2000734337",
+        "https://aftermath.site/marathon-bungie-update-symbiosis/",
+        "https://massivelyop.com/2026/09/15/marathon-pushes-its-major-september-update-into-december-and-ends-its-seasonal-content-schedule/",
+        "https://www.pushsquare.com/news/2026/09/marathons-future-questioned-as-bungie-delays-big-update-and-scraps-seasonal-schedule",
+        "https://www.gamesradar.com/games/fps/bungie-ends-marathons-seasonal-schedule-delays-a-september-update-to-december-and-makes-it-more-like-destiny-2/",
+        "https://www.gamedeveloper.com/business/bungie-is-overhauling-marathon-from-its-original-extraction-shooter-vision"
+      ]
+    },
+    {
+      "title": "Context: Kotaku Says Marathon Is 'Fighting For Its Life' As Extraction Shooter",
+      "summary": "Published September 14, 2026, Kotaku's analysis argued that Marathon's abrupt delay and abandonment of seasonal content suggest the game is struggling for viability as a live service title, pointing to player counts that declined throughout the summer. The piece questioned whether the upcoming Symbiosis update can reverse the extraction shooter's negative momentum.",
+      "source_name": "Kotaku",
+      "source_url": "https://kotaku.com/marathon-delays-new-content-and-ditches-seasons-as-bungies-extraction-shooter-fights-for-its-life-2000734322",
+      "credibility_tier": "verified-journalist",
+      "credibility_note": "Reporting and analysis from an established gaming outlet.",
+      "published_at": "2026-09-14T00:00:00Z",
+      "category": "layoffs-business",
+      "corroborating_sources": [
+        "https://www.pushsquare.com/news/2026/09/marathons-future-questioned-as-bungie-delays-big-update-and-scraps-seasonal-schedule",
+        "https://massivelyop.com/2026/09/15/marathon-pushes-its-major-september-update-into-december-and-ends-its-seasonal-content-schedule/",
+        "https://www.gamesradar.com/games/fps/bungie-ends-marathons-seasonal-schedule-delays-a-september-update-to-december-and-makes-it-more-like-destiny-2/",
+        "https://www.gamedeveloper.com/business/bungie-is-overhauling-marathon-from-its-original-extraction-shooter-vision"
+      ]
+    }
+  ],
+  "no_news_found": false
+}
