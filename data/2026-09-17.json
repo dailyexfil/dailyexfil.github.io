@@ -1,0 +1,118 @@
+{
+  "date": "2026-09-17",
+  "items": [
+    {
+      "title": "Marathon Steam Concurrent Player Count Drops Below Concord's All-Time Peak",
+      "summary": "The Game Post reports Marathon's Steam concurrent player count has fallen to around 670 during off-peak hours, dipping below Concord's all-time peak of 697 concurrent players. The outlet says the game has declined sharply from its 88,337-player launch peak and now averages roughly 2,500 monthly players. The numbers add pressure on Bungie right after it delayed its next major content update to December.",
+      "source_name": "The Game Post",
+      "source_url": "https://thegamepost.com/marathons-season-3-bungie-delays-major-content-december/",
+      "credibility_tier": "verified-journalist",
+      "credibility_note": "The Game Post is an established gaming outlet reporting concrete Steam metrics.",
+      "published_at": "2026-09-17T00:00:00Z",
+      "category": "other",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Last Word on Gaming: Bungie Pivots Marathon Toward PvE, Effectively Cancels Season 3 Branding",
+      "summary": "Last Word on Gaming reports Bungie is steering Marathon away from its pure PvPvE extraction design and toward permanent PvE content, folding what would have been Season 3 into the December Symbiosis update instead. The outlet says Reddit reaction is split, with some players welcoming the extra development time and new features while others see it as proof of deeper design problems. The piece ties the shift back to Bungie's earlier development blog that hinted at experimental modes.",
+      "source_name": "Last Word on Gaming",
+      "source_url": "https://lastwordongaming.com/2026/09/17/bungie-marathon-pve-progression/",
+      "credibility_tier": "verified-journalist",
+      "credibility_note": "Established gaming outlet reporting and analyzing Bungie's announcement and community response.",
+      "published_at": "2026-09-17T00:00:00Z",
+      "category": "gameplay-content",
+      "corroborating_sources": [
+        "https://aftermath.site/marathon-bungie-update-symbiosis/"
+      ]
+    },
+    {
+      "title": "Ranked Cryo Archive Set to Return September 20 to 24",
+      "summary": "Reddit users report that Bungie's official account confirmed the Ranked Cryo Archive mode is returning for a limited run from September 20 through September 24, ahead of the next progression reset. Posters say the move follows widespread complaints about the mode's absence in the current build. No direct Bungie.net post was cited, so this is currently documented only through community reporting.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1wj2ndi/ranked_cryo_returns_on_the_20th/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Reddit thread describing an official account confirmation, but no direct official source link was available.",
+      "published_at": "2026-09-17T18:49:07.000Z",
+      "category": "gameplay-content",
+      "corroborating_sources": [
+        "https://www.reddit.com/r/Marathon/comments/1wj2og7/ranked_cryo_archive_returns_marathon/"
+      ]
+    },
+    {
+      "title": "Community Debate: Does Bungie Deserve All the Blame for Marathon's Shrinking Player Count?",
+      "summary": "A widely discussed Reddit thread argues that while Marathon needs more content, toxic community behavior and dismissive responses to criticism have also driven players away. The poster says harsh social dynamics and constant kill-on-sight toxicity compound the game's retention problems beyond what Bungie's decisions alone caused. The thread reflects an ongoing community debate about why Marathon's population keeps shrinking.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1wizyas/bungie_does_not_have_the_entire_blame_for_the/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Reddit discussion thread reflecting community sentiment, not verified reporting.",
+      "published_at": "2026-09-17T17:10:27.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Community Analysis: Bungie's Dev Blog Signals Shift From Extraction to PvE",
+      "summary": "A Reddit analysis post breaks down Bungie's recent developer blog and argues the studio is quietly pivoting Marathon into a more Destiny-like PvE experience rather than a pure extraction shooter. The author predicts the extraction shooter label may not survive by March given Destiny 2's decline and Marathon's current player numbers. The post adds to broader community speculation following Bungie's Symbiosis announcement.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1wj1vgh/analysis_on_bungies_dev_blog_where_the_game_is/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Unverified fan analysis of an official dev blog, not independent reporting.",
+      "published_at": "2026-09-17T18:20:28.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": [
+        "https://lastwordongaming.com/2026/09/17/bungie-marathon-pve-progression/"
+      ]
+    },
+    {
+      "title": "Community Feedback: Players Want Ranked Kept Even Without Cryo Archive",
+      "summary": "A Reddit poster says they would rather see a seasonal refresh without the Cryo Archive than a season missing competitive Ranked mode entirely. The poster explains they have already finished Cryo's aspirational grind and now mainly play it to gear up for Ranked matches. The thread reflects broader community anxiety about what endgame content will look like once the delayed Symbiosis update arrives.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1wj0wvu/id_rather_have_a_seasonal_refresh_with_no_cryo/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Single Reddit poster's opinion representing one strand of community sentiment.",
+      "published_at": "2026-09-17T17:45:27.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Marathon Creative Director Julia Nardin Denies Destiny-Marathon Merger Rumor",
+      "summary": "According to a report from Games.gg, Marathon creative director Julia Nardin denied a viral rumor claiming Destiny would be revived through a merger with Marathon, calling the leak fake. Nardin reportedly said the December Symbiosis update, not any merger, is the real signal of where Bungie is heading. This claim currently rests on a single report from an outlet not widely recognized for gaming journalism, so it should be treated cautiously until corroborated elsewhere.",
+      "source_name": "Games.gg",
+      "source_url": "https://games.gg/news/bungie-destiny-marathon-merger-leak-fake/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Sole source is an unrecognized outlet with no independent corroboration found among the candidates.",
+      "published_at": "2026-09-17T00:00:00Z",
+      "category": "other",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Context: Bungie Delays Marathon's September Update to December, Ends Seasonal Model",
+      "summary": "This was originally announced by Bungie on September 14, 2026. The studio delayed its planned September 22 Marathon update to December 8 as part of a new 'Symbiosis' update that will add permanent PvE, a social space with a firing range, an experimental Team Deathmatch mode, a refreshed Perimeter zone, and a new Runner shell. Bungie also said it is abandoning its strict seasonal schedule for more flexible update cycles, with a smaller October 6 refresh resetting progression and the in-game economy beforehand.",
+      "source_name": "Bungie.net",
+      "source_url": "https://www.bungie.net/7/en/News/Article/nightfallrefreshandsymbiosis",
+      "credibility_tier": "official",
+      "credibility_note": "Direct official announcement from Bungie.net, needed context for today's follow-up coverage.",
+      "published_at": "2026-09-14T00:00:00Z",
+      "category": "gameplay-content",
+      "corroborating_sources": [
+        "https://kotaku.com/marathon-looks-like-helldivers-in-first-peak-at-the-games-pve-future-we-will-be-evolving-marathon-into-a-more-alien-and-dynamic-survival-experience-2000734337",
+        "https://www.pcgamer.com/games/fps/bungie-delays-next-marathon-update-and-ends-strict-seasonal-schedule-as-it-goes-all-in-on-destiny-like-features/",
+        "https://www.gamesradar.com/games/fps/bungie-ends-marathons-seasonal-schedule-delays-a-september-update-to-december-and-makes-it-more-like-destiny-2/",
+        "https://www.gamedeveloper.com/business/bungie-is-overhauling-marathon-from-its-original-extraction-shooter-vision",
+        "https://aftermath.site/marathon-bungie-update-symbiosis/",
+        "https://insider-gaming.com/marathon-season-3-delay/"
+      ]
+    },
+    {
+      "title": "Context: Bungie Communications Lead Promises More Updates in Coming Weeks",
+      "summary": "This detail originally appeared in PC Gamer's September 14, 2026 coverage of the Symbiosis delay. Bungie communications lead Dylan Gafner, known as dmg04, said on X that players should expect more communication from the studio in the coming weeks and months. The promise comes as the community has grown frustrated by sparse updates and an extended silence around Season 3.",
+      "source_name": "PC Gamer",
+      "source_url": "https://www.pcgamer.com/games/fps/bungie-delays-next-marathon-update-and-ends-strict-seasonal-schedule-as-it-goes-all-in-on-destiny-like-features/",
+      "credibility_tier": "verified-staff-social",
+      "credibility_note": "Reports on a direct statement from a confirmed current Bungie communications staffer.",
+      "published_at": "2026-09-14T00:00:00Z",
+      "category": "other",
+      "corroborating_sources": []
+    }
+  ],
+  "no_news_found": false
+}

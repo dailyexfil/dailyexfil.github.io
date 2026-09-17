@@ -6,7 +6,14 @@
 <atom:link href="https://dailyexfil.com/feed.xml" rel="self" type="application/rss+xml"/>
 <description>Daily Marathon (Bungie) news digest. Official, press, and community items tiered by credibility, cross-referenced, and link-checked.</description>
 <language>en</language>
-<lastBuildDate>Wed, 16 Sep 2026 19:04:42 GMT</lastBuildDate>
+<lastBuildDate>Thu, 17 Sep 2026 19:04:47 GMT</lastBuildDate>
+<item>
+<title>DAILY EXFIL 2026-09-17: Marathon Steam Concurrent Player Count Drops Below Concord's All-Time Peak</title>
+<link>https://dailyexfil.com/day/2026-09-17.html</link>
+<guid isPermaLink="true">https://dailyexfil.com/day/2026-09-17.html</guid>
+<pubDate>Thu, 17 Sep 2026 20:00:00 GMT</pubDate>
+<description><![CDATA[[PRESS] Marathon Steam Concurrent Player Count Drops Below Concord's All-Time Peak<br>[PRESS] Last Word on Gaming: Bungie Pivots Marathon Toward PvE, Effectively Cancels Season 3 Branding<br>[COMMS] Ranked Cryo Archive Set to Return September 20 to 24<br>[COMMS] Community Debate: Does Bungie Deserve All the Blame for Marathon's Shrinking Player Count?<br>[COMMS] Community Analysis: Bungie's Dev Blog Signals Shift From Extraction to PvE<br>[COMMS] Community Feedback: Players Want Ranked Kept Even Without Cryo Archive<br>[COMMS] Marathon Creative Director Julia Nardin Denies Destiny-Marathon Merger Rumor<br>[OFFICIAL] Context: Bungie Delays Marathon's September Update to December, Ends Seasonal Model<br>[STAFF] Context: Bungie Communications Lead Promises More Updates in Coming Weeks]]></description>
+</item>
 <item>
 <title>DAILY EXFIL 2026-09-16: Marathon Game Director Details What's Playable During October's Nightfall Refresh</title>
 <link>https://dailyexfil.com/day/2026-09-16.html</link>
@@ -97,13 +104,6 @@
 <guid isPermaLink="true">https://dailyexfil.com/day/2026-08-05.html</guid>
 <pubDate>Wed, 05 Aug 2026 20:00:00 GMT</pubDate>
 <description><![CDATA[[PRESS] Marathon Patch 1.1.5.2 Ships, Extending Vault Breaker PvE Mode to August 18<br>[COMMS] Reddit threads describe Perimeter overrun by fully kitted premade squads<br>[COMMS] Reddit debate: crew fills can't match coordination of premade 3-stacks<br>[COMMS] Players report Vault Breaker kit bug still letting items reach permanent vaults<br>[COMMS] Players say tier 3 loot boxes vanished from Dire Marsh at night since mid-season update]]></description>
-</item>
-<item>
-<title>DAILY EXFIL 2026-08-04: Marathon Update 1.1.5.2: Vault Breaker Extended to August 18</title>
-<link>https://dailyexfil.com/day/2026-08-04.html</link>
-<guid isPermaLink="true">https://dailyexfil.com/day/2026-08-04.html</guid>
-<pubDate>Tue, 04 Aug 2026 20:00:00 GMT</pubDate>
-<description><![CDATA[[OFFICIAL] Marathon Update 1.1.5.2: Vault Breaker Extended to August 18<br>[COMMS] Vault Breaker Megathread Week 2 Goes Live on r/Marathon<br>[COMMS] Community Analysis Uses SteamDB Data to Question Marathon's Playerbase and Revenue<br>[COMMS] Players Report Thin Outpost Lobbies With Only 2-3 Squads<br>[COMMS] Player With 500 Hours Shares Suggestions for Marathon's Future<br>[PRESS] Context: Marathon Game Director Joe Ziegler Departs Bungie<br>[PRESS] Context: Sony Earnings Report Addresses Marathon Retention]]></description>
 </item>
 </channel>
 </rss>
