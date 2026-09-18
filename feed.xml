@@ -6,7 +6,14 @@
 <atom:link href="https://dailyexfil.com/feed.xml" rel="self" type="application/rss+xml"/>
 <description>Daily Marathon (Bungie) news digest. Official, press, and community items tiered by credibility, cross-referenced, and link-checked.</description>
 <language>en</language>
-<lastBuildDate>Thu, 17 Sep 2026 19:04:47 GMT</lastBuildDate>
+<lastBuildDate>Fri, 18 Sep 2026 19:03:49 GMT</lastBuildDate>
+<item>
+<title>DAILY EXFIL 2026-09-18: Reddit thread criticizes Marathon's history of missed deadlines and delays</title>
+<link>https://dailyexfil.com/day/2026-09-18.html</link>
+<guid isPermaLink="true">https://dailyexfil.com/day/2026-09-18.html</guid>
+<pubDate>Fri, 18 Sep 2026 20:00:00 GMT</pubDate>
+<description><![CDATA[[COMMS] Reddit thread criticizes Marathon's history of missed deadlines and delays<br>[COMMS] Players debate whether reduced difficulty or lack of content is Marathon's bigger problem<br>[COMMS] Community calls for less toxicity as Marathon's small player base strains relations<br>[COMMS] Players suggest free to play PvP mode to boost Marathon's population<br>[OFFICIAL] Context: Bungie delays major Marathon update to December, ends seasonal model<br>[PRESS] Context: Marathon's Steam player count remains near record lows]]></description>
+</item>
 <item>
 <title>DAILY EXFIL 2026-09-17: Marathon Steam Concurrent Player Count Drops Below Concord's All-Time Peak</title>
 <link>https://dailyexfil.com/day/2026-09-17.html</link>
@@ -97,13 +104,6 @@
 <guid isPermaLink="true">https://dailyexfil.com/day/2026-08-06.html</guid>
 <pubDate>Thu, 06 Aug 2026 20:00:00 GMT</pubDate>
 <description><![CDATA[[COMMS] Bungie Extends Vault Breaker Solo Queue Time Limit to 40 Minutes<br>[COMMS] Community Frustration Boils Over in 'No Brainer Updates' Thread<br>[COMMS] PSA Warns Sponsor Kit Runs Can Delete Players' Backpacks When Vault Is Full<br>[COMMS] Players Report Repeated Mismatched Squads in Ranked Queue<br>[OFFICIAL] Context: Marathon's Vault Breaker PvE Mode Shipped in Update 1.1.5<br>[PRESS] Context: Marathon Director Joe Ziegler Exited Bungie After Layoffs]]></description>
-</item>
-<item>
-<title>DAILY EXFIL 2026-08-05: Marathon Patch 1.1.5.2 Ships, Extending Vault Breaker PvE Mode to August 18</title>
-<link>https://dailyexfil.com/day/2026-08-05.html</link>
-<guid isPermaLink="true">https://dailyexfil.com/day/2026-08-05.html</guid>
-<pubDate>Wed, 05 Aug 2026 20:00:00 GMT</pubDate>
-<description><![CDATA[[PRESS] Marathon Patch 1.1.5.2 Ships, Extending Vault Breaker PvE Mode to August 18<br>[COMMS] Reddit threads describe Perimeter overrun by fully kitted premade squads<br>[COMMS] Reddit debate: crew fills can't match coordination of premade 3-stacks<br>[COMMS] Players report Vault Breaker kit bug still letting items reach permanent vaults<br>[COMMS] Players say tier 3 loot boxes vanished from Dire Marsh at night since mid-season update]]></description>
 </item>
 </channel>
 </rss>

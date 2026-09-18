@@ -1,0 +1,81 @@
+{
+  "date": "2026-09-18",
+  "items": [
+    {
+      "title": "Reddit thread criticizes Marathon's history of missed deadlines and delays",
+      "summary": "A widely discussed Reddit post catalogs Marathon's repeated failures to hit stated deadlines, from a delayed launch to a broken Season 2 rollout and a quietly pushed-back Season 3. The poster argues this pattern points to deeper development problems at Bungie rather than simple scheduling slips.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1wjwbgw/its_insane_how_this_games_development_can_never/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Reddit community discussion thread, unverified but substantive commentary reflecting player sentiment about repeated delays.",
+      "published_at": "2026-09-18T17:17:50.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Players debate whether reduced difficulty or lack of content is Marathon's bigger problem",
+      "summary": "A Reddit post from a player who enjoyed Marathon's closed tests argues the game's main issue now is a lack of content, made worse by a reduced skill ceiling since launch. The poster says weapons feel less deadly and looting has been simplified compared to pre-launch builds, cutting into the incentive to keep playing.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1wjtv6r/marathons_main_issue_not_a_hater/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Reddit discussion thread offering player analysis, not independently verified but representative of community feedback.",
+      "published_at": "2026-09-18T15:48:07.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Community calls for less toxicity as Marathon's small player base strains relations",
+      "summary": "A Reddit post argues that Marathon's low population and narrow mode selection concentrate toxic behavior among the remaining dedicated players. The author urges the community to be more welcoming, citing griefing and hostile chat as recurring complaints that could push more players away.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1wjwaxw/be_the_change_you_want_to_see_in_the_community/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Reddit community discussion thread reflecting player sentiment, not independently verified.",
+      "published_at": "2026-09-18T17:17:22.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Players suggest free to play PvP mode to boost Marathon's population",
+      "summary": "A Reddit thread proposes that Marathon's upcoming PvP mode be offered free to play while keeping Extraction and Investigations modes paid, arguing a 40 dollar price tag is a hard sell for a game that has struggled to hold players. The suggestion reflects ongoing community concern about the game's low population.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1wjrh6b/pvp_mode_coming_up_should_be_free_to_play_honestly/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Reddit community suggestion thread, unverified opinion but relevant to ongoing population concerns.",
+      "published_at": "2026-09-18T14:17:43.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Context: Bungie delays major Marathon update to December, ends seasonal model",
+      "summary": "This story was first reported around September 14, 2026, when Bungie announced it is abandoning the strict seasonal schedule for Marathon and delaying the planned September 22 update to December 8. The delayed release, called Symbiosis, will add the game's first permanent PvE experience, a social hub with a firing range, an experimental Team Deathmatch mode, and a refreshed Perimeter zone, with an interim October 6 patch resetting the economy and progression.",
+      "source_name": "Bungie.net",
+      "source_url": "https://www.bungie.net/7/en/News/Article/nightfallrefreshandsymbiosis",
+      "credibility_tier": "official",
+      "credibility_note": "Direct announcement from Bungie's official news channel.",
+      "published_at": "2026-09-14T00:00:00.000Z",
+      "category": "gameplay-content",
+      "corroborating_sources": [
+        "https://kotaku.com/marathon-looks-like-helldivers-in-first-peak-at-the-games-pve-future-we-will-be-evolving-marathon-into-a-more-alien-and-dynamic-survival-experience-2000734337",
+        "https://www.pushsquare.com/news/2026/09/marathons-future-questioned-as-bungie-delays-big-update-and-scraps-seasonal-schedule",
+        "https://aftermath.site/marathon-bungie-update-symbiosis/",
+        "https://www.gamedeveloper.com/business/bungie-is-overhauling-marathon-from-its-original-extraction-shooter-vision",
+        "https://shatteredvault.com/marathon-development-update-nightfall-refresh-and-symbiosis/"
+      ]
+    },
+    {
+      "title": "Context: Marathon's Steam player count remains near record lows",
+      "summary": "This story was first reported around September 3, 2026, and updated through mid-September, showing Marathon's concurrent player count on Steam had fallen to roughly 3,000, a 96 percent drop from its March 2026 launch peak of 88,337. Later tracking put daily peaks near 3,035 players in mid-September, underscoring the stakes riding on the delayed Symbiosis update.",
+      "source_name": "The Game Post",
+      "source_url": "https://thegamepost.com/marathon-player-count-96-launch-bungie-season-3/",
+      "credibility_tier": "verified-journalist",
+      "credibility_note": "Reporting from an established gaming outlet citing Steam concurrent player data.",
+      "published_at": "2026-09-03T00:00:00.000Z",
+      "category": "other",
+      "corroborating_sources": [
+        "https://ixbt.games/en/news/2026/09/10/434963-onlain-marathon-v-steam-ruxnul-do-urovnia-concord.html",
+        "https://dailyexfil.com/"
+      ]
+    }
+  ],
+  "no_news_found": false
+}
