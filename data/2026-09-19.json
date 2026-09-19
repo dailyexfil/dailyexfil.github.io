@@ -1,0 +1,90 @@
+{
+  "date": "2026-09-19",
+  "items": [
+    {
+      "title": "Community Frustration Grows Over Marathon Silence and Season 3 Uncertainty",
+      "summary": "A Reddit thread posted today asks whether Bungie has said anything more about Marathon's Season 3, which players recall was originally teased for September 22. Daily Exfil's report ties the frustration to Sony's late June layoffs of more than 292 Bungie staff, including Marathon's General Manager and Engineering Director, which the community blames for the studio's sparse communication and slow update pace.",
+      "source_name": "Daily Exfil",
+      "source_url": "https://dailyexfil.com/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Community-focused blog summarizing a Reddit discussion rather than an outlet with an independent reporting track record.",
+      "published_at": "2026-09-19T00:00:00Z",
+      "category": "community-discussion",
+      "corroborating_sources": [
+        "https://thegamepost.com/sonys-bungie-layoffs-hit-marathon-senior-roles-general-manager-engineering-director-and-more/"
+      ]
+    },
+    {
+      "title": "Players Question Bungie's Reasoning Behind Sponsored Queues",
+      "summary": "A Reddit post breaks down comments attributed to Bungie communications lead Del Chafe explaining why Marathon uses rotating sponsored queues, and pushes back on the idea that an even playing field is the main reason for the system. The poster says they are on a break from the game but the upcoming October update might draw them back early.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1wkmduf/even_playing_field_isnt_the_main_reason_sponsored/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Reddit discussion interpreting a developer's social media comments, unverified beyond the original post.",
+      "published_at": "2026-09-19T13:33:17.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Players Debate Aggressive Spawn-Rushing Behavior in Cryo Mode",
+      "summary": "A Reddit thread criticizes a common playstyle in Marathon's Cryo mode where teams reportedly rush enemy spawns, target only high-value players, and grab objectives before fleeing rather than playing patiently. A separate post the same day describes being spawn-rushed by two teams simultaneously at level one, echoing the same complaint about Cryo's current balance.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1wkr3zp/i_dont_understand_the_cryo_mentality/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Reddit community discussion reflecting player sentiment, not independently verified data.",
+      "published_at": "2026-09-19T16:47:58.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": [
+        "https://www.reddit.com/r/Marathon/comments/1wkls1v/got_double_spawn_rushed_in_cryo/"
+      ]
+    },
+    {
+      "title": "Players Report Item Trace Bug Hurting In-Game Economy",
+      "summary": "A Reddit post describes a bug where an item's Trace value, which controls how many times it can be transferred before breaking down, appears to default to 3 out of 4 instead of the correct number. The poster argues this is limiting item longevity across the board and contributing to problems with Marathon's economy at higher levels.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1wkl57w/very_important_bug_regarding_trace/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Unverified player bug report, not confirmed by Bungie.",
+      "published_at": "2026-09-19T12:37:20.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Context: Bungie Delays Marathon's Next Major Update to December 8, Ends Seasonal Model",
+      "summary": "Bungie announced on September 14, 2026 that Marathon's planned update, originally scheduled for September 22, is being pushed to December 8 as the Symbiosis update, and that the studio is abandoning its strict seasonal content schedule in favor of flexible releases. Symbiosis will add the game's first permanent PvE experience, a social space with a firing range, an experimental Team Deathmatch mode, and a new Runner shell, while a smaller October 6 Nightfall Refresh update will reset progression and the economy beforehand.",
+      "source_name": "Bungie.net",
+      "source_url": "https://www.bungie.net/7/en/News/Article/nightfallrefreshandsymbiosis",
+      "credibility_tier": "official",
+      "credibility_note": "Direct official announcement published on Bungie.net.",
+      "published_at": "2026-09-14T00:00:00Z",
+      "category": "gameplay-content",
+      "corroborating_sources": [
+        "https://kotaku.com/marathon-looks-like-helldivers-in-first-peak-at-the-games-pve-future-we-will-be-evolving-marathon-into-a-more-alien-and-dynamic-survival-experience-2000734337",
+        "https://kotaku.com/marathon-delays-new-content-and-ditches-seasons-as-bungies-extraction-shooter-fights-for-its-life-2000734322",
+        "https://www.pcgamer.com/games/fps/bungie-delays-next-marathon-update-and-ends-strict-seasonal-schedule-as-it-goes-all-in-on-destiny-like-features/",
+        "https://www.gamesradar.com/games/fps/bungie-ends-marathons-seasonal-schedule-delays-a-september-update-to-december-and-makes-it-more-like-destiny-2/",
+        "https://www.pushsquare.com/news/2026/09/marathons-future-questioned-as-bungie-delays-big-update-and-scraps-seasonal-schedule",
+        "https://www.vice.com/en/article/marathons-first-permanent-pve-experience-arrives-this-december/",
+        "https://www.gamedeveloper.com/business/bungie-is-overhauling-marathon-from-its-original-extraction-shooter-vision",
+        "https://massivelyop.com/2026/09/15/marathon-pushes-its-major-september-update-into-december-and-ends-its-seasonal-content-schedule/",
+        "https://aftermath.site/marathon-bungie-update-symbiosis/",
+        "https://lastwordongaming.com/2026/09/17/bungie-marathon-pve-progression/"
+      ]
+    },
+    {
+      "title": "Context: Bungie Layoffs and Studio Downsizing Continue to Shadow Marathon",
+      "summary": "The Game Post reported on June 26, 2026 that Sony's layoffs at Bungie hit Marathon's senior leadership, including the General Manager, Engineering Director, and several producers and creative leads. Later reporting in early September indicated Bungie's headcount has fallen from roughly 1,600 employees to about 500, with the studio subleasing much of its Bellevue office, developments the community sees as fueling Marathon's slow communication and update pace.",
+      "source_name": "The Game Post",
+      "source_url": "https://thegamepost.com/sonys-bungie-layoffs-hit-marathon-senior-roles-general-manager-engineering-director-and-more/",
+      "credibility_tier": "verified-journalist",
+      "credibility_note": "The Game Post is an established gaming outlet; additional downsizing figures come from less established sources and should be treated with some caution.",
+      "published_at": "2026-06-26T00:00:00Z",
+      "category": "layoffs-business",
+      "corroborating_sources": [
+        "https://ixbt.games/en/news/2026/09/07/433063-bungie-prodolzhaet-szimatsia-posle-slabyx-pokazatelei-marathon.html",
+        "https://en.gamegpu.com/news/igry/proval-shutera-marathon-mozhet-privesti-k-zakrytiyu-studii-bungie"
+      ]
+    }
+  ],
+  "no_news_found": false
+}

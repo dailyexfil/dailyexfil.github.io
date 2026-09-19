@@ -6,7 +6,14 @@
 <atom:link href="https://dailyexfil.com/feed.xml" rel="self" type="application/rss+xml"/>
 <description>Daily Marathon (Bungie) news digest. Official, press, and community items tiered by credibility, cross-referenced, and link-checked.</description>
 <language>en</language>
-<lastBuildDate>Fri, 18 Sep 2026 19:03:49 GMT</lastBuildDate>
+<lastBuildDate>Sat, 19 Sep 2026 19:04:42 GMT</lastBuildDate>
+<item>
+<title>DAILY EXFIL 2026-09-19: Community Frustration Grows Over Marathon Silence and Season 3 Uncertainty</title>
+<link>https://dailyexfil.com/day/2026-09-19.html</link>
+<guid isPermaLink="true">https://dailyexfil.com/day/2026-09-19.html</guid>
+<pubDate>Sat, 19 Sep 2026 20:00:00 GMT</pubDate>
+<description><![CDATA[[COMMS] Community Frustration Grows Over Marathon Silence and Season 3 Uncertainty<br>[COMMS] Players Question Bungie's Reasoning Behind Sponsored Queues<br>[COMMS] Players Debate Aggressive Spawn-Rushing Behavior in Cryo Mode<br>[COMMS] Players Report Item Trace Bug Hurting In-Game Economy<br>[OFFICIAL] Context: Bungie Delays Marathon's Next Major Update to December 8, Ends Seasonal Model<br>[PRESS] Context: Bungie Layoffs and Studio Downsizing Continue to Shadow Marathon]]></description>
+</item>
 <item>
 <title>DAILY EXFIL 2026-09-18: Reddit thread criticizes Marathon's history of missed deadlines and delays</title>
 <link>https://dailyexfil.com/day/2026-09-18.html</link>
@@ -97,13 +104,6 @@
 <guid isPermaLink="true">https://dailyexfil.com/day/2026-08-07.html</guid>
 <pubDate>Fri, 07 Aug 2026 20:00:00 GMT</pubDate>
 <description><![CDATA[[COMMS] Community pushes Bungie to prioritize a real Solo PvPvE mode<br>[COMMS] Players ask Bungie to rework VIP faction progression for next season<br>[COMMS] Community debates what Season 3 needs to fix<br>[COMMS] Prospective players still weighing whether Marathon is worth buying<br>[PRESS] Context: Marathon game director Joe Ziegler departs Bungie<br>[PRESS] Context: Bungie extended Marathon's Vault Breaker PvE mode through August 18]]></description>
-</item>
-<item>
-<title>DAILY EXFIL 2026-08-06: Bungie Extends Vault Breaker Solo Queue Time Limit to 40 Minutes</title>
-<link>https://dailyexfil.com/day/2026-08-06.html</link>
-<guid isPermaLink="true">https://dailyexfil.com/day/2026-08-06.html</guid>
-<pubDate>Thu, 06 Aug 2026 20:00:00 GMT</pubDate>
-<description><![CDATA[[COMMS] Bungie Extends Vault Breaker Solo Queue Time Limit to 40 Minutes<br>[COMMS] Community Frustration Boils Over in 'No Brainer Updates' Thread<br>[COMMS] PSA Warns Sponsor Kit Runs Can Delete Players' Backpacks When Vault Is Full<br>[COMMS] Players Report Repeated Mismatched Squads in Ranked Queue<br>[OFFICIAL] Context: Marathon's Vault Breaker PvE Mode Shipped in Update 1.1.5<br>[PRESS] Context: Marathon Director Joe Ziegler Exited Bungie After Layoffs]]></description>
 </item>
 </channel>
 </rss>
