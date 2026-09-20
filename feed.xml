@@ -6,7 +6,14 @@
 <atom:link href="https://dailyexfil.com/feed.xml" rel="self" type="application/rss+xml"/>
 <description>Daily Marathon (Bungie) news digest. Official, press, and community items tiered by credibility, cross-referenced, and link-checked.</description>
 <language>en</language>
-<lastBuildDate>Sat, 19 Sep 2026 19:04:42 GMT</lastBuildDate>
+<lastBuildDate>Sun, 20 Sep 2026 19:03:42 GMT</lastBuildDate>
+<item>
+<title>DAILY EXFIL 2026-09-20: Marathon Daily Player Peak Reported at 2,617, Far Below Launch Numbers</title>
+<link>https://dailyexfil.com/day/2026-09-20.html</link>
+<guid isPermaLink="true">https://dailyexfil.com/day/2026-09-20.html</guid>
+<pubDate>Sun, 20 Sep 2026 20:00:00 GMT</pubDate>
+<description><![CDATA[[COMMS] Marathon Daily Player Peak Reported at 2,617, Far Below Launch Numbers<br>[COMMS] Players Call Out Lack of Daily Rewards, Push Bungie on Retention<br>[COMMS] Players Share Positive Social Moments Despite Marathon's Struggles<br>[COMMS] Players Notice Bungie Quietly Removed Outpost's Heat Cascade Siren<br>[COMMS] Balance Debate: Knife's No-Lunge Heavy Attack Called Too Fast<br>[OFFICIAL] Context: Bungie Delays Marathon Season 3 to December 8, Ends Strict Seasonal Model<br>[PRESS] Context: Sony Layoffs Hit Bungie, Including Marathon Leadership Roles]]></description>
+</item>
 <item>
 <title>DAILY EXFIL 2026-09-19: Community Frustration Grows Over Marathon Silence and Season 3 Uncertainty</title>
 <link>https://dailyexfil.com/day/2026-09-19.html</link>
@@ -97,13 +104,6 @@
 <guid isPermaLink="true">https://dailyexfil.com/day/2026-08-08.html</guid>
 <pubDate>Sat, 08 Aug 2026 20:00:00 GMT</pubDate>
 <description><![CDATA[[COMMS] Marathon Players Question Where the Population Went During Extended Vault Breaker Test<br>[COMMS] Community Pitches Broad Overhaul of Matchmaking, Progression, and Ranked Systems<br>[COMMS] Community Releases Updated and Verified TTK and Weapon Stats Resource<br>[OFFICIAL] Context: Bungie Extends Vault Breaker PvE Test Through August 18<br>[PRESS] Context: Marathon Steam Concurrent Player Count Continues to Slide]]></description>
-</item>
-<item>
-<title>DAILY EXFIL 2026-08-07: Community pushes Bungie to prioritize a real Solo PvPvE mode</title>
-<link>https://dailyexfil.com/day/2026-08-07.html</link>
-<guid isPermaLink="true">https://dailyexfil.com/day/2026-08-07.html</guid>
-<pubDate>Fri, 07 Aug 2026 20:00:00 GMT</pubDate>
-<description><![CDATA[[COMMS] Community pushes Bungie to prioritize a real Solo PvPvE mode<br>[COMMS] Players ask Bungie to rework VIP faction progression for next season<br>[COMMS] Community debates what Season 3 needs to fix<br>[COMMS] Prospective players still weighing whether Marathon is worth buying<br>[PRESS] Context: Marathon game director Joe Ziegler departs Bungie<br>[PRESS] Context: Bungie extended Marathon's Vault Breaker PvE mode through August 18]]></description>
 </item>
 </channel>
 </rss>

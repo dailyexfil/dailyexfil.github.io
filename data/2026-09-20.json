@@ -1,0 +1,91 @@
+{
+  "date": "2026-09-20",
+  "items": [
+    {
+      "title": "Marathon Daily Player Peak Reported at 2,617, Far Below Launch Numbers",
+      "summary": "Daily Exfil reports Marathon's daily concurrent player peak is sitting around 2,617 this week, roughly 3.2 percent of its launch peak of 88,337 players on Steam. The figure adds to ongoing community concern about the game's shrinking population following months of delays and studio turmoil.",
+      "source_name": "Daily Exfil",
+      "source_url": "https://dailyexfil.com/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Single-sourced from an unrecognized tracker site with no independent corroboration, so the specific figures should be treated cautiously.",
+      "published_at": "2026-09-20T12:00:00Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Players Call Out Lack of Daily Rewards, Push Bungie on Retention",
+      "summary": "A Reddit thread argues Bungie removed the daily login reward and made cryo kit drops less frequent, leaving players with little reason to log in every day. The poster suggests giving away one free tier of sponsored kits, backpacks, or upgrades per unlock to help boost player retention and numbers.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1wlpczn/where_is_the_free_stuff_player_retention_101/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Reddit community opinion post, reflects genuine player sentiment but is not verified by Bungie.",
+      "published_at": "2026-09-20T18:51:39.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Players Share Positive Social Moments Despite Marathon's Struggles",
+      "summary": "A widely discussed Reddit post collects lighthearted multiplayer stories, including a squad of kids adopting a Rook as their friend, players roleplaying as bandits, and a group hosting friendly duels for loot. The thread offers a counterpoint to recent negative headlines, showing community goodwill still exists in the game.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1wlmdfr/marathon_has_the_best_unique_social_experiences/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Reddit community discussion representing player sentiment, not independently verified.",
+      "published_at": "2026-09-20T16:58:40.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Players Notice Bungie Quietly Removed Outpost's Heat Cascade Siren",
+      "summary": "A Reddit user pointed out that the eerie siren sound which used to play when Outpost's heat cascade rain event ended has disappeared, with no patch notes or announcement explaining the change. The thread reflects continued frustration with Bungie's sparse communication about small gameplay changes.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1wlm8z2/why_did_bungie_get_rid_of_the_creepy_siren_when/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Reddit community question, unverified but relevant to broader concerns about lack of official patch communication.",
+      "published_at": "2026-09-20T16:54:04.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Balance Debate: Knife's No-Lunge Heavy Attack Called Too Fast",
+      "summary": "A detailed Reddit post argues the knife's no-lunge heavy attack animation lands faster than the standard heavy attack, letting opponents counter and down players even after taking multiple hits. The post adds to ongoing community debate over melee balance in the game.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1wlnv6d/the_no_lunge_heavy_attack_should_not_be_faster/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Reddit gameplay feedback thread, reflects player experience but not confirmed by Bungie as a bug or intended design.",
+      "published_at": "2026-09-20T17:55:31.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Context: Bungie Delays Marathon Season 3 to December 8, Ends Strict Seasonal Model",
+      "summary": "Bungie announced on September 14, 2026 that Marathon's planned September 22 Season 3 update is being delayed to December 8 as the Symbiosis update, and that the studio is abandoning its strict seasonal content schedule for flexible, named content drops. Symbiosis will add the game's first permanent PvE mode, a new social space, an experimental Team Deathmatch mode, and a new Runner shell, while a smaller October 6 refresh will reset progression and the economy beforehand.",
+      "source_name": "Bungie.net",
+      "source_url": "https://www.bungie.net/7/en/News/Article/nightfallrefreshandsymbiosis",
+      "credibility_tier": "official",
+      "credibility_note": "Direct developer blog post from Bungie.net announcing the update plans.",
+      "published_at": "2026-09-14T00:00:00Z",
+      "category": "gameplay-content",
+      "corroborating_sources": [
+        "https://kotaku.com/marathon-delays-new-content-and-ditches-seasons-as-bungies-extraction-shooter-fights-for-its-life-2000734322",
+        "https://kotaku.com/marathon-looks-like-helldivers-in-first-peak-at-the-games-pve-future-we-will-be-evolving-marathon-into-a-more-alien-and-dynamic-survival-experience-2000734337",
+        "https://www.pushsquare.com/news/2026/09/marathons-future-questioned-as-bungie-delays-big-update-and-scraps-seasonal-schedule",
+        "https://www.gamedeveloper.com/business/bungie-is-overhauling-marathon-from-its-original-extraction-shooter-vision"
+      ]
+    },
+    {
+      "title": "Context: Sony Layoffs Hit Bungie, Including Marathon Leadership Roles",
+      "summary": "In June 2026, Sony laid off at least 292 Bungie employees according to a Washington state WARN filing, affecting most of the Destiny team and some Marathon developers. Senior Marathon roles were hit including the General Manager, Engineering Director, producers, and creative leads, and studio head Justin Truman stepped down soon after.",
+      "source_name": "Game Developer",
+      "source_url": "https://www.gamedeveloper.com/business/sony-is-laying-off-most-of-the-destiny-team-and-some-marathon-devs",
+      "credibility_tier": "verified-journalist",
+      "credibility_note": "Reported by an established games industry trade outlet citing an official WARN filing.",
+      "published_at": "2026-06-26T00:00:00Z",
+      "category": "layoffs-business",
+      "corroborating_sources": [
+        "https://www.forbes.com/sites/paultassi/2026/06/25/bungie-hit-with-widespread-layoffs-as-destiny-2-ends-and-marathon-continues/",
+        "https://thegamepost.com/sonys-bungie-layoffs-hit-marathon-senior-roles-general-manager/"
+      ]
+    }
+  ],
+  "no_news_found": false
+}
