@@ -1,0 +1,102 @@
+{
+  "date": "2026-09-21",
+  "items": [
+    {
+      "title": "Bungie Publishes 'The Next Chapter' Letter on Marathon and Studio Direction",
+      "summary": "Bungie Studio Head Poria Torkan and Marathon General Manager Josh Deane posted a joint letter on Steam addressing where Bungie and Marathon are headed. They say the post is meant to start a more consistent conversation with players and to begin rebuilding trust after a turbulent year for the studio. The letter follows weeks of criticism over sparse communication and the delayed Symbiosis update.",
+      "source_name": "Steam News (Bungie)",
+      "source_url": "https://store.steampowered.com/news/app/3065800/view/669502759770260126",
+      "credibility_tier": "official",
+      "credibility_note": "Posted directly by Bungie's Studio Head and Marathon GM on the official Steam news feed for the game.",
+      "published_at": "2026-09-21T16:00:37.000Z",
+      "category": "layoffs-business",
+      "corroborating_sources": [
+        "https://www.reddit.com/r/Marathon/comments/1wmhb0g/marathon_to_expand_into_a_deeper_survival/"
+      ]
+    },
+    {
+      "title": "Marathon's Steam Player Count Falls Nearly 29 Percent Over 30 Days",
+      "summary": "Steam tracking data shows Marathon at 2,386 concurrent players as of September 21, with a 24 hour peak of 2,688. That is a 28.9 percent drop compared to 30 days earlier and a steep fall from the game's launch peak of 88,337 concurrent players.",
+      "source_name": "Tracker Network",
+      "source_url": "https://tracker.gg/population/steam/3065800",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Population figures come from a third party Steam tracking site rather than an editorial outlet, so this is informal data rather than verified reporting.",
+      "published_at": "2026-09-21T12:00:00.000Z",
+      "category": "other",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Community Reacts to Bungie's Pivot Away From Pure Extraction Shooter Design",
+      "summary": "A r/Marathon thread welcomes Bungie's stated plan to evolve Marathon beyond strict extraction shooter rules and push it toward broader PvP modes, arguing the shift will appeal to players who never liked the hardcore extraction loop. The thread drew pushback from committed extraction fans who see the change as a step backward.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1wmieq2/this_is_possibly_the_best_possible_news_possible/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Reddit community reaction thread offering unverified opinion rather than reporting.",
+      "published_at": "2026-09-21T16:54:17.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Players Debate Whether Marathon Needs a Bigger 'Bungie Twist'",
+      "summary": "A lengthy r/Marathon post argues that after months of polish, Marathon still lacks a distinctive Bungie signature beyond gunplay and art style, and that the core extraction loop feels generic compared to what fans expect from the studio. The thread sparked discussion on what a bigger creative swing could look like going forward.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1wmhf0p/now_that_marathon_has_gone_through_tons_of_polish/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Reddit community opinion thread, not an official or journalistic source.",
+      "published_at": "2026-09-21T16:18:28.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Community Trackers Report Rising Frustration Over Marathon's Silence",
+      "summary": "Daily Exfil, a fan run Marathon tracker, reports growing player frustration over the lack of communication about Season 3 before the announced December update. The report also notes continued debate over sponsored queue systems and aggressive playstyles, reflecting broader impatience during the extended content gap.",
+      "source_name": "Daily Exfil",
+      "source_url": "https://dailyexfil.com/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Fan run community tracker aggregating player sentiment rather than an established news outlet.",
+      "published_at": "2026-09-21T12:00:00.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Players Ask Bungie to Share More Details on Upcoming Content Before December",
+      "summary": "A r/Marathon thread asks Bungie to follow through on its transparency promises soon, requesting early details on new mechanics, customization options, a possible fifth map, and how the planned social space and firing range will work. The poster argues that with a three month wait ahead, players deserve information sooner rather than later.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1wmixzh/any_hopes_on_the_future_vision_update_well_be/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Reddit discussion thread expressing player expectations, not verified reporting.",
+      "published_at": "2026-09-21T17:12:55.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Context: Bungie Delays Marathon's Symbiosis Update to December 8, Ends Strict Seasonal Model",
+      "summary": "This announcement was originally published on September 14, 2026. Bungie said the update originally planned for September 22 was being pushed to December 8 and rebranded Symbiosis, and that the studio is moving away from a strict seasonal schedule in favor of more flexible development. Symbiosis is planned to add Marathon's first permanent PvE mode, a social space with a firing range, an experimental team deathmatch mode, and improved new player onboarding, with a smaller economy and progression reset update planned for October 6.",
+      "source_name": "Bungie.net",
+      "source_url": "https://www.bungie.net/7/en/News/Article/nightfallrefreshandsymbiosis",
+      "credibility_tier": "official",
+      "credibility_note": "Direct official announcement from Bungie, provided here as background for today's follow up letter.",
+      "published_at": "2026-09-14T00:00:00.000Z",
+      "category": "gameplay-content",
+      "corroborating_sources": [
+        "https://kotaku.com/marathon-looks-like-helldivers-in-first-peak-at-the-games-pve-future-we-will-be-evolving-marathon-into-a-more-alien-and-dynamic-survival-experience-2000734337",
+        "https://www.gamesradar.com/games/fps/bungie-ends-marathons-seasonal-schedule-delays-a-september-update-to-december-and-makes-it-more-like-destiny-2/",
+        "https://www.pushsquare.com/news/2026/09/marathons-future-questioned-as-bungie-delays-big-update-and-scraps-seasonal-schedule"
+      ]
+    },
+    {
+      "title": "Context: Josh Deane Named Marathon General Manager After Layoffs",
+      "summary": "This story was originally reported on July 16, 2026. Joshua Deane, who co-authored today's studio letter, became Marathon's General Manager in June after Scott Taylor departed following Sony's layoffs at Bungie, which also cut the game's Engineering Director and other senior creative roles.",
+      "source_name": "The Game Post",
+      "source_url": "https://thegamepost.com/bungie-new-marathon-general-manager-20-year-studio-veteran-leaves/",
+      "credibility_tier": "verified-journalist",
+      "credibility_note": "Reported by an established gaming outlet, included here to explain the leadership behind today's announcement.",
+      "published_at": "2026-07-16T00:00:00.000Z",
+      "category": "layoffs-business",
+      "corroborating_sources": [
+        "https://www.gamedeveloper.com/business/sony-is-laying-off-most-of-the-destiny-team-and-some-marathon-devs"
+      ]
+    }
+  ],
+  "no_news_found": false
+}

@@ -96,12 +96,5 @@
   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530900587",
   "date": "2026-06-02",
   "summary": "General Added Streamer Mode option in the Settings: The ability to hide you and your Crew’s names on your screen. The ability to replace your in-run name with a generic one across places like pings, kill feed, death recap, and spectate. The"
- },
- {
-  "version": "1.0.9.1",
-  "title": "Marathon Update 1.0.9.1",
-  "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318579437",
-  "date": "2026-05-26",
-  "summary": "Item Economy Fixed an issue where loot previews could briefly show the wrong item when inspecting nearby loot. Improved clarity for item-related UI messaging in specific flows. Runners Rook: Fixed an issue that would cause Rook to spawn ins"
  }
 ]
