@@ -1,0 +1,112 @@
+{
+  "date": "2026-09-23",
+  "items": [
+    {
+      "title": "Bungie Admits Marathon Missed Player Targets, Reaffirms Commitment Despite Major Overhaul",
+      "summary": "Kotaku and The FPS Review both published fresh coverage on September 23 of Bungie's admission that Marathon did not reach the player numbers the studio had hoped for. The reporting revisits Bungie's plan to delay its next major update, called Symbiosis, from September 22 to December 8, ending the game's fixed seasonal schedule and adding permanent PvE, a social space, and an experimental Team Deathmatch mode. The same announcement includes Bungie's promise to restore vaulted Destiny 2 content and a clarification that Marathon was never intended to replace Destiny 2.",
+      "source_name": "Kotaku",
+      "source_url": "https://kotaku.com/marathon-didnt-reach-as-many-players-as-bungie-hoped-and-needs-to-evolve-2000736189",
+      "credibility_tier": "verified-journalist",
+      "credibility_note": "Kotaku is an established gaming outlet with a track record of verified reporting.",
+      "published_at": "2026-09-23T00:00:00Z",
+      "category": "layoffs-business",
+      "corroborating_sources": [
+        "https://www.thefpsreview.com/2026/09/23/bungie-un-cancels-destiny-vaulted-campaigns-and-raids-are-coming-back-and-it-admits-marathon-came-up-short/",
+        "https://www.bungie.net/7/en/News/Article/nextchapterofbungie",
+        "https://www.bungie.net/7/en/News/Article/nightfallrefreshandsymbiosis",
+        "https://gameinformer.com/2026/09/21/bungie-announces-plans-to-restore-vaulted-destiny-2-content-and-substantial-reworks-to",
+        "https://www.gamesradar.com/games/fps/bungie-ends-marathons-seasonal-schedule-delays-a-september-update-to-december-and-makes-it-more-like-destiny-2/",
+        "https://www.pcgamesn.com/marathon/next-chapter-bungie",
+        "https://ixbt.games/en/news/2026/09/21/437397-bungie-poobeshhala-ne-zabrasyvat-marathon-na-fone-vozvrashheniia-k-destiny.html",
+        "https://aftermath.site/destiny-content-vault-bungie-marathon/"
+      ]
+    },
+    {
+      "title": "Report: Marathon's Steam Player Count Falls Below 1,000 Concurrent",
+      "summary": "A report this week says Marathon's average Steam player count fell about 33 percent in September compared to August, dropping to roughly 1,892 average concurrent players. The same report says the game briefly dipped under 1,000 concurrent players in late August, the first time it fell that low since its March launch peak of over 88,000 concurrent players. The figures come from a source outside the established outlet list, so treat the exact numbers as unverified pending independent confirmation.",
+      "source_name": "Tech Insider",
+      "source_url": "https://tech-insider.org/bungie-admits-marathon-flopped-33-percent-drop-2026/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Tech Insider is not a recognized outlet in the established source hierarchy, so its SteamDB-derived figures are treated as unverified.",
+      "published_at": "2026-09-22T00:00:00Z",
+      "category": "layoffs-business",
+      "corroborating_sources": [
+        "https://shattered.io/marathon-88337-peak-players-bungie-2026/"
+      ]
+    },
+    {
+      "title": "Community Debates Whether Marathon Should Go Free to Play",
+      "summary": "A Reddit thread posted September 23 argues Bungie should switch Marathon to a free to play model, saying the current player count is too low to sustain the paid model. The post reflects growing community concern about population health, arriving the same week outside reports pointed to steep concurrent player declines on Steam.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1wob556/why_hasnt_the_game_gone_free_to_play/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Reddit community discussion reflecting player sentiment, not verified reporting.",
+      "published_at": "2026-09-23T16:40:53.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Players Voice Confusion Over Marathon's Progression Wipe",
+      "summary": "A Reddit post from September 23 asks how the upcoming progression wipe will work, with the poster saying losing progress could make them stop playing entirely. A related thread the same day asks when the next official wipe is scheduled, showing the community still has open questions ahead of the October 6 Nightfall Refresh, which Bungie has said will reset progression and the in game economy.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1wobmaz/understanding_the_wipe/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Reddit community discussion, reflects player sentiment rather than verified fact.",
+      "published_at": "2026-09-23T16:58:08.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": [
+        "https://www.reddit.com/r/Marathon/comments/1wobvan/wipe_question/"
+      ]
+    },
+    {
+      "title": "Players Criticize Marathon's Trace and Scrap Loot Conversion System",
+      "summary": "A detailed Reddit post from September 23 criticizes the trace and scrap system, where killed players' gear is converted into credits instead of remaining lootable. The poster describes matches where most of an eliminated team's gold-tier gear became credits instead of usable loot, and questions Bungie's stated economy-balancing rationale for the system.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1wocwd2/trace_scrap_system/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Reddit community feedback thread, not independently verified.",
+      "published_at": "2026-09-23T17:45:16.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Community Discussion Highlights Frustration With Toxic Teammates in Crew Fill",
+      "summary": "A Reddit thread published September 23 describes ongoing frustration with toxic behavior in Marathon's crew fill matchmaking, including teammates who avoid communication and blame others after matches go poorly. The post reflects a broader community conversation about player conduct and the matchmaking experience.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1woe31w/toxic_community_members/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Reddit community discussion based on a single user's account of experience.",
+      "published_at": "2026-09-23T18:29:23.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Context: Sony Laid Off About 292 Bungie Employees in June 2026, Including Marathon Leadership",
+      "summary": "This story was originally reported in late June 2026. Sony and Bungie laid off roughly 292 employees, including Marathon's General Manager and Engineering Director, as part of cuts that followed Destiny 2 reaching end of service. The layoffs left Marathon as Bungie's primary active development focus and are cited as background for the studio's recent restructuring announcements.",
+      "source_name": "Game Developer",
+      "source_url": "https://www.gamedeveloper.com/business/sony-is-laying-off-most-of-the-destiny-team-and-some-marathon-devs",
+      "credibility_tier": "verified-journalist",
+      "credibility_note": "Game Developer is an established industry trade outlet.",
+      "published_at": "2026-06-26T00:00:00Z",
+      "category": "layoffs-business",
+      "corroborating_sources": [
+        "https://www.forbes.com/sites/paultassi/2026/06/25/bungie-hit-with-widespread-layoffs-as-destiny-2-ends-and-marathon-continues/",
+        "https://thegamepost.com/sonys-bungie-layoffs-hit-marathon-senior-roles-general-manager-engineering-director-and-more"
+      ]
+    },
+    {
+      "title": "Context: Marathon Game Director Joe Ziegler Left Bungie in July 2026",
+      "summary": "This story was originally reported in mid July 2026. Joe Ziegler, who joined Bungie from Riot Games to direct Marathon, departed the studio about four months after the game's March launch and shortly after the June layoffs. Del Chafe III took over as game director while Julia Nardin remained creative director.",
+      "source_name": "Video Games Chronicle",
+      "source_url": "https://www.videogameschronicle.com/news/marathons-director-confirms-hes-quit-bungie-four-months-after-launch/",
+      "credibility_tier": "verified-journalist",
+      "credibility_note": "Video Games Chronicle is an established games industry outlet.",
+      "published_at": "2026-07-19T00:00:00Z",
+      "category": "layoffs-business",
+      "corroborating_sources": [
+        "https://www.gaming.net/bungie-loses-marathons-director-weeks-after-mass-layoffs/"
+      ]
+    }
+  ],
+  "no_news_found": false
+}

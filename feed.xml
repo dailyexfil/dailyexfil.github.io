@@ -6,7 +6,14 @@
 <atom:link href="https://dailyexfil.com/feed.xml" rel="self" type="application/rss+xml"/>
 <description>Daily Marathon (Bungie) news digest. Official, press, and community items tiered by credibility, cross-referenced, and link-checked.</description>
 <language>en</language>
-<lastBuildDate>Mon, 21 Sep 2026 19:04:09 GMT</lastBuildDate>
+<lastBuildDate>Wed, 23 Sep 2026 19:05:09 GMT</lastBuildDate>
+<item>
+<title>DAILY EXFIL 2026-09-23: Bungie Admits Marathon Missed Player Targets, Reaffirms Commitment Despite Major Overhaul</title>
+<link>https://dailyexfil.com/day/2026-09-23.html</link>
+<guid isPermaLink="true">https://dailyexfil.com/day/2026-09-23.html</guid>
+<pubDate>Wed, 23 Sep 2026 20:00:00 GMT</pubDate>
+<description><![CDATA[[PRESS] Bungie Admits Marathon Missed Player Targets, Reaffirms Commitment Despite Major Overhaul<br>[COMMS] Report: Marathon's Steam Player Count Falls Below 1,000 Concurrent<br>[COMMS] Community Debates Whether Marathon Should Go Free to Play<br>[COMMS] Players Voice Confusion Over Marathon's Progression Wipe<br>[COMMS] Players Criticize Marathon's Trace and Scrap Loot Conversion System<br>[COMMS] Community Discussion Highlights Frustration With Toxic Teammates in Crew Fill<br>[PRESS] Context: Sony Laid Off About 292 Bungie Employees in June 2026, Including Marathon Leadership<br>[PRESS] Context: Marathon Game Director Joe Ziegler Left Bungie in July 2026]]></description>
+</item>
 <item>
 <title>DAILY EXFIL 2026-09-21: Bungie Publishes 'The Next Chapter' Letter on Marathon and Studio Direction</title>
 <link>https://dailyexfil.com/day/2026-09-21.html</link>
@@ -97,13 +104,6 @@
 <guid isPermaLink="true">https://dailyexfil.com/day/2026-09-09.html</guid>
 <pubDate>Wed, 09 Sep 2026 20:00:00 GMT</pubDate>
 <description><![CDATA[[COMMS] Community debates whether low player count is just "extraction shooters are hard"<br>[COMMS] Players try to estimate active vs latent Marathon population<br>[COMMS] Fans speculate on Season 3 changes ahead of September 22 launch<br>[COMMS] Player reports heavy matchmaking and connection problems in EU<br>[PRESS] Context: Bungie shrinks to roughly 500 employees amid weak Marathon and Destiny performance<br>[PRESS] Context: Marathon Season 3 confirmed for September 22, 2026]]></description>
-</item>
-<item>
-<title>DAILY EXFIL 2026-08-09: Community Frustration Grows Over Cryo Map Spawn Rushing</title>
-<link>https://dailyexfil.com/day/2026-08-09.html</link>
-<guid isPermaLink="true">https://dailyexfil.com/day/2026-08-09.html</guid>
-<pubDate>Sun, 09 Aug 2026 20:00:00 GMT</pubDate>
-<description><![CDATA[[COMMS] Community Frustration Grows Over Cryo Map Spawn Rushing<br>[COMMS] Players Criticize Marathon's Loot Distribution and Progression Grind<br>[COMMS] Players Report Sudden Spike in Match Difficulty and Aggression<br>[COMMS] Community Calls for Rework of Invisibility Shield Combination<br>[PRESS] Context: Bungie Admits Audio Balance Change Was an Overcorrection<br>[PRESS] Context: Marathon Game Director Joe Ziegler Confirms Departure From Bungie]]></description>
 </item>
 </channel>
 </rss>
