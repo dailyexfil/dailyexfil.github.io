@@ -6,7 +6,14 @@
 <atom:link href="https://dailyexfil.com/feed.xml" rel="self" type="application/rss+xml"/>
 <description>Daily Marathon (Bungie) news digest. Official, press, and community items tiered by credibility, cross-referenced, and link-checked.</description>
 <language>en</language>
-<lastBuildDate>Wed, 23 Sep 2026 19:05:09 GMT</lastBuildDate>
+<lastBuildDate>Thu, 24 Sep 2026 19:04:03 GMT</lastBuildDate>
+<item>
+<title>DAILY EXFIL 2026-09-24: Bungie Reveals Future of Marathon: December Symbiosis Update and March 2027 Evolution Plans</title>
+<link>https://dailyexfil.com/day/2026-09-24.html</link>
+<guid isPermaLink="true">https://dailyexfil.com/day/2026-09-24.html</guid>
+<pubDate>Thu, 24 Sep 2026 20:00:00 GMT</pubDate>
+<description><![CDATA[[OFFICIAL] Bungie Reveals Future of Marathon: December Symbiosis Update and March 2027 Evolution Plans<br>[COMMS] Community Pushback: Marathon's New PvE Push Still Looks Squad-Focused<br>[COMMS] Mixed Reactions: Fans Call Bungie's New Tone 'Exciting and Heartbreaking'<br>[COMMS] Players Cautiously Praise New Map, Enemies, and Bosses Teased for Marathon<br>[OFFICIAL] Context: Bungie Leadership Acknowledged Marathon's Underperformance on September 18<br>[PRESS] Context: Kotaku Reported Marathon's Player Collapse Ahead of Bungie's Pivot]]></description>
+</item>
 <item>
 <title>DAILY EXFIL 2026-09-23: Bungie Admits Marathon Missed Player Targets, Reaffirms Commitment Despite Major Overhaul</title>
 <link>https://dailyexfil.com/day/2026-09-23.html</link>
@@ -97,13 +104,6 @@
 <guid isPermaLink="true">https://dailyexfil.com/day/2026-09-10.html</guid>
 <pubDate>Thu, 10 Sep 2026 20:00:00 GMT</pubDate>
 <description><![CDATA[[COMMS] Paul Tassi Reportedly Confirms Marathon Is Not Shutting Down<br>[COMMS] Season 3 Announcement Reportedly Drops, Details Thin<br>[COMMS] Marathon Creative Director Hints at Upcoming News, Community Speculates<br>[COMMS] Community Debate: Is Marathon's Player Decline Tied to the Extraction Formula?<br>[COMMS] Players Argue Marathon's Maps Are Too Small for More Than Three Squads<br>[COMMS] Runners Debate Marathon's PvP Balance, Knife and Faction Strength<br>[COMMS] Player Documents a Friend's First 10 Hours With Marathon<br>[PRESS] Context: Bungie Subleases Bellevue Campus, Workforce Down to About 500]]></description>
-</item>
-<item>
-<title>DAILY EXFIL 2026-09-09: Community debates whether low player count is just &quot;extraction shooters are hard&quot;</title>
-<link>https://dailyexfil.com/day/2026-09-09.html</link>
-<guid isPermaLink="true">https://dailyexfil.com/day/2026-09-09.html</guid>
-<pubDate>Wed, 09 Sep 2026 20:00:00 GMT</pubDate>
-<description><![CDATA[[COMMS] Community debates whether low player count is just "extraction shooters are hard"<br>[COMMS] Players try to estimate active vs latent Marathon population<br>[COMMS] Fans speculate on Season 3 changes ahead of September 22 launch<br>[COMMS] Player reports heavy matchmaking and connection problems in EU<br>[PRESS] Context: Bungie shrinks to roughly 500 employees amid weak Marathon and Destiny performance<br>[PRESS] Context: Marathon Season 3 confirmed for September 22, 2026]]></description>
 </item>
 </channel>
 </rss>

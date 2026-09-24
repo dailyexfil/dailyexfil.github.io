@@ -1,0 +1,77 @@
+{
+  "date": "2026-09-24",
+  "items": [
+    {
+      "title": "Bungie Reveals Future of Marathon: December Symbiosis Update and March 2027 Evolution Plans",
+      "summary": "Bungie published a Future of Marathon blog and developer video today announcing a major shift in the game's design after admitting the extraction-only format left too many players out. The September content update is delayed to December 8 as part of the Symbiosis update, which brings the game's first permanent PvE mode, a new social space, an experimental Team Deathmatch mode, an expanded Perimeter zone, and a new Bishop shell. Bungie also outlined March 2027 plans for an interconnected PvE, PvP, and PvEvP system, a new zone, and the return of the Pfhor aliens, and confirmed it is dropping the strict seasonal schedule in favor of flexible update timing.",
+      "source_name": "Bungie.net",
+      "source_url": "https://www.bungie.net/7/en/News/Article/futureofmarathon",
+      "credibility_tier": "official",
+      "credibility_note": "Direct Bungie blog post, mirrored on the official Steam news feed and corroborated by multiple established gaming outlets.",
+      "published_at": "2026-09-24T17:15:56.000Z",
+      "category": "gameplay-content",
+      "corroborating_sources": [
+        "https://store.steampowered.com/news/app/3065800/view/703280393464316967",
+        "https://kotaku.com/marathon-is-becoming-a-much-bigger-game-as-bungie-teases-a-new-zone-social-space-deathmatch-mode-and-more-2000737026",
+        "https://thegamepost.com/bungie-reveals-marathon-evolution-beyond-extraction-shooter-genre/",
+        "https://www.mmorpg.com/news/bungie-shares-the-future-of-marathon-more-ways-to-play-expanded-world-pve-options-more-shell-choices-and-new-modes-2000138998"
+      ]
+    },
+    {
+      "title": "Community Pushback: Marathon's New PvE Push Still Looks Squad-Focused",
+      "summary": "A widely upvoted Reddit thread argues that Bungie's Future of Marathon presentation still centers on group play, pointing out that promotional footage shows office colleagues playing together rather than solo players or randoms. The poster says this repeats a design mistake from launch, when the game already struggled to welcome players who do not have a coordinated squad.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1wp9b4d/solo_only_being_mentioned_once_and_bungie_playing/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Reddit discussion thread reflecting player sentiment, not independently verified reporting.",
+      "published_at": "2026-09-24T18:18:54.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Mixed Reactions: Fans Call Bungie's New Tone 'Exciting and Heartbreaking'",
+      "summary": "A popular Reddit post describes Bungie's Future of Marathon communication as both exciting and heartbreaking, welcoming the new content while lamenting that the studio seems to treat its original launch design as a mistake. The poster says the new modes look genuinely fun but hopes the more open tone brings back players who left after launch.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1wp8znx/these_new_comms_from_marathon_is_both_exciting/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Reddit discussion thread reflecting player sentiment, not independently verified reporting.",
+      "published_at": "2026-09-24T18:07:12.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Players Cautiously Praise New Map, Enemies, and Bosses Teased for Marathon",
+      "summary": "Another Reddit thread praises the newly revealed content, including new enemies, bosses, and gameplay changes shown in the Future of Marathon video, saying it is what players wanted since launch. The poster remains skeptical about PvP balance given Bungie's history but is largely positive about the direction of the PvE additions.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1wp920x/im_soooo_glad_the_game_is_moving_in_the_direction/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Reddit discussion thread reflecting player sentiment, not independently verified reporting.",
+      "published_at": "2026-09-24T18:09:38.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Context: Bungie Leadership Acknowledged Marathon's Underperformance on September 18",
+      "summary": "On September 18, 2026, Bungie studio head Poria Torkan and general manager Josh Deane published an update on Bungie.net admitting Marathon did not reach the player numbers the studio expected. They committed to continued development through 2027 and promised more consistent communication, laying the groundwork for today's Future of Marathon announcement.",
+      "source_name": "Bungie.net",
+      "source_url": "https://www.bungie.net/7/en/News/Article/nextchapterofbungie",
+      "credibility_tier": "official",
+      "credibility_note": "Direct statement from named Bungie studio leadership.",
+      "published_at": "2026-09-18T00:00:00Z",
+      "category": "layoffs-business",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Context: Kotaku Reported Marathon's Player Collapse Ahead of Bungie's Pivot",
+      "summary": "On September 21, 2026, Kotaku reported that Marathon's concurrent player count had collapsed since launch and that the game faced a make or break moment, needing to evolve beyond its original extraction-only design. That reporting foreshadowed the broader survival-experience pivot Bungie detailed today.",
+      "source_name": "Kotaku",
+      "source_url": "https://kotaku.com/marathon-didnt-reach-as-many-players-as-bungie-hoped-and-needs-to-evolve-2000736189",
+      "credibility_tier": "verified-journalist",
+      "credibility_note": "Reporting from an established gaming outlet with a named journalist byline.",
+      "published_at": "2026-09-21T00:00:00Z",
+      "category": "layoffs-business",
+      "corroborating_sources": []
+    }
+  ],
+  "no_news_found": false
+}
