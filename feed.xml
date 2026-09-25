@@ -6,7 +6,14 @@
 <atom:link href="https://dailyexfil.com/feed.xml" rel="self" type="application/rss+xml"/>
 <description>Daily Marathon (Bungie) news digest. Official, press, and community items tiered by credibility, cross-referenced, and link-checked.</description>
 <language>en</language>
-<lastBuildDate>Thu, 24 Sep 2026 19:04:03 GMT</lastBuildDate>
+<lastBuildDate>Fri, 25 Sep 2026 19:04:43 GMT</lastBuildDate>
+<item>
+<title>DAILY EXFIL 2026-09-25: Bungie Announces 'Future of Marathon' Roadmap, Admits Launch Was Too Niche</title>
+<link>https://dailyexfil.com/day/2026-09-25.html</link>
+<guid isPermaLink="true">https://dailyexfil.com/day/2026-09-25.html</guid>
+<pubDate>Fri, 25 Sep 2026 20:00:00 GMT</pubDate>
+<description><![CDATA[[OFFICIAL] Bungie Announces 'Future of Marathon' Roadmap, Admits Launch Was Too Niche<br>[PRESS] Marathon Steam Player Count Remains Critical at Just Over 3,000 Peak<br>[COMMS] Community Debate: Gear Gap Called Too Extreme for a Shrinking Playerbase<br>[COMMS] Non-Hardcore Player Says Roadmap News Renewed Their Hope for Marathon<br>[COMMS] Community Asks How Big Bungie's Promised PvP Mode Will Actually Be<br>[PRESS] Context: Bungie Leadership Apologized to Players Days Before Roadmap Reveal<br>[PRESS] Context: Marathon's Original Game Director Left Bungie Four Months After Launch]]></description>
+</item>
 <item>
 <title>DAILY EXFIL 2026-09-24: Bungie Reveals Future of Marathon: December Symbiosis Update and March 2027 Evolution Plans</title>
 <link>https://dailyexfil.com/day/2026-09-24.html</link>
@@ -97,13 +104,6 @@
 <guid isPermaLink="true">https://dailyexfil.com/day/2026-09-11.html</guid>
 <pubDate>Fri, 11 Sep 2026 20:00:00 GMT</pubDate>
 <description><![CDATA[[COMMS] Community asks: 'Is there any news on Season 3?'<br>[COMMS] Players debate crew fill etiquette around free Cryo kits and blue shields<br>[COMMS] Player reports credits disappearing without explanation<br>[PRESS] Context: Bungie's June 2026 layoffs cut Marathon leadership roles<br>[OFFICIAL] Context: Marathon's official site shows news posts dated September 1 and August 25]]></description>
-</item>
-<item>
-<title>DAILY EXFIL 2026-09-10: Paul Tassi Reportedly Confirms Marathon Is Not Shutting Down</title>
-<link>https://dailyexfil.com/day/2026-09-10.html</link>
-<guid isPermaLink="true">https://dailyexfil.com/day/2026-09-10.html</guid>
-<pubDate>Thu, 10 Sep 2026 20:00:00 GMT</pubDate>
-<description><![CDATA[[COMMS] Paul Tassi Reportedly Confirms Marathon Is Not Shutting Down<br>[COMMS] Season 3 Announcement Reportedly Drops, Details Thin<br>[COMMS] Marathon Creative Director Hints at Upcoming News, Community Speculates<br>[COMMS] Community Debate: Is Marathon's Player Decline Tied to the Extraction Formula?<br>[COMMS] Players Argue Marathon's Maps Are Too Small for More Than Three Squads<br>[COMMS] Runners Debate Marathon's PvP Balance, Knife and Faction Strength<br>[COMMS] Player Documents a Friend's First 10 Hours With Marathon<br>[PRESS] Context: Bungie Subleases Bellevue Campus, Workforce Down to About 500]]></description>
 </item>
 </channel>
 </rss>

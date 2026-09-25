@@ -1,0 +1,94 @@
+{
+  "date": "2026-09-25",
+  "items": [
+    {
+      "title": "Bungie Announces 'Future of Marathon' Roadmap, Admits Launch Was Too Niche",
+      "summary": "Bungie published a three stage roadmap called The Future of Marathon, covering an October Nightfall Refresh focused on progression and rewards, a December 8 Symbiosis update that adds the game's first permanent PvE mode plus a team deathmatch mode, the Bishop runner shell, and a new social space, and a larger March 2027 evolution built around interconnected PvE, PvP, and PvEvP systems. The announcement came with a Developer Insights video in which design leads admitted the launch version was too niche and too punishing, with one developer saying the team thought they would bring extraction gameplay to the masses and did not. Bungie also confirmed it is dropping its rigid seasonal cadence in favor of releasing content when it is actually ready.",
+      "source_name": "Bungie.net",
+      "source_url": "https://www.bungie.net/7/en/News/Article/futureofmarathon",
+      "credibility_tier": "official",
+      "credibility_note": "Direct official post from Bungie.net outlining the studio's own roadmap and admissions.",
+      "published_at": "2026-09-24T00:00:00Z",
+      "category": "gameplay-content",
+      "corroborating_sources": [
+        "https://store.steampowered.com/news/app/3065800/view/703280393464316967",
+        "https://kotaku.com/marathon-is-becoming-a-much-bigger-game-as-bungie-teases-a-new-zone-social-space-deathmatch-mode-and-more-2000737026",
+        "https://www.engadget.com/2268321/bungie-shares-more-detail-about-marathon-symbiosis-update-and-2027-plans/",
+        "https://www.pcgamer.com/games/we-all-thought-we-were-bringing-extraction-to-the-masses-and-we-didnt/",
+        "https://thegamepost.com/bungie-reveals-marathon-evolution-beyond-extraction-shooter-genre/",
+        "https://www.invenglobal.com/articles/26486/a-three-stage-revival-plan-from-october-to-march-bungie-unveils-marathon-roadmap",
+        "https://www.gosugamers.net/entertainment/news/79253-marathon-is-getting-a-major-reset-as-bungie-admits-its-extraction-shooter-was-too-niche"
+      ]
+    },
+    {
+      "title": "Marathon Steam Player Count Remains Critical at Just Over 3,000 Peak",
+      "summary": "Marathon's 24 hour peak concurrent player count on Steam sat at just over 3,000 as of September 24, roughly a 96.5 percent drop from its launch peak of about 88,000. Game Rant ties the falling numbers directly to the design problems Bungie itself flagged in the Future of Marathon roadmap, including a punishing difficulty curve that discouraged new players. The steady six month decline has been part of the pressure pushing Bungie toward broader accessibility changes.",
+      "source_name": "Game Rant",
+      "source_url": "https://gamerant.com/marathon-future-content-updates-bungie/",
+      "credibility_tier": "verified-journalist",
+      "credibility_note": "Established gaming outlet reporting Steam concurrent player data.",
+      "published_at": "2026-09-24T00:00:00Z",
+      "category": "layoffs-business",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Community Debate: Gear Gap Called Too Extreme for a Shrinking Playerbase",
+      "summary": "A Redditor argues Marathon's gear gap between geared and undergeared players is too extreme, saying top tier equipment can decide fights outright in a way rarely seen in other extraction shooters. They contend the problem is worsened by a low player count breaking matchmaking, making games feel unplayable without maxed out gear and upgrades. The post calls for better gear balancing rather than pure progression grinding.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1wq2hqn/the_game_is_eating_itself_alive/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Reddit opinion post reflecting community sentiment on balance and population, not independently verified.",
+      "published_at": "2026-09-25T17:30:43.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Non-Hardcore Player Says Roadmap News Renewed Their Hope for Marathon",
+      "summary": "A self described non-hardcore player wrote that Marathon has been a frustrating experience since launch but that the newly announced roadmap has made them hopeful again. They describe themselves as a niche player within a niche community but say something about the game keeps pulling them back despite disappointments with other live service titles. The post is one example of the cautiously optimistic reaction to Bungie's Future of Marathon announcement.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1wq3ai0/a_few_words_from_a_nonhardcore_player/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Personal Reddit reaction post, useful as a sentiment indicator but not verified reporting.",
+      "published_at": "2026-09-25T18:02:19.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Community Asks How Big Bungie's Promised PvP Mode Will Actually Be",
+      "summary": "A Redditor who does not usually enjoy extraction shooters asks whether Bungie's roadmap teasers about expanded PvP and PvE content mean a full Crucible style mode is coming, or just a small side mode. They say they loved Marathon at launch but never got into the extraction loop, and hope Bungie leans into Halo and Destiny style PvP given the studio's history. The thread shows community uncertainty over how substantial the promised PvP content will actually be.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1wq3mzf/does_this_mean_a_dedicated_pvp_mode_is_coming/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Reddit discussion thread speculating on unannounced feature scope, not confirmed by Bungie.",
+      "published_at": "2026-09-25T18:15:57.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Context: Bungie Leadership Apologized to Players Days Before Roadmap Reveal",
+      "summary": "On September 21 and 22, 2026, new Bungie studio head Poria Torkan and Marathon general manager Josh Deane released a video called The Next Chapter for Bungie, apologizing directly to the community. Torkan said the studio lost sight of putting players first and that the consequences were real, setting the tone for the Future of Marathon roadmap released a few days later.",
+      "source_name": "GeekWire",
+      "source_url": "https://www.geekwire.com/2026/bungie-apologizes-to-fans-unseals-destiny-content-vault-tries-to-convince-the-world-its-still-bungie/",
+      "credibility_tier": "verified-journalist",
+      "credibility_note": "Established tech and business outlet reporting on an official Bungie video statement.",
+      "published_at": "2026-09-21T00:00:00Z",
+      "category": "layoffs-business",
+      "corroborating_sources": [
+        "https://gameinformer.com/2026/09/21/bungie-announces-plans-to-restore-vaulted-destiny-2-content-and-substantial-reworks-to",
+        "https://www.thefpsreview.com/2026/09/23/bungie-un-cancels-destiny-vaulted-campaigns-and-raids-are-coming-back-and-it-admits-marathon-came-up-short/"
+      ]
+    },
+    {
+      "title": "Context: Marathon's Original Game Director Left Bungie Four Months After Launch",
+      "summary": "Marathon's original game director Joe Ziegler left Bungie on July 17, 2026, just four months after the game's launch, according to a report published July 19. Assistant game director Del Chafe III and creative director Julia Nardin took over leadership of the game, and Chafe is now the figure fronting the September Future of Marathon roadmap.",
+      "source_name": "Video Games Chronicle",
+      "source_url": "https://www.videogameschronicle.com/news/marathons-director-confirms-hes-quit-bungie-four-months-after-launch/",
+      "credibility_tier": "verified-journalist",
+      "credibility_note": "Established outlet reporting confirmed by the departing director himself.",
+      "published_at": "2026-07-19T00:00:00Z",
+      "category": "layoffs-business",
+      "corroborating_sources": []
+    }
+  ],
+  "no_news_found": false
+}
