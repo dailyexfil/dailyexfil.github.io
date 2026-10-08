@@ -6,7 +6,14 @@
 <atom:link href="https://dailyexfil.com/feed.xml" rel="self" type="application/rss+xml"/>
 <description>Daily Marathon (Bungie) news digest. Official, press, and community items tiered by credibility, cross-referenced, and link-checked.</description>
 <language>en</language>
-<lastBuildDate>Fri, 25 Sep 2026 19:04:43 GMT</lastBuildDate>
+<lastBuildDate>Thu, 08 Oct 2026 19:04:47 GMT</lastBuildDate>
+<item>
+<title>DAILY EXFIL 2026-10-08: Marathon Update 1.1.9.3 Patch Notes</title>
+<link>https://dailyexfil.com/day/2026-10-08.html</link>
+<guid isPermaLink="true">https://dailyexfil.com/day/2026-10-08.html</guid>
+<pubDate>Thu, 08 Oct 2026 20:00:00 GMT</pubDate>
+<description><![CDATA[[OFFICIAL] Marathon Update 1.1.9.3 Patch Notes<br>[COMMS] Players Report Economy and Matchmaking Problems Following Reset<br>[COMMS] Community Review Says October Refresh Helps Economy But Leaves Core Problems<br>[COMMS] Players Question Whether New Visible Stats Feed Matchmaking<br>[COMMS] Players Compare Marathon's Scale Unfavorably to Arc Raiders<br>[OFFICIAL] Context: Nightfall Refresh Update Reset Progression and Economy<br>[OFFICIAL] Context: Bungie Outlines Marathon Roadmap Through March 2027]]></description>
+</item>
 <item>
 <title>DAILY EXFIL 2026-09-25: Bungie Announces 'Future of Marathon' Roadmap, Admits Launch Was Too Niche</title>
 <link>https://dailyexfil.com/day/2026-09-25.html</link>
@@ -97,13 +104,6 @@
 <guid isPermaLink="true">https://dailyexfil.com/day/2026-09-12.html</guid>
 <pubDate>Sat, 12 Sep 2026 20:00:00 GMT</pubDate>
 <description><![CDATA[[PRESS] Bungie and Marathon Are Not Shutting Down, Forbes Reports<br>[COMMS] Marathon Player Count Holding at About 3,035, Still a Fraction of Launch Peak<br>[COMMS] Bungie Stays Silent on Season 3 Details Ahead of September 22 Launch<br>[COMMS] Player Reports Running Into Seven Others Solo on Outpost, More Than Expected<br>[COMMS] Players Debate Whether the Prestige Salvage Grind Is Worth It<br>[COMMS] Rooking Playstyle Sparks Discussion on Player Trust and Toxicity<br>[COMMS] Community Speculates About Future Maps and a Possible Megastructure<br>[PRESS] Context: Bungie's June 2026 Layoffs Gutted Marathon Leadership<br>[PRESS] Context: Bungie Downsizes to About 500 Employees, Subleases Bellevue HQ]]></description>
-</item>
-<item>
-<title>DAILY EXFIL 2026-09-11: Community asks: 'Is there any news on Season 3?'</title>
-<link>https://dailyexfil.com/day/2026-09-11.html</link>
-<guid isPermaLink="true">https://dailyexfil.com/day/2026-09-11.html</guid>
-<pubDate>Fri, 11 Sep 2026 20:00:00 GMT</pubDate>
-<description><![CDATA[[COMMS] Community asks: 'Is there any news on Season 3?'<br>[COMMS] Players debate crew fill etiquette around free Cryo kits and blue shields<br>[COMMS] Player reports credits disappearing without explanation<br>[PRESS] Context: Bungie's June 2026 layoffs cut Marathon leadership roles<br>[OFFICIAL] Context: Marathon's official site shows news posts dated September 1 and August 25]]></description>
 </item>
 </channel>
 </rss>

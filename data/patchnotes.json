@@ -1,5 +1,19 @@
 [
  {
+  "version": "1.1.9.3",
+  "title": "Marathon Update 1.1.9.3",
+  "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067931127",
+  "date": "2026-10-08",
+  "summary": "GeneralRemoved incorrect information from Nightfall Refresh explainer screen.Fixed an issue causing players to experience crashes on Night Marsh."
+ },
+ {
+  "version": "1.1.9.2",
+  "title": "Marathon Update 1.1.9.2",
+  "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656396920",
+  "date": "2026-10-06",
+  "summary": "Nightfall RefreshThe following have been reset:Runner, Cradle, and Faction levelsPriority ContractsRankVault ContentsZone accessNew Rewards PassThe NuCaloric Reward Pass is available now at no additional cost to everyone who owns Marathon.S"
+ },
+ {
   "version": "1.1.9.1",
   "title": "Marathon Update 1.1.9.1",
   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262705014",
@@ -89,12 +103,5 @@
   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721201849",
   "date": "2026-06-09",
   "summary": "Item Economy Slightly reduced the chance for Prestige Shield to appear in all sources. Slightly reduced the chance for Prestige Weapon Mods to appear in all sources. Fixed various issues where Schemas granted more or fewer Credits than thei"
- },
- {
-  "version": "1.1.0",
-  "title": "Marathon Update 1.1.0",
-  "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530900587",
-  "date": "2026-06-02",
-  "summary": "General Added Streamer Mode option in the Settings: The ability to hide you and your Crew’s names on your screen. The ability to replace your in-run name with a generic one across places like pings, kill feed, death recap, and spectate. The"
  }
 ]

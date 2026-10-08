@@ -1,0 +1,90 @@
+{
+  "date": "2026-10-08",
+  "items": [
+    {
+      "title": "Marathon Update 1.1.9.3 Patch Notes",
+      "summary": "Bungie released patch 1.1.9.3 on October 8, 2026, fixing a crash on Night Marsh and removing incorrect information from the Nightfall Refresh explainer screen. The patch followed scheduled maintenance and rolled out across all platforms.",
+      "source_name": "Steam News (official Bungie posts)",
+      "source_url": "https://store.steampowered.com/news/app/3065800/view/694274460775089893",
+      "credibility_tier": "official",
+      "credibility_note": "Direct patch notes published through Bungie's official Steam news channel.",
+      "published_at": "2026-10-08T19:00:27.000Z",
+      "category": "patch-notes",
+      "corroborating_sources": [
+        "https://mp1st.com/news/marathon-servers-goes-down-on-october-8-patch-1-1-9-3-be-rolled-out"
+      ]
+    },
+    {
+      "title": "Players Report Economy and Matchmaking Problems Following Reset",
+      "summary": "A Reddit thread accuses Bungie of letting the in-game economy break again, with players who have been grinding non-stop since the latest reset now looting top tier gear uncontested while others sit in empty lobbies. The poster asks whether SBMM was toggled on and warns the gap between early and late players will widen further.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1x0wezj/bungie_the_economy_is_breaking_again_plz_do/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Unverified player complaint thread on Reddit, included as a notable sentiment indicator.",
+      "published_at": "2026-10-08T17:03:09.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Community Review Says October Refresh Helps Economy But Leaves Core Problems",
+      "summary": "A community analysis from Too Much Gaming looked at the October Nightfall Refresh and found it fixes some Season 2 progression and economy issues but does not resolve accessibility problems or questions about Marathon's long term revenue potential for Bungie. The piece treats the update as an incremental fix rather than a turnaround.",
+      "source_name": "Too Much Gaming",
+      "source_url": "https://www.toomuchgaming.net/blog-news/marathon-october-2026-refresh",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Independent blog analysis rather than an established outlet, tiered as community-speculation.",
+      "published_at": "2026-10-08T00:00:00.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Players Question Whether New Visible Stats Feed Matchmaking",
+      "summary": "A Reddit post from a high run-count player worries that newly visible stats, like total runs and exfil rate, may be used in matchmaking, noting they are often grouped with much stronger teams despite rating themselves weak at PvP. The thread reflects ongoing community uncertainty about how Marathon's matchmaking actually works.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1x0u47h/im_concerned_about_the_new_stats/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Unverified player speculation about matchmaking mechanics, not confirmed by Bungie.",
+      "published_at": "2026-10-08T15:35:49.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Players Compare Marathon's Scale Unfavorably to Arc Raiders",
+      "summary": "A Reddit thread following Arc Raiders' latest update argues Marathon needs bigger maps, bosses, and events to create a stronger sense of scale and danger, pointing to a rival extraction game as an example of what feels more threatening. The post frames itself as constructive feedback rather than a dismissal of Marathon.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1x0ukdr/bigger_events_spaces_bosses/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Player feedback thread included to represent community sentiment on content direction.",
+      "published_at": "2026-10-08T15:52:42.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Context: Nightfall Refresh Update Reset Progression and Economy",
+      "summary": "Bungie released the Nightfall Refresh update on October 6, 2026, resetting player progression and the in-game economy while adjusting rewards and balance. This update is the one referenced by today's patch 1.1.9.3 fixes and by ongoing community complaints about the post-reset economy.",
+      "source_name": "Bungie.net",
+      "source_url": "https://www.bungie.net/7/en/News/Article/nightfallrefreshandsymbiosis",
+      "credibility_tier": "official",
+      "credibility_note": "Official Bungie.net update post describing a change that has already shipped.",
+      "published_at": "2026-10-06T00:00:00.000Z",
+      "category": "patch-notes",
+      "corroborating_sources": [
+        "https://www.tweaktown.com/news/113946/bungie-reveals-marathon-nightfall-refresh-and-symbiosis-roadmap/index.html"
+      ]
+    },
+    {
+      "title": "Context: Bungie Outlines Marathon Roadmap Through March 2027",
+      "summary": "On September 24, 2026, Bungie published a development update laying out plans from October 2026 through March 2027, including the Nightfall Refresh, a December Symbiosis update adding permanent PvE, and further game mode integration in March 2027. The studio said it wants to evolve Marathon beyond its original PvPvE extraction shooter format.",
+      "source_name": "Bungie.net",
+      "source_url": "https://www.bungie.net/7/en/News/Article/futureofmarathon",
+      "credibility_tier": "official",
+      "credibility_note": "Official Bungie blog post outlining future, not-yet-shipped plans, so it is a preview rather than patch notes.",
+      "published_at": "2026-09-24T00:00:00.000Z",
+      "category": "gameplay-content",
+      "corroborating_sources": [
+        "https://ixbt.games/en/news/2026/10/07/440687-u-bungie-raspisala-plan-razvitiia-marathon-do-marta-2027-goda.html",
+        "https://www.tweaktown.com/news/113946/bungie-reveals-marathon-nightfall-refresh-and-symbiosis-roadmap/index.html"
+      ]
+    }
+  ],
+  "no_news_found": false
+}
