@@ -1,0 +1,104 @@
+{
+  "date": "2026-10-09",
+  "items": [
+    {
+      "title": "Patch 1.1.9.3 Ships to Fix Night Marsh Crashes",
+      "summary": "Bungie released patch 1.1.9.3 on October 8, fixing a crash bug tied to the Night Marsh zone and correcting inaccurate text on the Nightfall Refresh explainer screen. It is the second maintenance pass in a week, following the October 6 Nightfall Refresh that reset player progression and the in-game economy.",
+      "source_name": "MP1st",
+      "source_url": "https://mp1st.com/news/marathon-servers-goes-down-on-october-8-patch-1-1-9-3-be-rolled-out",
+      "credibility_tier": "verified-journalist",
+      "credibility_note": "MP1st is an established gaming outlet with ongoing Marathon coverage; a duplicate write-up on an unrecognized domain recycling the same report was excluded as it is not independent reporting.",
+      "published_at": "2026-10-08T00:00:00Z",
+      "category": "patch-notes",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Day-One Review Says Nightfall Refresh Fixes Economy But Core Issues Remain",
+      "summary": "A community review of Bungie's October Nightfall Refresh argues the reset finally delivers the economy balance that Season 2 failed to achieve. The reviewer treats it as a necessary correction rather than a true fix, saying deeper progression and depth problems are still unresolved.",
+      "source_name": "Too Much Gaming",
+      "source_url": "https://toomuchgaming.net/blog-news/marathon-october-2026-refresh",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Too Much Gaming is a community blog rather than a recognized major outlet, so it is tiered as commentary despite its analytical framing.",
+      "published_at": "2026-10-08T00:00:00Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Players Compare Marathon's Struggles to COD's Upcoming DMZ Mode",
+      "summary": "A r/Marathon thread argues that Call of Duty's new DMZ features, including PvP bounties, leaderboards, and clearer indicators for eliminated players, make Marathon's current wipe season feel thin by comparison. The poster says they can only manage two or three runs a night before boredom or frustration sets in, reflecting wider fatigue after the Nightfall Refresh.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1x1sa6i/the_dmz_news_is_making_marathon_hard_to_defend/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Single Reddit thread reflecting player sentiment and comparison to a competitor's unreleased features, not independently verified.",
+      "published_at": "2026-10-09T18:00:14.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Players Report Networking and Hit Registration Quirks After Recent Tweaks",
+      "summary": "Players in r/Marathon say hit registration feels inconsistent since recent networking changes, with some reporting that certain weapons need several shots before damage registers against specific shells. A related thread notes that while ladder rubber-banding was fixed, climbing over small obstacles now causes a similar stutter.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1x1s3yt/new_networking_problems/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Reddit bug reports describing player-perceived issues that have not been confirmed by Bungie.",
+      "published_at": "2026-10-09T17:53:31.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": [
+        "https://www.reddit.com/r/Marathon/comments/1x1r11n/they_fixed_the_rubber_banding_on_ladders_but/"
+      ]
+    },
+    {
+      "title": "Debate Continues Over Wiping Loot Without Resetting Faction Progress",
+      "summary": "Players are debating whether Bungie could reset the loot vault each season without also wiping faction levels, since regrinding factions every cycle feels like a chore. A separate thread proposes making season wipes voluntary, with prestige tiers rewarding players who choose to reset while at high level.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1x1t95p/would_a_seasonal_resetwipe_still_work_if_factions/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Reflects player suggestions and feedback, not confirmed Bungie plans.",
+      "published_at": "2026-10-09T18:37:46.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": [
+        "https://www.reddit.com/r/Marathon/comments/1x1s3iq/wild_idea_no_forced_season_reset_voluntary_reset/"
+      ]
+    },
+    {
+      "title": "Leftover 'Contender' Weapon Text Fuels Doubts About Season 3 Readiness",
+      "summary": "With Ranked mode currently unavailable, players noticed weapons still display the 'Contender' modifier left over from the paused ranked system. The poster argues this oversight suggests Bungie was not fully prepared when the Season 3 changes were announced.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1x1mbli/they_didnt_even_get_rid_of_the_contender_modifier/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Reflects community criticism of execution quality, unverified by Bungie.",
+      "published_at": "2026-10-09T14:07:18.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Context: Nightfall Refresh Reset Progression and Economy on October 6",
+      "summary": "This story was originally reported on October 6, 2026, when Bungie's Nightfall Refresh update went live, wiping player progression and the in-game economy while adding a non-expiring NuCaloric Reward Pass and returning weekend Sponsored Queues. Ranked mode stayed offline during this phase, which helps explain today's community confusion over wipe mechanics and leftover Ranked-only gear text.",
+      "source_name": "TweakTown",
+      "source_url": "https://www.tweaktown.com/news/113946/bungie-reveals-marathon-nightfall-refresh-and-symbiosis-roadmap/index.html",
+      "credibility_tier": "verified-journalist",
+      "credibility_note": "Established gaming outlet reporting directly on Bungie's update rollout.",
+      "published_at": "2026-10-06T00:00:00Z",
+      "category": "patch-notes",
+      "corroborating_sources": [
+        "https://www.bungie.net/"
+      ]
+    },
+    {
+      "title": "Context: Bungie's Six-Month Roadmap Outlines Symbiosis and March 2027 Plans",
+      "summary": "Bungie originally published this roadmap on September 24, 2026, detailing the October Nightfall Refresh, a December 8 Symbiosis update adding permanent PvE, a new shell, and a social space, and a March 2027 update merging PvE, PvP, and PvEvP modes. The studio also said it is moving away from a strict seasonal schedule, which is useful context for today's discussion about paused Ranked mode and leftover Contender-branded gear.",
+      "source_name": "Bungie.net",
+      "source_url": "https://www.bungie.net/7/en/News/Article/futureofmarathon",
+      "credibility_tier": "official",
+      "credibility_note": "Direct official Bungie development update describing the studio's own roadmap.",
+      "published_at": "2026-09-24T00:00:00Z",
+      "category": "gameplay-content",
+      "corroborating_sources": [
+        "https://kotaku.com/marathon-is-becoming-a-much-bigger-game-as-bungie-teases-a-new-zone-social-space-deathmatch-mode-and-more-2000737026",
+        "https://insider-gaming.com/the-future-of-marathon-has-been-revealed-by-bungie/",
+        "https://www.psu.com/news/bungie-is-making-big-changes-to-marathon-starting-with-the-nightfall-refresh-in-october/"
+      ]
+    }
+  ],
+  "no_news_found": false
+}

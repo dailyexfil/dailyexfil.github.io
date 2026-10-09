@@ -6,7 +6,14 @@
 <atom:link href="https://dailyexfil.com/feed.xml" rel="self" type="application/rss+xml"/>
 <description>Daily Marathon (Bungie) news digest. Official, press, and community items tiered by credibility, cross-referenced, and link-checked.</description>
 <language>en</language>
-<lastBuildDate>Thu, 08 Oct 2026 19:04:47 GMT</lastBuildDate>
+<lastBuildDate>Fri, 09 Oct 2026 19:04:56 GMT</lastBuildDate>
+<item>
+<title>DAILY EXFIL 2026-10-09: Patch 1.1.9.3 Ships to Fix Night Marsh Crashes</title>
+<link>https://dailyexfil.com/day/2026-10-09.html</link>
+<guid isPermaLink="true">https://dailyexfil.com/day/2026-10-09.html</guid>
+<pubDate>Fri, 09 Oct 2026 20:00:00 GMT</pubDate>
+<description><![CDATA[[PRESS] Patch 1.1.9.3 Ships to Fix Night Marsh Crashes<br>[COMMS] Day-One Review Says Nightfall Refresh Fixes Economy But Core Issues Remain<br>[COMMS] Players Compare Marathon's Struggles to COD's Upcoming DMZ Mode<br>[COMMS] Players Report Networking and Hit Registration Quirks After Recent Tweaks<br>[COMMS] Debate Continues Over Wiping Loot Without Resetting Faction Progress<br>[COMMS] Leftover 'Contender' Weapon Text Fuels Doubts About Season 3 Readiness<br>[PRESS] Context: Nightfall Refresh Reset Progression and Economy on October 6<br>[OFFICIAL] Context: Bungie's Six-Month Roadmap Outlines Symbiosis and March 2027 Plans]]></description>
+</item>
 <item>
 <title>DAILY EXFIL 2026-10-08: Marathon Update 1.1.9.3 Patch Notes</title>
 <link>https://dailyexfil.com/day/2026-10-08.html</link>
@@ -97,13 +104,6 @@
 <guid isPermaLink="true">https://dailyexfil.com/day/2026-09-13.html</guid>
 <pubDate>Sun, 13 Sep 2026 20:00:00 GMT</pubDate>
 <description><![CDATA[[PRESS] Marathon Not Shutting Down Despite Steep Player Decline, Says Forbes Journalist<br>[PRESS] Marathon Season 3 Set to Launch September 22 with Perimeter Revamp and New Runner Shell<br>[COMMS] Players Frustrated by Bungie's Silence Ahead of Season 3 Launch<br>[COMMS] Community Questions Whether Marathon's Player Numbers Are Sustainable<br>[COMMS] Players Say Marathon Needs a New Map in Season 3<br>[COMMS] Debate Resurfaces Over PvP Pacing and Encounter Design<br>[PRESS] Context: June 2026 Bungie Layoffs Cut Marathon Leadership and Hundreds of Staff]]></description>
-</item>
-<item>
-<title>DAILY EXFIL 2026-09-12: Bungie and Marathon Are Not Shutting Down, Forbes Reports</title>
-<link>https://dailyexfil.com/day/2026-09-12.html</link>
-<guid isPermaLink="true">https://dailyexfil.com/day/2026-09-12.html</guid>
-<pubDate>Sat, 12 Sep 2026 20:00:00 GMT</pubDate>
-<description><![CDATA[[PRESS] Bungie and Marathon Are Not Shutting Down, Forbes Reports<br>[COMMS] Marathon Player Count Holding at About 3,035, Still a Fraction of Launch Peak<br>[COMMS] Bungie Stays Silent on Season 3 Details Ahead of September 22 Launch<br>[COMMS] Player Reports Running Into Seven Others Solo on Outpost, More Than Expected<br>[COMMS] Players Debate Whether the Prestige Salvage Grind Is Worth It<br>[COMMS] Rooking Playstyle Sparks Discussion on Player Trust and Toxicity<br>[COMMS] Community Speculates About Future Maps and a Possible Megastructure<br>[PRESS] Context: Bungie's June 2026 Layoffs Gutted Marathon Leadership<br>[PRESS] Context: Bungie Downsizes to About 500 Employees, Subleases Bellevue HQ]]></description>
 </item>
 </channel>
 </rss>
