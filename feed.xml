@@ -6,7 +6,14 @@
 <atom:link href="https://dailyexfil.com/feed.xml" rel="self" type="application/rss+xml"/>
 <description>Daily Marathon (Bungie) news digest. Official, press, and community items tiered by credibility, cross-referenced, and link-checked.</description>
 <language>en</language>
-<lastBuildDate>Fri, 09 Oct 2026 19:04:56 GMT</lastBuildDate>
+<lastBuildDate>Sat, 10 Oct 2026 19:04:03 GMT</lastBuildDate>
+<item>
+<title>DAILY EXFIL 2026-10-10: Bungie Outlines Changes to Fix Spawn Rushing and Death Spirals Ahead of Symbiosis Update</title>
+<link>https://dailyexfil.com/day/2026-10-10.html</link>
+<guid isPermaLink="true">https://dailyexfil.com/day/2026-10-10.html</guid>
+<pubDate>Sat, 10 Oct 2026 20:00:00 GMT</pubDate>
+<description><![CDATA[[PRESS] Bungie Outlines Changes to Fix Spawn Rushing and Death Spirals Ahead of Symbiosis Update<br>[OFFICIAL] Marathon Discounted 40 Percent on Steam Through October 16<br>[COMMS] Community Proposes Time-Gating Shield Rarities to Tame Post-Reset Power Creep<br>[COMMS] Players Say Sponsored Queue Trios Feel More Balanced Than Standard Matchmaking<br>[COMMS] Players Report Persistent Lag and Rubberbanding Problems<br>[COMMS] Returning Players Question Whether Outpost PvE Mode Is Welcoming Enough for Newcomers<br>[OFFICIAL] Context: Bungie Laid Out Marathon Roadmap Through March 2027]]></description>
+</item>
 <item>
 <title>DAILY EXFIL 2026-10-09: Patch 1.1.9.3 Ships to Fix Night Marsh Crashes</title>
 <link>https://dailyexfil.com/day/2026-10-09.html</link>
@@ -97,13 +104,6 @@
 <guid isPermaLink="true">https://dailyexfil.com/day/2026-09-14.html</guid>
 <pubDate>Mon, 14 Sep 2026 20:00:00 GMT</pubDate>
 <description><![CDATA[[OFFICIAL] Marathon delays next major update from September 22 to December 8, ends fixed seasonal schedule<br>[PRESS] Kotaku: Marathon's delay and abandoned season model show an extraction shooter fighting for its life<br>[PRESS] Symbiosis update to add permanent PvE, new Runner shell, social space, and experimental team deathmatch<br>[COMMS] Report: October 6 Nightfall Refresh will reset progression and economy ahead of December update<br>[PRESS] Marathon's Steam player count falls to 670 concurrent, below Concord's all time peak<br>[COMMS] Community debates whether player count is really Bungie's biggest problem<br>[COMMS] Community reaction turns harsh after delay announced one week before expected Season 3 launch<br>[COMMS] Players ask what there is to play until December after Season 3 delay<br>[COMMS] Some players defend Bungie's plan and push back on 'hate tourists' after delay news<br>[PRESS] Context: Forbes journalist says Marathon and Bungie are not shutting down<br>[PRESS] Context: June 2026 Bungie layoffs cut Marathon's General Manager and Engineering Director]]></description>
-</item>
-<item>
-<title>DAILY EXFIL 2026-09-13: Marathon Not Shutting Down Despite Steep Player Decline, Says Forbes Journalist</title>
-<link>https://dailyexfil.com/day/2026-09-13.html</link>
-<guid isPermaLink="true">https://dailyexfil.com/day/2026-09-13.html</guid>
-<pubDate>Sun, 13 Sep 2026 20:00:00 GMT</pubDate>
-<description><![CDATA[[PRESS] Marathon Not Shutting Down Despite Steep Player Decline, Says Forbes Journalist<br>[PRESS] Marathon Season 3 Set to Launch September 22 with Perimeter Revamp and New Runner Shell<br>[COMMS] Players Frustrated by Bungie's Silence Ahead of Season 3 Launch<br>[COMMS] Community Questions Whether Marathon's Player Numbers Are Sustainable<br>[COMMS] Players Say Marathon Needs a New Map in Season 3<br>[COMMS] Debate Resurfaces Over PvP Pacing and Encounter Design<br>[PRESS] Context: June 2026 Bungie Layoffs Cut Marathon Leadership and Hundreds of Staff]]></description>
 </item>
 </channel>
 </rss>

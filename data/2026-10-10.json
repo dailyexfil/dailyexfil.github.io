@@ -1,0 +1,88 @@
+{
+  "date": "2026-10-10",
+  "items": [
+    {
+      "title": "Bungie Outlines Changes to Fix Spawn Rushing and Death Spirals Ahead of Symbiosis Update",
+      "summary": "Bungie's Game Director Del Chafe III responded to player feedback about spawn rushing and repeated death spirals in Marathon. Planned changes for the December Symbiosis update include expanding the Perimeter map with more exploration and escape routes, cutting exfil audio range roughly in half, and letting the Rook class keep its default inventory items after dying.",
+      "source_name": "Shacknews",
+      "source_url": "https://www.shacknews.com/article/150967/bungie-marathon-player-feedback-updates",
+      "credibility_tier": "verified-journalist",
+      "credibility_note": "Shacknews is an established games journalism outlet reporting directly on statements from Marathon's Game Director.",
+      "published_at": "2026-10-09T15:36:00Z",
+      "category": "gameplay-content",
+      "corroborating_sources": [
+        "https://gameriv.com/bungie-addresses-marathon-spawn-rushing-and-death-spirals-plans-quieter-exfils"
+      ]
+    },
+    {
+      "title": "Marathon Discounted 40 Percent on Steam Through October 16",
+      "summary": "Marathon is currently on sale on Steam, dropping from 39.99 to 23.99 dollars. The discount runs through October 16, 2026, giving new or lapsed players a cheaper entry point during the post reset period.",
+      "source_name": "Steam",
+      "source_url": "https://store.steampowered.com/app/3065800/Marathon/",
+      "credibility_tier": "official",
+      "credibility_note": "Direct listing from Marathon's official Steam store page.",
+      "published_at": "2026-10-10T00:00:00Z",
+      "category": "other",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Community Proposes Time-Gating Shield Rarities to Tame Post-Reset Power Creep",
+      "summary": "A Reddit thread in r/Marathon argues that purple shield squads are already roaming the map in the first weekend after the economy reset. The poster suggests Bungie time-gate shield rarities, allowing only green shields for the first two weeks, then blues, before opening up top tier gear later in the cycle.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1x2mien/idea_solving_reset_power_creep/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Single Reddit thread offering a player-proposed balance idea, not an official statement.",
+      "published_at": "2026-10-10T18:33:55.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Players Say Sponsored Queue Trios Feel More Balanced Than Standard Matchmaking",
+      "summary": "A r/Marathon thread argues that fights in Sponsored Queue feel tenser and more fair than regular trio matches, pointing to the lack of self revives and faster time to kill. The poster says this makes players respect their own vulnerability more, something they feel is missing from standard squad play.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1x2k4nh/the_squad_fights_in_sponsored_queue_are_simply/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Community opinion thread on gameplay balance, not independently verified.",
+      "published_at": "2026-10-10T16:54:52.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Players Report Persistent Lag and Rubberbanding Problems",
+      "summary": "A Reddit post describes ongoing lag and rubberbanding in Marathon that the player says happens consistently and not in other games they play. They describe a match on Hauler where the game froze, then dumped them into a bot swarm and an enemy encounter once it resumed.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1x2ikpt/the_lag_and_rubberbanding_is_getting_really/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Individual player report of a technical issue, unverified against official server data.",
+      "published_at": "2026-10-10T15:50:08.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Returning Players Question Whether Outpost PvE Mode Is Welcoming Enough for Newcomers",
+      "summary": "A r/Marathon poster says they returned after burning out in season one and found the PvE Outpost playlist, which is slated to run until December. They say a friend they are trying to recruit is worried the core PvP modes are currently too hard to learn while facing experienced players, since those are mostly who remains in the population right now.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1x2m9ej/out_post_pve/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Personal anecdote and opinion from a Reddit user about onboarding difficulty, not independently verified data.",
+      "published_at": "2026-10-10T18:23:29.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Context: Bungie Laid Out Marathon Roadmap Through March 2027",
+      "summary": "This roadmap was originally published by Bungie on September 24, 2026. It described an October Nightfall Refresh that reset progression and economy, a December 8 Symbiosis update adding permanent PvE, the Bishop shell, a social space and firing range, and a March 2027 update introducing connected PvE, PvP and PvEvP content plus a new zone. This background explains the Symbiosis update referenced in Bungie's newer response to spawn rushing feedback.",
+      "source_name": "Bungie.net",
+      "source_url": "https://www.bungie.net/7/en/News/Article/futureofmarathon",
+      "credibility_tier": "official",
+      "credibility_note": "Official roadmap article published directly by Bungie.",
+      "published_at": "2026-09-24T00:00:00Z",
+      "category": "gameplay-content",
+      "corroborating_sources": [
+        "https://www.tweaktown.com/news/113946/bungie-reveals-marathon-nightfall-refresh-and-symbiosis-roadmap/index.html",
+        "https://kotaku.com/marathon-delays-new-content-and-ditches-seasons-as-bungies-extraction-shooter-fights-for-its-life-2000734322"
+      ]
+    }
+  ],
+  "no_news_found": false
+}
