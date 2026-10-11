@@ -1,0 +1,75 @@
+{
+  "date": "2026-10-11",
+  "items": [
+    {
+      "title": "Players say the Nightfall Refresh reset killed their motivation to play",
+      "summary": "A Reddit thread from today argues that having to redo progression and gear from scratch after October's economy reset made the game tedious rather than fun. The poster says the reset also exposes matchmaking flaws, since skilled players quickly regroup and regear while the small player pool means everyone else keeps facing them with mismatched loadouts. The thread reflects a split in sentiment, with the author saying last season was enjoyable but this one is not.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1x36gne/this_reset_killed_the_game_for_me/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Unverified Reddit discussion, included because it reflects substantive player sentiment about a major recent patch.",
+      "published_at": "2026-10-11T12:01:26.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Player asks why friends won't stick with Marathon's extraction loop",
+      "summary": "A Reddit poster says two friends who enjoy competitive PvP games will not stay with Marathon, with one saying he will only return for team deathmatch or PvE modes. Cited reasons include camping at points of interest and bad loot RNG in extraction runs. The poster asked the community whether this is a common reaction among PvP-focused players who dislike the extraction format specifically.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1x3943y/cant_get_friends_to_stick_to_game/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Unverified Reddit discussion, included as a substantive retention and player-experience concern rather than a trivial post.",
+      "published_at": "2026-10-11T14:07:43.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Community debates whether players have gotten more hostile toward Rooks",
+      "summary": "A Reddit thread asks whether other players or squads now attack Rook-aligned runners on sight far more often than in earlier seasons, when the poster says it used to be closer to a coin flip. The original poster is asking whether this is a real shift in player behavior and, if so, what might be driving it. Several replies engage with the question as a meaningful change in how the community treats that in-game role.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1x3ejds/have_people_gotten_less_friendly_towards_rooks/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Unverified Reddit discussion, included because it tracks a notable shift in community behavior and sentiment.",
+      "published_at": "2026-10-11T17:47:38.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Players react positively to level 100 season rewards after the refresh",
+      "summary": "A short Reddit post praises the level 100 season rewards following October's progression refresh, with the poster suggesting they are better than last season's rewards. The post drew replies comparing reward quality across seasons. It offers a more positive counterpoint to other community complaints about the same economy reset.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1x3exwy/not_bad_rewards_for_lvl100_with_the_refresh/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Unverified Reddit discussion, kept alongside more negative reset feedback to show the range of community reaction.",
+      "published_at": "2026-10-11T18:03:11.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Commentary piece calls Marathon the scariest horror game of 2026",
+      "summary": "A piece published this week argues Marathon functions as a horror game seven months after its March 5 launch, pointing to ambush risk, powerful NPC enemies, and the fear of losing loot as horror-style tension. It notes Steam reviews remain positive at around 79 percent with roughly 4,020 concurrent players at the time of writing. The piece attributes its central claim to Polygon, but the only link available is through an aggregator site rather than a direct Polygon article.",
+      "source_name": "Explosion (citing Polygon)",
+      "source_url": "https://explosion.com/220818/polygon-calls-marathon-the-scariest-horror-game-of-2026",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Source is an aggregator site relaying a claimed Polygon opinion without a verifiable direct Polygon link, so it is tiered as community-speculation despite referencing a major outlet.",
+      "published_at": "2026-10-10T00:00:00Z",
+      "category": "other",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Context: Bungie's Nightfall Refresh reset progression and economy on October 6",
+      "summary": "This item covers a patch that originally shipped on October 6, 2026, when Bungie released the Nightfall Refresh, resetting Marathon's progression system and in-game economy and introducing a new rewards pass. A follow-up patch on October 8 fixed crashes on Night Marsh and incorrect text in the Nightfall Refresh explainer screen. This reset is the direct backdrop for this week's mixed community reactions, with some players praising the new reward structure and others saying the reset drained their motivation to keep playing.",
+      "source_name": "Bungie.net",
+      "source_url": "https://www.bungie.net/7/en/News/Article/futureofmarathon",
+      "credibility_tier": "official",
+      "credibility_note": "Official Bungie.net announcement of a patch that has already shipped, the highest available tier for this story.",
+      "published_at": "2026-10-06T00:00:00Z",
+      "category": "patch-notes",
+      "corroborating_sources": [
+        "https://toomuchgaming.net/blog-news/marathon-october-2026-refresh",
+        "https://steamcommunity.com/app/3065800/"
+      ]
+    }
+  ],
+  "no_news_found": false
+}
