@@ -1,0 +1,100 @@
+{
+  "date": "2026-10-13",
+  "items": [
+    {
+      "title": "Marathon Update 1.1.9.4 Released",
+      "summary": "Bungie shipped patch 1.1.9.4 on October 13, fixing a Codex bug that blocked the Convoy Drone unlock, a contract loop that trapped players repeating Night Marsh CyAc Guidance missions, and a NuCaloric Armory upgrade that listed the wrong implant reward. The patch also corrected inaccurate text on the Nightfall Refresh explainer screen.",
+      "source_name": "Bungie.net",
+      "source_url": "https://www.bungie.net/News/Article/marathon_update_1_1_9_4",
+      "credibility_tier": "official",
+      "credibility_note": "Official Bungie patch notes, also mirrored on the Steam news feed, the canonical source for shipped update details.",
+      "published_at": "2026-10-13T16:00:00Z",
+      "category": "patch-notes",
+      "corroborating_sources": [
+        "https://store.steampowered.com/news/app/3065800/view/694274460775090987",
+        "https://www.reddit.com/r/Marathon/comments/1x50lrm/marathon_update_1194/",
+        "https://help.marathonthegame.com/hc/en-us/articles/39001626488596-Marathon-Server-and-Update-Status"
+      ]
+    },
+    {
+      "title": "Players report lingering economy and matchmaking problems after Nightfall Refresh",
+      "summary": "Community discussion this week points to continued breakdowns in Marathon's economy following the October 6 Nightfall Refresh wipe, with heavy grinders reaching top loot pools unusually fast and concerns raised about matchmaking now using newly visible player stats. The report draws on Reddit threads and tracker site discussion rather than an official Bungie statement.",
+      "source_name": "Daily Exfil",
+      "source_url": "https://dailyexfil.com/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Sourced from a community tracker site not established as a major outlet, and the specific claims are not independently corroborated elsewhere.",
+      "published_at": "2026-10-13T17:03:00Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Community asks how Marathon is doing right now during Steam sale",
+      "summary": "A player on r/Marathon considering a purchase during the current Steam sale asked whether the game is still active, in good shape, and worth buying given the lack of recent buzz. The thread drew responses encouraging the purchase, with the original poster ultimately deciding to pick up the game.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1x51wxl/how_is_thie_game_rn/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Reddit discussion thread reflecting player sentiment, not independently verified reporting.",
+      "published_at": "2026-10-13T16:50:21.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Player frustration over Game Pass requirement to play Marathon online",
+      "summary": "A r/Marathon poster complained that Marathon requires a Game Pass subscription for online play, contrasting it unfavorably with the free to play Destiny 2 model, and said they requested a refund after discovering this. The thread highlights ongoing confusion among newcomers about Marathon's business model compared to Bungie's other game.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1x54u4z/help_me_understand_needing_gamepass/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Reddit discussion thread reflecting one player's experience and frustration, not independently verified reporting.",
+      "published_at": "2026-10-13T18:36:21.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Returning players ask about PvE options ahead of December update",
+      "summary": "A prospective returning player asked on r/Marathon whether any PvE content currently exists, noting they are mainly interested in PvE and are aware a December update is bringing permanent PvE modes. The thread touches on the earlier temporary Vault Breaker PvE event and reflects continued appetite for non-PvP content.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1x53re6/pve_now_prior_to_update/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Reddit discussion thread reflecting player questions and sentiment, not independently verified reporting.",
+      "published_at": "2026-10-13T17:57:23.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Players pitch alternate Cryo mode tied to match timer instead of tag collection",
+      "summary": "A r/Marathon thread proposed a Cryo Archive variant where clearance levels unlock passively over time rather than through tag pickups, responding to Bungie's stated intent to adjust Cryo mechanics and reduce spawn rushing. The discussion shows players actively engaging with design changes Bungie has signaled are coming.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1x4z2hj/cryo_archive_variant_with_clearance_tied_to_match/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Reddit discussion thread with design suggestions from players, not official or verified reporting.",
+      "published_at": "2026-10-13T15:04:21.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Context: Game director outlined December Symbiosis changes based on player feedback",
+      "summary": "This story was originally reported on October 9, 2026, when Marathon Game Director Del Chafe III detailed upcoming changes for the December 8 Symbiosis update, including Perimeter layout adjustments, measures to reduce Cryo spawn rushing, reduced audio range for exfil alerts, and Rook inventory changes. This background explains why current community threads are actively debating Cryo and spawn mechanics ahead of that update.",
+      "source_name": "Shacknews",
+      "source_url": "https://www.shacknews.com/article/150967/bungie-marathon-player-feedback-updates",
+      "credibility_tier": "verified-staff-social",
+      "credibility_note": "Reports direct statements from Bungie's game director about upcoming changes, covered by an established gaming outlet.",
+      "published_at": "2026-10-09T15:36:00Z",
+      "category": "gameplay-content",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Context: Nightfall Refresh reset progression and economy on October 6",
+      "summary": "This story originally broke on October 6, 2026, when Bungie deployed the Nightfall Refresh, wiping Runner levels, Cradle levels, Rank, and Vault contents while introducing a new NuCaloric Reward Pass. This background explains the economy and matchmaking concerns still being discussed by players this week and the fixes addressed in today's 1.1.9.4 patch.",
+      "source_name": "Shacknews",
+      "source_url": "https://www.shacknews.com/article/150818/marathon-development-roadmap-march-2027",
+      "credibility_tier": "verified-journalist",
+      "credibility_note": "Reported by an established gaming outlet covering Bungie's official announcement of the reset.",
+      "published_at": "2026-10-06T00:00:00Z",
+      "category": "patch-notes",
+      "corroborating_sources": [
+        "https://theclick.gg/marathon-nightfall-refresh"
+      ]
+    }
+  ],
+  "no_news_found": false
+}
