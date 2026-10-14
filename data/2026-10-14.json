@@ -1,0 +1,83 @@
+{
+  "date": "2026-10-14",
+  "items": [
+    {
+      "title": "Marathon Patch 1.1.9.4 Fixes Codex, Contracts, and Factions Bugs",
+      "summary": "Bungie shipped update 1.1.9.4 for Marathon on October 13, 2026, addressing bugs in the Codex, Contracts, and Factions systems. The patch is roughly 1.7 GB on Steam and continues post-launch support following the recent Nightfall Refresh economy reset.",
+      "source_name": "ShatteredVault",
+      "source_url": "https://shatteredvault.com/marathon-update-1-1-9-4",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Only reported by ShatteredVault, an unofficial community patch tracker, with no corroborating report from Bungie or an established outlet.",
+      "published_at": "2026-10-13T00:00:00Z",
+      "category": "patch-notes",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Bungie Dev Team Introduces 'On Point' and 'Runtime' Weapon Stickers for Creators",
+      "summary": "Marathon's dev team announced two new in-game weapon stickers, 'On Point' for art and 'Runtime' for video content, which will be awarded to players whose creative work gets featured on official Marathon or Bungie social channels. The news was shared and discussed in a r/Marathon thread on October 14.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1x5vx99/dev_team_introducing_on_point_the_art_weapon/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Relayed through a Reddit post describing developer messaging, with no direct Bungie.net or official social post link provided in sourcing.",
+      "published_at": "2026-10-14T16:31:34.000Z",
+      "category": "gameplay-content",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Players Debate Matchmaking After Winning Streaks Pair Them With Newer Teammates",
+      "summary": "A r/Marathon thread raised concerns that earning a blue shield status after good runs often results in being matched with lower-level or newer players. Other community members weighed in on whether this reflects a consistent matchmaking pattern or coincidence.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1x5zq4q/every_time_i_load_in_with_a_blue_shield_i_get/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Unverified player anecdote and discussion thread on Reddit, not confirmed by any developer statement.",
+      "published_at": "2026-10-14T18:53:58.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Community Pitches 'Deadlock' Opt-In PvP Concept Inspired by The Division's Rogue Mode",
+      "summary": "A detailed r/Marathon post proposed an opt-in PvP system called Deadlock, designed to avoid splitting the game into fully separate PvE and PvP experiences. The pitch draws on The Division's Rogue Mode and cites concerns about Arc Raiders' time-limited PvE mode as a cautionary example.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1x5zdgu/deadlock_optin_pvp_system_concept/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Fan-made design concept and discussion thread, not an official proposal from Bungie.",
+      "published_at": "2026-10-14T18:40:43.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Players Report Outpost Handing Out High-Tier Loot After Economy Wipe",
+      "summary": "Several r/Marathon users said the Outpost location has been dropping unusually strong gold and purple tier loot since the recent economy reset, with one player noting they left fully geared despite starting with a free kit. The post sparked discussion about loot balance following the wipe.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1x5z707/outpost_is_handing_out_golds_and_purples_after/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Player anecdote thread, not a confirmed or measured economy report from Bungie.",
+      "published_at": "2026-10-14T18:33:55.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Marathon GM Josh Deane Comments on Classic Marathon PC Footage",
+      "summary": "Josh Deane, Bungie's Head of Product and General Manager for Marathon, responded to social media footage of the original 1994 Marathon game running on PC at 4K and 60fps. He reportedly acknowledged the visual quality and speculated about the commercial viability of such a release.",
+      "source_name": "Azat TV",
+      "source_url": "https://azat.tv/en/bungie-executive-sparks-fresh-speculation-over-destiny-1-pc-port",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Sourced only from Azat TV, a lesser-known outlet, though it reports on a comment attributed to a confirmed Bungie executive.",
+      "published_at": "2026-10-14T00:00:00Z",
+      "category": "other",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Context: Bungie Confirms Nightfall Refresh Economy Reset and Roadmap Through March 2027",
+      "summary": "This story was originally reported on October 6, 2026. Bungie released patch notes for the Nightfall Refresh update, which wiped player progression and reset the in-game economy, as part of a broader roadmap that includes a December 8 Symbiosis update with permanent PvE and planned March 2027 integration of game modes. This background helps explain recent community posts referencing 'the wipe' and ongoing post-launch patches.",
+      "source_name": "TweakTown",
+      "source_url": "https://www.tweaktown.com/news/113946/bungie-reveals-marathon-nightfall-refresh-and-symbiosis-roadmap/index.html",
+      "credibility_tier": "verified-journalist",
+      "credibility_note": "Reporting from an established tech and gaming outlet summarizing Bungie's own patch notes and roadmap post.",
+      "published_at": "2026-10-06T00:00:00Z",
+      "category": "gameplay-content",
+      "corroborating_sources": []
+    }
+  ],
+  "no_news_found": false
+}
