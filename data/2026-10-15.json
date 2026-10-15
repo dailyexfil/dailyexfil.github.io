@@ -1,0 +1,54 @@
+{
+  "date": "2026-10-15",
+  "items": [
+    {
+      "title": "Player Reports Ban Over PlayStation Portal Use, Cites Bungie Silence",
+      "summary": "A Reddit poster says they were banned from Marathon within hours of a single run and believes it was triggered by using a PlayStation Portal, which Bungie appears to treat as unauthorized third-party hardware. The player says they received no explanation from Bungie and is now trying to figure out how to escalate the appeal to Sony directly. The thread reflects ongoing community frustration with Bungie's sparse communication around enforcement decisions.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1x6mvov/how_to_contact_sony/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Single unverified player account of a ban dispute, not confirmed by Bungie or Sony.",
+      "published_at": "2026-10-15T14:18:07.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Players Say Green Salvage Drop Rates Are Too Low for Faction Grinding",
+      "summary": "A Reddit post argues that common green salvage items needed for faction upgrades drop far too rarely, saying a player can loot an entire point of interest and still come away with only a fraction of what they need. The poster suggests Bungie either lower faction upgrade salvage requirements or increase drop rates to ease the grind. The complaint continues a running theme of feedback about Marathon's economy and progression pacing.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1x6m9zn/green_salvage_drop_rates_are_way_too_low/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Community feedback thread reflecting player sentiment, not an official Bungie statement.",
+      "published_at": "2026-10-15T13:54:31.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Context: Bungie's Nightfall Refresh Went Live With a Progression and Economy Reset",
+      "summary": "Bungie's Nightfall Refresh update originally went live on October 6, 2026, resetting player progression and the in-game economy to address issues that had built up since Season 2's launch. The update was part of a six-month roadmap Bungie announced in late September that also includes a December Symbiosis update adding permanent PvE and a new shell called Bishop, followed by a larger March 2027 content expansion. This background helps explain why players are currently discussing salvage drop rates and other economy balance issues.",
+      "source_name": "Bungie.net",
+      "source_url": "https://www.bungie.net/7/en/News/article/nighfall_refresh_symbiosis_roadmap",
+      "credibility_tier": "official",
+      "credibility_note": "Direct official Bungie.net post describing the shipped update and its accompanying roadmap.",
+      "published_at": "2026-10-06T00:00:00Z",
+      "category": "gameplay-content",
+      "corroborating_sources": [
+        "https://www.tweaktown.com/news/113946/bungie-reveals-marathon-nightfall-refresh-and-symbiosis-roadmap/index.html",
+        "https://kotaku.com/marathon-delays-new-content-and-ditches-seasons-as-bungies-extraction-shooter-fights-for-its-life-2000734322",
+        "https://mp1st.com/title-updates-and-patches/marathon-update-1-034-fixes-night-marsh-crashes-on-october-8"
+      ]
+    },
+    {
+      "title": "Context: Sony Laid Off 292 Bungie Employees, Including Marathon Senior Leadership",
+      "summary": "This story was originally reported in late June 2026. Sony Interactive Entertainment cut approximately 292 Bungie jobs in Bellevue, Washington, affecting most of the Destiny 2 team and several senior Marathon roles including General Manager Scott Taylor and two engineering directors. Bungie's studio head also stepped down around the same time, deepening community concern about the studio's long term stability and its sparse communication since launch.",
+      "source_name": "The Game Post",
+      "source_url": "https://thegamepost.com/sonys-bungie-layoffs-hit-marathon-senior-roles-including-general-manager-engineering-director-and-more/",
+      "credibility_tier": "verified-journalist",
+      "credibility_note": "Reported by an established gaming outlet citing named departed executives and corroborated by Bloomberg and Game Developer in the original coverage.",
+      "published_at": "2026-06-25T00:00:00Z",
+      "category": "layoffs-business",
+      "corroborating_sources": []
+    }
+  ],
+  "no_news_found": false
+}
