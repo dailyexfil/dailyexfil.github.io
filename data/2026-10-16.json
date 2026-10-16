@@ -1,0 +1,76 @@
+{
+  "date": "2026-10-16",
+  "items": [
+    {
+      "title": "Players debate whether Compiler Ganglion trade nerf hurts Cryo Archive's long-term appeal",
+      "summary": "A detailed Reddit post argues that cutting Compiler Ganglion trades from 3 per day (Season 2) down to just 1 per day in the Nightfall Refresh goes too far. The poster calculates that with roughly 36 Golden Mods in rotation and no repeats, it would take well over a month to see the full rotation, which they worry hurts Cryo Archive's long-term replayability even though it keeps the economy tighter.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1x7obbe/the_compiler_ganglion_nerf_might_hurt_cryo/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Unverified player analysis on Reddit, though detailed and substantive balance feedback.",
+      "published_at": "2026-10-16T18:39:50.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Players report empty lobbies and raise population concerns",
+      "summary": "A Reddit thread describes matches with no enemy players encountered at all, with the poster saying population has felt low since July and is getting worse. The post expresses hope that the December update will help bring players back.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1x7nks7/empty_lobbies/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Single player's anecdotal report on Reddit about matchmaking population, not independently verified data.",
+      "published_at": "2026-10-16T18:11:53.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Community frustration over low bag drop rates in Outpost",
+      "summary": "A Reddit post details a full trio clear of Outpost, including Red Room, Command Wing, Drone Wing, Destroyed Wing, two Armories, and three key rooms, that produced zero loot bags of any rarity. The player argues bag drop rates in Outpost are too low given the effort required to clear the map.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1x7ja4m/bag_drop_rates_in_outpost/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Anecdotal loot feedback from a single Reddit player, not a verified drop-rate study.",
+      "published_at": "2026-10-16T15:29:21.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Community debates highest skill-ceiling shell: Destroyer vs Vandal",
+      "summary": "A Reddit discussion thread asks the community to weigh in on which shell, Destroyer or Vandal, has the higher skill ceiling, with the original poster favoring Destroyer while acknowledging high-level Vandal play is also impressive. The thread reflects ongoing community engagement with shell balance and playstyle discussion.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1x7ippe/friendly_discussion_time_between_destroyer_and/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Informal Reddit opinion thread, not a data-backed balance analysis.",
+      "published_at": "2026-10-16T15:07:28.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Context: Hotfix 1.1.9.4 shipped with Codex, Contracts, and Factions fixes",
+      "summary": "This item was originally published on October 13, 2026 by Shattered Vault, a community patch-tracking site. Bungie released a roughly 1.7 GB hotfix fixing a Codex issue with the Convoy Drone unlock, a Night Marsh contract repetition loop, and incorrect Factions upgrade text, following up on the October 6 Nightfall Refresh that many of today's community complaints reference.",
+      "source_name": "Shattered Vault",
+      "source_url": "https://shatteredvault.com/marathon-update-1-1-9-4/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Shattered Vault is a community patch tracker rather than an established gaming outlet, and no other source covers this specific hotfix.",
+      "published_at": "2026-10-13T12:15:36-04:00",
+      "category": "patch-notes",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Context: Bungie outlines Marathon roadmap through March 2027",
+      "summary": "This roadmap update was originally published on September 24, 2026 on Bungie.net. Bungie laid out plans including the already-shipped October Nightfall Refresh, a December 8 Symbiosis update adding permanent PvE content and a new social space, and a larger evolutionary update planned for March 2027 intended to help the game recover lost players, context relevant to community posts hoping the December update improves things.",
+      "source_name": "Bungie.net",
+      "source_url": "https://www.bungie.net/7/en/News/Article/futureofmarathon",
+      "credibility_tier": "official",
+      "credibility_note": "Direct official development update posted on Bungie.net.",
+      "published_at": "2026-09-24T00:00:00Z",
+      "category": "gameplay-content",
+      "corroborating_sources": [
+        "https://insider-gaming.com/the-future-of-marathon-has-been-revealed-by-bungie/",
+        "https://kotaku.com/marathon-is-becoming-a-much-bigger-game-as-bungie-teases-a-new-zone-social-space-deathmatch-mode-and-more-2000737026",
+        "https://www.gosugamers.net/entertainment/news/79253-marathon-is-getting-a-major-reset-as-bungie-admits-its-extraction-shooter-was-too-niche"
+      ]
+    }
+  ],
+  "no_news_found": false
+}

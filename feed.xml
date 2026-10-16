@@ -6,7 +6,14 @@
 <atom:link href="https://dailyexfil.com/feed.xml" rel="self" type="application/rss+xml"/>
 <description>Daily Marathon (Bungie) news digest. Official, press, and community items tiered by credibility, cross-referenced, and link-checked.</description>
 <language>en</language>
-<lastBuildDate>Thu, 15 Oct 2026 19:02:52 GMT</lastBuildDate>
+<lastBuildDate>Fri, 16 Oct 2026 19:04:22 GMT</lastBuildDate>
+<item>
+<title>DAILY EXFIL 2026-10-16: Players debate whether Compiler Ganglion trade nerf hurts Cryo Archive's long-term appeal</title>
+<link>https://dailyexfil.com/day/2026-10-16.html</link>
+<guid isPermaLink="true">https://dailyexfil.com/day/2026-10-16.html</guid>
+<pubDate>Fri, 16 Oct 2026 20:00:00 GMT</pubDate>
+<description><![CDATA[[COMMS] Players debate whether Compiler Ganglion trade nerf hurts Cryo Archive's long-term appeal<br>[COMMS] Players report empty lobbies and raise population concerns<br>[COMMS] Community frustration over low bag drop rates in Outpost<br>[COMMS] Community debates highest skill-ceiling shell: Destroyer vs Vandal<br>[COMMS] Context: Hotfix 1.1.9.4 shipped with Codex, Contracts, and Factions fixes<br>[OFFICIAL] Context: Bungie outlines Marathon roadmap through March 2027]]></description>
+</item>
 <item>
 <title>DAILY EXFIL 2026-10-15: Player Reports Ban Over PlayStation Portal Use, Cites Bungie Silence</title>
 <link>https://dailyexfil.com/day/2026-10-15.html</link>
@@ -97,13 +104,6 @@
 <guid isPermaLink="true">https://dailyexfil.com/day/2026-09-19.html</guid>
 <pubDate>Sat, 19 Sep 2026 20:00:00 GMT</pubDate>
 <description><![CDATA[[COMMS] Community Frustration Grows Over Marathon Silence and Season 3 Uncertainty<br>[COMMS] Players Question Bungie's Reasoning Behind Sponsored Queues<br>[COMMS] Players Debate Aggressive Spawn-Rushing Behavior in Cryo Mode<br>[COMMS] Players Report Item Trace Bug Hurting In-Game Economy<br>[OFFICIAL] Context: Bungie Delays Marathon's Next Major Update to December 8, Ends Seasonal Model<br>[PRESS] Context: Bungie Layoffs and Studio Downsizing Continue to Shadow Marathon]]></description>
-</item>
-<item>
-<title>DAILY EXFIL 2026-09-18: Reddit thread criticizes Marathon's history of missed deadlines and delays</title>
-<link>https://dailyexfil.com/day/2026-09-18.html</link>
-<guid isPermaLink="true">https://dailyexfil.com/day/2026-09-18.html</guid>
-<pubDate>Fri, 18 Sep 2026 20:00:00 GMT</pubDate>
-<description><![CDATA[[COMMS] Reddit thread criticizes Marathon's history of missed deadlines and delays<br>[COMMS] Players debate whether reduced difficulty or lack of content is Marathon's bigger problem<br>[COMMS] Community calls for less toxicity as Marathon's small player base strains relations<br>[COMMS] Players suggest free to play PvP mode to boost Marathon's population<br>[OFFICIAL] Context: Bungie delays major Marathon update to December, ends seasonal model<br>[PRESS] Context: Marathon's Steam player count remains near record lows]]></description>
 </item>
 </channel>
 </rss>
