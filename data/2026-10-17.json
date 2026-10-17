@@ -1,0 +1,84 @@
+{
+  "date": "2026-10-17",
+  "items": [
+    {
+      "title": "Analysis: Marathon Could Rebound by Fixing Its Core Launch Mistakes",
+      "summary": "A ComicBook feature argues Bungie is finally addressing the problems that hurt Marathon at launch by adding permanent PvE, an experimental Team Deathmatch mode, and a stronger narrative focus ahead of the December Symbiosis update and a broader March 2027 evolution. The piece credits Bungie's public roadmap for acknowledging the game should have launched with these features.",
+      "source_name": "ComicBook",
+      "source_url": "https://comicbook.com/gaming/feature/marathon-is-poised-for-a-massive-comeback-by-finally-fixing-a-major-mistake/",
+      "credibility_tier": "verified-journalist",
+      "credibility_note": "Established gaming outlet analysis piece, cross-checked against Bungie's own published roadmap.",
+      "published_at": "2026-10-16T00:00:00Z",
+      "category": "gameplay-content",
+      "corroborating_sources": [
+        "https://www.bungie.net/7/en/News/Article/futureofmarathon"
+      ]
+    },
+    {
+      "title": "Players Report Repeated Empty Lobbies, Question Marathon's Population Health",
+      "summary": "Reddit users posted multiple reports today of running into fully empty lobbies across several matches in a row, including on EU servers during peak afternoon hours. Posters questioned whether matchmaking is broken or whether the player base has simply shrunk too much, with one asking when Bungie might put the game on Game Pass or make it free to play.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1x8esj6/game_needs_players/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Unverified player reports from Reddit threads, included because population health is a recurring community concern.",
+      "published_at": "2026-10-17T16:39:30.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": [
+        "https://www.reddit.com/r/Marathon/comments/1x8btgw/is_matchmaking_broken_again_being_put_into/"
+      ]
+    },
+    {
+      "title": "Community Debates Whether Marathon's Matchmaking Fuels a Self-Reinforcing Skill Gap",
+      "summary": "A detailed Reddit post argues that Bungie's runner-level matchmaking, intended to separate new players from veterans, does not fix the core difficulty problem and may instead create a spiral where casual players never catch up. The post quotes Game Director Del Chafe III's earlier comments on level-based matchmaking as context for why the fix has fallen short.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1x8d33c/marathon_has_a_selfreinforcing_skill_gap_spiral/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Substantive community analysis thread, not independently verified but reflects ongoing player sentiment about difficulty.",
+      "published_at": "2026-10-17T15:30:37.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Players Push Back on Story Progression Tied to Successful Extractions",
+      "summary": "A Reddit post argues Marathon's story and lore content is too tightly locked behind contracts requiring a successful single-run extraction, which can take casual players hours of repeated attempts. The poster suggests progression should reward attempts rather than only successful extracts so more players can experience the narrative.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1x8fac5/story_progression_should_be_less_tied_to/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Single Reddit feedback thread, included as a substantive design critique rather than a verified report.",
+      "published_at": "2026-10-17T16:59:25.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Context: Nightfall Refresh Reset Marathon's Economy and Progression",
+      "summary": "This update originally went live on October 6, 2026. The mid-season Nightfall Refresh wiped player progression including Runner level, Cradle level, Factions rank, and vault contents, while introducing a new free NuCaloric Reward Pass and balance changes ahead of the December Symbiosis update. Community trackers later reported mixed results, with some economy issues improved but matchmaking and onboarding problems persisting.",
+      "source_name": "Bungie.net",
+      "source_url": "https://www.bungie.net/7/en/News/Article/marathon_update_1_1_9_2",
+      "credibility_tier": "official",
+      "credibility_note": "Official Bungie.net patch announcement for an update that has already shipped.",
+      "published_at": "2026-10-06T00:00:00Z",
+      "category": "patch-notes",
+      "corroborating_sources": [
+        "https://dailyexfil.com/",
+        "https://www.toomuchgaming.net/blog-news/marathon-october-2026-refresh",
+        "https://www.tweaktown.com/news/113946/bungie-reveals-marathon-nightfall-refresh-and-symbiosis-roadmap/index.html"
+      ]
+    },
+    {
+      "title": "Context: Bungie Published a Roadmap for Marathon Through March 2027",
+      "summary": "This roadmap was originally published on September 24, 2026. Game Director Del Chafe III and Creative Director Julia Nardin outlined three phases for Marathon's future: the October Nightfall Refresh, a December Symbiosis update adding permanent PvE and a new shell called Bishop, and broader PvP, PvE, and PvEvP integration by March 2027. The studio acknowledged player complaints about difficulty and unclear direction as reasons for the shift.",
+      "source_name": "Bungie.net",
+      "source_url": "https://www.bungie.net/7/en/News/Article/futureofmarathon",
+      "credibility_tier": "official",
+      "credibility_note": "Official Bungie blog post outlining future plans, included as context for current community discussion and journalist analysis referencing this roadmap.",
+      "published_at": "2026-09-24T00:00:00Z",
+      "category": "gameplay-content",
+      "corroborating_sources": [
+        "https://www.gamesradar.com/games/fps/bungie-admits-marathon-did-not-reach-as-many-players-as-we-had-hoped-shares-plans-to-evolve-the-game-for-a-sustainable-future-while-committing-to-destiny/",
+        "https://thegamepost.com/bungie-reveals-marathon-evolution-beyond-extraction-shooter-genre/",
+        "https://www.gosugamers.net/entertainment/news/79253-marathon-is-getting-a-major-reset-as-bungie-admits-its-extraction-shooter-was-too-niche"
+      ]
+    }
+  ],
+  "no_news_found": false
+}

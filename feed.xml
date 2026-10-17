@@ -6,7 +6,14 @@
 <atom:link href="https://dailyexfil.com/feed.xml" rel="self" type="application/rss+xml"/>
 <description>Daily Marathon (Bungie) news digest. Official, press, and community items tiered by credibility, cross-referenced, and link-checked.</description>
 <language>en</language>
-<lastBuildDate>Fri, 16 Oct 2026 19:04:22 GMT</lastBuildDate>
+<lastBuildDate>Sat, 17 Oct 2026 19:03:06 GMT</lastBuildDate>
+<item>
+<title>DAILY EXFIL 2026-10-17: Analysis: Marathon Could Rebound by Fixing Its Core Launch Mistakes</title>
+<link>https://dailyexfil.com/day/2026-10-17.html</link>
+<guid isPermaLink="true">https://dailyexfil.com/day/2026-10-17.html</guid>
+<pubDate>Sat, 17 Oct 2026 20:00:00 GMT</pubDate>
+<description><![CDATA[[PRESS] Analysis: Marathon Could Rebound by Fixing Its Core Launch Mistakes<br>[COMMS] Players Report Repeated Empty Lobbies, Question Marathon's Population Health<br>[COMMS] Community Debates Whether Marathon's Matchmaking Fuels a Self-Reinforcing Skill Gap<br>[COMMS] Players Push Back on Story Progression Tied to Successful Extractions<br>[OFFICIAL] Context: Nightfall Refresh Reset Marathon's Economy and Progression<br>[OFFICIAL] Context: Bungie Published a Roadmap for Marathon Through March 2027]]></description>
+</item>
 <item>
 <title>DAILY EXFIL 2026-10-16: Players debate whether Compiler Ganglion trade nerf hurts Cryo Archive's long-term appeal</title>
 <link>https://dailyexfil.com/day/2026-10-16.html</link>
@@ -97,13 +104,6 @@
 <guid isPermaLink="true">https://dailyexfil.com/day/2026-09-20.html</guid>
 <pubDate>Sun, 20 Sep 2026 20:00:00 GMT</pubDate>
 <description><![CDATA[[COMMS] Marathon Daily Player Peak Reported at 2,617, Far Below Launch Numbers<br>[COMMS] Players Call Out Lack of Daily Rewards, Push Bungie on Retention<br>[COMMS] Players Share Positive Social Moments Despite Marathon's Struggles<br>[COMMS] Players Notice Bungie Quietly Removed Outpost's Heat Cascade Siren<br>[COMMS] Balance Debate: Knife's No-Lunge Heavy Attack Called Too Fast<br>[OFFICIAL] Context: Bungie Delays Marathon Season 3 to December 8, Ends Strict Seasonal Model<br>[PRESS] Context: Sony Layoffs Hit Bungie, Including Marathon Leadership Roles]]></description>
-</item>
-<item>
-<title>DAILY EXFIL 2026-09-19: Community Frustration Grows Over Marathon Silence and Season 3 Uncertainty</title>
-<link>https://dailyexfil.com/day/2026-09-19.html</link>
-<guid isPermaLink="true">https://dailyexfil.com/day/2026-09-19.html</guid>
-<pubDate>Sat, 19 Sep 2026 20:00:00 GMT</pubDate>
-<description><![CDATA[[COMMS] Community Frustration Grows Over Marathon Silence and Season 3 Uncertainty<br>[COMMS] Players Question Bungie's Reasoning Behind Sponsored Queues<br>[COMMS] Players Debate Aggressive Spawn-Rushing Behavior in Cryo Mode<br>[COMMS] Players Report Item Trace Bug Hurting In-Game Economy<br>[OFFICIAL] Context: Bungie Delays Marathon's Next Major Update to December 8, Ends Seasonal Model<br>[PRESS] Context: Bungie Layoffs and Studio Downsizing Continue to Shadow Marathon]]></description>
 </item>
 </channel>
 </rss>
