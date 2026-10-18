@@ -1,0 +1,93 @@
+{
+  "date": "2026-10-18",
+  "items": [
+    {
+      "title": "Marathon's Steam player counts spark Concord comparisons as trackers report conflicting numbers",
+      "summary": "Third-party tracking sites report sharply different player counts for Marathon this week. Explosion.com cites 1,581 concurrent Steam players and draws comparisons to Sony's failed Concord launch, while Daily Exfil reports a recent daily peak of 4,013 and Raijin.gg reports an October daily average of 2,753. Despite the disagreement over exact figures, Steam reviews remain mostly positive in the high 70 percent range.",
+      "source_name": "Explosion",
+      "source_url": "https://explosion.com/224090/marathon-faces-concord-comparisons-as-player-count-sits-at-1581",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Sourced from unofficial third-party player count trackers rather than established gaming outlets, and the figures reported conflict significantly with one another.",
+      "published_at": "2026-10-18T00:00:00Z",
+      "category": "other",
+      "corroborating_sources": [
+        "https://dailyexfil.com/status.html",
+        "https://raijin.gg/app/3065800/Marathon"
+      ]
+    },
+    {
+      "title": "Players question whether Marathon will see any more seasonal progression wipes",
+      "summary": "A Reddit thread asks whether Bungie plans any further seasonal wipes, pointing out that the publicly posted roadmap makes no mention of one. The question comes after the October Nightfall Refresh already reset player progression and the economy, with the next major update not due until the December Symbiosis release.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1x9apm7/am_i_right_in_thinking_there_wont_be_any_more/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Reddit discussion thread raising a question rather than reporting confirmed information.",
+      "published_at": "2026-10-18T18:37:31.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Bungie sends in-game survey asking players for feedback",
+      "summary": "A new survey appeared in players' in-game inboxes, prompting a Reddit thread encouraging the community to fill it out and share honest feedback with the developers. The post reflects community hope that Bungie is listening, given the studio's sparse public communication since recent layoffs.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1x9afe2/new_survey_in_your_inbox_in_game/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Community report of an in-game survey, not independently confirmed by an official Bungie post.",
+      "published_at": "2026-10-18T18:25:58.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Debate: would an easier Marathon be a worse Marathon?",
+      "summary": "A Reddit poster credits Arc Raiders' recent update with renewing their interest in extraction shooters, then asks whether making Marathon friendlier to less skilled players would undercut what makes it exciting. The thread sparked discussion about balancing accessibility against the tension that makes extraction runs memorable.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1x97gd4/would_an_easier_marathon_be_a_worse_marathon/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Reddit opinion thread reflecting community sentiment, not an official statement.",
+      "published_at": "2026-10-18T16:27:19.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Community debates reducing player interactions versus softening death penalties",
+      "summary": "A Reddit thread pushes back on suggestions to reduce player-on-player encounters in Marathon, arguing that PvP interaction is the best part of the game. The poster instead proposes making losses less punishing rather than reducing how often players run into each other, continuing an ongoing community debate about difficulty and risk.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1x9682s/why_would_you_want_less_players_interactions/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Reddit opinion thread reflecting community sentiment, not an official statement.",
+      "published_at": "2026-10-18T15:37:55.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Context: Bungie outlines six-month Marathon roadmap through March 2027",
+      "summary": "Bungie published this roadmap on September 24, 2026, laying out plans for Marathon's next six months. It confirmed the October Nightfall Refresh economy reset, a December 8 Symbiosis update bringing the game's first permanent PvE mode plus an expanded social space, and further game mode integration planned for March 2027.",
+      "source_name": "Bungie.net",
+      "source_url": "https://www.bungie.net/7/en/News/Article/futureofmarathon",
+      "credibility_tier": "official",
+      "credibility_note": "Direct Bungie.net post, the primary announcement that other outlets reported on.",
+      "published_at": "2026-09-24T00:00:00Z",
+      "category": "gameplay-content",
+      "corroborating_sources": [
+        "https://www.pcgamer.com/games/fps/bungie-delays-next-marathon-update-and-ends-strict-seasonal-schedule-as-it-goes-all-in-on-destiny-like-features/",
+        "https://kotaku.com/marathon-delays-new-content-and-ditches-seasons-as-bungies-extraction-shooter-fights-for-its-life-2000734322",
+        "https://insider-gaming.com/the-future-of-marathon-has-been-revealed-by-bungie/",
+        "https://www.tweaktown.com/news/113946/bungie-reveals-marathon-nightfall-refresh-and-symbiosis-roadmap/index.html"
+      ]
+    },
+    {
+      "title": "Context: Bungie layoffs cut Destiny and Marathon teams, studio head steps down",
+      "summary": "These layoffs were announced in June 2026, when Sony cut roughly 292 Bungie employees including most of the Destiny 2 team and some Marathon staff. Studio head Justin Truman stepped down and was replaced by Poria Torkan, and Bungie's cinematic department was eliminated entirely as part of the restructuring.",
+      "source_name": "Game Developer",
+      "source_url": "https://www.gamedeveloper.com/business/sony-is-laying-off-most-of-the-destiny-team-and-some-marathon-devs",
+      "credibility_tier": "verified-journalist",
+      "credibility_note": "Reported by Game Developer, an established industry trade outlet, with the layoff figures independently corroborated elsewhere.",
+      "published_at": "2026-06-25T00:00:00Z",
+      "category": "layoffs-business",
+      "corroborating_sources": [
+        "https://respawn.outlookindia.com/gaming/gaming-news/bungie-layoffs-destiny-2-marathon-teams-cut-in-major-reshuffle"
+      ]
+    }
+  ],
+  "no_news_found": false
+}
