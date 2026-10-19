@@ -1,0 +1,117 @@
+{
+  "date": "2026-10-19",
+  "items": [
+    {
+      "title": "Bungie admits Marathon missed the mark, plans major evolution beyond extraction shooter",
+      "summary": "Bungie released an update acknowledging that Marathon's original extraction-focused design failed to connect with enough players, citing difficulty as the biggest barrier to entry. The studio says it is rethinking the game to expand beyond pure PvPvE, pointing to December's Symbiosis update and a broader March 2027 overhaul meant to make it more accessible.",
+      "source_name": "Upcomer",
+      "source_url": "https://upcomer.com/death-was-the-only-step-bungie-admits-marathon-missed-the-mark-and-plans-a-reset/",
+      "credibility_tier": "verified-journalist",
+      "credibility_note": "Upcomer is an established gaming outlet reporting directly on Bungie's own development update.",
+      "published_at": "2026-10-19T07:55:00Z",
+      "category": "layoffs-business",
+      "corroborating_sources": [
+        "https://www.bungie.net/7/en/News/Article/futureofmarathon",
+        "https://www.pcgamer.com/games/we-all-thought-we-were-bringing-extraction-to-the-masses-and-we-didnt/"
+      ]
+    },
+    {
+      "title": "Former Marathon director Joe Ziegler describes internal disagreements at Bungie",
+      "summary": "Joe Ziegler, who left his director role on Marathon in July 2026, told PC Gamer there were 'a lot of disagreements across the place' during the game's development. He praised Bungie's overall culture but offered one of the most candid outside accounts yet of friction behind the scenes on the troubled project.",
+      "source_name": "PC Gamer",
+      "source_url": "https://www.pcgamer.com/gaming-industry/there-were-a-lot-of-disagreements-across-the-place-former-marathon-director-joe-ziegler-on-leading-bungies-extraction-shooter-playing-path-of-exile-for-3-437-hours-and-why-hell-never-uninstall-kingdom-hearts/",
+      "credibility_tier": "verified-journalist",
+      "credibility_note": "Direct interview with a former Bungie director, conducted by an established gaming outlet.",
+      "published_at": "2026-10-18T15:00:00Z",
+      "category": "layoffs-business",
+      "corroborating_sources": [
+        "https://www.gamesradar.com/games/fps/former-marathon-director-says-bungie-had-a-lot-of-disagreements-about-what-to-do-with-the-game-which-it-is-now-trying-to-salvage-after-a-soft-launch/"
+      ]
+    },
+    {
+      "title": "Marathon draws Concord comparisons as player counts stay low",
+      "summary": "Community discussion compared Marathon to Sony's failed shooter Concord as October Steam concurrent player counts hovered between roughly 1,581 and 3,800. The same report notes Marathon still holds about 79 percent positive reviews across nearly 50,000 Steam ratings, suggesting a smaller but engaged player base remains despite the drop from its 88,337 launch peak.",
+      "source_name": "Explosion",
+      "source_url": "https://www.explosion.com/224090/marathon-faces-concord-comparisons-as-player-count-sits-at-1-581/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Explosion is not a widely recognized gaming outlet, so this is tiered as community-speculation despite citing verifiable Steam data.",
+      "published_at": "2026-10-18T00:00:00Z",
+      "category": "community-discussion",
+      "corroborating_sources": [
+        "https://raijin.gg/app/3065800/Marathon"
+      ]
+    },
+    {
+      "title": "Community feedback: motivation to play drops outside of Cryo mode",
+      "summary": "A Reddit thread describes how Marathon feels pointless outside its high-stakes Cryo mode, even after recent loot buffs. The poster says there is little reason to use top-tier loot elsewhere, echoing broader community concern about reward structure outside ranked play.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1xa562x/motivation_to_play_drops_outside_of_cryo/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Unverified community feedback thread, included for substantive discussion of game balance.",
+      "published_at": "2026-10-19T18:40:31.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Community feedback: new player perspective flags loot rarity and fast time-to-kill",
+      "summary": "A Redditor shared a casual, newer player's impressions of Marathon, saying good loot still feels too rare and that fights can end before there is time to react. The thread also suggests gold-tier materials should drop more often from additional sources, reflecting ongoing debate about loot balance after the recent refresh.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1xa14f5/not_saying_this_is_what_the_game_needs_but_heres/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Community feedback thread relaying secondhand player impressions, not independently verified.",
+      "published_at": "2026-10-19T16:11:58.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Community discussion: gear progression feels slower after Nightfall Refresh",
+      "summary": "A level 60 player reported that most teams encountered across maps are still running low-tier gear weeks into the current season, with blues and purples still relatively rare even inside Cryo. The poster says they actually prefer this slower pace, sparking discussion about whether the post-Nightfall Refresh economy is working as intended.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1xa0aqj/gear_progression_feels_slower_and_i_like_it/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Anecdotal community observation about in-game progression pacing, not verified by official data.",
+      "published_at": "2026-10-19T15:41:09.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Community discussion: will Call of Duty's extraction mode affect Marathon's population?",
+      "summary": "A Reddit thread asks whether a successful Call of Duty DMZ-style extraction mode could help or hurt Marathon, calling it one of the biggest new entries into the extraction shooter genre since Arc Raiders. Commenters debated whether rising genre interest would funnel more players toward Marathon or pull them away entirely.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1xa1aji/curious_will_cod_dmz_affect_marathon/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Speculative community discussion about market dynamics, not based on confirmed data.",
+      "published_at": "2026-10-19T16:18:18.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Context: Bungie outlines six-month roadmap through March 2027, plans to evolve beyond extraction shooter",
+      "summary": "Bungie originally published this development update on September 24, 2026. It laid out a roadmap confirming the October Nightfall Refresh, a December Symbiosis update adding Marathon's first permanent PvE mode and a new Bishop shell, and a March 2027 update introducing a new zone and combatants, while moving away from a strict seasonal release schedule.",
+      "source_name": "Bungie.net",
+      "source_url": "https://www.bungie.net/7/en/News/Article/futureofmarathon",
+      "credibility_tier": "official",
+      "credibility_note": "Direct official Bungie development update.",
+      "published_at": "2026-09-24T00:00:00Z",
+      "category": "gameplay-content",
+      "corroborating_sources": [
+        "https://www.pcgamer.com/games/we-all-thought-we-were-bringing-extraction-to-the-masses-and-we-didnt/",
+        "https://kotaku.com/marathon-delays-new-content-and-ditches-seasons-as-bungies-extraction-shooter-fights-for-its-life-2000734322/"
+      ]
+    },
+    {
+      "title": "Context: October 6 Nightfall Refresh reset player progression and economy",
+      "summary": "This patch originally shipped on October 6, 2026, wiping Runner level, Cradle level, Rank, and vault contents while introducing a free NuCaloric Reward Pass and rotating Sponsored Queues on weekends. Bungie described it as a focused fix to the current game while bigger features are built for the December and March updates.",
+      "source_name": "Bungie.net",
+      "source_url": "https://www.bungie.net/7/en/News/article/marathon_update_1_1_9_2",
+      "credibility_tier": "official",
+      "credibility_note": "Official Bungie patch notes for a shipped update.",
+      "published_at": "2026-10-06T00:00:00Z",
+      "category": "patch-notes",
+      "corroborating_sources": [
+        "https://www.tweaktown.com/news/113946/bungie-reveals-marathon-nightfall-refresh-and-symbiosis-roadmap/index.html"
+      ]
+    }
+  ],
+  "no_news_found": false
+}
