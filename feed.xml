@@ -6,7 +6,14 @@
 <atom:link href="https://dailyexfil.com/feed.xml" rel="self" type="application/rss+xml"/>
 <description>Daily Marathon (Bungie) news digest. Official, press, and community items tiered by credibility, cross-referenced, and link-checked.</description>
 <language>en</language>
-<lastBuildDate>Mon, 19 Oct 2026 19:04:10 GMT</lastBuildDate>
+<lastBuildDate>Tue, 20 Oct 2026 19:04:03 GMT</lastBuildDate>
+<item>
+<title>DAILY EXFIL 2026-10-20: Marathon Update 1.1.9.5 Launches with Vault Breaker Event</title>
+<link>https://dailyexfil.com/day/2026-10-20.html</link>
+<guid isPermaLink="true">https://dailyexfil.com/day/2026-10-20.html</guid>
+<pubDate>Tue, 20 Oct 2026 20:00:00 GMT</pubDate>
+<description><![CDATA[[OFFICIAL] Marathon Update 1.1.9.5 Launches with Vault Breaker Event<br>[COMMS] Community Megathread Tracks Reactions to Vault Breaker's Return<br>[COMMS] Players Say Solo Vault Breaker Runs Feel Punishing<br>[COMMS] Grinding Concerns Raised Over Vault Breaker Rewards<br>[COMMS] Community Wants Marathon to Copy The Finals' Rollout Style for Symbiosis<br>[COMMS] Marathon's Steam Player Count Shows Modest Uptick But Remains Far Below Launch<br>[PRESS] Context: Bungie's September Roadmap Admitted Marathon Missed the Mark<br>[PRESS] Context: Bungie's June Layoffs Hit Marathon Leadership]]></description>
+</item>
 <item>
 <title>DAILY EXFIL 2026-10-19: Bungie admits Marathon missed the mark, plans major evolution beyond extraction shooter</title>
 <link>https://dailyexfil.com/day/2026-10-19.html</link>
@@ -97,13 +104,6 @@
 <guid isPermaLink="true">https://dailyexfil.com/day/2026-09-24.html</guid>
 <pubDate>Thu, 24 Sep 2026 20:00:00 GMT</pubDate>
 <description><![CDATA[[OFFICIAL] Bungie Reveals Future of Marathon: December Symbiosis Update and March 2027 Evolution Plans<br>[COMMS] Community Pushback: Marathon's New PvE Push Still Looks Squad-Focused<br>[COMMS] Mixed Reactions: Fans Call Bungie's New Tone 'Exciting and Heartbreaking'<br>[COMMS] Players Cautiously Praise New Map, Enemies, and Bosses Teased for Marathon<br>[OFFICIAL] Context: Bungie Leadership Acknowledged Marathon's Underperformance on September 18<br>[PRESS] Context: Kotaku Reported Marathon's Player Collapse Ahead of Bungie's Pivot]]></description>
-</item>
-<item>
-<title>DAILY EXFIL 2026-09-23: Bungie Admits Marathon Missed Player Targets, Reaffirms Commitment Despite Major Overhaul</title>
-<link>https://dailyexfil.com/day/2026-09-23.html</link>
-<guid isPermaLink="true">https://dailyexfil.com/day/2026-09-23.html</guid>
-<pubDate>Wed, 23 Sep 2026 20:00:00 GMT</pubDate>
-<description><![CDATA[[PRESS] Bungie Admits Marathon Missed Player Targets, Reaffirms Commitment Despite Major Overhaul<br>[COMMS] Report: Marathon's Steam Player Count Falls Below 1,000 Concurrent<br>[COMMS] Community Debates Whether Marathon Should Go Free to Play<br>[COMMS] Players Voice Confusion Over Marathon's Progression Wipe<br>[COMMS] Players Criticize Marathon's Trace and Scrap Loot Conversion System<br>[COMMS] Community Discussion Highlights Frustration With Toxic Teammates in Crew Fill<br>[PRESS] Context: Sony Laid Off About 292 Bungie Employees in June 2026, Including Marathon Leadership<br>[PRESS] Context: Marathon Game Director Joe Ziegler Left Bungie in July 2026]]></description>
 </item>
 </channel>
 </rss>

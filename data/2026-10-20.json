@@ -1,0 +1,102 @@
+{
+  "date": "2026-10-20",
+  "items": [
+    {
+      "title": "Marathon Update 1.1.9.5 Launches with Vault Breaker Event",
+      "summary": "Bungie released patch 1.1.9.5 on October 20, kicking off the Vault Breaker event that runs through November 10. The update reduces weekly stock limits on several Armory items like materials packs, Cryo Archive Key Templates, and deluxe cosmetics, and solo players get a 50 percent boost to event currency.",
+      "source_name": "Bungie.net",
+      "source_url": "https://www.bungie.net/7/en/News/article/marathon_update_1_1_9_5",
+      "credibility_tier": "official",
+      "credibility_note": "Direct patch notes published on Bungie's official site.",
+      "published_at": "2026-10-20T17:00:00Z",
+      "category": "patch-notes",
+      "corroborating_sources": [
+        "https://store.steampowered.com/news/app/3065800/view/714541292743296136",
+        "https://mp1st.com/title-updates-and-patches/marathon-update-1-036-brings-vault-breaker-on-october-20-patch-1-1-9-5"
+      ]
+    },
+    {
+      "title": "Community Megathread Tracks Reactions to Vault Breaker's Return",
+      "summary": "r/Marathon launched a megathread for the second iteration of the Vault Breaker experimental PvE mode, inviting players to share what is working and what isn't. The thread notes the mode now supports more balanced solo, duo, and trio play compared to its first run.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1xaxoyd/vault_breaker_2_experimental_pve_mode_megathread/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Reddit megathread reflecting organized community discussion, not an official source.",
+      "published_at": "2026-10-20T17:01:31.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Players Say Solo Vault Breaker Runs Feel Punishing",
+      "summary": "A player on r/Marathon described soloing the Cryo Vault Breaker mode as harder than tackling a Destiny 2 dungeon alone, citing relentless bot ambushes and shields that drain ammo quickly. The post asks for tactics and reflects wider frustration with solo balance in the new event.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1xaz06a/soloing_cryo_vault_breaker_feels_worse_than/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Single player account on Reddit, included for its substantive balance feedback.",
+      "published_at": "2026-10-20T17:49:46.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Grinding Concerns Raised Over Vault Breaker Rewards",
+      "summary": "A r/Marathon post argues Vault Breaker currently offers a lot of grinding for little reward and almost no progression. The player suggests letting inventory carry over between runs when a player successfully extracts as a potential fix.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1xaw870/problem_with_vb/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Individual player feedback on Reddit, representative of broader grinding complaints.",
+      "published_at": "2026-10-20T16:07:03.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Community Wants Marathon to Copy The Finals' Rollout Style for Symbiosis",
+      "summary": "A r/Marathon post suggests Bungie should market the upcoming Symbiosis update the way The Finals handled its latest big patch, with a series of short featurette videos covering each new feature instead of one large trailer. The suggestion reflects ongoing community desire for clearer, more frequent communication from Bungie about what is coming.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1xay4h6/marathon_symbiosis_marketing_could_borrow_from/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Community opinion post on Reddit about marketing strategy, not an official statement.",
+      "published_at": "2026-10-20T17:17:03.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Marathon's Steam Player Count Shows Modest Uptick But Remains Far Below Launch",
+      "summary": "Tracking site Raijin.gg reports Marathon averaged around 2,615 daily Steam players in October with a peak of 5,654, a 43 percent increase from the prior month. That is still a steep drop from the game's launch-day peak of nearly 88,000 concurrent players back in March 2026.",
+      "source_name": "Raijin.gg",
+      "source_url": "https://raijin.gg/app/3065800/Marathon",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Raijin.gg is a third-party stats tracker rather than an established gaming outlet, so these figures are unverified by journalism standards.",
+      "published_at": "2026-10-20T00:00:00Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Context: Bungie's September Roadmap Admitted Marathon Missed the Mark",
+      "summary": "On September 25, 2026, Bungie published a development update acknowledging that Marathon's original extraction-focused vision was too niche to connect with enough players. The studio laid out a roadmap through March 2027 covering the October Nightfall Refresh, a December Symbiosis update adding permanent PvE, and a larger structural overhaul planned for spring 2027.",
+      "source_name": "Upcomer",
+      "source_url": "https://upcomer.com/death-was-the-only-step-bungie-admits-marathon-missed-the-mark-and-plans-a-reset/",
+      "credibility_tier": "verified-journalist",
+      "credibility_note": "Reporting from an established gaming outlet summarizing Bungie's own roadmap post.",
+      "published_at": "2026-09-25T07:55:00Z",
+      "category": "other",
+      "corroborating_sources": [
+        "https://www.bungie.net/7/en/News/Article/futureofmarathon",
+        "https://insider-gaming.com/the-future-of-marathon-has-been-revealed-by-bungie/"
+      ]
+    },
+    {
+      "title": "Context: Bungie's June Layoffs Hit Marathon Leadership",
+      "summary": "In June 2026, Bungie laid off roughly 292 employees at its Bellevue studio, including Marathon's general manager, engineering director, senior producer, and other senior roles. The cuts are part of ongoing studio health concerns that have fueled community worries about sparse communication and delayed updates.",
+      "source_name": "The Game Post",
+      "source_url": "https://thegamepost.com/sonys-bungie-layoffs-hit-marathon-senior-roles-general-manager/",
+      "credibility_tier": "verified-journalist",
+      "credibility_note": "Reporting based on public WARN filings from an established games industry outlet.",
+      "published_at": "2026-06-25T00:00:00Z",
+      "category": "layoffs-business",
+      "corroborating_sources": [
+        "https://thegamepost.com/bungie-new-marathon-general-manager-20-year-veteran-leaves/"
+      ]
+    }
+  ],
+  "no_news_found": false
+}
