@@ -1,0 +1,90 @@
+{
+  "date": "2026-10-21",
+  "items": [
+    {
+      "title": "Marathon Patch 1.1.9.5 Launches Vault Breaker Event With Economy Changes",
+      "summary": "Bungie shipped patch 1.1.9.5 on October 20, 2026, kicking off the Vault Breaker event that runs through November 10. The update gives solo players a 50 percent boost to event currency earnings while reducing weekly Armory stock limits on key items.",
+      "source_name": "MP1st",
+      "source_url": "https://mp1st.com/title-updates-and-patches/marathon-update-1-036-brings-vault-breaker-on-october-20-patch-1-1-9-5",
+      "credibility_tier": "verified-journalist",
+      "credibility_note": "Reported by an established gaming news outlet covering an already-shipped patch, though no direct Bungie or Steam patch note link was available in sourcing.",
+      "published_at": "2026-10-20T00:00:00.000Z",
+      "category": "patch-notes",
+      "corroborating_sources": [
+        "https://www.reddit.com/r/Marathon/comments/1xbrp3l/vault_breakers_back/",
+        "https://www.reddit.com/r/Marathon/comments/1xbnr7m/am_i_missing_something_about_the_carri_systemevent/"
+      ]
+    },
+    {
+      "title": "Players Say Vault Breaker Event Needs Balance Fixes",
+      "summary": "Community members reported problems with spawns, enemy aggression, and damage balance in the newly launched Vault Breaker event. A Reddit thread argued something is clearly off and needs to be addressed, reflecting early player reaction to the October 20 patch content.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1xbqxws/sothing_definitely_wrong_with_vault_breaker/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Unverified Reddit feedback thread reflecting player sentiment, not independently confirmed.",
+      "published_at": "2026-10-21T15:54:07.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": [
+        "https://www.reddit.com/r/Marathon/comments/1xbrza2/vault_breaker_where_are_all_the_weapons_feedback/"
+      ]
+    },
+    {
+      "title": "New Player Describes Marathon's Rough Onboarding Experience",
+      "summary": "A Reddit post titled The Gap described Marathon as a small community with limited guidance for new players once they pass level 12. The poster, recovering from knee surgery and newly into extraction shooters, said the game's aesthetic drew them in but onboarding issues explain why the community stays small.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1xbrer6/the_gap/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Single Reddit post offering a personal account of the new player experience, not independently verified.",
+      "published_at": "2026-10-21T16:10:43.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Players Debate Marathon's Population Size in the UK",
+      "summary": "A Reddit thread asked whether Marathon has a healthy player base in the UK, citing conflicting reports of five to ten minute matchmaking queues versus claims the game remains popular in the region. The discussion reflects ongoing community concern about regional population health after the game's post-launch player decline.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1xbubdr/are_there_many_players_in_the_uk/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Reddit discussion thread based on anecdotal player reports, not verified matchmaking data.",
+      "published_at": "2026-10-21T17:55:37.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Marathon Added to New Humble Bundle",
+      "summary": "A Reddit post pointed out that Marathon is included in the top tier of a newly launched Humble Bundle, priced at $25 for the full set of included games. Community members suggested it could be a good way to get new players to try the game.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1xbuuc3/marathon_is_part_of_the_newest_humble_bundle/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Based on a Reddit post linking to an external storefront bundle, not confirmed by a publisher or outlet source in these candidates.",
+      "published_at": "2026-10-21T18:14:19.000Z",
+      "category": "other",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Context: Bungie Admits Marathon Missed the Mark at Launch, Plans Major Overhaul",
+      "summary": "This story was originally reported on October 19, 2026. Bungie's candid September 25 update had admitted that Marathon's launch vision, which focused purely on extraction gameplay, did not connect with enough players, and the studio outlined plans for a permanent PvE mode in December and a larger overhaul in March 2027 to broaden the game's appeal.",
+      "source_name": "Upcomer",
+      "source_url": "https://upcomer.com/death-was-the-only-step-bungie-admits-marathon-missed-the-mark-and-plans-a-reset/",
+      "credibility_tier": "verified-journalist",
+      "credibility_note": "Established gaming outlet reporting directly on Bungie's own public admission.",
+      "published_at": "2026-10-19T00:00:00.000Z",
+      "category": "layoffs-business",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Context: Former Marathon Director Describes Development Marked by Internal Disagreements",
+      "summary": "This interview was originally published on October 18, 2026. Former Marathon game director Joe Ziegler told PC Gamer that development involved significant internal friction, saying there were a lot of disagreements across the team over the project's direction, while also praising Bungie's culture as egoless and open to change.",
+      "source_name": "PC Gamer",
+      "source_url": "https://www.pcgamer.com/gaming-industry/there-were-a-lot-of-disagreements-across-the-place-former-marathon-director-joe-ziegler-on-leading-bungies-extraction-shooter-playing-path-of-exile-for-3-437-hours-and-why-hell-never-uninstall-kingdom-hearts/",
+      "credibility_tier": "verified-journalist",
+      "credibility_note": "Direct interview reporting from an established gaming outlet with a former Bungie director.",
+      "published_at": "2026-10-18T00:00:00.000Z",
+      "category": "layoffs-business",
+      "corroborating_sources": [
+        "https://thegamepost.com/egoless-company-marathon-director-praises-bungie-studio-culture-disagreements/"
+      ]
+    }
+  ],
+  "no_news_found": false
+}
