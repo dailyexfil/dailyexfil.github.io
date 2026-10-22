@@ -1,0 +1,86 @@
+{
+  "date": "2026-10-22",
+  "items": [
+    {
+      "title": "Bungie Launches Invite-Only Technical Test for Marathon, Promises Public Update Soon",
+      "summary": "Bungie kicked off a closed, NDA-bound technical test for Marathon running October 22 to 28 on PS5, Xbox Series X/S, and Steam in North America and Europe. The test includes three maps, five runner shells, proximity chat, solo queue, and reworked combat pacing. Bungie also confirmed it will share a public update on the game's development in the coming months.",
+      "source_name": "TechRadar",
+      "source_url": "https://www.techradar.com/gaming/marathon-returns-with-a-technical-test-scheduled-for-later-this-month-as-bungie-confirms-a-public-update-on-the-games-development-in-the-coming-months",
+      "credibility_tier": "verified-journalist",
+      "credibility_note": "Reported by TechRadar, an established gaming outlet, covering Bungie's test announcement and statements.",
+      "published_at": "2026-10-22T00:00:00Z",
+      "category": "gameplay-content",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Community Debate: Is Vault Breaker a Great Onboarding Tool or Overrated?",
+      "summary": "A widely discussed r/Marathon post argues that Vault Breaker, the PvE mode that just returned for a limited time, is being unfairly bashed by veteran players even though it is a valuable low stakes space for newcomers learning Cryo. The poster pushes back on comments calling the mode boring or pointless, saying experienced players have simply outgrown it. The thread reflects a split in community sentiment about how the mode should evolve as Bungie pushes toward a more PvE friendly game.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1xckouq/once_again_reddit_is_the_entrenched_uberusers/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Reddit discussion thread reflecting player opinion, not an official statement of fact.",
+      "published_at": "2026-10-22T14:50:46.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Players Report Outpost Loot Buffed After Recent Changes, Duo Queue Seen as Best Route",
+      "summary": "A detailed r/Marathon report describes noticeably better loot drops in the Outpost mode after recent balance changes, with players pulling multiple vault keys, gold mods, and rare weapon rolls using only starting gear. The poster says duo queues are currently the most efficient way to farm this loot compared to last season's mostly blue tier drops. The thread adds to ongoing community discussion about itemization tied to the recent economy reset.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1xckj8d/outpost_loot_seems_buffed_and_duo_is_the_best_way/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Reddit discussion thread reporting player observations, not independently verified by Bungie.",
+      "published_at": "2026-10-22T14:44:47.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Runners Debate Shell Balance Ahead of PvE Focused Symbiosis Update",
+      "summary": "A r/Marathon thread raises concerns that shells like Thief and Recon are outclassed by Destroyer, Assassin, and Triage once PvE content becomes a bigger part of the game. The poster suggests Bungie should add PvE specific buffs or abilities to balance shell viability before the December Symbiosis update lands. The discussion reflects player anticipation and uncertainty about how build diversity will hold up as Marathon shifts toward more PvE content.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1xcqoyq/how_will_runner_shells_change_to_adapt_to_a_more/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Reddit discussion thread offering player speculation about future balance changes.",
+      "published_at": "2026-10-22T18:31:00.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Players Compare Marathon Unfavorably to Call of Duty's DMZ Mode",
+      "summary": "A popular r/Marathon post argues that Call of Duty's DMZ 2026 mode currently delivers a more complete extraction shooter package than Marathon, pointing to better onboarding, a seamless practice range, and more things to do between matches. The poster says they still love Marathon and plan to return when the December update lands, but the comparison sparked discussion about where Marathon still falls short. The thread adds to ongoing community conversation about retention and competition in the extraction shooter genre.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1xckzoj/my_fellow_runners/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Reddit opinion thread comparing Marathon to a competing title, reflects personal player sentiment.",
+      "published_at": "2026-10-22T15:01:59.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Context: Marathon Update 1.1.9.5 Brought Back Vault Breaker PvE Mode",
+      "summary": "This update originally shipped on October 20, 2026, bringing back the Vault Breaker PvE mode for a limited time through November 10 and adjusting Armory stock levels for materials and key templates. A sponsored Night Marsh activity also began October 22 and runs through the weekend. This patch is the reason behind the wave of Vault Breaker related discussion seen in the community today.",
+      "source_name": "Steam Community - Marathon",
+      "source_url": "https://steamcommunity.com/app/3065800",
+      "credibility_tier": "official",
+      "credibility_note": "Official Steam Community news post from the Marathon app page.",
+      "published_at": "2026-10-20T00:00:00Z",
+      "category": "patch-notes",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Context: Bungie's Roadmap Outlines Nightfall Refresh, December Symbiosis, and March 2027 Evolution",
+      "summary": "Bungie published this official roadmap on September 24, 2026, outlining three phases for Marathon: an October Nightfall Refresh resetting progression and economy, a December Symbiosis update adding the game's first permanent PvE mode and a new Bishop shell, and a larger evolution planned for March 2027 with new enemies and a new zone. This roadmap underpins ongoing community discussion about shell balance and the game's shift toward more PvE content.",
+      "source_name": "Bungie.net - The Future of Marathon",
+      "source_url": "https://www.bungie.net/7/en/News/Article/futureofmarathon",
+      "credibility_tier": "official",
+      "credibility_note": "Direct official roadmap post from Bungie.net.",
+      "published_at": "2026-09-24T00:00:00Z",
+      "category": "gameplay-content",
+      "corroborating_sources": [
+        "https://insider-gaming.com/the-future-of-marathon-has-been-revealed-by-bungie/",
+        "https://www.tweaktown.com/news/113946/bungie-reveals-marathon-nightfall-refresh-and-symbiosis-roadmap/index.html"
+      ]
+    }
+  ],
+  "no_news_found": false
+}
