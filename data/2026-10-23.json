@@ -1,0 +1,66 @@
+{
+  "date": "2026-10-23",
+  "items": [
+    {
+      "title": "Community Hopes for Part 2 of Bungie's Developer Insight Video",
+      "summary": "A Reddit thread on r/Marathon expresses hope that Bungie will release the second part of its recent behind the scenes developer insight video soon, rather than waiting until mid November. The post reflects the community's ongoing desire for more frequent communication from the studio amid sparse official updates.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1xdjs1c/i_hope_bungie_release_part_2_behind_the_scene/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Single Reddit thread expressing community sentiment, not an announcement or confirmed fact.",
+      "published_at": "2026-10-23T17:04:48Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Players Ask for Solo Queue Option in Cryo Lobbies",
+      "summary": "A Reddit post calls for solo queue or crew fill only matchmaking in Cryo PvP, arguing that facing premade stacked squads makes the mode less approachable for solo and casual players. The poster also ties this into broader community concerns about why Marathon has struggled to hold onto its player base.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1xdismk/wishlist_solo_queuecrew_fill_only_cryo_lobbies/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Single Reddit thread offering player feedback and a feature request, not an official statement.",
+      "published_at": "2026-10-23T16:27:47Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Community Shares Positive Player Encounter After Earlier Toxicity Complaint",
+      "summary": "A Reddit user who had previously posted about a frustrating toxic encounter shared a follow up story about a generous high level teammate who guided them through a Quarantine key run and shared loot. The post reflects a recurring back and forth in the community between frustration with toxic players and appreciation for helpful ones.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1xdg762/on_a_more_positive_note_thank_you_random_high/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Personal anecdote from a single Reddit user, included as a snapshot of community sentiment rather than verified news.",
+      "published_at": "2026-10-23T14:51:21Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Context: Bungie Outlined Future of Marathon Roadmap After Admitting Missed Targets",
+      "summary": "This story was originally published around September 24 to 25, 2026. Bungie posted 'The Future of Marathon,' publicly acknowledging the game did not reach as many players as hoped and laying out a phased plan covering October's Nightfall Refresh, a December Symbiosis update adding permanent PvE content, and a March 2027 overhaul connecting PvE, PvP, and PvEvP modes with returning Pfhor enemies. This background helps explain ongoing community references to the game's underperformance.",
+      "source_name": "Bungie.net",
+      "source_url": "https://www.bungie.net/7/en/News/Article/futureofmarathon",
+      "credibility_tier": "official",
+      "credibility_note": "Direct official roadmap statement published on Bungie's own news channel.",
+      "published_at": "2026-09-24T00:00:00Z",
+      "category": "other",
+      "corroborating_sources": [
+        "https://upcomer.com/death-was-the-only-step-bungie-admits-marathon-missed-the-mark-and-plans-a-reset/"
+      ]
+    },
+    {
+      "title": "Context: Marathon Patch 1.036 Launched Vault Breaker Event and Fixed Profile Stats",
+      "summary": "This story was originally reported around October 20, 2026. Bungie shipped Marathon update 1.036, also listed as client version 1.1.9.5, which launched the limited time Vault Breaker PvE event running through November 10, reduced weekly deluxe armory stock, added solo currency bonuses, fixed a Night Marsh crash, and corrected a profile stats display bug. This is the most recent shipped patch and provides context for the game's current state.",
+      "source_name": "MP1st",
+      "source_url": "https://mp1st.com/title-updates-and-patches/marathon-update-1-036-brings-vault-breaker-on-october-20-patch-1-1-9-5",
+      "credibility_tier": "verified-journalist",
+      "credibility_note": "Established gaming news outlet reporting directly on official patch notes.",
+      "published_at": "2026-10-20T12:44:24Z",
+      "category": "patch-notes",
+      "corroborating_sources": [
+        "https://steamcommunity.com/app/3065800",
+        "https://shatteredvault.com/marathon-update-1-1-9-5/"
+      ]
+    }
+  ],
+  "no_news_found": false
+}

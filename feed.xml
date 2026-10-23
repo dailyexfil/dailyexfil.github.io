@@ -6,7 +6,14 @@
 <atom:link href="https://dailyexfil.com/feed.xml" rel="self" type="application/rss+xml"/>
 <description>Daily Marathon (Bungie) news digest. Official, press, and community items tiered by credibility, cross-referenced, and link-checked.</description>
 <language>en</language>
-<lastBuildDate>Thu, 22 Oct 2026 19:04:12 GMT</lastBuildDate>
+<lastBuildDate>Fri, 23 Oct 2026 19:04:10 GMT</lastBuildDate>
+<item>
+<title>DAILY EXFIL 2026-10-23: Community Hopes for Part 2 of Bungie's Developer Insight Video</title>
+<link>https://dailyexfil.com/day/2026-10-23.html</link>
+<guid isPermaLink="true">https://dailyexfil.com/day/2026-10-23.html</guid>
+<pubDate>Fri, 23 Oct 2026 20:00:00 GMT</pubDate>
+<description><![CDATA[[COMMS] Community Hopes for Part 2 of Bungie's Developer Insight Video<br>[COMMS] Players Ask for Solo Queue Option in Cryo Lobbies<br>[COMMS] Community Shares Positive Player Encounter After Earlier Toxicity Complaint<br>[OFFICIAL] Context: Bungie Outlined Future of Marathon Roadmap After Admitting Missed Targets<br>[PRESS] Context: Marathon Patch 1.036 Launched Vault Breaker Event and Fixed Profile Stats]]></description>
+</item>
 <item>
 <title>DAILY EXFIL 2026-10-22: Bungie Launches Invite-Only Technical Test for Marathon, Promises Public Update Soon</title>
 <link>https://dailyexfil.com/day/2026-10-22.html</link>
@@ -97,13 +104,6 @@
 <guid isPermaLink="true">https://dailyexfil.com/day/2026-10-09.html</guid>
 <pubDate>Fri, 09 Oct 2026 20:00:00 GMT</pubDate>
 <description><![CDATA[[PRESS] Patch 1.1.9.3 Ships to Fix Night Marsh Crashes<br>[COMMS] Day-One Review Says Nightfall Refresh Fixes Economy But Core Issues Remain<br>[COMMS] Players Compare Marathon's Struggles to COD's Upcoming DMZ Mode<br>[COMMS] Players Report Networking and Hit Registration Quirks After Recent Tweaks<br>[COMMS] Debate Continues Over Wiping Loot Without Resetting Faction Progress<br>[COMMS] Leftover 'Contender' Weapon Text Fuels Doubts About Season 3 Readiness<br>[PRESS] Context: Nightfall Refresh Reset Progression and Economy on October 6<br>[OFFICIAL] Context: Bungie's Six-Month Roadmap Outlines Symbiosis and March 2027 Plans]]></description>
-</item>
-<item>
-<title>DAILY EXFIL 2026-10-08: Marathon Update 1.1.9.3 Patch Notes</title>
-<link>https://dailyexfil.com/day/2026-10-08.html</link>
-<guid isPermaLink="true">https://dailyexfil.com/day/2026-10-08.html</guid>
-<pubDate>Thu, 08 Oct 2026 20:00:00 GMT</pubDate>
-<description><![CDATA[[OFFICIAL] Marathon Update 1.1.9.3 Patch Notes<br>[COMMS] Players Report Economy and Matchmaking Problems Following Reset<br>[COMMS] Community Review Says October Refresh Helps Economy But Leaves Core Problems<br>[COMMS] Players Question Whether New Visible Stats Feed Matchmaking<br>[COMMS] Players Compare Marathon's Scale Unfavorably to Arc Raiders<br>[OFFICIAL] Context: Nightfall Refresh Update Reset Progression and Economy<br>[OFFICIAL] Context: Bungie Outlines Marathon Roadmap Through March 2027]]></description>
 </item>
 </channel>
 </rss>
