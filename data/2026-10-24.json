@@ -1,0 +1,94 @@
+{
+  "date": "2026-10-24",
+  "items": [
+    {
+      "title": "Bungie Store Closes, but Marathon Store Stays Open",
+      "summary": "Bungie shut down its main merchandise store on October 23, 2026, but confirmed a separate Marathon branded storefront will keep operating. Digital downloads from the old store remain accessible through December 31, 2026. The closure is part of broader restructuring at the studio amid ongoing financial pressure.",
+      "source_name": "The Game Post",
+      "source_url": "https://thegamepost.com/bungie-store-closed-playstation-merch-store",
+      "credibility_tier": "verified-journalist",
+      "credibility_note": "Reported by The Game Post, an established gaming news outlet.",
+      "published_at": "2026-10-23T00:00:00Z",
+      "category": "layoffs-business",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Marathon Player Counts Tick Up in October",
+      "summary": "Stats tracker Raijin.gg reports Marathon's average daily Steam player count rose about 43 percent in October compared to September, averaging roughly 2,615 players with a peak of 5,654. That is still far below the game's all time peak of nearly 88,000 concurrent players at launch, and reviews remain mixed at 77 percent positive.",
+      "source_name": "Raijin.gg",
+      "source_url": "https://raijin.gg/app/3065800/Marathon",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Raijin.gg is a third party stats tracking site rather than a verified journalism outlet, so the figures are unaudited.",
+      "published_at": "2026-10-24T00:00:00Z",
+      "category": "other",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Community Debates Marathon's Time-to-Kill Problem",
+      "summary": "A Reddit thread argues that since squads can clear Upper Complex and even Vault Breaker using only the lowest tier grey shields, Marathon's overall time to kill is too slow. The poster says Squad Fill PvP in Cryo Archive already feels better tuned than solo or duo play, reviving a long running debate about combat pacing.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1xee5ow/ttk_discussion_completing_upper_complex_and_vault/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Reddit discussion thread reflecting player opinion, not confirmed or addressed by Bungie.",
+      "published_at": "2026-10-24T17:12:51Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Players Push Bungie to Require Blue Shields in Crew Fill Cryo",
+      "summary": "A Reddit post calls on Bungie to set a minimum shield tier for Crew Fill Cryo Archive after frustration with teammates bringing weak white or green shields into high stakes runs. The poster argues underprepared randoms are costing teams purple shields and gold cryo keys and suggests pushing those players toward Vault Breaker instead.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1xeegf7/for_the_love_of_god_make_blue_shields_a_minimum/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Single Reddit post representing one player's frustration, not an official Bungie stance.",
+      "published_at": "2026-10-24T17:25:02Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "New Cryo Archive Players Describe Steep Skill Gap Against Veteran Squads",
+      "summary": "A player asks for advice after repeatedly getting outclassed in Cryo Archive, saying their squad barely gets to loot before being wiped by opponents who already control the map's key rooms and vaults. The thread highlights ongoing community concerns about matchmaking and skill disparity in Marathon's higher stakes mode.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1xecsh0/how_do_i_stop_being_fodder_for_other_teams/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Reddit post sharing personal gameplay experience, not independently verified data.",
+      "published_at": "2026-10-24T16:18:25Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Solo Players Say Outpost Still Favors Trios After Recent Changes",
+      "summary": "A player testing Outpost solo after recent balance changes says the mode still leans heavily toward three person squads. They describe being overwhelmed by a cluster of high tier enemies guarding the Pinwheel loot room, arguing that both time to kill and time to die are poorly tuned for solo queues.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1xeak2e/thought_id_try_solo_outpost_since_the_changes_but/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Individual player account posted to Reddit, reflecting anecdotal feedback rather than confirmed design data.",
+      "published_at": "2026-10-24T14:47:54Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Context: Marathon Director Joe Ziegler Stepped Down in July",
+      "summary": "This story was originally reported October 19, 2026, covering Joe Ziegler's departure as Marathon's director on July 17, 2026, amid studio instability following layoffs and falling player counts. He was replaced by Del Chafe III and Julia Nardin, who have since led public communication about the game's roadmap.",
+      "source_name": "tech-insider.org",
+      "source_url": "https://tech-insider.org/joe-ziegler-marathon-director-bungie-clashes-2026/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Sole source is tech-insider.org, an unestablished outlet not corroborated by any other candidate, so the claim is treated as unverified despite its journalistic framing.",
+      "published_at": "2026-10-19T00:00:00Z",
+      "category": "layoffs-business",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Context: Marathon Patch 1.1.9.5 Adjusted Vault Breaker Economy",
+      "summary": "This update shipped October 20, 2026, reducing material pack and key template stock limits across Vault Breaker Armory repeatable offers and bringing back the C.A.R.R.I. Armory through the end of the Nightfall Refresh. It also fixed incorrect Nightfall explainer screens and resolved a crash on the Night Marsh map.",
+      "source_name": "Steam Community",
+      "source_url": "https://steamcommunity.com/app/3065800",
+      "credibility_tier": "official",
+      "credibility_note": "Official patch notes posted through Steam Community, the platform's sanctioned channel for Marathon updates.",
+      "published_at": "2026-10-20T00:00:00Z",
+      "category": "patch-notes",
+      "corroborating_sources": []
+    }
+  ],
+  "no_news_found": false
+}

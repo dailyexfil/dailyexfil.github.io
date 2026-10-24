@@ -6,7 +6,14 @@
 <atom:link href="https://dailyexfil.com/feed.xml" rel="self" type="application/rss+xml"/>
 <description>Daily Marathon (Bungie) news digest. Official, press, and community items tiered by credibility, cross-referenced, and link-checked.</description>
 <language>en</language>
-<lastBuildDate>Fri, 23 Oct 2026 19:04:10 GMT</lastBuildDate>
+<lastBuildDate>Sat, 24 Oct 2026 19:03:14 GMT</lastBuildDate>
+<item>
+<title>DAILY EXFIL 2026-10-24: Bungie Store Closes, but Marathon Store Stays Open</title>
+<link>https://dailyexfil.com/day/2026-10-24.html</link>
+<guid isPermaLink="true">https://dailyexfil.com/day/2026-10-24.html</guid>
+<pubDate>Sat, 24 Oct 2026 20:00:00 GMT</pubDate>
+<description><![CDATA[[PRESS] Bungie Store Closes, but Marathon Store Stays Open<br>[COMMS] Marathon Player Counts Tick Up in October<br>[COMMS] Community Debates Marathon's Time-to-Kill Problem<br>[COMMS] Players Push Bungie to Require Blue Shields in Crew Fill Cryo<br>[COMMS] New Cryo Archive Players Describe Steep Skill Gap Against Veteran Squads<br>[COMMS] Solo Players Say Outpost Still Favors Trios After Recent Changes<br>[COMMS] Context: Marathon Director Joe Ziegler Stepped Down in July<br>[OFFICIAL] Context: Marathon Patch 1.1.9.5 Adjusted Vault Breaker Economy]]></description>
+</item>
 <item>
 <title>DAILY EXFIL 2026-10-23: Community Hopes for Part 2 of Bungie's Developer Insight Video</title>
 <link>https://dailyexfil.com/day/2026-10-23.html</link>
@@ -97,13 +104,6 @@
 <guid isPermaLink="true">https://dailyexfil.com/day/2026-10-10.html</guid>
 <pubDate>Sat, 10 Oct 2026 20:00:00 GMT</pubDate>
 <description><![CDATA[[PRESS] Bungie Outlines Changes to Fix Spawn Rushing and Death Spirals Ahead of Symbiosis Update<br>[OFFICIAL] Marathon Discounted 40 Percent on Steam Through October 16<br>[COMMS] Community Proposes Time-Gating Shield Rarities to Tame Post-Reset Power Creep<br>[COMMS] Players Say Sponsored Queue Trios Feel More Balanced Than Standard Matchmaking<br>[COMMS] Players Report Persistent Lag and Rubberbanding Problems<br>[COMMS] Returning Players Question Whether Outpost PvE Mode Is Welcoming Enough for Newcomers<br>[OFFICIAL] Context: Bungie Laid Out Marathon Roadmap Through March 2027]]></description>
-</item>
-<item>
-<title>DAILY EXFIL 2026-10-09: Patch 1.1.9.3 Ships to Fix Night Marsh Crashes</title>
-<link>https://dailyexfil.com/day/2026-10-09.html</link>
-<guid isPermaLink="true">https://dailyexfil.com/day/2026-10-09.html</guid>
-<pubDate>Fri, 09 Oct 2026 20:00:00 GMT</pubDate>
-<description><![CDATA[[PRESS] Patch 1.1.9.3 Ships to Fix Night Marsh Crashes<br>[COMMS] Day-One Review Says Nightfall Refresh Fixes Economy But Core Issues Remain<br>[COMMS] Players Compare Marathon's Struggles to COD's Upcoming DMZ Mode<br>[COMMS] Players Report Networking and Hit Registration Quirks After Recent Tweaks<br>[COMMS] Debate Continues Over Wiping Loot Without Resetting Faction Progress<br>[COMMS] Leftover 'Contender' Weapon Text Fuels Doubts About Season 3 Readiness<br>[PRESS] Context: Nightfall Refresh Reset Progression and Economy on October 6<br>[OFFICIAL] Context: Bungie's Six-Month Roadmap Outlines Symbiosis and March 2027 Plans]]></description>
 </item>
 </channel>
 </rss>
