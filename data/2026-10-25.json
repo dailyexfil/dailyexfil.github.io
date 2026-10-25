@@ -1,0 +1,74 @@
+{
+  "date": "2026-10-25",
+  "items": [
+    {
+      "title": "Players Report Persistent Stuttering, Say Mods Removed Their Technical Complaint",
+      "summary": "A Marathon player says a subreddit moderator removed their post showing the game's stuttering issues, tagging it as a 'technical issue' rather than a bug worth discussing. The player argues the performance problem is baked into the game itself since other titles run fine on the same PC, reflecting ongoing frustration with unresolved optimization issues.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1xf9qqg/unfair_stuttering/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Single Reddit thread airing a player grievance, not independently verified.",
+      "published_at": "2026-10-25T18:23:49.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Players Note Easier Gear Recovery After Nightfall Refresh Changes",
+      "summary": "A Marathon player describes a rough weekend in Cryo but says they now feel optimistic because solo or Rook runs on Outpost and Night Marsh let players quickly regear after losing their loadout. They contrast this with the old system, where losing gear in Cryo meant waiting hours or needing multiple purple keys to recover.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1xf0513/terrible_cryo_weekend_but_feeling_optimistic/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Single player account of a post-patch sentiment shift, not independently corroborated.",
+      "published_at": "2026-10-25T11:37:50.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Community Raises Questions About Upcoming Firing Range and Feature Additions",
+      "summary": "A detailed Reddit post lays out player questions about Marathon's upcoming Firing Range feature, including how inclusive the testing space will be across the game's arsenal. The thread represents substantive community feedback on features teased for future updates, though Bungie has not directly responded in the thread.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1xf5sza/some_thoughts_on_upcoming_changes_additions/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Community discussion thread with no official response included.",
+      "published_at": "2026-10-25T15:49:49.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Player Flags Repeater Reload Bug With Boutique Thief Core",
+      "summary": "A player tagged the Marathon dev team on Reddit reporting that the new Repeater weapon does not interact correctly with the Boutique Thief Core, requiring 9 reloads instead of the expected 6 to refill 12 shots. The bug report is specific and directly addressed to Bungie's community accounts, though there has been no confirmed official response yet.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1xey5va/boutique_repeater_reload_bug/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Unverified player bug report tagging Bungie accounts, no official confirmation yet.",
+      "published_at": "2026-10-25T09:43:59.000Z",
+      "category": "other",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Context: Bungie Admits Marathon's Original Vision Missed the Mark",
+      "summary": "This story was originally reported on October 19, 2026, citing a Bungie developer update from late September. Bungie acknowledged that Marathon's extraction-focused design did not connect with enough players, pointing to difficulty, punishing systems, poor UI, and weak onboarding rather than the core gunplay as the reasons, and outlined plans for a major reset of the game's direction.",
+      "source_name": "Upcomer",
+      "source_url": "https://upcomer.com/death-was-the-only-step-bungie-admits-marathon-missed-the-mark-and-plans-a-reset/",
+      "credibility_tier": "verified-journalist",
+      "credibility_note": "Established gaming outlet reporting on an official Bungie developer statement.",
+      "published_at": "2026-10-19T07:55:00Z",
+      "category": "other",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Context: Patch 1.1.9.5 Launched the Vault Breaker Event on October 20",
+      "summary": "This update shipped on October 20, 2026. Bungie's patch 1.1.9.5 kicked off the Vault Breaker event running through November 10, adjusting Vault Breaker Armory stock and solo player currency multipliers while fixing contract availability and profile stat display bugs. This is the most recent official patch referenced in ongoing player bug reports.",
+      "source_name": "MP1st",
+      "source_url": "https://mp1st.com/title-updates-and-patches/marathon-update-1-036-brings-vault-breaker-on-october-20-patch-1-1-9-5",
+      "credibility_tier": "verified-journalist",
+      "credibility_note": "Established patch-tracking outlet reporting directly on Bungie's shipped update notes.",
+      "published_at": "2026-10-20T16:44:24Z",
+      "category": "patch-notes",
+      "corroborating_sources": [
+        "https://bsky.app/profile/bungieserverstatus.bungie.net"
+      ]
+    }
+  ],
+  "no_news_found": false
+}

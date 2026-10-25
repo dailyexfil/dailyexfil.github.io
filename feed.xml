@@ -6,7 +6,14 @@
 <atom:link href="https://dailyexfil.com/feed.xml" rel="self" type="application/rss+xml"/>
 <description>Daily Marathon (Bungie) news digest. Official, press, and community items tiered by credibility, cross-referenced, and link-checked.</description>
 <language>en</language>
-<lastBuildDate>Sat, 24 Oct 2026 19:03:14 GMT</lastBuildDate>
+<lastBuildDate>Sun, 25 Oct 2026 19:02:46 GMT</lastBuildDate>
+<item>
+<title>DAILY EXFIL 2026-10-25: Players Report Persistent Stuttering, Say Mods Removed Their Technical Complaint</title>
+<link>https://dailyexfil.com/day/2026-10-25.html</link>
+<guid isPermaLink="true">https://dailyexfil.com/day/2026-10-25.html</guid>
+<pubDate>Sun, 25 Oct 2026 20:00:00 GMT</pubDate>
+<description><![CDATA[[COMMS] Players Report Persistent Stuttering, Say Mods Removed Their Technical Complaint<br>[COMMS] Players Note Easier Gear Recovery After Nightfall Refresh Changes<br>[COMMS] Community Raises Questions About Upcoming Firing Range and Feature Additions<br>[COMMS] Player Flags Repeater Reload Bug With Boutique Thief Core<br>[PRESS] Context: Bungie Admits Marathon's Original Vision Missed the Mark<br>[PRESS] Context: Patch 1.1.9.5 Launched the Vault Breaker Event on October 20]]></description>
+</item>
 <item>
 <title>DAILY EXFIL 2026-10-24: Bungie Store Closes, but Marathon Store Stays Open</title>
 <link>https://dailyexfil.com/day/2026-10-24.html</link>
@@ -97,13 +104,6 @@
 <guid isPermaLink="true">https://dailyexfil.com/day/2026-10-11.html</guid>
 <pubDate>Sun, 11 Oct 2026 20:00:00 GMT</pubDate>
 <description><![CDATA[[COMMS] Players say the Nightfall Refresh reset killed their motivation to play<br>[COMMS] Player asks why friends won't stick with Marathon's extraction loop<br>[COMMS] Community debates whether players have gotten more hostile toward Rooks<br>[COMMS] Players react positively to level 100 season rewards after the refresh<br>[COMMS] Commentary piece calls Marathon the scariest horror game of 2026<br>[OFFICIAL] Context: Bungie's Nightfall Refresh reset progression and economy on October 6]]></description>
-</item>
-<item>
-<title>DAILY EXFIL 2026-10-10: Bungie Outlines Changes to Fix Spawn Rushing and Death Spirals Ahead of Symbiosis Update</title>
-<link>https://dailyexfil.com/day/2026-10-10.html</link>
-<guid isPermaLink="true">https://dailyexfil.com/day/2026-10-10.html</guid>
-<pubDate>Sat, 10 Oct 2026 20:00:00 GMT</pubDate>
-<description><![CDATA[[PRESS] Bungie Outlines Changes to Fix Spawn Rushing and Death Spirals Ahead of Symbiosis Update<br>[OFFICIAL] Marathon Discounted 40 Percent on Steam Through October 16<br>[COMMS] Community Proposes Time-Gating Shield Rarities to Tame Post-Reset Power Creep<br>[COMMS] Players Say Sponsored Queue Trios Feel More Balanced Than Standard Matchmaking<br>[COMMS] Players Report Persistent Lag and Rubberbanding Problems<br>[COMMS] Returning Players Question Whether Outpost PvE Mode Is Welcoming Enough for Newcomers<br>[OFFICIAL] Context: Bungie Laid Out Marathon Roadmap Through March 2027]]></description>
 </item>
 </channel>
 </rss>
