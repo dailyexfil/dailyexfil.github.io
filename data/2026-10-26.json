@@ -1,0 +1,72 @@
+{
+  "date": "2026-10-26",
+  "items": [
+    {
+      "title": "Community reports economy and matchmaking problems persist after Nightfall Refresh",
+      "summary": "A Reddit thread on r/Marathon accuses Bungie of letting the in-game economy break again, with players reporting grinding and matchmaking frustrations since the October 6 Nightfall Refresh reset. The discussion reflects ongoing community concern that the reset has not fully solved post-launch balance problems.",
+      "source_name": "Daily Exfil",
+      "source_url": "https://dailyexfil.com/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Based on a recapped Reddit discussion from a fan-run Marathon tracking site, not independently verified by Bungie or a major outlet.",
+      "published_at": "2026-10-25T00:00:00Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Marathon concurrent player count holds near 3,200 on Steam",
+      "summary": "Marathon fan tracking site Daily Exfil reports the game's daily peak concurrent Steam player count sitting around 3,204 this week, about 5.4 percent of its March 2026 launch peak of 88,337. The figures suggest the population has leveled off at a much smaller size after months of steep decline.",
+      "source_name": "Daily Exfil",
+      "source_url": "https://dailyexfil.com/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Player count figures come from a community fan-run tracking site rather than an official Bungie or platform source.",
+      "published_at": "2026-10-25T00:00:00Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Players compare Marathon's map scale unfavorably to Arc Raiders",
+      "summary": "A Reddit discussion among Marathon players argues the game's maps and content feel small compared to rival extraction shooter Arc Raiders. Commenters are asking Bungie for larger maps, boss encounters, and more world-scale events to increase tension and make the environment feel more alive.",
+      "source_name": "Daily Exfil",
+      "source_url": "https://dailyexfil.com/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Reflects aggregated Reddit community opinion from r/Marathon, not independently verified reporting.",
+      "published_at": "2026-10-25T00:00:00Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Some players say the Nightfall Refresh feels better than base Season 2",
+      "summary": "A Reddit post from today says the current Nightfall Refresh content feels like a clear improvement over the original Season 2, pointing to loot pool buffs, an easier Armory, and the new sponsored mode as highlights. It offers a more positive counterpoint to other threads complaining about lingering economy problems after the reset.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1xg13bx/the_refresh_feels_way_better_than_the_base_season/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "A single Reddit post reflecting one player's experience, included as a representative sentiment thread.",
+      "published_at": "2026-10-26T16:07:13.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Context: Bungie deployed the Nightfall Refresh, resetting Marathon's economy and progression",
+      "summary": "Bungie released the Nightfall Refresh update on October 6, 2026, which fully reset player progression and the in-game economy while introducing a new Reward Pass and refreshed rewards. This is the update that recent community complaints and sentiment threads about economy and balance are reacting to.",
+      "source_name": "Bungie.net",
+      "source_url": "https://www.bungie.net/7/en/News/Article/nighfall_refresh_symbiosis_roadmap",
+      "credibility_tier": "official",
+      "credibility_note": "Direct announcement from Bungie's official news channel describing a shipped update.",
+      "published_at": "2026-10-06T00:00:00Z",
+      "category": "patch-notes",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Context: Marathon Update 1.1.9.5 adjusted Vault Breaker economy on October 20",
+      "summary": "Bungie shipped Update 1.1.9.5 on October 20, 2026, reducing the materials packs and key templates available per week in the Vault Breaker Armory, along with fixes to Codex timing requirements and profile stats issues. It is the most recent shipped economy-related patch referenced in ongoing community loot and balance discussion.",
+      "source_name": "Steam",
+      "source_url": "https://steamcommunity.com/app/3065800",
+      "credibility_tier": "official",
+      "credibility_note": "Official Steam patch notes post from Bungie describing a shipped update.",
+      "published_at": "2026-10-20T00:00:00Z",
+      "category": "patch-notes",
+      "corroborating_sources": []
+    }
+  ],
+  "no_news_found": false
+}
