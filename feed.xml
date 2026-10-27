@@ -6,7 +6,14 @@
 <atom:link href="https://dailyexfil.com/feed.xml" rel="self" type="application/rss+xml"/>
 <description>Daily Marathon (Bungie) news digest. Official, press, and community items tiered by credibility, cross-referenced, and link-checked.</description>
 <language>en</language>
-<lastBuildDate>Mon, 26 Oct 2026 19:05:01 GMT</lastBuildDate>
+<lastBuildDate>Tue, 27 Oct 2026 19:03:38 GMT</lastBuildDate>
+<item>
+<title>DAILY EXFIL 2026-10-27: Marathon Update 1.1.9.6 Released</title>
+<link>https://dailyexfil.com/day/2026-10-27.html</link>
+<guid isPermaLink="true">https://dailyexfil.com/day/2026-10-27.html</guid>
+<pubDate>Tue, 27 Oct 2026 20:00:00 GMT</pubDate>
+<description><![CDATA[[OFFICIAL] Marathon Update 1.1.9.6 Released<br>[COMMS] Player reports Perimeter feels empty despite reasonable matchmaking times<br>[COMMS] Community pushes back on signal jammers and consumable balance<br>[COMMS] Players debate alternative fix for Cryo zone rushing in Control mode<br>[COMMS] Players ask for multiple active contracts to reduce grind friction<br>[PRESS] Context: Bungie acknowledged Marathon's extraction focus missed the mark and outlined a reset plan<br>[COMMS] Context: Marathon's player base reportedly dropped 96 percent since launch]]></description>
+</item>
 <item>
 <title>DAILY EXFIL 2026-10-26: Community reports economy and matchmaking problems persist after Nightfall Refresh</title>
 <link>https://dailyexfil.com/day/2026-10-26.html</link>
@@ -97,13 +104,6 @@
 <guid isPermaLink="true">https://dailyexfil.com/day/2026-10-14.html</guid>
 <pubDate>Wed, 14 Oct 2026 20:00:00 GMT</pubDate>
 <description><![CDATA[[COMMS] Marathon Patch 1.1.9.4 Fixes Codex, Contracts, and Factions Bugs<br>[COMMS] Bungie Dev Team Introduces 'On Point' and 'Runtime' Weapon Stickers for Creators<br>[COMMS] Players Debate Matchmaking After Winning Streaks Pair Them With Newer Teammates<br>[COMMS] Community Pitches 'Deadlock' Opt-In PvP Concept Inspired by The Division's Rogue Mode<br>[COMMS] Players Report Outpost Handing Out High-Tier Loot After Economy Wipe<br>[COMMS] Marathon GM Josh Deane Comments on Classic Marathon PC Footage<br>[PRESS] Context: Bungie Confirms Nightfall Refresh Economy Reset and Roadmap Through March 2027]]></description>
-</item>
-<item>
-<title>DAILY EXFIL 2026-10-13: Marathon Update 1.1.9.4 Released</title>
-<link>https://dailyexfil.com/day/2026-10-13.html</link>
-<guid isPermaLink="true">https://dailyexfil.com/day/2026-10-13.html</guid>
-<pubDate>Tue, 13 Oct 2026 20:00:00 GMT</pubDate>
-<description><![CDATA[[OFFICIAL] Marathon Update 1.1.9.4 Released<br>[COMMS] Players report lingering economy and matchmaking problems after Nightfall Refresh<br>[COMMS] Community asks how Marathon is doing right now during Steam sale<br>[COMMS] Player frustration over Game Pass requirement to play Marathon online<br>[COMMS] Returning players ask about PvE options ahead of December update<br>[COMMS] Players pitch alternate Cryo mode tied to match timer instead of tag collection<br>[STAFF] Context: Game director outlined December Symbiosis changes based on player feedback<br>[PRESS] Context: Nightfall Refresh reset progression and economy on October 6]]></description>
 </item>
 </channel>
 </rss>

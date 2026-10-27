@@ -1,0 +1,89 @@
+{
+  "date": "2026-10-27",
+  "items": [
+    {
+      "title": "Marathon Update 1.1.9.6 Released",
+      "summary": "Bungie shipped patch 1.1.9.6 today, fixing a bug where players in solo or duo contracts were not getting the correct bonus reputation rewards. The update also fixes a Night Marsh spawn issue where an improperly placed UESC dropship could down players, and confirms the Sponsored Perimeter event starts this Thursday, October 29.",
+      "source_name": "Steam News (official Bungie posts)",
+      "source_url": "https://store.steampowered.com/news/app/3065800/view/710038327520138700",
+      "credibility_tier": "official",
+      "credibility_note": "Posted directly to the official Steam news feed for the game.",
+      "published_at": "2026-10-27T17:00:49.000Z",
+      "category": "patch-notes",
+      "corroborating_sources": [
+        "https://www.reddit.com/r/Marathon/comments/1xgwifr/marathon_update_1196/",
+        "https://help.marathonthegame.com/hc/en-us/articles/39001626488596-Marathon-Server-and-Update-Status"
+      ]
+    },
+    {
+      "title": "Player reports Perimeter feels empty despite reasonable matchmaking times",
+      "summary": "A new player who picked up Marathon through a Humble Bundle says they ran five matches on Perimeter and never encountered a single enemy runner, despite only waiting about three minutes in queue from the SEA region. The post reflects ongoing community concern about how low the active population is even when matchmaking itself still functions.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1xgqg9z/finally_bought_the_game_but_perimeter_seems/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Single player's firsthand account on Reddit, not independently verified population data.",
+      "published_at": "2026-10-27T11:53:24.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Community pushes back on signal jammers and consumable balance",
+      "summary": "A detailed Reddit post argues that signal jammers create too much visual obfuscation and unfairly counter abilities and mechanics across the board, drawing a comparison to how Bungie previously nerfed assassin invisibility after feedback. The thread calls for Bungie to apply similar balance scrutiny to jammers and other disparity-causing consumables.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1xgvwi8/consumable_disparity/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Player opinion and balance feedback thread on Reddit, not an official statement.",
+      "published_at": "2026-10-27T15:39:44.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Players debate alternative fix for Cryo zone rushing in Control mode",
+      "summary": "A community member proposes an alternative to Bungie's stated plan of raising the credentials needed to rotate Cryo zones, suggesting instead a warning system that alerts all players once security doors are breached. The post ties into previously discussed Symbiosis-era plans for reworking how Control zones funnel players.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1xgts3j/cryo_question_what_if_instead_of_funneling_the/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Player-authored design suggestion on Reddit, not an official dev statement.",
+      "published_at": "2026-10-27T14:18:08.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Players ask for multiple active contracts to reduce grind friction",
+      "summary": "A Reddit post explains that running a single active contract (like a kill-focused one) can make matches feel empty of enemy runners, while switching to a different contract type often leads to finding and killing someone in the next run. The poster asks Bungie to allow stacking contracts, such as fetch quests alongside kill contracts, to reduce the tedium of unlocking characters like Arachne.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1xgu2ym/this_contract_is_why_we_should_be_able_to_have/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Individual player feedback and feature request on Reddit.",
+      "published_at": "2026-10-27T14:29:55.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Context: Bungie acknowledged Marathon's extraction focus missed the mark and outlined a reset plan",
+      "summary": "This story was originally reported October 19, 2026, citing a late September Bungie development update where the studio admitted Marathon's extraction-focused launch vision failed to connect with enough players. Bungie said it plans to evolve the game with a permanent PvE mode arriving in December and a larger systems overhaul targeted for March 2027, which provides background for why current patches remain incremental while a bigger pivot is still months away.",
+      "source_name": "Upcomer",
+      "source_url": "https://upcomer.com/death-was-the-only-step-bungie-admits-marathon-missed-the-mark-and-plans-a-reset/",
+      "credibility_tier": "verified-journalist",
+      "credibility_note": "Reporting from an established gaming outlet citing an official Bungie development update.",
+      "published_at": "2026-10-19T07:55:00Z",
+      "category": "layoffs-business",
+      "corroborating_sources": [
+        "https://tech-insider.org/bungie-admits-marathon-flopped-33-percent-drop-2026/",
+        "https://shattered.io/marathon-88337-peak-players-bungie-2026/"
+      ]
+    },
+    {
+      "title": "Context: Marathon's player base reportedly dropped 96 percent since launch",
+      "summary": "This figure was originally reported October 10, 2026, citing data showing Marathon lost the large majority of its launch-day player base by mid-2026, contributing to a 765 million dollar write-down Sony recorded for the fiscal year. The stat helps explain community reports like today's observation of near-empty Perimeter matches despite short queue times.",
+      "source_name": "Tech Insider",
+      "source_url": "https://tech-insider.org/bungie-destiny-2-reversal-marathon-collapse-2026/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Sourced from a site not established as a major gaming outlet, so the specific 96 percent figure is unverified despite being widely cited.",
+      "published_at": "2026-10-10T00:00:00Z",
+      "category": "layoffs-business",
+      "corroborating_sources": []
+    }
+  ],
+  "no_news_found": false
+}
