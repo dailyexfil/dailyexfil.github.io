@@ -6,7 +6,14 @@
 <atom:link href="https://dailyexfil.com/feed.xml" rel="self" type="application/rss+xml"/>
 <description>Daily Marathon (Bungie) news digest. Official, press, and community items tiered by credibility, cross-referenced, and link-checked.</description>
 <language>en</language>
-<lastBuildDate>Tue, 27 Oct 2026 19:03:38 GMT</lastBuildDate>
+<lastBuildDate>Wed, 28 Oct 2026 19:05:13 GMT</lastBuildDate>
+<item>
+<title>DAILY EXFIL 2026-10-28: Marathon Update 1.1.9.6 Fixes Contract Reputation Rewards, Sets Up Sponsored Perimeter</title>
+<link>https://dailyexfil.com/day/2026-10-28.html</link>
+<guid isPermaLink="true">https://dailyexfil.com/day/2026-10-28.html</guid>
+<pubDate>Wed, 28 Oct 2026 20:00:00 GMT</pubDate>
+<description><![CDATA[[COMMS] Marathon Update 1.1.9.6 Fixes Contract Reputation Rewards, Sets Up Sponsored Perimeter<br>[COMMS] Returning Player Asks: Worth Jumping Into Marathon Now or Waiting for December?<br>[COMMS] Players Say Season 2.5 Loot Pool Makes Informal Solo Lobby Teamups Viable in Pinwheel<br>[COMMS] Solo Players Question Whether AI Bot Difficulty Has Been Rebalanced<br>[COMMS] Community Pitches Buffs for Underperforming Triage Shell<br>[OFFICIAL] Context: Bungie Admits Marathon Missed the Mark, Lays Out Overhaul Roadmap Through March 2027<br>[PRESS] Context: June 2026 Bungie Layoffs Cut About 292 Staff, Including Marathon Leadership]]></description>
+</item>
 <item>
 <title>DAILY EXFIL 2026-10-27: Marathon Update 1.1.9.6 Released</title>
 <link>https://dailyexfil.com/day/2026-10-27.html</link>
@@ -97,13 +104,6 @@
 <guid isPermaLink="true">https://dailyexfil.com/day/2026-10-15.html</guid>
 <pubDate>Thu, 15 Oct 2026 20:00:00 GMT</pubDate>
 <description><![CDATA[[COMMS] Player Reports Ban Over PlayStation Portal Use, Cites Bungie Silence<br>[COMMS] Players Say Green Salvage Drop Rates Are Too Low for Faction Grinding<br>[OFFICIAL] Context: Bungie's Nightfall Refresh Went Live With a Progression and Economy Reset<br>[PRESS] Context: Sony Laid Off 292 Bungie Employees, Including Marathon Senior Leadership]]></description>
-</item>
-<item>
-<title>DAILY EXFIL 2026-10-14: Marathon Patch 1.1.9.4 Fixes Codex, Contracts, and Factions Bugs</title>
-<link>https://dailyexfil.com/day/2026-10-14.html</link>
-<guid isPermaLink="true">https://dailyexfil.com/day/2026-10-14.html</guid>
-<pubDate>Wed, 14 Oct 2026 20:00:00 GMT</pubDate>
-<description><![CDATA[[COMMS] Marathon Patch 1.1.9.4 Fixes Codex, Contracts, and Factions Bugs<br>[COMMS] Bungie Dev Team Introduces 'On Point' and 'Runtime' Weapon Stickers for Creators<br>[COMMS] Players Debate Matchmaking After Winning Streaks Pair Them With Newer Teammates<br>[COMMS] Community Pitches 'Deadlock' Opt-In PvP Concept Inspired by The Division's Rogue Mode<br>[COMMS] Players Report Outpost Handing Out High-Tier Loot After Economy Wipe<br>[COMMS] Marathon GM Josh Deane Comments on Classic Marathon PC Footage<br>[PRESS] Context: Bungie Confirms Nightfall Refresh Economy Reset and Roadmap Through March 2027]]></description>
 </item>
 </channel>
 </rss>

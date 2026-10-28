@@ -1,0 +1,92 @@
+{
+  "date": "2026-10-28",
+  "items": [
+    {
+      "title": "Marathon Update 1.1.9.6 Fixes Contract Reputation Rewards, Sets Up Sponsored Perimeter",
+      "summary": "Bungie released update 1.1.9.6 on October 27, fixing solo and duo contract reputation rewards and correcting a Night Marsh issue where UESC dropships were spawning incorrectly. The patch also confirmed the Sponsored Perimeter event starts Thursday, October 29. Bungie's official server status account separately confirmed maintenance for the update was completed ahead of schedule.",
+      "source_name": "GameRiv",
+      "source_url": "https://gameriv.com/marathon-update-1-1-9-6-fixes-solo-and-duo-contract-rewards-adds-sponsored-perimeter-date/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "GameRiv is not among recognized major gaming outlets, included because it is the only candidate source with specific shipped patch details, partially corroborated by Bungie's own official server status account.",
+      "published_at": "2026-10-28T12:04:00Z",
+      "category": "patch-notes",
+      "corroborating_sources": [
+        "https://bsky.app/profile/bungieserverstatus.bungie.net"
+      ]
+    },
+    {
+      "title": "Returning Player Asks: Worth Jumping Into Marathon Now or Waiting for December?",
+      "summary": "A player taking a break from gaming asked the r/Marathon community whether it is worth starting now or better to wait until the December update, after hearing about negative sentiment and a shrinking player count. The thread drew responses weighing current content against Bungie's planned December Symbiosis update, reflecting ongoing community concern about population health.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1xhmawi/worth_jumping_in_now_or_waiting_until_december/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Reddit community discussion thread reflecting player sentiment rather than confirmed information.",
+      "published_at": "2026-10-28T12:09:09.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Players Say Season 2.5 Loot Pool Makes Informal Solo Lobby Teamups Viable in Pinwheel",
+      "summary": "A community post described how Season 2.5's loot abundance makes it efficient for solo players to informally cooperate with other 'free kitters' in a lobby rather than fight over every item on Pinwheel. The poster suggested this loot abundance may be part of why Bungie still has not enabled solo queueing for Cryo, the game's hardest content.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1xho1kn/free_kit_farming_season_25s_loot_pool_has_made_it/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Reddit community discussion thread reflecting player sentiment and observed gameplay rather than confirmed information.",
+      "published_at": "2026-10-28T13:27:02.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Solo Players Question Whether AI Bot Difficulty Has Been Rebalanced",
+      "summary": "A returning solo player asked whether enemy AI has been adjusted since July, when bots reportedly felt overly tanky for a lone runner, especially in groups that spawn to guard locked containers. The thread highlights a recurring community question about whether PvE encounters are properly balanced for solo play versus full squads.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1xhn0a5/have_the_bots_been_balanced_on_normal_playlists/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Reddit community discussion thread reflecting player sentiment rather than confirmed information.",
+      "published_at": "2026-10-28T12:42:16.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Community Pitches Buffs for Underperforming Triage Shell",
+      "summary": "A player argued that the Triage shell lags behind other runners in high level play, calling most of its cores and abilities underwhelming outside niche situations. The post proposed specific buffs and criticized the Parting Gift implant for devaluing Triage's drone kit, adding to the steady stream of balance feedback the community sends between patches.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1xhv7l3/triage_buff_ideas/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Reddit community discussion thread reflecting player balance feedback rather than confirmed information.",
+      "published_at": "2026-10-28T17:50:47.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Context: Bungie Admits Marathon Missed the Mark, Lays Out Overhaul Roadmap Through March 2027",
+      "summary": "This Bungie.net post was published September 24, 2026, when the studio publicly admitted that Marathon's extraction-focused design did not reach the broad audience it hoped for and was too punishing for new players. Bungie laid out a reset plan running through March 2027, starting with the October Nightfall Refresh, adding a permanent PvE mode and new Runner shell in the December Symbiosis update, and a new zone with alien combatants planned for March 2027.",
+      "source_name": "Bungie.net",
+      "source_url": "https://www.bungie.net/7/en/News/Article/futureofmarathon",
+      "credibility_tier": "official",
+      "credibility_note": "Direct official Bungie.net statement from the developer about the game's strategic direction.",
+      "published_at": "2026-09-24T00:00:00Z",
+      "category": "other",
+      "corroborating_sources": [
+        "https://upcomer.com/death-was-the-only-step-bungie-admits-marathon-missed-the-mark-and-plans-a-reset/",
+        "https://kotaku.com/marathon-is-becoming-a-much-bigger-game-as-bungie-teases-a-new-zone-social-space-deathmatch-mode-and-more-2000737026",
+        "https://insider-gaming.com/the-future-of-marathon-has-been-revealed-by-bungie/",
+        "https://www.tweaktown.com/news/113946/bungie-reveals-marathon-nightfall-refresh-and-symbiosis-roadmap/index.html"
+      ]
+    },
+    {
+      "title": "Context: June 2026 Bungie Layoffs Cut About 292 Staff, Including Marathon Leadership",
+      "summary": "This Game Developer report was published June 25, 2026, covering Sony's layoffs at Bungie that cut roughly 292 employees, affecting most of the Destiny 2 team and some Marathon staff after years of missed revenue targets. Studio head Justin Truman stepped down and Bungie's entire cinematics department was eliminated as part of the restructuring.",
+      "source_name": "Game Developer (GDC)",
+      "source_url": "https://www.gamedeveloper.com/business/sony-is-laying-off-most-of-the-destiny-team-and-some-marathon-devs",
+      "credibility_tier": "verified-journalist",
+      "credibility_note": "Game Developer is an established game industry trade publication with a track record of verified reporting.",
+      "published_at": "2026-06-25T00:00:00Z",
+      "category": "layoffs-business",
+      "corroborating_sources": [
+        "https://thegamepost.com/sonys-bungie-layoffs-hit-marathon-senior-roles-general-manager/"
+      ]
+    }
+  ],
+  "no_news_found": false
+}

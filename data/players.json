@@ -1297,5 +1297,13 @@
   "peak": 2833,
   "peak_at": "02:40",
   "peak_src": "exfil"
+ },
+ {
+  "date": "2026-10-28",
+  "players": 2112,
+  "sampled_at": "2026-10-28T19:05:12.378Z",
+  "peak": 2913,
+  "peak_at": "01:30",
+  "peak_src": "exfil"
  }
 ]
