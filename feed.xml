@@ -6,7 +6,14 @@
 <atom:link href="https://dailyexfil.com/feed.xml" rel="self" type="application/rss+xml"/>
 <description>Daily Marathon (Bungie) news digest. Official, press, and community items tiered by credibility, cross-referenced, and link-checked.</description>
 <language>en</language>
-<lastBuildDate>Wed, 28 Oct 2026 19:05:13 GMT</lastBuildDate>
+<lastBuildDate>Thu, 29 Oct 2026 19:02:47 GMT</lastBuildDate>
+<item>
+<title>DAILY EXFIL 2026-10-29: Bungie's October Community Update reaffirms Marathon is essential, flags December and March as decisive</title>
+<link>https://dailyexfil.com/day/2026-10-29.html</link>
+<guid isPermaLink="true">https://dailyexfil.com/day/2026-10-29.html</guid>
+<pubDate>Thu, 29 Oct 2026 20:00:00 GMT</pubDate>
+<description><![CDATA[[OFFICIAL] Bungie's October Community Update reaffirms Marathon is essential, flags December and March as decisive<br>[COMMS] Players debate whether Bungie's new blog post is guilt-tripping the community<br>[COMMS] Players report suspected matchmaking abuse amid low population<br>[COMMS] Players question why Season 2.5's Vault Breakers event only runs three weeks<br>[COMMS] Players say bots feel noticeably stronger since the recent refresh<br>[PRESS] Context: Marathon's October 20 update added the Vault Breaker event<br>[OFFICIAL] Context: Bungie's September 24 roadmap outlined December's Symbiosis update]]></description>
+</item>
 <item>
 <title>DAILY EXFIL 2026-10-28: Marathon Update 1.1.9.6 Fixes Contract Reputation Rewards, Sets Up Sponsored Perimeter</title>
 <link>https://dailyexfil.com/day/2026-10-28.html</link>
@@ -97,13 +104,6 @@
 <guid isPermaLink="true">https://dailyexfil.com/day/2026-10-16.html</guid>
 <pubDate>Fri, 16 Oct 2026 20:00:00 GMT</pubDate>
 <description><![CDATA[[COMMS] Players debate whether Compiler Ganglion trade nerf hurts Cryo Archive's long-term appeal<br>[COMMS] Players report empty lobbies and raise population concerns<br>[COMMS] Community frustration over low bag drop rates in Outpost<br>[COMMS] Community debates highest skill-ceiling shell: Destroyer vs Vandal<br>[COMMS] Context: Hotfix 1.1.9.4 shipped with Codex, Contracts, and Factions fixes<br>[OFFICIAL] Context: Bungie outlines Marathon roadmap through March 2027]]></description>
-</item>
-<item>
-<title>DAILY EXFIL 2026-10-15: Player Reports Ban Over PlayStation Portal Use, Cites Bungie Silence</title>
-<link>https://dailyexfil.com/day/2026-10-15.html</link>
-<guid isPermaLink="true">https://dailyexfil.com/day/2026-10-15.html</guid>
-<pubDate>Thu, 15 Oct 2026 20:00:00 GMT</pubDate>
-<description><![CDATA[[COMMS] Player Reports Ban Over PlayStation Portal Use, Cites Bungie Silence<br>[COMMS] Players Say Green Salvage Drop Rates Are Too Low for Faction Grinding<br>[OFFICIAL] Context: Bungie's Nightfall Refresh Went Live With a Progression and Economy Reset<br>[PRESS] Context: Sony Laid Off 292 Bungie Employees, Including Marathon Senior Leadership]]></description>
 </item>
 </channel>
 </rss>

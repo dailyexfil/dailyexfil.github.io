@@ -1,0 +1,87 @@
+{
+  "date": "2026-10-29",
+  "items": [
+    {
+      "title": "Bungie's October Community Update reaffirms Marathon is essential, flags December and March as decisive",
+      "summary": "Bungie published its monthly Community Update on October 29, with product manager Josh Deane addressing Marathon's underperformance and reaffirming the game is essential to the studio's future. The post says Marathon needs to evolve toward survival and looting, calling the December 2026 Symbiosis update and a March 2027 follow-up decisive for the game's direction, and the same post also announced Bungie will un-vault old Destiny 2 campaigns, raids, and strikes.",
+      "source_name": "Bungie.net",
+      "source_url": "https://www.bungie.net/7/en/News/Article/bungiecommunityupdate_10_27",
+      "credibility_tier": "official",
+      "credibility_note": "Direct post from Bungie's official news blog.",
+      "published_at": "2026-10-29T03:00:00Z",
+      "category": "other",
+      "corroborating_sources": [
+        "https://news.instant-gaming.com/en/articles/22766-bungie-releases-a-lengthy-statement-on-its-situation"
+      ]
+    },
+    {
+      "title": "Players debate whether Bungie's new blog post is guilt-tripping the community",
+      "summary": "A Reddit thread reacting to today's Bungie Community Update argues the post's framing, essentially that players need to support Marathon for it to survive, feels like guilt tripping rather than a straightforward update. Commenters pushed back, saying a good game should sell itself without that kind of appeal.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1xis13k/this_almost_reads_like_guilt_tripping_am_i_crazy/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Reddit discussion thread reflecting player opinion, not verified reporting.",
+      "published_at": "2026-10-29T18:28:06.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Players report suspected matchmaking abuse amid low population",
+      "summary": "A Reddit post describes a suspected pattern where coordinated squads split up and intentionally match into the same lobby, with one member quickly leaving so a geared-up team can then ambush the remaining players. The poster says this seems to be happening more as the player base shrinks, making low population easier to exploit.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1xil9tw/abuse_of_matchmaking/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Unverified player report and theory, not confirmed by Bungie or independent testing.",
+      "published_at": "2026-10-29T14:18:13.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Players question why Season 2.5's Vault Breakers event only runs three weeks",
+      "summary": "A Reddit thread questions Bungie's decision to run the Vault Breakers event for only three weeks instead of keeping sponsored modes active until Season 3, arguing that limiting content access works against efforts to revive the game. The discussion reflects broader frustration with how Bungie is pacing content during the current slower update schedule.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1xiow93/i_dont_understand_the_season_25_schedule/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Reddit opinion thread about scheduling decisions, not an official statement.",
+      "published_at": "2026-10-29T16:33:40.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Players say bots feel noticeably stronger since the recent refresh",
+      "summary": "A Reddit post asks whether AI enemies got tougher after a recent game update, with the poster saying their squad has been taking heavier damage from bots than before. Other players in the thread are weighing in on whether this is a real difficulty change or a perception shift.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1xiomm7/are_the_bots_juiced_now_or_what/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Anecdotal player feedback thread, not confirmed by patch notes or Bungie.",
+      "published_at": "2026-10-29T16:23:49.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Context: Marathon's October 20 update added the Vault Breaker event",
+      "summary": "This update was originally published on October 20, 2026. Marathon patch 1.1.9.5 (Update 1.036) introduced the Vault Breaker event, running from October 20 through November 10, along with changes to deluxe item stock and solo player currency bonuses. This background helps explain today's player debate over why the event's run is so short.",
+      "source_name": "MP1ST",
+      "source_url": "https://mp1st.com/title-updates-and-patches/marathon-update-1-036-brings-vault-breaker-on-october-20-patch-1-1-9-5",
+      "credibility_tier": "verified-journalist",
+      "credibility_note": "Established gaming outlet reporting on official patch notes.",
+      "published_at": "2026-10-20T12:44:00Z",
+      "category": "patch-notes",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Context: Bungie's September 24 roadmap outlined December's Symbiosis update",
+      "summary": "This roadmap was originally published on September 24, 2026. Bungie detailed plans for Marathon's first permanent PvE mode, an expanded Perimeter zone, a new social space, and an experimental Team Deathmatch mode arriving in December, with deeper PvE and PvP integration planned for March 2027. Today's October 29 Community Update reaffirmed these same December and March milestones as decisive for the game's future.",
+      "source_name": "Bungie.net",
+      "source_url": "https://www.bungie.net/7/en/News/Article/futureofmarathon",
+      "credibility_tier": "official",
+      "credibility_note": "Direct roadmap post from Bungie's official news blog.",
+      "published_at": "2026-09-24T00:00:00Z",
+      "category": "gameplay-content",
+      "corroborating_sources": [
+        "https://kotaku.com/marathon-is-becoming-a-much-bigger-game-as-bungie-teases-a-new-zone-social-space-deathmatch-mode-and-more-2000737026"
+      ]
+    }
+  ],
+  "no_news_found": false
+}
