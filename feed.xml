@@ -6,7 +6,14 @@
 <atom:link href="https://dailyexfil.com/feed.xml" rel="self" type="application/rss+xml"/>
 <description>Daily Marathon (Bungie) news digest. Official, press, and community items tiered by credibility, cross-referenced, and link-checked.</description>
 <language>en</language>
-<lastBuildDate>Thu, 29 Oct 2026 19:02:47 GMT</lastBuildDate>
+<lastBuildDate>Fri, 30 Oct 2026 19:03:21 GMT</lastBuildDate>
+<item>
+<title>DAILY EXFIL 2026-10-30: Bungie's October Community Update Acknowledges Marathon Underperformance, Confirms December 8 Symbiosis Launch</title>
+<link>https://dailyexfil.com/day/2026-10-30.html</link>
+<guid isPermaLink="true">https://dailyexfil.com/day/2026-10-30.html</guid>
+<pubDate>Fri, 30 Oct 2026 20:00:00 GMT</pubDate>
+<description><![CDATA[[PRESS] Bungie's October Community Update Acknowledges Marathon Underperformance, Confirms December 8 Symbiosis Launch<br>[PRESS] Bungie Product Head: Don't Buy Marathon as a 'Donation', Destiny 2 Plans Are Independent<br>[COMMS] Community Debate: Vault Breaker Called a 'Bad Template' for Marathon's PvE Future<br>[COMMS] Players Warn Level 3 Clearance Requirement for Cryo Side Paths Could Push People Away<br>[COMMS] Community Frustration Over Lack of New Maps Since Launch<br>[COMMS] Players Call for Ranked Mode to Return for Seasonal Progression<br>[OFFICIAL] Context: Bungie Confirmed December Symbiosis Update With Permanent PvE and Expanded Content]]></description>
+</item>
 <item>
 <title>DAILY EXFIL 2026-10-29: Bungie's October Community Update reaffirms Marathon is essential, flags December and March as decisive</title>
 <link>https://dailyexfil.com/day/2026-10-29.html</link>
@@ -97,13 +104,6 @@
 <guid isPermaLink="true">https://dailyexfil.com/day/2026-10-17.html</guid>
 <pubDate>Sat, 17 Oct 2026 20:00:00 GMT</pubDate>
 <description><![CDATA[[PRESS] Analysis: Marathon Could Rebound by Fixing Its Core Launch Mistakes<br>[COMMS] Players Report Repeated Empty Lobbies, Question Marathon's Population Health<br>[COMMS] Community Debates Whether Marathon's Matchmaking Fuels a Self-Reinforcing Skill Gap<br>[COMMS] Players Push Back on Story Progression Tied to Successful Extractions<br>[OFFICIAL] Context: Nightfall Refresh Reset Marathon's Economy and Progression<br>[OFFICIAL] Context: Bungie Published a Roadmap for Marathon Through March 2027]]></description>
-</item>
-<item>
-<title>DAILY EXFIL 2026-10-16: Players debate whether Compiler Ganglion trade nerf hurts Cryo Archive's long-term appeal</title>
-<link>https://dailyexfil.com/day/2026-10-16.html</link>
-<guid isPermaLink="true">https://dailyexfil.com/day/2026-10-16.html</guid>
-<pubDate>Fri, 16 Oct 2026 20:00:00 GMT</pubDate>
-<description><![CDATA[[COMMS] Players debate whether Compiler Ganglion trade nerf hurts Cryo Archive's long-term appeal<br>[COMMS] Players report empty lobbies and raise population concerns<br>[COMMS] Community frustration over low bag drop rates in Outpost<br>[COMMS] Community debates highest skill-ceiling shell: Destroyer vs Vandal<br>[COMMS] Context: Hotfix 1.1.9.4 shipped with Codex, Contracts, and Factions fixes<br>[OFFICIAL] Context: Bungie outlines Marathon roadmap through March 2027]]></description>
 </item>
 </channel>
 </rss>

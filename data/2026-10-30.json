@@ -1,0 +1,85 @@
+{
+  "date": "2026-10-30",
+  "items": [
+    {
+      "title": "Bungie's October Community Update Acknowledges Marathon Underperformance, Confirms December 8 Symbiosis Launch",
+      "summary": "Bungie published a lengthy community update on October 29, 2026, admitting Marathon has not reached as many players as the studio had hoped. The update confirmed the Symbiosis update will launch December 8, 2026, and detailed audio tuning changes for stealth gameplay that will cut the audible range of extraction and locked room sounds by about half. Leadership reiterated that Marathon remains essential to the studio's future.",
+      "source_name": "Instant Gaming News",
+      "source_url": "https://news.instant-gaming.com/en/articles/22766-bungie-releases-a-lengthy-statement-on-its-situation",
+      "credibility_tier": "verified-journalist",
+      "credibility_note": "Reporting on an official Bungie statement from a gaming news outlet, not a direct Bungie.net post with full text available in candidates.",
+      "published_at": "2026-10-29T09:43:00Z",
+      "category": "community-discussion",
+      "corroborating_sources": [
+        "https://marathonthegame.com/"
+      ]
+    },
+    {
+      "title": "Bungie Product Head: Don't Buy Marathon as a 'Donation', Destiny 2 Plans Are Independent",
+      "summary": "Bungie product head Josh Deane addressed community fears that Destiny 2's future depends on whether Marathon recovers. He said Destiny 2 support plans are not contingent on Marathon's performance and urged players to only buy Marathon if they genuinely enjoy it, not out of obligation.",
+      "source_name": "GamesRadar",
+      "source_url": "https://www.gamesradar.com/games/destiny/dont-buy-marathon-as-a-donation-bungie-boss-says-as-players-worry-destiny-2s-fate-hinges-on-another-games-comeback/",
+      "credibility_tier": "verified-journalist",
+      "credibility_note": "Established gaming outlet reporting direct statements from a named Bungie executive.",
+      "published_at": "2026-10-30T00:00:00Z",
+      "category": "layoffs-business",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Community Debate: Vault Breaker Called a 'Bad Template' for Marathon's PvE Future",
+      "summary": "A detailed Reddit post argues that Vault Breaker, Marathon's existing PvE mode, fails to capture what makes the game special and sets a poor precedent for future PvE content including the upcoming Symbiosis update. The player, citing 220 hours of mostly solo play, says the mode once got a newcomer excited about FPS games but has fallen short of its early promise.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1xjnwx8/vault_breaker_is_a_bad_template_for_marathons/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Reddit community discussion thread, unverified individual opinion but substantive feedback on game direction.",
+      "published_at": "2026-10-30T18:51:02.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Players Warn Level 3 Clearance Requirement for Cryo Side Paths Could Push People Away",
+      "summary": "A Reddit thread argues that requiring Level 3 clearance to access Cryo side paths in the upcoming Symbiosis update will worsen the mode's already punishing difficulty. The poster says lobby populations have already thinned compared to the prior weekend and worries the change will accelerate player loss from Cryo.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1xjj8vo/level_3_clearance_for_cryo_side_paths_in/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Reddit community discussion thread raising balance concerns ahead of an announced update, unverified but substantive.",
+      "published_at": "2026-10-30T15:59:03.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Community Frustration Over Lack of New Maps Since Launch",
+      "summary": "Players on r/Marathon are criticizing Bungie for not shipping any genuinely new maps since the game launched, saying a recently touted 'new' map is just a reworked section of an existing one. The complaint reflects ongoing frustration about slow content delivery during the extended update gap.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1xjkbh0/lack_of_new_maps/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Reddit community complaint thread, reflects player sentiment but is an individual opinion post.",
+      "published_at": "2026-10-30T16:38:07.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Players Call for Ranked Mode to Return for Seasonal Progression",
+      "summary": "A Reddit thread argues Marathon needs a ranked mode to give players a sense of progression beyond loot and vault grinding, noting that many streamers stop playing when Cryo rotations are closed. The poster says ranked needs to return in full force by December so players have a reason to spend their accumulated loot.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1xjkur4/ranked_is_absolutely_needed_for_seasonal/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Reddit community discussion thread expressing a progression system request, unverified individual opinion.",
+      "published_at": "2026-10-30T16:57:51.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Context: Bungie Confirmed December Symbiosis Update With Permanent PvE and Expanded Content",
+      "summary": "This roadmap was originally published by Bungie on October 6, 2026. It confirmed the Symbiosis update will launch December 8, 2026, bringing the game's first permanent PvE experience, an expanded Perimeter area, a new shell, improved onboarding, a social space with a firing range, and an experimental Team Deathmatch mode.",
+      "source_name": "Bungie.net",
+      "source_url": "https://www.bungie.net/7/en/News/Article/nighfall_refresh_symbiosis_roadmap",
+      "credibility_tier": "official",
+      "credibility_note": "Direct official Bungie.net roadmap post, included as context to explain the Symbiosis update referenced in today's community update.",
+      "published_at": "2026-10-06T00:00:00Z",
+      "category": "gameplay-content",
+      "corroborating_sources": []
+    }
+  ],
+  "no_news_found": false
+}
