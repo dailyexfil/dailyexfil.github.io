@@ -6,7 +6,14 @@
 <atom:link href="https://dailyexfil.com/feed.xml" rel="self" type="application/rss+xml"/>
 <description>Daily Marathon (Bungie) news digest. Official, press, and community items tiered by credibility, cross-referenced, and link-checked.</description>
 <language>en</language>
-<lastBuildDate>Fri, 30 Oct 2026 19:03:21 GMT</lastBuildDate>
+<lastBuildDate>Sat, 31 Oct 2026 19:03:44 GMT</lastBuildDate>
+<item>
+<title>DAILY EXFIL 2026-10-31: Bungie says Destiny 2's future does not depend on Marathon's success</title>
+<link>https://dailyexfil.com/day/2026-10-31.html</link>
+<guid isPermaLink="true">https://dailyexfil.com/day/2026-10-31.html</guid>
+<pubDate>Sat, 31 Oct 2026 20:00:00 GMT</pubDate>
+<description><![CDATA[[PRESS] Bungie says Destiny 2's future does not depend on Marathon's success<br>[COMMS] Players debate toxicity toward newcomers on Marathon crew-fill<br>[COMMS] New player rant highlights steep learning curve in Marathon<br>[COMMS] Community spots possible PvE menu details in leaked footage<br>[COMMS] Players keep pressing Bungie for solo Cryo queue option]]></description>
+</item>
 <item>
 <title>DAILY EXFIL 2026-10-30: Bungie's October Community Update Acknowledges Marathon Underperformance, Confirms December 8 Symbiosis Launch</title>
 <link>https://dailyexfil.com/day/2026-10-30.html</link>
@@ -97,13 +104,6 @@
 <guid isPermaLink="true">https://dailyexfil.com/day/2026-10-18.html</guid>
 <pubDate>Sun, 18 Oct 2026 20:00:00 GMT</pubDate>
 <description><![CDATA[[COMMS] Marathon's Steam player counts spark Concord comparisons as trackers report conflicting numbers<br>[COMMS] Players question whether Marathon will see any more seasonal progression wipes<br>[COMMS] Bungie sends in-game survey asking players for feedback<br>[COMMS] Debate: would an easier Marathon be a worse Marathon?<br>[COMMS] Community debates reducing player interactions versus softening death penalties<br>[OFFICIAL] Context: Bungie outlines six-month Marathon roadmap through March 2027<br>[PRESS] Context: Bungie layoffs cut Destiny and Marathon teams, studio head steps down]]></description>
-</item>
-<item>
-<title>DAILY EXFIL 2026-10-17: Analysis: Marathon Could Rebound by Fixing Its Core Launch Mistakes</title>
-<link>https://dailyexfil.com/day/2026-10-17.html</link>
-<guid isPermaLink="true">https://dailyexfil.com/day/2026-10-17.html</guid>
-<pubDate>Sat, 17 Oct 2026 20:00:00 GMT</pubDate>
-<description><![CDATA[[PRESS] Analysis: Marathon Could Rebound by Fixing Its Core Launch Mistakes<br>[COMMS] Players Report Repeated Empty Lobbies, Question Marathon's Population Health<br>[COMMS] Community Debates Whether Marathon's Matchmaking Fuels a Self-Reinforcing Skill Gap<br>[COMMS] Players Push Back on Story Progression Tied to Successful Extractions<br>[OFFICIAL] Context: Nightfall Refresh Reset Marathon's Economy and Progression<br>[OFFICIAL] Context: Bungie Published a Roadmap for Marathon Through March 2027]]></description>
 </item>
 </channel>
 </rss>

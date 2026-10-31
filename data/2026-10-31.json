@@ -1,0 +1,64 @@
+{
+  "date": "2026-10-31",
+  "items": [
+    {
+      "title": "Bungie says Destiny 2's future does not depend on Marathon's success",
+      "summary": "Bungie product lead Josh Dean said Destiny 2's roadmap is not tied to how well Marathon performs commercially, pushing back on community worries that players were buying Marathon just to keep Destiny funded. Dean told fans not to buy Marathon as a donation, a comment that followed Bungie's October 29 studio update addressing Marathon's rocky launch and the plan for updates through March 2027.",
+      "source_name": "GamesRadar",
+      "source_url": "https://www.gamesradar.com/games/destiny/dont-buy-marathon-as-a-donation-bungie-boss-says-as-players-worry-destiny-2s-fate-hinges-on-another-games-comeback/",
+      "credibility_tier": "verified-journalist",
+      "credibility_note": "GamesRadar is an established gaming outlet directly quoting Bungie's product lead.",
+      "published_at": "2026-10-30T00:00:00Z",
+      "category": "layoffs-business",
+      "corroborating_sources": [
+        "https://ixbt.games/en/news/2026/10/30/bungie-prizvala-ne-pokupat-marathon-radi-podderzki-destiny-2.html",
+        "https://news.instant-gaming.com/en/articles/22766-bungie-releases-a-lengthy-statement-on-its-situation"
+      ]
+    },
+    {
+      "title": "Players debate toxicity toward newcomers on Marathon crew-fill",
+      "summary": "A Marathon player described being berated by a random teammate in a crew-fill PvP match for not knowing a map mechanic, sparking a thread about how new players get treated by more experienced squadmates. The discussion touches on a broader worry that veteran hostility is pushing away the newcomers Bungie needs to grow the player base.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1xkg6nm/are_people_on_fill_crew_usually_this_unhappy/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Single Reddit thread reflecting player sentiment, not verified by Bungie.",
+      "published_at": "2026-10-31T17:31:36.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "New player rant highlights steep learning curve in Marathon",
+      "summary": "A new Marathon player posted a frustrated account of struggling against experienced PvP opponents and finding the PvE mode unsatisfying, saying they would refund the game if they could. The post drew a largely supportive response from the community offering advice, underscoring how difficult the game can feel for newcomers.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1xk93ew/this_game_is_rough_for_a_new_player_unhappy_rant/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Single Reddit thread reflecting one player's experience and community replies, not verified data.",
+      "published_at": "2026-10-31T12:35:33.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Community spots possible PvE menu details in leaked footage",
+      "summary": "A community member claims to have spotted details of Marathon's upcoming PvE mode menu, including a six-box loadout layout and references to unconfirmed 'Flash Boosts', in footage reportedly from an in-progress 'Future of Marathon Part 2' video. The permanent PvE mode is expected to arrive in December with the Symbiosis update, but these specific details have not been confirmed by Bungie.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1xkcrud/pve_mode_menu_preview/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Unverified community leak analysis based on partial footage, not confirmed by Bungie.",
+      "published_at": "2026-10-31T15:14:16.000Z",
+      "category": "gameplay-content",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Players keep pressing Bungie for solo Cryo queue option",
+      "summary": "A Marathon player posted another clip renewing the recurring community request for a solo matchmaking option in the Cryo mode. The post is part of an ongoing pattern of player complaints that Bungie has not yet addressed solo queue requests for this mode.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1xkbco2/posting_a_random_solo_queue_kill_clip_till_bungie/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Community feature request thread, reflects player sentiment rather than confirmed plans.",
+      "published_at": "2026-10-31T14:15:56.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    }
+  ],
+  "no_news_found": false
+}
