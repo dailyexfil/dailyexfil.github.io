@@ -6,7 +6,14 @@
 <atom:link href="https://dailyexfil.com/feed.xml" rel="self" type="application/rss+xml"/>
 <description>Daily Marathon (Bungie) news digest. Official, press, and community items tiered by credibility, cross-referenced, and link-checked.</description>
 <language>en</language>
-<lastBuildDate>Sat, 31 Oct 2026 19:03:44 GMT</lastBuildDate>
+<lastBuildDate>Sun, 01 Nov 2026 20:05:09 GMT</lastBuildDate>
+<item>
+<title>DAILY EXFIL 2026-11-01: Bungie Clarifies: Don't Buy Marathon 'As a Donation' to Save the Studio</title>
+<link>https://dailyexfil.com/day/2026-11-01.html</link>
+<guid isPermaLink="true">https://dailyexfil.com/day/2026-11-01.html</guid>
+<pubDate>Sun, 01 Nov 2026 20:00:00 GMT</pubDate>
+<description><![CDATA[[PRESS] Bungie Clarifies: Don't Buy Marathon 'As a Donation' to Save the Studio<br>[COMMS] Players Keep Asking Bungie for a Solo Cryo Playlist<br>[COMMS] Community Flags Unfixed Biostock Ceiling Exploit for Thief Shell<br>[COMMS] Players Say Vault Loot Feels Underwhelming After DRRVSH Removal From Vault 1<br>[COMMS] Players Ask for Difficulty Scaling Options in Future PvE Modes<br>[OFFICIAL] Context: Bungie Community Update Addressed Destiny and Marathon Together, Teased December Dev Insight<br>[PRESS] Context: Marathon Patch 1.1.9.6 Fixed Contract Rewards and Night Marsh Spawn Bug]]></description>
+</item>
 <item>
 <title>DAILY EXFIL 2026-10-31: Bungie says Destiny 2's future does not depend on Marathon's success</title>
 <link>https://dailyexfil.com/day/2026-10-31.html</link>
@@ -97,13 +104,6 @@
 <guid isPermaLink="true">https://dailyexfil.com/day/2026-10-19.html</guid>
 <pubDate>Mon, 19 Oct 2026 20:00:00 GMT</pubDate>
 <description><![CDATA[[PRESS] Bungie admits Marathon missed the mark, plans major evolution beyond extraction shooter<br>[PRESS] Former Marathon director Joe Ziegler describes internal disagreements at Bungie<br>[COMMS] Marathon draws Concord comparisons as player counts stay low<br>[COMMS] Community feedback: motivation to play drops outside of Cryo mode<br>[COMMS] Community feedback: new player perspective flags loot rarity and fast time-to-kill<br>[COMMS] Community discussion: gear progression feels slower after Nightfall Refresh<br>[COMMS] Community discussion: will Call of Duty's extraction mode affect Marathon's population?<br>[OFFICIAL] Context: Bungie outlines six-month roadmap through March 2027, plans to evolve beyond extraction shooter<br>[OFFICIAL] Context: October 6 Nightfall Refresh reset player progression and economy]]></description>
-</item>
-<item>
-<title>DAILY EXFIL 2026-10-18: Marathon's Steam player counts spark Concord comparisons as trackers report conflicting numbers</title>
-<link>https://dailyexfil.com/day/2026-10-18.html</link>
-<guid isPermaLink="true">https://dailyexfil.com/day/2026-10-18.html</guid>
-<pubDate>Sun, 18 Oct 2026 20:00:00 GMT</pubDate>
-<description><![CDATA[[COMMS] Marathon's Steam player counts spark Concord comparisons as trackers report conflicting numbers<br>[COMMS] Players question whether Marathon will see any more seasonal progression wipes<br>[COMMS] Bungie sends in-game survey asking players for feedback<br>[COMMS] Debate: would an easier Marathon be a worse Marathon?<br>[COMMS] Community debates reducing player interactions versus softening death penalties<br>[OFFICIAL] Context: Bungie outlines six-month Marathon roadmap through March 2027<br>[PRESS] Context: Bungie layoffs cut Destiny and Marathon teams, studio head steps down]]></description>
 </item>
 </channel>
 </rss>

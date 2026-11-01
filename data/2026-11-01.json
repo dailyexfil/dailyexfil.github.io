@@ -1,0 +1,86 @@
+{
+  "date": "2026-11-01",
+  "items": [
+    {
+      "title": "Bungie Clarifies: Don't Buy Marathon 'As a Donation' to Save the Studio",
+      "summary": "Bungie head of product Josh Deane said this week that Destiny 2's future is not tied to how well Marathon sells, and urged players not to buy Marathon out of a sense of obligation to keep the studio afloat. The comments followed an October community update where Bungie said Marathon becoming sustainable would help the studio's future, language some players read as an appeal for financial support. Multiple outlets reported on the clarification, with some earlier framing Bungie's message as evidence the studio's survival depends on Marathon succeeding.",
+      "source_name": "EGW News",
+      "source_url": "https://egw.news/gaming/news/38177/dont-buy-marathon-as-a-donation-bungie-says-destin-kx5eMejqe",
+      "credibility_tier": "verified-journalist",
+      "credibility_note": "Reported independently by multiple smaller international gaming outlets quoting Bungie's head of product; no direct Bungie.net post was found for this specific clarification.",
+      "published_at": "2026-10-31T20:25:00Z",
+      "category": "layoffs-business",
+      "corroborating_sources": [
+        "https://ixbt.games/en/news/2026/10/30/bungie-prizvala-ne-pokupat-marathon-radi-podderzki-destiny-2.html",
+        "https://playfront.de/en/bungie-unter-druck-die-zukunft-haengt-an-marathon"
+      ]
+    },
+    {
+      "title": "Players Keep Asking Bungie for a Solo Cryo Playlist",
+      "summary": "A Reddit poster is posting a new solo-queue kill clip every day until Bungie adds a dedicated solo Cryo mode, now on day 5 of the running bit. The post reflects a recurring community complaint that Cryo currently favors grouped players, leaving solo runners without an equivalent option. It is part of a broader pattern of players publicly pushing Bungie on long standing feature requests.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1xl91wx/posting_a_random_solo_queue_kill_clip_till_bungie/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Single Reddit thread reflecting community sentiment, not independently verified.",
+      "published_at": "2026-11-01T17:32:46.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Community Flags Unfixed Biostock Ceiling Exploit for Thief Shell",
+      "summary": "Players report that the Thief shell can grapple into the ceiling of the Biostock point of interest, getting an uncontestable view of the entrance that no other shell can reach. The original poster says this kind of positioning would have resulted in bans during Season 1 but is now common in Cryo runs, with drones harassing teams and killing anyone who enters the POI. The thread calls on Bungie to patch the spot.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1xkwxdj/for_the_love_of_god_fix_biostock_ceiling_camping/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Single Reddit bug report, unverified by Bungie or other outlets.",
+      "published_at": "2026-11-01T07:26:53.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Players Say Vault Loot Feels Underwhelming After DRRVSH Removal From Vault 1",
+      "summary": "A Reddit thread argues that vaults have become less exciting since the DRRVSH weapon was removed from Vault 1, with posters saying the remaining gold weapons and loot do not feel rewarding enough to motivate runs. The discussion also questions whether the DRRVSH's new placement in Vault 6 is properly balanced. It reflects ongoing community debate about loot economy tuning after recent changes.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1xl0pq0/vaults_after_the_drrvsh_removal_from_vault_1/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Single Reddit opinion thread on loot balance, not corroborated elsewhere.",
+      "published_at": "2026-11-01T11:26:09.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Players Ask for Difficulty Scaling Options in Future PvE Modes",
+      "summary": "A Reddit post suggests Bungie add adjustable timers and difficulty scaling to future PvE modes like Vault Breaker, similar to systems used in Destiny. The poster says friends who avoid PvP found the current 30 minute timer too punishing while learning the game, even though they liked the gunplay. The thread is framed as direct feedback for Bungie, which has said it is tracking community input.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1xl2avg/future_pve_modes_should_have_the_option_of_timed/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Single Reddit feedback thread, not independently verified.",
+      "published_at": "2026-11-01T12:52:12.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Context: Bungie Community Update Addressed Destiny and Marathon Together, Teased December Dev Insight",
+      "summary": "This Bungie.net community update was originally published on October 29, 2026. It called for both the Destiny and Marathon communities to heal after recent internal conflict, confirmed the next Marathon Dev Insight covering the Symbiosis update lands in early December, and hinted at further content reveals in November. This update is the backdrop for Bungie's later statement that Marathon purchases should not be seen as a donation to save the studio.",
+      "source_name": "Bungie.net",
+      "source_url": "https://www.bungie.net/7/en/News/Article/bungiecommunityupdate_10_27",
+      "credibility_tier": "official",
+      "credibility_note": "Direct Bungie.net community post.",
+      "published_at": "2026-10-29T00:00:00Z",
+      "category": "other",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Context: Marathon Patch 1.1.9.6 Fixed Contract Rewards and Night Marsh Spawn Bug",
+      "summary": "This patch was originally released on October 27, 2026. It fixed missing bonus reputation for solo and duo players on certain contracts and corrected a bug causing improper UESC dropship spawns on Night Marsh. Bungie also confirmed the Sponsored Perimeter event returned to rotation on October 29.",
+      "source_name": "The Click",
+      "source_url": "https://www.theclick.gg/marathon-update-1-1-9-6/",
+      "credibility_tier": "verified-journalist",
+      "credibility_note": "Patch details reported by The Click, a community gaming news outlet; no direct Bungie.net patch notes link was available among the candidates.",
+      "published_at": "2026-10-27T00:00:00Z",
+      "category": "patch-notes",
+      "corroborating_sources": []
+    }
+  ],
+  "no_news_found": false
+}
