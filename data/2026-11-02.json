@@ -1,0 +1,85 @@
+{
+  "date": "2026-11-02",
+  "items": [
+    {
+      "title": "ONI launches Vault Breaker Speed Challenge, running November 3-10",
+      "summary": "Bungie announced a new limited-time challenge called the Vault Breaker Speed Challenge, tasking crews with defeating the Compiler boss as fast as possible. The event runs from November 3 at 10am PT through November 10, with the top 30 fastest crews earning a weapon charm, a Biotoxic Disinjector, 1000 Hyphatic Gel, and a Prestige Key.",
+      "source_name": "r/Marathon (official Bungie post)",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1xm2s3e/official_be_prepared_oni_is_ready_to_launch_a_new/",
+      "credibility_tier": "official",
+      "credibility_note": "Text is formatted and labeled as an official ONI/Bungie community update, consistent with prior official in-game event announcements.",
+      "published_at": "2026-11-02T17:02:26.000Z",
+      "category": "gameplay-content",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Players debate whether shrinking EU population is making Cryo lobbies sweatier",
+      "summary": "A longtime player on r/Marathon argued that EU Cryo matches feel noticeably more sweaty than earlier seasons, theorizing that a shrinking European player base now skews heavily toward highly skilled, dedicated players. The thread reflects ongoing community concern about population size affecting match quality for casual players.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1xm49j2/eu_lobby_in_cryo/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Unverified player opinion and anecdote thread, not backed by official population data.",
+      "published_at": "2026-11-02T17:55:18.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Community pitches low-risk 'Featured Map' mode to bring casual players into PvPvE",
+      "summary": "A player proposed a rotating Featured Map mode that would give everyone a free sponsor kit loadout and crew-based loot payouts to reduce the risk of trying PvPvE content, aiming to pull in casual players who currently avoid it due to gear loss fears. The suggestion ties into broader community concern that low player counts are making it harder for newcomers to engage with Marathon's harder modes.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1xm424e/a_rotating_featured_map_mode_to_pull_casuals_into/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Fan-made design pitch and discussion thread, not an official Bungie proposal.",
+      "published_at": "2026-11-02T17:48:06.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "New player details reasons for quitting Marathon after 40-plus hours in Season 3",
+      "summary": "A self-described newcomer posted a lengthy account of trying Marathon at launch, returning for Season 3, and ultimately deciding to stop playing after 40-plus hours, offering detailed feedback intended for Bungie as well as other new players. The post generated discussion about onboarding and retention issues that have persisted across seasons.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1xlqjvy/my_thoughts_on_marathon_as_a_totally_new_player/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Single player's first-person account and opinion, not independently verified data.",
+      "published_at": "2026-11-02T07:08:01.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Players suggest Vault Breaker PvE difficulty should escalate during a run",
+      "summary": "A community member argued that Marathon's Vault Breaker PvE mode stays too easy for experienced trios because enemy density and difficulty remain static throughout a run, with the timer being the only real challenge. The suggestion calls for scaling bot density, elite spawns, or damage over time so runs feel more like a traditional roguelike with escalating stakes.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1xlqww3/vault_breakers_difficulty_should_increase_over/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Player-submitted balance suggestion, not confirmed or responded to by Bungie.",
+      "published_at": "2026-11-02T07:31:15.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Context: Symbiosis content update delayed to December 8, Bungie drops seasonal schedule",
+      "summary": "First reported on September 14, 2026 by Kotaku, Bungie delayed its planned September content update to December 8 under the new name Symbiosis, and said it is abandoning its strict three-month seasonal cadence in favor of flexible release timing. This background helps explain the slower post-launch update pace players have noted, with smaller events like this week's Vault Breaker Speed Challenge filling the gap until the bigger December update.",
+      "source_name": "Kotaku",
+      "source_url": "https://kotaku.com/marathon-delays-new-content-and-ditches-seasons-as-bungies-extraction-shooter-fights-for-its-life-2000734322",
+      "credibility_tier": "verified-journalist",
+      "credibility_note": "Reported by Kotaku, an established gaming outlet with editorial standards.",
+      "published_at": "2026-09-14T00:00:00Z",
+      "category": "gameplay-content",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Context: June 2026 layoffs hit senior Marathon leadership including General Manager",
+      "summary": "First reported around June 25, 2026, Bungie's layoffs that month affected senior Marathon positions including the General Manager, Engineering Director, senior producers, and creative leads, as part of broader cuts across Bungie's Destiny and Marathon teams. This context helps explain ongoing community concerns about sparse studio communication and leadership turnover referenced in player discussions.",
+      "source_name": "The Game Post",
+      "source_url": "https://thegamepost.com/sonys-bungie-layoffs-hit-marathon-senior-roles-general-manager/",
+      "credibility_tier": "verified-journalist",
+      "credibility_note": "Reported by The Game Post using LinkedIn job title analysis, corroborated independently by Vice's coverage of the same layoffs.",
+      "published_at": "2026-06-25T00:00:00Z",
+      "category": "layoffs-business",
+      "corroborating_sources": [
+        "https://www.vice.com/en/article/destiny-is-officially-dead-major-layoffs-end-the-series-after-12-years-as-sony-refocuses-bungie-on-marathon/"
+      ]
+    }
+  ],
+  "no_news_found": false
+}

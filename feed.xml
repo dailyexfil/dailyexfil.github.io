@@ -6,7 +6,14 @@
 <atom:link href="https://dailyexfil.com/feed.xml" rel="self" type="application/rss+xml"/>
 <description>Daily Marathon (Bungie) news digest. Official, press, and community items tiered by credibility, cross-referenced, and link-checked.</description>
 <language>en</language>
-<lastBuildDate>Sun, 01 Nov 2026 20:05:09 GMT</lastBuildDate>
+<lastBuildDate>Mon, 02 Nov 2026 20:04:39 GMT</lastBuildDate>
+<item>
+<title>DAILY EXFIL 2026-11-02: ONI launches Vault Breaker Speed Challenge, running November 3-10</title>
+<link>https://dailyexfil.com/day/2026-11-02.html</link>
+<guid isPermaLink="true">https://dailyexfil.com/day/2026-11-02.html</guid>
+<pubDate>Mon, 02 Nov 2026 20:00:00 GMT</pubDate>
+<description><![CDATA[[OFFICIAL] ONI launches Vault Breaker Speed Challenge, running November 3-10<br>[COMMS] Players debate whether shrinking EU population is making Cryo lobbies sweatier<br>[COMMS] Community pitches low-risk 'Featured Map' mode to bring casual players into PvPvE<br>[COMMS] New player details reasons for quitting Marathon after 40-plus hours in Season 3<br>[COMMS] Players suggest Vault Breaker PvE difficulty should escalate during a run<br>[PRESS] Context: Symbiosis content update delayed to December 8, Bungie drops seasonal schedule<br>[PRESS] Context: June 2026 layoffs hit senior Marathon leadership including General Manager]]></description>
+</item>
 <item>
 <title>DAILY EXFIL 2026-11-01: Bungie Clarifies: Don't Buy Marathon 'As a Donation' to Save the Studio</title>
 <link>https://dailyexfil.com/day/2026-11-01.html</link>
@@ -97,13 +104,6 @@
 <guid isPermaLink="true">https://dailyexfil.com/day/2026-10-20.html</guid>
 <pubDate>Tue, 20 Oct 2026 20:00:00 GMT</pubDate>
 <description><![CDATA[[OFFICIAL] Marathon Update 1.1.9.5 Launches with Vault Breaker Event<br>[COMMS] Community Megathread Tracks Reactions to Vault Breaker's Return<br>[COMMS] Players Say Solo Vault Breaker Runs Feel Punishing<br>[COMMS] Grinding Concerns Raised Over Vault Breaker Rewards<br>[COMMS] Community Wants Marathon to Copy The Finals' Rollout Style for Symbiosis<br>[COMMS] Marathon's Steam Player Count Shows Modest Uptick But Remains Far Below Launch<br>[PRESS] Context: Bungie's September Roadmap Admitted Marathon Missed the Mark<br>[PRESS] Context: Bungie's June Layoffs Hit Marathon Leadership]]></description>
-</item>
-<item>
-<title>DAILY EXFIL 2026-10-19: Bungie admits Marathon missed the mark, plans major evolution beyond extraction shooter</title>
-<link>https://dailyexfil.com/day/2026-10-19.html</link>
-<guid isPermaLink="true">https://dailyexfil.com/day/2026-10-19.html</guid>
-<pubDate>Mon, 19 Oct 2026 20:00:00 GMT</pubDate>
-<description><![CDATA[[PRESS] Bungie admits Marathon missed the mark, plans major evolution beyond extraction shooter<br>[PRESS] Former Marathon director Joe Ziegler describes internal disagreements at Bungie<br>[COMMS] Marathon draws Concord comparisons as player counts stay low<br>[COMMS] Community feedback: motivation to play drops outside of Cryo mode<br>[COMMS] Community feedback: new player perspective flags loot rarity and fast time-to-kill<br>[COMMS] Community discussion: gear progression feels slower after Nightfall Refresh<br>[COMMS] Community discussion: will Call of Duty's extraction mode affect Marathon's population?<br>[OFFICIAL] Context: Bungie outlines six-month roadmap through March 2027, plans to evolve beyond extraction shooter<br>[OFFICIAL] Context: October 6 Nightfall Refresh reset player progression and economy]]></description>
 </item>
 </channel>
 </rss>
