@@ -6,7 +6,14 @@
 <atom:link href="https://dailyexfil.com/feed.xml" rel="self" type="application/rss+xml"/>
 <description>Daily Marathon (Bungie) news digest. Official, press, and community items tiered by credibility, cross-referenced, and link-checked.</description>
 <language>en</language>
-<lastBuildDate>Mon, 02 Nov 2026 20:04:39 GMT</lastBuildDate>
+<lastBuildDate>Tue, 03 Nov 2026 20:03:22 GMT</lastBuildDate>
+<item>
+<title>DAILY EXFIL 2026-11-03: Players debate returning for December's update amid low population</title>
+<link>https://dailyexfil.com/day/2026-11-03.html</link>
+<guid isPermaLink="true">https://dailyexfil.com/day/2026-11-03.html</guid>
+<pubDate>Tue, 03 Nov 2026 20:00:00 GMT</pubDate>
+<description><![CDATA[[COMMS] Players debate returning for December's update amid low population<br>[COMMS] Community reports constant dead lobbies<br>[COMMS] Players push back on timed Vault Breaker design<br>[COMMS] Players flag persistent UI unresponsiveness<br>[OFFICIAL] Context: Bungie's Future of Marathon roadmap detailed December and March 2027 plans<br>[PRESS] Context: Bungie admitted Marathon fell short of player targets]]></description>
+</item>
 <item>
 <title>DAILY EXFIL 2026-11-02: ONI launches Vault Breaker Speed Challenge, running November 3-10</title>
 <link>https://dailyexfil.com/day/2026-11-02.html</link>
@@ -97,13 +104,6 @@
 <guid isPermaLink="true">https://dailyexfil.com/day/2026-10-21.html</guid>
 <pubDate>Wed, 21 Oct 2026 20:00:00 GMT</pubDate>
 <description><![CDATA[[PRESS] Marathon Patch 1.1.9.5 Launches Vault Breaker Event With Economy Changes<br>[COMMS] Players Say Vault Breaker Event Needs Balance Fixes<br>[COMMS] New Player Describes Marathon's Rough Onboarding Experience<br>[COMMS] Players Debate Marathon's Population Size in the UK<br>[COMMS] Marathon Added to New Humble Bundle<br>[PRESS] Context: Bungie Admits Marathon Missed the Mark at Launch, Plans Major Overhaul<br>[PRESS] Context: Former Marathon Director Describes Development Marked by Internal Disagreements]]></description>
-</item>
-<item>
-<title>DAILY EXFIL 2026-10-20: Marathon Update 1.1.9.5 Launches with Vault Breaker Event</title>
-<link>https://dailyexfil.com/day/2026-10-20.html</link>
-<guid isPermaLink="true">https://dailyexfil.com/day/2026-10-20.html</guid>
-<pubDate>Tue, 20 Oct 2026 20:00:00 GMT</pubDate>
-<description><![CDATA[[OFFICIAL] Marathon Update 1.1.9.5 Launches with Vault Breaker Event<br>[COMMS] Community Megathread Tracks Reactions to Vault Breaker's Return<br>[COMMS] Players Say Solo Vault Breaker Runs Feel Punishing<br>[COMMS] Grinding Concerns Raised Over Vault Breaker Rewards<br>[COMMS] Community Wants Marathon to Copy The Finals' Rollout Style for Symbiosis<br>[COMMS] Marathon's Steam Player Count Shows Modest Uptick But Remains Far Below Launch<br>[PRESS] Context: Bungie's September Roadmap Admitted Marathon Missed the Mark<br>[PRESS] Context: Bungie's June Layoffs Hit Marathon Leadership]]></description>
 </item>
 </channel>
 </rss>

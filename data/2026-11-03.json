@@ -1,0 +1,75 @@
+{
+  "date": "2026-11-03",
+  "items": [
+    {
+      "title": "Players debate returning for December's update amid low population",
+      "summary": "A Reddit thread asks how many players have stopped playing Marathon due to low player counts and long queue times, and whether they plan to come back when the December update arrives. Replies reflect a mix of players waiting out the current content drought and others who have already moved on.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1xmqy3a/how_many_of_you_quit_and_plan_to_return_when_the/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Unverified Reddit discussion thread reflecting community sentiment, not an official statement.",
+      "published_at": "2026-11-03T11:52:27.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Community reports constant dead lobbies",
+      "summary": "A player posted asking how to avoid repeatedly landing in low-population or empty matches, describing back to back dead maps. The thread reflects ongoing concern about Marathon's active player base and matchmaking health.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1xmrtq1/constant_dead_lobbies/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Single Reddit post describing a personal experience, not independently verified population data.",
+      "published_at": "2026-11-03T12:36:50.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Players push back on timed Vault Breaker design",
+      "summary": "A Reddit thread criticizes the timed structure of the Vault Breaker PvE mode, arguing it turns the game into a frantic time trial that does not fit the original vision of Marathon. The poster says they support expanding PvE but wants different design choices than a hard timer.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1xn2to9/timed_vault_breaker_is_not_the_right_direction/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Opinion thread from the community subreddit, reflecting player sentiment rather than confirmed fact.",
+      "published_at": "2026-11-03T19:37:58.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Players flag persistent UI unresponsiveness",
+      "summary": "A player with about 80 hours in Marathon describes menus freezing or going blank for up to ten seconds at a time, happening regardless of mode, map, or party size. They say the issue has persisted across multiple sessions and call it unacceptable for a shipped game.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1xmzjwm/the_ui_is_horrendously_unresponsive_multiple/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Individual player bug report on Reddit, not confirmed by Bungie as a widespread issue.",
+      "published_at": "2026-11-03T17:40:26.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Context: Bungie's Future of Marathon roadmap detailed December and March 2027 plans",
+      "summary": "Bungie originally published this roadmap on September 24, 2026, describing Marathon's planned evolution beyond a pure extraction shooter. It outlined an October Nightfall Refresh, a December update called Symbiosis that adds permanent PvE, and a larger March 2027 update connecting PvE, PvP, and PvEvP modes with new zones and narrative content. This context helps explain ongoing community references to the upcoming December update.",
+      "source_name": "Bungie.net",
+      "source_url": "https://www.bungie.net/7/en/News/Article/futureofmarathon",
+      "credibility_tier": "official",
+      "credibility_note": "Direct official roadmap post from Bungie.net.",
+      "published_at": "2026-09-24T00:00:00.000Z",
+      "category": "gameplay-content",
+      "corroborating_sources": [
+        "https://gameriv.com/bungie-says-extraction-remains-a-major-part-of-marathon-as-it-expands-pve-and-pvp-plans/",
+        "https://playfront.de/en/bungie-unter-druck-die-zukunft-haengt-an-marathon"
+      ]
+    },
+    {
+      "title": "Context: Bungie admitted Marathon fell short of player targets",
+      "summary": "This Kotaku report, originally published September 24, 2026, covered Bungie's acknowledgment that Marathon did not hit expected player numbers and that the extraction shooter needs to evolve to survive long term. The studio said it needed to support more playstyles beyond pure extraction. This history helps explain continuing community concern about low population and dead lobbies.",
+      "source_name": "Kotaku",
+      "source_url": "https://kotaku.com/marathon-delays-new-content-and-ditches-seasons-as-bungies-extraction-shooter-fights-for-its-life-2000734322",
+      "credibility_tier": "verified-journalist",
+      "credibility_note": "Established gaming outlet with direct reporting on Bungie's public statements.",
+      "published_at": "2026-09-24T00:00:00.000Z",
+      "category": "layoffs-business",
+      "corroborating_sources": []
+    }
+  ],
+  "no_news_found": false
+}
