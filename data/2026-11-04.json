@@ -1,0 +1,74 @@
+{
+  "date": "2026-11-04",
+  "items": [
+    {
+      "title": "Community Keeps Daily Campaign Alive Demanding Solo Cryo Mode",
+      "summary": "A player posted another daily kill clip as part of an ongoing campaign asking Bungie to add a solo Cryo playlist, now on 'Day 8' with no response from the studio. The recurring post reflects growing frustration in the community over missing features and the lack of official word on requested modes.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1xntdrl/posting_a_random_solo_queue_kill_clip_till_bungie/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Reddit community post expressing player sentiment, not independently verified.",
+      "published_at": "2026-11-04T16:56:59.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Players Debate Whether Sentinel Shell Needs a Balance Buff",
+      "summary": "A detailed Reddit thread argues that the Sentinel shell lags slightly behind the rest of the roster, pointing out it has only one functional ability outside of holding a position compared to shells like Destroyer that offer multiple mobility tools. The post sparked discussion about whether Sentinel needs a small buff to reach parity with other shells.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1xnjf7h/sentinel_feels_just_a_sliver_out_of_parity_from/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Community balance discussion thread, not an official statement from Bungie.",
+      "published_at": "2026-11-04T08:56:26.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Players Compare Notes on How Many Runners Actually Spawn Per Match",
+      "summary": "A Reddit thread asks other solo players how many opposing runners they typically encounter per match, noting variation from just one other player up to four total runners on maps like Outpost. The discussion touches on ongoing community curiosity about population density and matchmaking behavior.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1xnmfvt/how_many_players_do_you_encounter/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Anecdotal community thread based on individual player experiences, not verified data.",
+      "published_at": "2026-11-04T12:01:38.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Confusion Over New Cryo Key Template's Price and Description",
+      "summary": "A player questioned a new 'Prestige Key template' item in the daily deals shop, noting its description says it creates a random Cryo key despite scrambled Cryo keys already existing in the game. The thread raises concerns about unclear store item descriptions and what some see as an excessive price for a randomized reward.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1xnxwad/is_this_seriously_just_a_random_cryo_key_template/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Player-submitted question about store mechanics, unconfirmed by Bungie.",
+      "published_at": "2026-11-04T19:47:22.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Context: Bungie Publishes Lengthy Community Update on Marathon's Future",
+      "summary": "This story was originally published on October 29, 2026. Bungie released a lengthy community update confirming Marathon remains essential to the studio's future despite lower than hoped player numbers, calling the upcoming December 2026 and March 2027 updates decisive moments for the game's trajectory.",
+      "source_name": "Instant Gaming News",
+      "source_url": "https://news.instant-gaming.com/en/articles/22766-bungie-releases-a-lengthy-statement-on-its-situation",
+      "credibility_tier": "verified-journalist",
+      "credibility_note": "Reporting summarizing an official Bungie community statement, included as context for ongoing community frustration over silence and missing features.",
+      "published_at": "2026-10-29T00:00:00Z",
+      "category": "layoffs-business",
+      "corroborating_sources": [
+        "https://playfront.de/en/bungie-unter-druck-die-zukunft-haengt-an-marathon"
+      ]
+    },
+    {
+      "title": "Context: Bungie Clarifies Destiny 2's Future Is Not Tied to Marathon Sales",
+      "summary": "This story was originally published on November 3, 2026. Bungie's Head of Product Josh Dean told Destiny players not to buy Marathon as a donation to save Destiny 2, stating Destiny's roadmap does not depend on Marathon's commercial performance, after earlier comments caused community confusion about the two games being linked financially.",
+      "source_name": "That Park Place",
+      "source_url": "https://thatparkplace.com/bungie-dont-buy-marathon-as-donation-destiny/",
+      "credibility_tier": "verified-journalist",
+      "credibility_note": "Journalist reporting on direct statements from a named Bungie executive, included as context on ongoing studio health and funding concerns relevant to community sentiment.",
+      "published_at": "2026-11-03T00:00:00Z",
+      "category": "layoffs-business",
+      "corroborating_sources": []
+    }
+  ],
+  "no_news_found": false
+}

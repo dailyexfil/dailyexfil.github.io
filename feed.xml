@@ -6,7 +6,14 @@
 <atom:link href="https://dailyexfil.com/feed.xml" rel="self" type="application/rss+xml"/>
 <description>Daily Marathon (Bungie) news digest. Official, press, and community items tiered by credibility, cross-referenced, and link-checked.</description>
 <language>en</language>
-<lastBuildDate>Tue, 03 Nov 2026 20:03:22 GMT</lastBuildDate>
+<lastBuildDate>Wed, 04 Nov 2026 20:03:20 GMT</lastBuildDate>
+<item>
+<title>DAILY EXFIL 2026-11-04: Community Keeps Daily Campaign Alive Demanding Solo Cryo Mode</title>
+<link>https://dailyexfil.com/day/2026-11-04.html</link>
+<guid isPermaLink="true">https://dailyexfil.com/day/2026-11-04.html</guid>
+<pubDate>Wed, 04 Nov 2026 20:00:00 GMT</pubDate>
+<description><![CDATA[[COMMS] Community Keeps Daily Campaign Alive Demanding Solo Cryo Mode<br>[COMMS] Players Debate Whether Sentinel Shell Needs a Balance Buff<br>[COMMS] Players Compare Notes on How Many Runners Actually Spawn Per Match<br>[COMMS] Confusion Over New Cryo Key Template's Price and Description<br>[PRESS] Context: Bungie Publishes Lengthy Community Update on Marathon's Future<br>[PRESS] Context: Bungie Clarifies Destiny 2's Future Is Not Tied to Marathon Sales]]></description>
+</item>
 <item>
 <title>DAILY EXFIL 2026-11-03: Players debate returning for December's update amid low population</title>
 <link>https://dailyexfil.com/day/2026-11-03.html</link>
@@ -97,13 +104,6 @@
 <guid isPermaLink="true">https://dailyexfil.com/day/2026-10-22.html</guid>
 <pubDate>Thu, 22 Oct 2026 20:00:00 GMT</pubDate>
 <description><![CDATA[[PRESS] Bungie Launches Invite-Only Technical Test for Marathon, Promises Public Update Soon<br>[COMMS] Community Debate: Is Vault Breaker a Great Onboarding Tool or Overrated?<br>[COMMS] Players Report Outpost Loot Buffed After Recent Changes, Duo Queue Seen as Best Route<br>[COMMS] Runners Debate Shell Balance Ahead of PvE Focused Symbiosis Update<br>[COMMS] Players Compare Marathon Unfavorably to Call of Duty's DMZ Mode<br>[OFFICIAL] Context: Marathon Update 1.1.9.5 Brought Back Vault Breaker PvE Mode<br>[OFFICIAL] Context: Bungie's Roadmap Outlines Nightfall Refresh, December Symbiosis, and March 2027 Evolution]]></description>
-</item>
-<item>
-<title>DAILY EXFIL 2026-10-21: Marathon Patch 1.1.9.5 Launches Vault Breaker Event With Economy Changes</title>
-<link>https://dailyexfil.com/day/2026-10-21.html</link>
-<guid isPermaLink="true">https://dailyexfil.com/day/2026-10-21.html</guid>
-<pubDate>Wed, 21 Oct 2026 20:00:00 GMT</pubDate>
-<description><![CDATA[[PRESS] Marathon Patch 1.1.9.5 Launches Vault Breaker Event With Economy Changes<br>[COMMS] Players Say Vault Breaker Event Needs Balance Fixes<br>[COMMS] New Player Describes Marathon's Rough Onboarding Experience<br>[COMMS] Players Debate Marathon's Population Size in the UK<br>[COMMS] Marathon Added to New Humble Bundle<br>[PRESS] Context: Bungie Admits Marathon Missed the Mark at Launch, Plans Major Overhaul<br>[PRESS] Context: Former Marathon Director Describes Development Marked by Internal Disagreements]]></description>
 </item>
 </channel>
 </rss>
