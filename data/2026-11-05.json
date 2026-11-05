@@ -1,0 +1,80 @@
+{
+  "date": "2026-11-05",
+  "items": [
+    {
+      "title": "Solo players keep pressing Bungie for a solo Cryo Archive queue",
+      "summary": "A Marathon player posted a solo queue kill clip with the caption that they would keep doing so until Bungie adds a solo mode for the Cryo Archive endgame content, tagging it as 'Day 9' of the wait. The post reflects continued community frustration that the Cryo Archive, introduced as an endgame challenge, still has no dedicated solo queue option.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1xok3j1/posting_a_random_solo_queue_kill_clip_till_bungie/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Single Reddit post venting a recurring community complaint, not independently corroborated.",
+      "published_at": "2026-11-05T14:31:10.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Community debates whether shield rarity should come from raw power or passive perks",
+      "summary": "A Marathon player revived a balance proposal arguing that shield rarity should be defined by passive perks rather than sheer strength, saying the current system is too punishing for average players, with the author noting the idea previously got positive feedback in another thread. A separate thread pushed back, arguing shields and armor should always provide a clear power advantage because extraction shooters are not meant to have everyone on equal footing.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1xombmr/shield_rarity_should_not_be_determined_by/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Reddit discussion thread representing player opinion, not an official statement or verified reporting.",
+      "published_at": "2026-11-05T15:59:35.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": [
+        "https://www.reddit.com/r/Marathon/comments/1xomww3/shields_should_give_you_an_advantage/"
+      ]
+    },
+    {
+      "title": "Players propose wager-tiered lobbies to split sweats from casuals",
+      "summary": "A Marathon community member suggested adding wager tiers, low, medium, and high, that would control loadout value, number of opposing teams, and ground loot quality per lobby. The idea is pitched as a way to satisfy both players who want quieter, low-stakes runs and those who want full, high-reward lobbies.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1xolxaa/marathon_needs_wager_levels/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Community suggestion thread, not an official Bungie proposal or confirmed feature.",
+      "published_at": "2026-11-05T15:43:25.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Players praise Vault Breaker PvE mode but want it expanded",
+      "summary": "A Marathon player described nearly completing three vaults solo in the current Vault Breaker iteration, calling the progression feel rewarding and the challenge of reaching the Compiler appropriately difficult. The post argues the mode's tie-in with the game economy is promising but wants more content built around it.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1xooaz4/vault_breaker_is_awesome_and_not_enought/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Player feedback post on Reddit, useful as sentiment but not independently verified.",
+      "published_at": "2026-11-05T17:14:52.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Context: Bungie's late October update acknowledged Marathon's player decline and outlined its recovery plan",
+      "summary": "This update was originally published by Bungie on October 29, 2026. Bungie stated Marathon has not reached as many players as hoped, acknowledged the impact of layoffs, and reaffirmed commitment to both Marathon and Destiny 2, pointing to the December Symbiosis update and a larger March 2027 overhaul as key turning points.",
+      "source_name": "Bungie.net",
+      "source_url": "https://www.bungie.net/7/en/News/Article/bungiecommunityupdate_10_27",
+      "credibility_tier": "official",
+      "credibility_note": "Direct official community update from Bungie.net.",
+      "published_at": "2026-10-29T00:00:00Z",
+      "category": "layoffs-business",
+      "corroborating_sources": [
+        "https://www.gamedeveloper.com/business/bungie-is-overhauling-marathon-from-its-original-extraction-shooter-vision",
+        "https://www.gamesradar.com/games/fps/bungie-ends-marathons-seasonal-schedule-delays-a-september-update-to-december-and-makes-it-more-like-destiny-2/",
+        "https://www.bungie.net/7/en/News/Article/futureofmarathon"
+      ]
+    },
+    {
+      "title": "Context: Bungie product head says Destiny 2's future does not depend on Marathon sales",
+      "summary": "This story was first reported around November 1 to 3, 2026. Bungie's Head of Product Josh Deane said on social media that Destiny 2 plans are not contingent on Marathon's sales and told fans not to buy Marathon purely as a donation to support the studio, after earlier comments caused confusion about whether Marathon's success was propping up Destiny's future.",
+      "source_name": "GameRiv",
+      "source_url": "https://gameriv.com/bungie-says-dont-buy-marathon-just-to-support-destiny-2/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "GameRiv is not an established outlet in the recognized source hierarchy, so this is tiered as community-speculation despite reporting a staff statement.",
+      "published_at": "2026-11-03T00:00:00Z",
+      "category": "layoffs-business",
+      "corroborating_sources": [
+        "https://blog.dynasage.com/2026/11/bungie-says-dont-buy-marathon-as.html"
+      ]
+    }
+  ],
+  "no_news_found": false
+}
