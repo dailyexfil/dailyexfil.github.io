@@ -1,0 +1,75 @@
+{
+  "date": "2026-11-06",
+  "items": [
+    {
+      "title": "Community Keeps Pressing Bungie for Solo Queue in Cryo Mode",
+      "summary": "A r/Marathon user has been posting a new solo queue kill clip every day, now up to 'Day 10,' as a running protest demanding Bungie add a solo queue option to the Cryo mode. The recurring post reflects a persistent community request that has gone unanswered, adding to broader frustration about the pace of communication from the studio.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1xpfl9m/posting_a_random_solo_queue_kill_clip_till_bungie/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Reddit community post reflecting player sentiment and an unmet feature request, not an official confirmation of any plan.",
+      "published_at": "2026-11-06T15:27:44.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Players Report Paradigm Shift Quest Still Broken Months Later",
+      "summary": "A r/Marathon player says the 'Paradigm Shift 5/5' contagion still will not spawn despite many exfils, game restarts, and switching contracts, which halts progress on the quest. The poster notes similar bugs were reported roughly 8 months ago, fueling frustration about how long known issues take to get fixed.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1xphk73/paradigm_shift_55_still_bugged/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Single player bug report on Reddit, not independently verified by Bungie or another outlet.",
+      "published_at": "2026-11-06T16:45:21.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Players Mourn Loss of Season 2 Ranked Mode and Skins",
+      "summary": "A r/Marathon post laments the removal of the high stakes solo ranked mode from Season 2, saying the survival stakes felt distinct from current play. The poster is also upset that Season 2 ranked cosmetic rewards, including skins for the V11 punch and Outland, are no longer obtainable.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1xpfvp0/i_miss_ranked/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Reddit feedback thread representing one player's view, useful as community sentiment rather than confirmed fact.",
+      "published_at": "2026-11-06T15:39:24.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Community Calls for Sentinel Buffs After Grenade Nerf",
+      "summary": "A r/Marathon player argues the Sentinel character feels underwhelming since Bungie reduced how many grenades players can carry, which undercut the ultimate ability's grenade shooting function. The post suggests giving Sentinel's defender system a grounding effect as one way to make the kit feel more impactful.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1xplnpp/give_sentinel_more_love/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Reddit balance suggestion from a player, not an official Bungie statement on upcoming changes.",
+      "published_at": "2026-11-06T19:23:05.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Context: Bungie's December Symbiosis Update Will Add New Zone, Deathmatch Mode and Tick Queen Boss",
+      "summary": "This story was originally reported on September 24, 2026. Bungie outlined a roadmap extending into early 2027 that includes a new zone, a samurai inspired Runner shell, a deathmatch mode, expanded Perimeter visuals, and a Tick Queen boss fight as part of the December Symbiosis update. The roadmap is useful background for an ongoing r/Marathon thread asking what new weapons might ship alongside Symbiosis.",
+      "source_name": "Kotaku",
+      "source_url": "https://kotaku.com/marathon-is-becoming-a-much-bigger-game-as-bungie-teases-a-new-zone-social-space-deathmatch-mode-and-more-2000737026",
+      "credibility_tier": "verified-journalist",
+      "credibility_note": "Reporting from an established gaming outlet based on Bungie's own public roadmap announcement.",
+      "published_at": "2026-09-24T00:00:00.000Z",
+      "category": "gameplay-content",
+      "corroborating_sources": [
+        "https://www.tweaktown.com/news/113946/bungie-reveals-marathon-nightfall-refresh-and-symbiosis-roadmap/index.html",
+        "https://shattered.io/marathon-88337-peak-players-bungie-2026/"
+      ]
+    },
+    {
+      "title": "Context: Bungie Ended Marathon's Strict Seasonal Schedule, Delaying Season 3 to December",
+      "summary": "This story was originally reported on September 14, 2026. Bungie said it would stop running Marathon on a strict three month seasonal cadence and pushed the Season 3 content drop to December 8 alongside the Symbiosis update. The slower, consolidated update pace helps explain why some longstanding bugs, like the one described in a current r/Marathon report, have gone unresolved for months.",
+      "source_name": "PC Gamer",
+      "source_url": "https://www.pcgamer.com/games/fps/bungie-delays-next-marathon-update-and-ends-strict-seasonal-schedule-as-it-goes-all-in-on-destiny-like-features/",
+      "credibility_tier": "verified-journalist",
+      "credibility_note": "Reporting from PC Gamer, an established gaming outlet, describing Bungie's own schedule announcement.",
+      "published_at": "2026-09-14T00:00:00.000Z",
+      "category": "other",
+      "corroborating_sources": []
+    }
+  ],
+  "no_news_found": false
+}

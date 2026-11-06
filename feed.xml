@@ -6,7 +6,14 @@
 <atom:link href="https://dailyexfil.com/feed.xml" rel="self" type="application/rss+xml"/>
 <description>Daily Marathon (Bungie) news digest. Official, press, and community items tiered by credibility, cross-referenced, and link-checked.</description>
 <language>en</language>
-<lastBuildDate>Thu, 05 Nov 2026 20:03:20 GMT</lastBuildDate>
+<lastBuildDate>Fri, 06 Nov 2026 20:04:16 GMT</lastBuildDate>
+<item>
+<title>DAILY EXFIL 2026-11-06: Community Keeps Pressing Bungie for Solo Queue in Cryo Mode</title>
+<link>https://dailyexfil.com/day/2026-11-06.html</link>
+<guid isPermaLink="true">https://dailyexfil.com/day/2026-11-06.html</guid>
+<pubDate>Fri, 06 Nov 2026 20:00:00 GMT</pubDate>
+<description><![CDATA[[COMMS] Community Keeps Pressing Bungie for Solo Queue in Cryo Mode<br>[COMMS] Players Report Paradigm Shift Quest Still Broken Months Later<br>[COMMS] Players Mourn Loss of Season 2 Ranked Mode and Skins<br>[COMMS] Community Calls for Sentinel Buffs After Grenade Nerf<br>[PRESS] Context: Bungie's December Symbiosis Update Will Add New Zone, Deathmatch Mode and Tick Queen Boss<br>[PRESS] Context: Bungie Ended Marathon's Strict Seasonal Schedule, Delaying Season 3 to December]]></description>
+</item>
 <item>
 <title>DAILY EXFIL 2026-11-05: Solo players keep pressing Bungie for a solo Cryo Archive queue</title>
 <link>https://dailyexfil.com/day/2026-11-05.html</link>
@@ -97,13 +104,6 @@
 <guid isPermaLink="true">https://dailyexfil.com/day/2026-10-24.html</guid>
 <pubDate>Sat, 24 Oct 2026 20:00:00 GMT</pubDate>
 <description><![CDATA[[PRESS] Bungie Store Closes, but Marathon Store Stays Open<br>[COMMS] Marathon Player Counts Tick Up in October<br>[COMMS] Community Debates Marathon's Time-to-Kill Problem<br>[COMMS] Players Push Bungie to Require Blue Shields in Crew Fill Cryo<br>[COMMS] New Cryo Archive Players Describe Steep Skill Gap Against Veteran Squads<br>[COMMS] Solo Players Say Outpost Still Favors Trios After Recent Changes<br>[COMMS] Context: Marathon Director Joe Ziegler Stepped Down in July<br>[OFFICIAL] Context: Marathon Patch 1.1.9.5 Adjusted Vault Breaker Economy]]></description>
-</item>
-<item>
-<title>DAILY EXFIL 2026-10-23: Community Hopes for Part 2 of Bungie's Developer Insight Video</title>
-<link>https://dailyexfil.com/day/2026-10-23.html</link>
-<guid isPermaLink="true">https://dailyexfil.com/day/2026-10-23.html</guid>
-<pubDate>Fri, 23 Oct 2026 20:00:00 GMT</pubDate>
-<description><![CDATA[[COMMS] Community Hopes for Part 2 of Bungie's Developer Insight Video<br>[COMMS] Players Ask for Solo Queue Option in Cryo Lobbies<br>[COMMS] Community Shares Positive Player Encounter After Earlier Toxicity Complaint<br>[OFFICIAL] Context: Bungie Outlined Future of Marathon Roadmap After Admitting Missed Targets<br>[PRESS] Context: Marathon Patch 1.036 Launched Vault Breaker Event and Fixed Profile Stats]]></description>
 </item>
 </channel>
 </rss>
