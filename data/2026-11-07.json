@@ -1,0 +1,75 @@
+{
+  "date": "2026-11-07",
+  "items": [
+    {
+      "title": "Community keeps pushing for solo Cryo queue, now on 'Day 11'",
+      "summary": "A player is posting a daily solo-queue kill clip as a running bit, now on day 11, calling on Bungie to add a dedicated solo queue for the Cryo mode. The post reflects a recurring community complaint that Cryo currently lacks a solo matchmaking option.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1xq8qzu/posting_a_random_solo_queue_kill_clip_till_bungie/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Reddit community thread reflecting ongoing player sentiment, not independently verified.",
+      "published_at": "2026-11-07T15:17:13.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Players debate ideal team count for Cryo mode ahead of Symbiosis",
+      "summary": "A Reddit thread argues that three to four teams currently feels like the right balance for the Cryo mode, and hopes Bungie does not revert to five full teams if the upcoming Symbiosis update brings more players back. The discussion ties population levels directly to match balance concerns.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1xq9rqm/three_to_four_teams_in_cryo_feels_adequate/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Community opinion thread on matchmaking balance, not an official statement.",
+      "published_at": "2026-11-07T16:00:59.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Players ask Bungie to significantly expand the vault storage limit",
+      "summary": "A community suggestion thread proposes raising the player vault from its current 512 slot cap to between 1000 and 2000 slots. The poster argues the current limit forces players to sell or discard loot the moment they extract, adding unwanted friction to runs.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1xqfdi7/weird_suggestion_increase_the_vault_size/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Player feedback thread, not confirmed or responded to by Bungie.",
+      "published_at": "2026-11-07T19:57:38.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Players call for rework of Season 2's Limited Contracts",
+      "summary": "A Reddit post says that after completing Season 2's Limited Contracts following the Night Marsh refresh, most of them feel like repetitive filler compared to the more unique Season 1 contracts. The poster notes a few genuinely good story contracts tied to boss fights are buried among the slog and argues Bungie should rework the format.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1xq9no5/season_2s_limited_contracts_need_a_rework/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Community feedback thread on content design, not an official response.",
+      "published_at": "2026-11-07T15:56:22.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Context: Bungie tells Destiny fans not to buy Marathon out of obligation",
+      "summary": "This story was originally reported around November 3, 2026. Bungie head of product Josh Deane said Destiny's future plans are not tied to Marathon's commercial success and urged fans not to buy Marathon just to financially support the studio, after community speculation that players felt pressured to do so.",
+      "source_name": "That Park Place",
+      "source_url": "https://thatparkplace.com/bungie-dont-buy-marathon-as-donation-destiny",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Sourced from an unrecognized aggregator domain with no independent corroboration found among candidates, so it is tiered cautiously despite citing an official Bungie statement.",
+      "published_at": "2026-11-03T00:00:00.000Z",
+      "category": "layoffs-business",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Context: Symbiosis update confirmed for December 8, 2026 with permanent PvE",
+      "summary": "This update was originally announced on September 24, 2026. Bungie confirmed that Symbiosis, the largest update to Marathon since launch, will add a permanent PvE mode, a visual overhaul of Perimeter, a new Bishop runner shell, an experimental Team Deathmatch mode, and a social space with a firing range. Several current community posts reference the countdown to this December update.",
+      "source_name": "Bungie.net",
+      "source_url": "https://www.bungie.net/7/en/News/Article/futureofmarathon",
+      "credibility_tier": "official",
+      "credibility_note": "Direct official announcement from Bungie.net, corroborated by independent outlet reporting.",
+      "published_at": "2026-09-24T00:00:00.000Z",
+      "category": "gameplay-content",
+      "corroborating_sources": [
+        "https://kotaku.com/marathon-is-becoming-a-much-bigger-game-as-bungie-teases-a-new-zone-social-space-deathmatch-mode-and-more-2000737026",
+        "https://www.pcgamer.com/games/we-all-thought-we-were-bringing-extraction-to-the-masses-and-we-didnt/"
+      ]
+    }
+  ],
+  "no_news_found": false
+}

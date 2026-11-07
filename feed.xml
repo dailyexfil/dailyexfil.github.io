@@ -6,7 +6,14 @@
 <atom:link href="https://dailyexfil.com/feed.xml" rel="self" type="application/rss+xml"/>
 <description>Daily Marathon (Bungie) news digest. Official, press, and community items tiered by credibility, cross-referenced, and link-checked.</description>
 <language>en</language>
-<lastBuildDate>Fri, 06 Nov 2026 20:04:16 GMT</lastBuildDate>
+<lastBuildDate>Sat, 07 Nov 2026 20:02:52 GMT</lastBuildDate>
+<item>
+<title>DAILY EXFIL 2026-11-07: Community keeps pushing for solo Cryo queue, now on 'Day 11'</title>
+<link>https://dailyexfil.com/day/2026-11-07.html</link>
+<guid isPermaLink="true">https://dailyexfil.com/day/2026-11-07.html</guid>
+<pubDate>Sat, 07 Nov 2026 20:00:00 GMT</pubDate>
+<description><![CDATA[[COMMS] Community keeps pushing for solo Cryo queue, now on 'Day 11'<br>[COMMS] Players debate ideal team count for Cryo mode ahead of Symbiosis<br>[COMMS] Players ask Bungie to significantly expand the vault storage limit<br>[COMMS] Players call for rework of Season 2's Limited Contracts<br>[COMMS] Context: Bungie tells Destiny fans not to buy Marathon out of obligation<br>[OFFICIAL] Context: Symbiosis update confirmed for December 8, 2026 with permanent PvE]]></description>
+</item>
 <item>
 <title>DAILY EXFIL 2026-11-06: Community Keeps Pressing Bungie for Solo Queue in Cryo Mode</title>
 <link>https://dailyexfil.com/day/2026-11-06.html</link>
@@ -97,13 +104,6 @@
 <guid isPermaLink="true">https://dailyexfil.com/day/2026-10-25.html</guid>
 <pubDate>Sun, 25 Oct 2026 20:00:00 GMT</pubDate>
 <description><![CDATA[[COMMS] Players Report Persistent Stuttering, Say Mods Removed Their Technical Complaint<br>[COMMS] Players Note Easier Gear Recovery After Nightfall Refresh Changes<br>[COMMS] Community Raises Questions About Upcoming Firing Range and Feature Additions<br>[COMMS] Player Flags Repeater Reload Bug With Boutique Thief Core<br>[PRESS] Context: Bungie Admits Marathon's Original Vision Missed the Mark<br>[PRESS] Context: Patch 1.1.9.5 Launched the Vault Breaker Event on October 20]]></description>
-</item>
-<item>
-<title>DAILY EXFIL 2026-10-24: Bungie Store Closes, but Marathon Store Stays Open</title>
-<link>https://dailyexfil.com/day/2026-10-24.html</link>
-<guid isPermaLink="true">https://dailyexfil.com/day/2026-10-24.html</guid>
-<pubDate>Sat, 24 Oct 2026 20:00:00 GMT</pubDate>
-<description><![CDATA[[PRESS] Bungie Store Closes, but Marathon Store Stays Open<br>[COMMS] Marathon Player Counts Tick Up in October<br>[COMMS] Community Debates Marathon's Time-to-Kill Problem<br>[COMMS] Players Push Bungie to Require Blue Shields in Crew Fill Cryo<br>[COMMS] New Cryo Archive Players Describe Steep Skill Gap Against Veteran Squads<br>[COMMS] Solo Players Say Outpost Still Favors Trios After Recent Changes<br>[COMMS] Context: Marathon Director Joe Ziegler Stepped Down in July<br>[OFFICIAL] Context: Marathon Patch 1.1.9.5 Adjusted Vault Breaker Economy]]></description>
 </item>
 </channel>
 </rss>
