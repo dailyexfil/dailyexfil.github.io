@@ -1,0 +1,74 @@
+{
+  "date": "2026-11-08",
+  "items": [
+    {
+      "title": "Players slam Vaultbreaker mode as unplayable in solo fill queues",
+      "summary": "A detailed Reddit post argues that Marathon's Vaultbreaker mode is failing because solo-fill teammates often cannot clear bots, grab keycards, or make it out of spawn before being overrun. The poster says even when a team survives the opening rush, teammates refuse to engage other squads, undermining the mode's design.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1xqxad7/vaultbreaker_is_an_absolute_failure/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Single Reddit post reflecting one player's experience and opinion, not independently verified.",
+      "published_at": "2026-11-08T12:27:01.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Community keeps pushing for solo Cryo Archive queue",
+      "summary": "A Marathon player has been posting solo-queue kill clips daily as an ongoing protest, calling on Bungie to add a true solo option for Cryo Archive. The post, now at 'Day 12', reflects a recurring community demand that has not yet been addressed by the studio.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1xr2kse/posting_a_random_solo_queue_kill_clip_till_bungie/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Reddit community post expressing a recurring feature request, not an official statement.",
+      "published_at": "2026-11-08T16:36:11.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Players ask Bungie to make Nightfall Refresh's faster progression the norm",
+      "summary": "A Reddit thread argues that the Nightfall Refresh event's faster wipe-to-wipe progression is a major improvement over Season 1 and 2 pacing. The poster says if players could reach VIP faction status this quickly every cycle, more people would have stuck with the game long term.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1xqs046/nightfall_refresh_progression_needs_to_be_the/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Single Reddit post offering player opinion on progression pacing, unverified by Bungie.",
+      "published_at": "2026-11-08T06:43:15.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Players report suspected AFK bot accounts standing still in matches",
+      "summary": "A Reddit post describes repeatedly encountering a player profile that stands completely still through entire raids on Perimeter, with the same behavior reportedly seen across multiple streamer VODs. The poster also raises concerns that there is no AFK timer to remove or bypass inactive teammates, forcing others to wait out the full match.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1xr337z/bot_issue/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Single Reddit report of suspected bot behavior, not confirmed by Bungie or independent analysis.",
+      "published_at": "2026-11-08T16:57:21.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Context: Bungie detailed December 8 Symbiosis update with Perimeter map changes",
+      "summary": "This item was originally reported on October 9, 2026. Bungie outlined plans for a December 8 Symbiosis update that will expand the Perimeter map with new exploration areas, change Level 2 doors connecting spawn rooms to Level 3, and randomize the guaranteed Security Monitor in Revival to reduce spawn rush tactics.",
+      "source_name": "Shacknews",
+      "source_url": "https://www.shacknews.com/article/150967/bungie-marathon-player-feedback-updates",
+      "credibility_tier": "verified-journalist",
+      "credibility_note": "Established gaming outlet reporting on Bungie's publicly stated roadmap, corroborated by a second tech outlet.",
+      "published_at": "2026-10-09T00:00:00Z",
+      "category": "gameplay-content",
+      "corroborating_sources": [
+        "https://www.tweaktown.com/news/113946/bungie-reveals-marathon-nightfall-refresh-and-symbiosis-roadmap/index.html"
+      ]
+    },
+    {
+      "title": "Context: Marathon daily player peak sitting around 2,841, far below launch numbers",
+      "summary": "This data point was published on November 4, 2026 by community tracking site Daily Exfil, which reported Marathon's daily peak concurrent players holding near 2,841, a drop of about 96.8 percent from the launch peak of 88,337. This provides background for ongoing community frustration over game health and population.",
+      "source_name": "Daily Exfil",
+      "source_url": "https://dailyexfil.com/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Unofficial community tracker with no stated methodology verification, treated as directional rather than confirmed data.",
+      "published_at": "2026-11-04T00:00:00Z",
+      "category": "other",
+      "corroborating_sources": []
+    }
+  ],
+  "no_news_found": false
+}

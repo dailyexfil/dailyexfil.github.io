@@ -6,7 +6,14 @@
 <atom:link href="https://dailyexfil.com/feed.xml" rel="self" type="application/rss+xml"/>
 <description>Daily Marathon (Bungie) news digest. Official, press, and community items tiered by credibility, cross-referenced, and link-checked.</description>
 <language>en</language>
-<lastBuildDate>Sat, 07 Nov 2026 20:02:52 GMT</lastBuildDate>
+<lastBuildDate>Sun, 08 Nov 2026 20:04:22 GMT</lastBuildDate>
+<item>
+<title>DAILY EXFIL 2026-11-08: Players slam Vaultbreaker mode as unplayable in solo fill queues</title>
+<link>https://dailyexfil.com/day/2026-11-08.html</link>
+<guid isPermaLink="true">https://dailyexfil.com/day/2026-11-08.html</guid>
+<pubDate>Sun, 08 Nov 2026 20:00:00 GMT</pubDate>
+<description><![CDATA[[COMMS] Players slam Vaultbreaker mode as unplayable in solo fill queues<br>[COMMS] Community keeps pushing for solo Cryo Archive queue<br>[COMMS] Players ask Bungie to make Nightfall Refresh's faster progression the norm<br>[COMMS] Players report suspected AFK bot accounts standing still in matches<br>[PRESS] Context: Bungie detailed December 8 Symbiosis update with Perimeter map changes<br>[COMMS] Context: Marathon daily player peak sitting around 2,841, far below launch numbers]]></description>
+</item>
 <item>
 <title>DAILY EXFIL 2026-11-07: Community keeps pushing for solo Cryo queue, now on 'Day 11'</title>
 <link>https://dailyexfil.com/day/2026-11-07.html</link>
@@ -97,13 +104,6 @@
 <guid isPermaLink="true">https://dailyexfil.com/day/2026-10-26.html</guid>
 <pubDate>Mon, 26 Oct 2026 20:00:00 GMT</pubDate>
 <description><![CDATA[[COMMS] Community reports economy and matchmaking problems persist after Nightfall Refresh<br>[COMMS] Marathon concurrent player count holds near 3,200 on Steam<br>[COMMS] Players compare Marathon's map scale unfavorably to Arc Raiders<br>[COMMS] Some players say the Nightfall Refresh feels better than base Season 2<br>[OFFICIAL] Context: Bungie deployed the Nightfall Refresh, resetting Marathon's economy and progression<br>[OFFICIAL] Context: Marathon Update 1.1.9.5 adjusted Vault Breaker economy on October 20]]></description>
-</item>
-<item>
-<title>DAILY EXFIL 2026-10-25: Players Report Persistent Stuttering, Say Mods Removed Their Technical Complaint</title>
-<link>https://dailyexfil.com/day/2026-10-25.html</link>
-<guid isPermaLink="true">https://dailyexfil.com/day/2026-10-25.html</guid>
-<pubDate>Sun, 25 Oct 2026 20:00:00 GMT</pubDate>
-<description><![CDATA[[COMMS] Players Report Persistent Stuttering, Say Mods Removed Their Technical Complaint<br>[COMMS] Players Note Easier Gear Recovery After Nightfall Refresh Changes<br>[COMMS] Community Raises Questions About Upcoming Firing Range and Feature Additions<br>[COMMS] Player Flags Repeater Reload Bug With Boutique Thief Core<br>[PRESS] Context: Bungie Admits Marathon's Original Vision Missed the Mark<br>[PRESS] Context: Patch 1.1.9.5 Launched the Vault Breaker Event on October 20]]></description>
 </item>
 </channel>
 </rss>
