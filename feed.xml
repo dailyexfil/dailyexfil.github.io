@@ -6,7 +6,14 @@
 <atom:link href="https://dailyexfil.com/feed.xml" rel="self" type="application/rss+xml"/>
 <description>Daily Marathon (Bungie) news digest. Official, press, and community items tiered by credibility, cross-referenced, and link-checked.</description>
 <language>en</language>
-<lastBuildDate>Sun, 08 Nov 2026 20:04:22 GMT</lastBuildDate>
+<lastBuildDate>Mon, 09 Nov 2026 20:03:51 GMT</lastBuildDate>
+<item>
+<title>DAILY EXFIL 2026-11-09: Community Keeps Up Daily Campaign for Solo Cryo Mode</title>
+<link>https://dailyexfil.com/day/2026-11-09.html</link>
+<guid isPermaLink="true">https://dailyexfil.com/day/2026-11-09.html</guid>
+<pubDate>Mon, 09 Nov 2026 20:00:00 GMT</pubDate>
+<description><![CDATA[[COMMS] Community Keeps Up Daily Campaign for Solo Cryo Mode<br>[COMMS] Community Tracker Claims Marathon Peak Concurrent Players Down to 2.8 Percent of Launch<br>[COMMS] Players Debate Vault Breaker Pain Points: RNG Order and Boring Starting Kit<br>[COMMS] Community Feedback: Sentinel Shell Needs a Rework as a Defensive Pick<br>[COMMS] Players Suggest Marathon Borrow Crafting and Salvage Ideas From Arc Raiders<br>[COMMS] Faction Double XP Weekend Event Ran November 7-8<br>[OFFICIAL] Bungie Schedules Background Maintenance for November 9]]></description>
+</item>
 <item>
 <title>DAILY EXFIL 2026-11-08: Players slam Vaultbreaker mode as unplayable in solo fill queues</title>
 <link>https://dailyexfil.com/day/2026-11-08.html</link>
@@ -97,13 +104,6 @@
 <guid isPermaLink="true">https://dailyexfil.com/day/2026-10-27.html</guid>
 <pubDate>Tue, 27 Oct 2026 20:00:00 GMT</pubDate>
 <description><![CDATA[[OFFICIAL] Marathon Update 1.1.9.6 Released<br>[COMMS] Player reports Perimeter feels empty despite reasonable matchmaking times<br>[COMMS] Community pushes back on signal jammers and consumable balance<br>[COMMS] Players debate alternative fix for Cryo zone rushing in Control mode<br>[COMMS] Players ask for multiple active contracts to reduce grind friction<br>[PRESS] Context: Bungie acknowledged Marathon's extraction focus missed the mark and outlined a reset plan<br>[COMMS] Context: Marathon's player base reportedly dropped 96 percent since launch]]></description>
-</item>
-<item>
-<title>DAILY EXFIL 2026-10-26: Community reports economy and matchmaking problems persist after Nightfall Refresh</title>
-<link>https://dailyexfil.com/day/2026-10-26.html</link>
-<guid isPermaLink="true">https://dailyexfil.com/day/2026-10-26.html</guid>
-<pubDate>Mon, 26 Oct 2026 20:00:00 GMT</pubDate>
-<description><![CDATA[[COMMS] Community reports economy and matchmaking problems persist after Nightfall Refresh<br>[COMMS] Marathon concurrent player count holds near 3,200 on Steam<br>[COMMS] Players compare Marathon's map scale unfavorably to Arc Raiders<br>[COMMS] Some players say the Nightfall Refresh feels better than base Season 2<br>[OFFICIAL] Context: Bungie deployed the Nightfall Refresh, resetting Marathon's economy and progression<br>[OFFICIAL] Context: Marathon Update 1.1.9.5 adjusted Vault Breaker economy on October 20]]></description>
 </item>
 </channel>
 </rss>
