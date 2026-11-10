@@ -1,0 +1,99 @@
+{
+  "date": "2026-11-10",
+  "items": [
+    {
+      "title": "Marathon Symbiosis Update Revealed, Launches December 8 With Permanent PvE Mode and Open Play Week",
+      "summary": "Bungie officially revealed the Symbiosis update, which launches December 8 and adds Marathon's first permanent PvE mode called Expedition, a new 3v3 Deathmatch beta, an expanded Perimeter zone, the melee focused Bishop Runner Shell, and a new social space called Limbo. The studio is running an Open Play Week from December 8 through 15 giving everyone free access to try the full update, a move several outlets frame as a make or break moment given the game's sharply reduced player base since launch. Numerous gaming outlets independently confirmed the reveal and details following Bungie's trailer release.",
+      "source_name": "Steam News (official Bungie posts)",
+      "source_url": "https://store.steampowered.com/news/app/3065800/view/710039706052591955",
+      "credibility_tier": "official",
+      "credibility_note": "Direct official Bungie announcement posted via Steam news, corroborated by multiple independent gaming outlets.",
+      "published_at": "2026-11-10T18:01:00.000Z",
+      "category": "gameplay-content",
+      "corroborating_sources": [
+        "https://press.bungie.com/",
+        "https://www.vice.com/en/article/marathon-is-going-free-to-play-for-one-week-in-december/",
+        "https://comicbook.com/gaming/news/marathons-symbiosis-trailer-shows-off-pve-roguelike-mode-and-more/",
+        "https://www.pushsquare.com/news/2026/11/marathons-fate-hangs-in-the-balance-as-bungie-details-its-game-saving-pve-update",
+        "https://gamermatters.com/marathon-symbiosis-update-adds-pve-deathmatch-this-december/",
+        "https://gameinformer.com/2026/11/10/marathons-symbiosis-update-adds-host-of-new-modes-including-permanent-pve-next-month",
+        "https://insider-gaming.com/marathon-season-3-free-to-play/",
+        "https://www.thesixthaxis.com/2026/11/10/marathon-symbiosis-update-and-pve-expedition-mode-revealed/",
+        "https://gamerant.com/marathon-update-pve-deathmatch-december/",
+        "https://psu.com/news/marathon-symbiosis-update-out-dec-8-with-new-pve-pvp-modes"
+      ]
+    },
+    {
+      "title": "Marathon Update 1.1.9.7 Ships, Ordnance Heist Event Returns",
+      "summary": "Bungie deployed Update 1.1.9.7 to Marathon on November 10, with the Ordnance Heist event returning from November 10 through 24 alongside Sponsored Night Marsh and Sponsored Survival Perimeter events this week. The patch also trimmed the stock and rarity of several MIDA Armory sponsored kit items and the MIDA themed weapon. Bungie's official server status page confirmed the update went out during scheduled maintenance that morning.",
+      "source_name": "Steam News (official Bungie posts)",
+      "source_url": "https://store.steampowered.com/news/app/3065800/view/710039868320776666",
+      "credibility_tier": "official",
+      "credibility_note": "Official shipped patch notes posted directly by Bungie, corroborated by Marathon's official server status page.",
+      "published_at": "2026-11-10T18:01:00.000Z",
+      "category": "patch-notes",
+      "corroborating_sources": [
+        "https://help.marathonthegame.com/hc/en-us/articles/39001626488596-Marathon-Server-and-Update-Status"
+      ]
+    },
+    {
+      "title": "Community Debates Whether Marathon Needs an Offline Mode With Separate Progression",
+      "summary": "With the permanent PvE Expedition mode arriving in December, Marathon players are debating whether Bungie should also add a fully offline mode with its own progression track. Some fans worry an offline option could pull players away from the core multiplayer economy, while others point to extraction games like Tarkov where PvE content makes up most of the playerbase's time. The thread reflects ongoing uncertainty in the community about how large a role PvE should play in Marathon's future.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1xsvpjk/with_a_pure_pve_mode_coming_do_you_think_marathon/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Unverified Reddit discussion reflecting player opinion, not an official statement of plans.",
+      "published_at": "2026-11-10T19:09:52.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Players Debate Whether Marathon Is Worth Joining Ahead of PvE Launch",
+      "summary": "A Reddit thread asks whether Marathon is worth buying given its low current player counts, with the original poster noting concerns about playing from a small region like Oceania where connection quality matters. Commenters weighed whether the incoming PvE mode could meaningfully grow the population or whether the game is already past saving. The conversation highlights persistent community concern about whether Marathon can sustain or grow its audience.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1xsuvg6/is_the_game_worth_getting_into/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Unverified Reddit discussion reflecting player sentiment about population health, not confirmed data.",
+      "published_at": "2026-11-10T18:38:15.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Community Divide Emerges Over Whether Players Will Return for Symbiosis",
+      "summary": "A heated Reddit post argues that longtime critics of Marathon need to actually play the game once the Symbiosis update launches in December, accusing some community members of wanting the game to fail after getting the PvE mode they asked for. The post reflects a broader tension between hope that the update can revive Marathon and fatigue after months of declining player counts. Replies showed a split between cautious optimism and skepticism that players will actually come back.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1xsu76r/you_all_got_what_you_wanted_with_this_new_update/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Unverified Reddit opinion post capturing community sentiment, not a reported fact.",
+      "published_at": "2026-11-10T18:13:43.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Players Report Coordinated Teaming Against Solo Queue in Outpost",
+      "summary": "A Reddit post describes being chased and killed by three players who appeared to coordinate without any in-game communication while running Outpost in solo mode. The poster suspects Discord based team ups are undermining the integrity of the solo queue experience. The thread drew discussion about matchmaking fairness and whether Bungie needs stronger protections for solo players.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1xsvca2/why_dont_you_like_outpost_solo_idk_maybe_3_people/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Single unverified Reddit anecdote about suspected teaming, not independently confirmed.",
+      "published_at": "2026-11-10T18:56:02.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Context: Bungie Layoffs Hit Marathon Leadership in June 2026",
+      "summary": "This story was originally reported on June 25, 2026. Sony's layoffs at Bungie cut roughly half the studio's workforce, including most of the Destiny 2 team and senior Marathon staff such as the game's general manager, with Marathon director Joe Ziegler later departing the studio. The cuts help explain why today's Symbiosis update is being described by outlets as a make or break moment for the game under new leadership.",
+      "source_name": "Forbes",
+      "source_url": "https://www.forbes.com/sites/paultassi/2026/06/25/bungie-hit-with-widespread-layoffs-as-destiny-2-ends-and-marathon-continues/",
+      "credibility_tier": "verified-journalist",
+      "credibility_note": "Established outlet reporting on confirmed layoffs, corroborated by multiple other outlets covering the same event.",
+      "published_at": "2026-06-25T00:00:00Z",
+      "category": "layoffs-business",
+      "corroborating_sources": [
+        "https://thegamepost.com/sonys-bungie-layoffs-hit-marathon-senior-roles-general-manager/",
+        "https://www.dualshockers.com/bungie-is-hit-by-major-layoffs/"
+      ]
+    }
+  ],
+  "no_news_found": false
+}

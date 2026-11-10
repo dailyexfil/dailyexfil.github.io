@@ -6,7 +6,14 @@
 <atom:link href="https://dailyexfil.com/feed.xml" rel="self" type="application/rss+xml"/>
 <description>Daily Marathon (Bungie) news digest. Official, press, and community items tiered by credibility, cross-referenced, and link-checked.</description>
 <language>en</language>
-<lastBuildDate>Mon, 09 Nov 2026 20:03:51 GMT</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 20:03:49 GMT</lastBuildDate>
+<item>
+<title>DAILY EXFIL 2026-11-10: Marathon Symbiosis Update Revealed, Launches December 8 With Permanent PvE Mode and Open Play Week</title>
+<link>https://dailyexfil.com/day/2026-11-10.html</link>
+<guid isPermaLink="true">https://dailyexfil.com/day/2026-11-10.html</guid>
+<pubDate>Tue, 10 Nov 2026 20:00:00 GMT</pubDate>
+<description><![CDATA[[OFFICIAL] Marathon Symbiosis Update Revealed, Launches December 8 With Permanent PvE Mode and Open Play Week<br>[OFFICIAL] Marathon Update 1.1.9.7 Ships, Ordnance Heist Event Returns<br>[COMMS] Community Debates Whether Marathon Needs an Offline Mode With Separate Progression<br>[COMMS] Players Debate Whether Marathon Is Worth Joining Ahead of PvE Launch<br>[COMMS] Community Divide Emerges Over Whether Players Will Return for Symbiosis<br>[COMMS] Players Report Coordinated Teaming Against Solo Queue in Outpost<br>[PRESS] Context: Bungie Layoffs Hit Marathon Leadership in June 2026]]></description>
+</item>
 <item>
 <title>DAILY EXFIL 2026-11-09: Community Keeps Up Daily Campaign for Solo Cryo Mode</title>
 <link>https://dailyexfil.com/day/2026-11-09.html</link>
@@ -97,13 +104,6 @@
 <guid isPermaLink="true">https://dailyexfil.com/day/2026-10-28.html</guid>
 <pubDate>Wed, 28 Oct 2026 20:00:00 GMT</pubDate>
 <description><![CDATA[[COMMS] Marathon Update 1.1.9.6 Fixes Contract Reputation Rewards, Sets Up Sponsored Perimeter<br>[COMMS] Returning Player Asks: Worth Jumping Into Marathon Now or Waiting for December?<br>[COMMS] Players Say Season 2.5 Loot Pool Makes Informal Solo Lobby Teamups Viable in Pinwheel<br>[COMMS] Solo Players Question Whether AI Bot Difficulty Has Been Rebalanced<br>[COMMS] Community Pitches Buffs for Underperforming Triage Shell<br>[OFFICIAL] Context: Bungie Admits Marathon Missed the Mark, Lays Out Overhaul Roadmap Through March 2027<br>[PRESS] Context: June 2026 Bungie Layoffs Cut About 292 Staff, Including Marathon Leadership]]></description>
-</item>
-<item>
-<title>DAILY EXFIL 2026-10-27: Marathon Update 1.1.9.6 Released</title>
-<link>https://dailyexfil.com/day/2026-10-27.html</link>
-<guid isPermaLink="true">https://dailyexfil.com/day/2026-10-27.html</guid>
-<pubDate>Tue, 27 Oct 2026 20:00:00 GMT</pubDate>
-<description><![CDATA[[OFFICIAL] Marathon Update 1.1.9.6 Released<br>[COMMS] Player reports Perimeter feels empty despite reasonable matchmaking times<br>[COMMS] Community pushes back on signal jammers and consumable balance<br>[COMMS] Players debate alternative fix for Cryo zone rushing in Control mode<br>[COMMS] Players ask for multiple active contracts to reduce grind friction<br>[PRESS] Context: Bungie acknowledged Marathon's extraction focus missed the mark and outlined a reset plan<br>[COMMS] Context: Marathon's player base reportedly dropped 96 percent since launch]]></description>
 </item>
 </channel>
 </rss>
