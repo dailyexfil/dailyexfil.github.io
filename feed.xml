@@ -6,7 +6,14 @@
 <atom:link href="https://dailyexfil.com/feed.xml" rel="self" type="application/rss+xml"/>
 <description>Daily Marathon (Bungie) news digest. Official, press, and community items tiered by credibility, cross-referenced, and link-checked.</description>
 <language>en</language>
-<lastBuildDate>Tue, 10 Nov 2026 20:03:49 GMT</lastBuildDate>
+<lastBuildDate>Wed, 11 Nov 2026 20:04:15 GMT</lastBuildDate>
+<item>
+<title>DAILY EXFIL 2026-11-11: Marathon Symbiosis Update Trailer Confirms December 8 Launch</title>
+<link>https://dailyexfil.com/day/2026-11-11.html</link>
+<guid isPermaLink="true">https://dailyexfil.com/day/2026-11-11.html</guid>
+<pubDate>Wed, 11 Nov 2026 20:00:00 GMT</pubDate>
+<description><![CDATA[[OFFICIAL] Marathon Symbiosis Update Trailer Confirms December 8 Launch<br>[OFFICIAL] Marathon Patch 1.1.9.7 Ships With Event Rotation and Bug Fixes<br>[COMMS] Community Debate Flares Over Marathon's Pivot Toward PvE<br>[PRESS] Marathon Going Free for Open Play Week December 8-15<br>[PRESS] Bungie Lays Out Plan to Rebuild Trust Around Marathon's Future<br>[COMMS] Bishop Shell Reveal Sparks Lore Questions in Community<br>[COMMS] Players Report Server Bug Wiping Extraction Rewards<br>[COMMS] Players Vent Frustration Over High Risk of Losing Good Gear<br>[PRESS] Marathon's Crew Up Event Runs December 8-22 With Cosmetic Rewards<br>[PRESS] Marathon Player Numbers Stay Low, Report Says Game Running at a Loss<br>[PRESS] Context: Bungie Said Marathon Was Built Too Narrowly as a Pure Extraction Shooter<br>[PRESS] Context: June 2026 Layoffs Hit Marathon Leadership Roles]]></description>
+</item>
 <item>
 <title>DAILY EXFIL 2026-11-10: Marathon Symbiosis Update Revealed, Launches December 8 With Permanent PvE Mode and Open Play Week</title>
 <link>https://dailyexfil.com/day/2026-11-10.html</link>
@@ -97,13 +104,6 @@
 <guid isPermaLink="true">https://dailyexfil.com/day/2026-10-29.html</guid>
 <pubDate>Thu, 29 Oct 2026 20:00:00 GMT</pubDate>
 <description><![CDATA[[OFFICIAL] Bungie's October Community Update reaffirms Marathon is essential, flags December and March as decisive<br>[COMMS] Players debate whether Bungie's new blog post is guilt-tripping the community<br>[COMMS] Players report suspected matchmaking abuse amid low population<br>[COMMS] Players question why Season 2.5's Vault Breakers event only runs three weeks<br>[COMMS] Players say bots feel noticeably stronger since the recent refresh<br>[PRESS] Context: Marathon's October 20 update added the Vault Breaker event<br>[OFFICIAL] Context: Bungie's September 24 roadmap outlined December's Symbiosis update]]></description>
-</item>
-<item>
-<title>DAILY EXFIL 2026-10-28: Marathon Update 1.1.9.6 Fixes Contract Reputation Rewards, Sets Up Sponsored Perimeter</title>
-<link>https://dailyexfil.com/day/2026-10-28.html</link>
-<guid isPermaLink="true">https://dailyexfil.com/day/2026-10-28.html</guid>
-<pubDate>Wed, 28 Oct 2026 20:00:00 GMT</pubDate>
-<description><![CDATA[[COMMS] Marathon Update 1.1.9.6 Fixes Contract Reputation Rewards, Sets Up Sponsored Perimeter<br>[COMMS] Returning Player Asks: Worth Jumping Into Marathon Now or Waiting for December?<br>[COMMS] Players Say Season 2.5 Loot Pool Makes Informal Solo Lobby Teamups Viable in Pinwheel<br>[COMMS] Solo Players Question Whether AI Bot Difficulty Has Been Rebalanced<br>[COMMS] Community Pitches Buffs for Underperforming Triage Shell<br>[OFFICIAL] Context: Bungie Admits Marathon Missed the Mark, Lays Out Overhaul Roadmap Through March 2027<br>[PRESS] Context: June 2026 Bungie Layoffs Cut About 292 Staff, Including Marathon Leadership]]></description>
 </item>
 </channel>
 </rss>

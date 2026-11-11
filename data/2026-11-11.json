@@ -1,0 +1,152 @@
+{
+  "date": "2026-11-11",
+  "items": [
+    {
+      "title": "Marathon Symbiosis Update Trailer Confirms December 8 Launch",
+      "summary": "Bungie released an official gameplay trailer for the Symbiosis update, confirming it launches December 8, 2026. The update adds Expedition, a permanent PvE roguelite mode, a Team Deathmatch beta, the melee focused Bishop Runner shell, a new social hub called Limbo, and a reworked Perimeter zone with new areas like the Burrows and a submerged Reservoir.",
+      "source_name": "Bungie.net",
+      "source_url": "https://press.bungie.com/",
+      "credibility_tier": "official",
+      "credibility_note": "Direct announcement from Bungie's official press channel.",
+      "published_at": "2026-11-10T00:00:00Z",
+      "category": "gameplay-content",
+      "corroborating_sources": [
+        "https://www.pcgamer.com/games/fps/bungie-drops-gameplay-trailer-for-marathons-co-op-pve-roguelite-mode-and-swanky-new-social-space/",
+        "https://www.pushsquare.com/news/2026/11/marathons-fate-hangs-in-the-balance-as-bungie-details-its-game-saving-pve-update",
+        "https://www.thesixthaxis.com/2026/11/10/marathon-symbiosis-update-and-pve-expedition-mode-revealed/",
+        "https://www.keengamer.com/articles/news/bungie-reveals-new-marathon-update-trailer/",
+        "https://finalweapon.net/2026/11/10/marathon-symbiosis-update-gameplay-trailer/",
+        "https://www.theouterhaven.net/marathon-symbiosis-update-adds-pve-roguelike-mode-and-team-deathmatch/",
+        "https://www.mmorpg.com/news/bungie-previews-marathons-symbiosis-update-with-first-pve-only-mode-new-weapons-bishop-shell-and-overhauled-perimeter-zone-2000139286"
+      ]
+    },
+    {
+      "title": "Marathon Patch 1.1.9.7 Ships With Event Rotation and Bug Fixes",
+      "summary": "Bungie deployed update 1.1.9.7 on November 10, 2026, bringing back the Ordnance Heist event through November 24, adding a Sponsored Night Marsh weekend event and Sponsored Survival on Perimeter. The patch also fixes zone accessibility issues and a UI bug affecting weapon stickers.",
+      "source_name": "Bungie.net",
+      "source_url": "https://www.bungie.net/7/en/News/Article/marathon_update_1_1_9_7",
+      "credibility_tier": "official",
+      "credibility_note": "Official Bungie patch notes page for an update that has already shipped.",
+      "published_at": "2026-11-10T00:00:00Z",
+      "category": "patch-notes",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Community Debate Flares Over Marathon's Pivot Toward PvE",
+      "summary": "A Reddit post asked again where the discussion space is for players who enjoy Marathon's core extraction mode, arguing that fans wanting more PvPvE content like new maps and balance changes feel shouted down amid excitement for the PvE-focused Symbiosis update. The thread reflects a wider split in the community between players excited for Expedition and those worried the extraction mode is being deprioritized.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1xtoarv/once_again_asking_where_is_the_sub_for_the_people/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Unverified Reddit discussion thread reflecting player sentiment, not independently confirmed reporting.",
+      "published_at": "2026-11-11T17:42:44.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Marathon Going Free for Open Play Week December 8-15",
+      "summary": "Bungie announced Marathon will be completely free to play from December 8 through 15, 2026, timed to the Symbiosis update launch. Anyone who buys the game after the free period keeps all progression and items earned during the event.",
+      "source_name": "Vice",
+      "source_url": "https://www.vice.com/en/article/marathon-is-going-free-to-play-for-one-week-in-december/",
+      "credibility_tier": "verified-journalist",
+      "credibility_note": "Reporting from an established outlet covering Bungie's official announcement.",
+      "published_at": "2026-11-10T00:00:00Z",
+      "category": "other",
+      "corroborating_sources": [
+        "https://www.allkeyshop.com/blog/marathon-adds-pve-mode-free-week-news-n/"
+      ]
+    },
+    {
+      "title": "Bungie Lays Out Plan to Rebuild Trust Around Marathon's Future",
+      "summary": "Bungie published a roadmap framing the Symbiosis update as the start of a broader evolution for Marathon, openly acknowledging the game's launch underperformed. The studio said Destiny 2 will keep getting support alongside Marathon, and promised more ways to play, expanded PvE, new modes, and deeper storytelling over the next year.",
+      "source_name": "MMORPG.com",
+      "source_url": "https://www.mmorpg.com/news/bungie-shares-the-future-of-marathon-more-ways-to-play-expanded-world-pve-options-more-shell-choices-and-new-modes-2000138998",
+      "credibility_tier": "verified-journalist",
+      "credibility_note": "Established gaming outlet reporting directly on a Bungie studio statement.",
+      "published_at": "2026-11-10T00:00:00Z",
+      "category": "layoffs-business",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Bishop Shell Reveal Sparks Lore Questions in Community",
+      "summary": "After Bungie showed off the new Bishop Runner shell in the Symbiosis trailer, players on r/Marathon debated how its general availability fits with existing lore, since the Rook frame was previously described as a makeshift, short term solution. Some fans questioned whether Bishop will be a standard pick for any squad or a higher tier Rook upgrade.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1xtmwbh/bishop_shell/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Fan discussion and speculation on a Reddit thread, not confirmed by Bungie.",
+      "published_at": "2026-11-11T16:52:49.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Players Report Server Bug Wiping Extraction Rewards",
+      "summary": "A Reddit user described completing a successful extraction after a strong run on Dire Marsh, only for the game to say the run was not finalized and offer a choice between returning to lobby or losing all gear and progress gained. The post adds to ongoing frustration about server reliability affecting loot and progression.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1xtrn3w/bungie_fix_your_servers/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Single player anecdote on Reddit, not independently verified as a widespread server issue.",
+      "published_at": "2026-11-11T19:47:11.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Players Vent Frustration Over High Risk of Losing Good Gear",
+      "summary": "A Reddit post described the common frustration of finally deciding to use a prized weapon or key, only to die within minutes, saying successful use of valuable loot feels rare compared to losing it. The sentiment reflects ongoing community discussion about risk versus reward in Marathon's extraction loop.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1xtomwo/this_game_is_so_frustrating/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Personal opinion post on Reddit reflecting one player's experience and broader sentiment.",
+      "published_at": "2026-11-11T17:55:17.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Marathon's Crew Up Event Runs December 8-22 With Cosmetic Rewards",
+      "summary": "Bungie detailed a Crew Up event launching alongside Symbiosis on December 8 and running through December 22, encouraging cooperative play with exclusive cosmetic rewards. Players need to redeem a specific code to unlock the event's challenges.",
+      "source_name": "FullCleared",
+      "source_url": "https://fullcleared.com/news/marathon-symbiosis-adds-expedition-pve-mode-bishop-shell/",
+      "credibility_tier": "verified-journalist",
+      "credibility_note": "Reported by a games news outlet, single sourced for this specific event detail.",
+      "published_at": "2026-11-11T00:00:00Z",
+      "category": "gameplay-content",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Marathon Player Numbers Stay Low, Report Says Game Running at a Loss",
+      "summary": "KeenGamer reported Marathon continues to miss Bungie's player count targets and is currently operating at a financial loss despite a reported 200 million dollar development budget, with the game mostly played on PC and limited console uptake. Third party tracking site ActivePlayer.io shows concurrent players around 2,700, down sharply from a March 2026 launch peak near 88,000.",
+      "source_name": "KeenGamer",
+      "source_url": "https://www.keengamer.com/articles/news/bungie-reveals-new-marathon-update-trailer/",
+      "credibility_tier": "verified-journalist",
+      "credibility_note": "Established games outlet reporting on financial and player count performance, corroborated by a third-party stats tracker.",
+      "published_at": "2026-11-11T00:00:00Z",
+      "category": "layoffs-business",
+      "corroborating_sources": [
+        "https://activeplayer.io/marathon/"
+      ]
+    },
+    {
+      "title": "Context: Bungie Said Marathon Was Built Too Narrowly as a Pure Extraction Shooter",
+      "summary": "This story was originally published September 24, 2026. In a developer video, Bungie leadership admitted Marathon was built too narrowly around extraction mechanics without broader elements like multiple modes and dedicated PvE, with creative director Julia Nardin saying the game needed PvE, PvP, and stronger narrative to feel like a true Bungie game. This background helps explain why the December Symbiosis update leans so heavily into new modes and PvE.",
+      "source_name": "PC Gamer",
+      "source_url": "https://www.pcgamer.com/games/we-all-thought-we-were-bringing-extraction-to-the-masses-and-we-didnt/",
+      "credibility_tier": "verified-journalist",
+      "credibility_note": "Established outlet reporting direct quotes from Bungie leadership.",
+      "published_at": "2026-09-24T00:00:00Z",
+      "category": "other",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Context: June 2026 Layoffs Hit Marathon Leadership Roles",
+      "summary": "This story was originally reported in late June 2026. Bungie laid off roughly 292 Bellevue staff including Marathon's General Manager, Engineering Director, and several producers, as part of cuts that also hit most of the Destiny 2 team, with separations taking effect July 9, 2026. Sony leadership said Marathon would remain an important part of the portfolio despite the cuts.",
+      "source_name": "The Game Post",
+      "source_url": "https://thegamepost.com/sonys-bungie-layoffs-hit-marathon-senior-roles-general-manager/",
+      "credibility_tier": "verified-journalist",
+      "credibility_note": "Established outlet reporting with corroboration from a second major outlet on the same layoffs.",
+      "published_at": "2026-06-26T00:00:00Z",
+      "category": "layoffs-business",
+      "corroborating_sources": [
+        "https://gameinformer.com/2026/06/25/bungie-is-laying-off-most-of-the-destiny-2-development-team"
+      ]
+    }
+  ],
+  "no_news_found": false
+}
