@@ -1,0 +1,80 @@
+{
+  "date": "2026-11-13",
+  "items": [
+    {
+      "title": "Players Report Long Queues on Australian Servers",
+      "summary": "A r/Marathon user said they returned to the game after months away and could not get into a single match after waiting nearly an hour on Australian servers. The post reflects ongoing concern about shrinking regional population even as Bungie rolls out new content to retain players.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1xv9xd3/have_they_fixed_the_servers_in_australia/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Unverified individual Reddit post, included because population and queue concerns are a recurring community theme.",
+      "published_at": "2026-11-13T14:53:27.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Solo Player Struggles to Find Other Players for Intro Contract",
+      "summary": "A r/Marathon user said they cannot find anyone to encounter while trying to finish an early contract, and asked the community for tips on which maps or matchmaking settings give better odds of running into players as a solo. The thread adds to a pattern of posts about low encounter rates and population.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1xvg4ro/where_is_everybody/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Unverified individual Reddit post reflecting a recurring community complaint about matchmaking and population.",
+      "published_at": "2026-11-13T18:47:08.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Community Criticizes Loot Pacing in New Sponsored Survival Mode",
+      "summary": "A r/Marathon post complained that the newly added Sponsored Survival mode leaves slower or newer players stuck with trash loot while faster players scoop up everything, and called the default starting pistol weak. The thread is direct player feedback on the PvE mode Bungie added this week during the Nightfall Refresh.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1xvcmmv/sponsored_survival_experience/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Unverified individual Reddit post, included as substantive gameplay feedback on a recently added mode.",
+      "published_at": "2026-11-13T16:37:43.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Community Debates Assassin Shell Balance After Camping Complaint",
+      "summary": "A r/Marathon user described wiping most of a lobby solo, only to be ambushed at the very end by an Assassin player who had camped for 25 minutes without engaging the map. The poster argued the shell should be removed, reigniting a recurring community debate over passive, ambush-focused playstyles.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1xvbxqw/the_worst_kinda_solo_experience_is_when_you_wipe/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Unverified individual Reddit post, included as a representative balance discussion thread.",
+      "published_at": "2026-11-13T16:11:22.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Context: Symbiosis Update Confirmed for December 8 With Permanent PvE Mode and Free Play Week",
+      "summary": "This was originally reported around November 10-11, 2026. Bungie confirmed its Symbiosis update will launch December 8, adding Expedition as the game's first permanent PvE roguelite mode, a new 3v3 Team Deathmatch beta, the Limbo social hub, and a Bishop Runner shell, with a free-to-play week running December 8-15. This background explains several current community posts asking how the update affects solo play and the Perimeter map.",
+      "source_name": "Bungie.net",
+      "source_url": "https://www.bungie.net/7/en/News/Article/symbiosis_open_play_week_crew_up",
+      "credibility_tier": "official",
+      "credibility_note": "Direct Bungie.net post announcing the update timing and free play week.",
+      "published_at": "2026-11-10T00:00:00Z",
+      "category": "gameplay-content",
+      "corroborating_sources": [
+        "https://www.pcgamer.com/games/fps/bungie-drops-gameplay-trailer-for-marathons-co-op-pve-roguelite-mode-and-swanky-new-social-space/",
+        "https://insider-gaming.com/marathon-season-3-free-to-play/",
+        "https://www.keengamer.com/articles/news/bungie-reveals-new-marathon-update-trailer/",
+        "https://www.pushsquare.com/news/2026/11/marathons-fate-hangs-in-the-balance-as-bungie-details-its-game-saving-pve-update"
+      ]
+    },
+    {
+      "title": "Context: Marathon Lost Most of Its Launch Player Base Amid Studio Health Concerns",
+      "summary": "This was originally reported around November 10, 2026. Reports say Marathon's player count has fallen roughly 96 percent from its launch peak of about 88,337 since the March 2026 release, feeding concerns about Bungie's financial health after earlier layoffs that hit Marathon leadership. This context helps explain current community posts about server queues and discounted pricing.",
+      "source_name": "The Game Post",
+      "source_url": "https://thegamepost.com/marathon-player-count-96-launch-bungie-season-3/",
+      "credibility_tier": "verified-journalist",
+      "credibility_note": "Established gaming outlet reporting on player count data and studio financial concerns.",
+      "published_at": "2026-11-10T00:00:00Z",
+      "category": "layoffs-business",
+      "corroborating_sources": [
+        "https://shattered.io/marathon-88337-peak-players-bungie-2026/",
+        "https://thegamepost.com/sony-bungie-layoffs-hit-marathon-senior-roles-general-manager-engineering-director-and-more/"
+      ]
+    }
+  ],
+  "no_news_found": false
+}

@@ -6,7 +6,14 @@
 <atom:link href="https://dailyexfil.com/feed.xml" rel="self" type="application/rss+xml"/>
 <description>Daily Marathon (Bungie) news digest. Official, press, and community items tiered by credibility, cross-referenced, and link-checked.</description>
 <language>en</language>
-<lastBuildDate>Wed, 11 Nov 2026 20:04:15 GMT</lastBuildDate>
+<lastBuildDate>Fri, 13 Nov 2026 20:04:10 GMT</lastBuildDate>
+<item>
+<title>DAILY EXFIL 2026-11-13: Players Report Long Queues on Australian Servers</title>
+<link>https://dailyexfil.com/day/2026-11-13.html</link>
+<guid isPermaLink="true">https://dailyexfil.com/day/2026-11-13.html</guid>
+<pubDate>Fri, 13 Nov 2026 20:00:00 GMT</pubDate>
+<description><![CDATA[[COMMS] Players Report Long Queues on Australian Servers<br>[COMMS] Solo Player Struggles to Find Other Players for Intro Contract<br>[COMMS] Community Criticizes Loot Pacing in New Sponsored Survival Mode<br>[COMMS] Community Debates Assassin Shell Balance After Camping Complaint<br>[OFFICIAL] Context: Symbiosis Update Confirmed for December 8 With Permanent PvE Mode and Free Play Week<br>[PRESS] Context: Marathon Lost Most of Its Launch Player Base Amid Studio Health Concerns]]></description>
+</item>
 <item>
 <title>DAILY EXFIL 2026-11-11: Marathon Symbiosis Update Trailer Confirms December 8 Launch</title>
 <link>https://dailyexfil.com/day/2026-11-11.html</link>
@@ -97,13 +104,6 @@
 <guid isPermaLink="true">https://dailyexfil.com/day/2026-10-30.html</guid>
 <pubDate>Fri, 30 Oct 2026 20:00:00 GMT</pubDate>
 <description><![CDATA[[PRESS] Bungie's October Community Update Acknowledges Marathon Underperformance, Confirms December 8 Symbiosis Launch<br>[PRESS] Bungie Product Head: Don't Buy Marathon as a 'Donation', Destiny 2 Plans Are Independent<br>[COMMS] Community Debate: Vault Breaker Called a 'Bad Template' for Marathon's PvE Future<br>[COMMS] Players Warn Level 3 Clearance Requirement for Cryo Side Paths Could Push People Away<br>[COMMS] Community Frustration Over Lack of New Maps Since Launch<br>[COMMS] Players Call for Ranked Mode to Return for Seasonal Progression<br>[OFFICIAL] Context: Bungie Confirmed December Symbiosis Update With Permanent PvE and Expanded Content]]></description>
-</item>
-<item>
-<title>DAILY EXFIL 2026-10-29: Bungie's October Community Update reaffirms Marathon is essential, flags December and March as decisive</title>
-<link>https://dailyexfil.com/day/2026-10-29.html</link>
-<guid isPermaLink="true">https://dailyexfil.com/day/2026-10-29.html</guid>
-<pubDate>Thu, 29 Oct 2026 20:00:00 GMT</pubDate>
-<description><![CDATA[[OFFICIAL] Bungie's October Community Update reaffirms Marathon is essential, flags December and March as decisive<br>[COMMS] Players debate whether Bungie's new blog post is guilt-tripping the community<br>[COMMS] Players report suspected matchmaking abuse amid low population<br>[COMMS] Players question why Season 2.5's Vault Breakers event only runs three weeks<br>[COMMS] Players say bots feel noticeably stronger since the recent refresh<br>[PRESS] Context: Marathon's October 20 update added the Vault Breaker event<br>[OFFICIAL] Context: Bungie's September 24 roadmap outlined December's Symbiosis update]]></description>
 </item>
 </channel>
 </rss>
