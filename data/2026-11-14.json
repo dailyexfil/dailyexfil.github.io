@@ -1,0 +1,75 @@
+{
+  "date": "2026-11-14",
+  "items": [
+    {
+      "title": "Players Seek Clarity on Whether Vaults Will Wipe With December 8 Update",
+      "summary": "A Reddit thread raises concerns about whether player vaults, including gear, credits, and faction progression, will be wiped when the Symbiosis update launches on December 8. The original poster says they have gotten mixed answers from other players and are asking whether Bungie has made any official statement on the matter.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1xw5csh/will_our_vaults_reset_on_december_8th_has_bungie/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Reddit discussion thread reflecting player uncertainty, no Bungie confirmation cited.",
+      "published_at": "2026-11-14T15:38:47.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Community Pushes Bungie to Confirm Vault Breaker and Survival Modes Return Next Season",
+      "summary": "Players are asking Bungie to confirm whether the existing Vault Breaker and Survival modes will stick around alongside the new permanent PvE Expedition mode arriving in the Symbiosis update. The poster worries fan-favorite modes could be quietly dropped as Bungie shifts more attention toward PvE content.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1xw66bh/can_we_please_get_some_confirmation_that_vault/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Community request for official confirmation, no Bungie response provided yet.",
+      "published_at": "2026-11-14T16:12:55.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Debate Over Whether PvE Focus Will Help or Hurt Marathon's Extraction Mode",
+      "summary": "A community discussion debates whether Bungie's growing PvE focus, including the upcoming permanent Expedition mode, will strengthen or dilute the core extraction experience. The poster argues that content built for the new PvE mode is likely to carry over into extraction, pushing back on fears that Bungie is abandoning extraction as the main focus.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1xw5efi/a_focus_on_pve_will_only_enhance_the_extraction/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Opinion thread from the community sub, not an official statement.",
+      "published_at": "2026-11-14T15:40:41.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Players Divided Over Aggressive Tactics in Sponsored Survival Mode",
+      "summary": "A Reddit post defending aggressive ambush play in the newer Sponsored Survival mode drew pushback from other players who feel it undermines the mode's PvE-leaning intent. The thread shows ongoing friction over how PvP-style tactics fit into Bungie's newer, more PvE-focused game modes.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1xw0ui1/if_you_play_sponsored_survival_you_better_watch/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Community sentiment thread capturing a playstyle debate, not an official report.",
+      "published_at": "2026-11-14T12:06:14.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Context: Bungie Confirms Symbiosis Update Launching December 8 With Permanent PvE Mode",
+      "summary": "Bungie revealed a gameplay trailer and details for the Symbiosis update on November 10, 2026, confirming a December 8 launch date. The update adds a permanent PvE roguelike mode called Expedition, a 3v3 Team Deathmatch beta, a new Bishop runner shell, an updated Perimeter map, and a new social hub called Limbo, along with a free open play week running December 8 to 15.",
+      "source_name": "PC Gamer",
+      "source_url": "https://www.pcgamer.com/games/fps/bungie-drops-gameplay-trailer-for-marathons-co-op-pve-roguelite-mode-and-swanky-new-social-space/",
+      "credibility_tier": "verified-journalist",
+      "credibility_note": "PC Gamer is an established gaming outlet reporting directly on Bungie's official trailer reveal.",
+      "published_at": "2026-11-10T00:00:00Z",
+      "category": "gameplay-content",
+      "corroborating_sources": [
+        "https://www.vice.com/en/article/marathon-is-going-free-to-play-for-one-week-in-december/",
+        "https://www.pushsquare.com/news/2026/11/marathons-fate-hangs-in-the-balance-as-bungie-details-its-game-saving-pve-update"
+      ]
+    },
+    {
+      "title": "Context: Bungie Shipped Hotfix 1.1.9.7, Restoring Ordnance Heist Event",
+      "summary": "Bungie released update 1.1.9.7 on November 10, 2026, restoring the Ordnance Heist event through November 24 and adjusting sponsored kit stock along with some display fixes. The patch also introduced rotating sponsored events such as Night Marsh starting November 12.",
+      "source_name": "Bungie.net",
+      "source_url": "https://www.bungie.net/7/en/News/Article/marathon_update_1_1_9_7",
+      "credibility_tier": "official",
+      "credibility_note": "Direct patch notes published on Bungie's official news channel.",
+      "published_at": "2026-11-10T00:00:00Z",
+      "category": "patch-notes",
+      "corroborating_sources": []
+    }
+  ],
+  "no_news_found": false
+}
