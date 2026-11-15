@@ -6,7 +6,14 @@
 <atom:link href="https://dailyexfil.com/feed.xml" rel="self" type="application/rss+xml"/>
 <description>Daily Marathon (Bungie) news digest. Official, press, and community items tiered by credibility, cross-referenced, and link-checked.</description>
 <language>en</language>
-<lastBuildDate>Sat, 14 Nov 2026 20:03:06 GMT</lastBuildDate>
+<lastBuildDate>Sun, 15 Nov 2026 20:04:12 GMT</lastBuildDate>
+<item>
+<title>DAILY EXFIL 2026-11-15: Reddit Asks: Can Marathon Actually Make a Comeback?</title>
+<link>https://dailyexfil.com/day/2026-11-15.html</link>
+<guid isPermaLink="true">https://dailyexfil.com/day/2026-11-15.html</guid>
+<pubDate>Sun, 15 Nov 2026 20:00:00 GMT</pubDate>
+<description><![CDATA[[COMMS] Reddit Asks: Can Marathon Actually Make a Comeback?<br>[COMMS] Community Poll Gauges Player Appetite for Deeper Progression Systems<br>[COMMS] Players Debate Marathon's Loot Economy and Rare Gear Scarcity<br>[COMMS] Players Report Persistent Server Connection Problems<br>[OFFICIAL] Context: Marathon's Symbiosis Update Confirmed for December 8 Launch<br>[COMMS] Context: Marathon Player Count Falls Near All-Time Low Amid Studio Struggles]]></description>
+</item>
 <item>
 <title>DAILY EXFIL 2026-11-14: Players Seek Clarity on Whether Vaults Will Wipe With December 8 Update</title>
 <link>https://dailyexfil.com/day/2026-11-14.html</link>
@@ -97,13 +104,6 @@
 <guid isPermaLink="true">https://dailyexfil.com/day/2026-11-01.html</guid>
 <pubDate>Sun, 01 Nov 2026 20:00:00 GMT</pubDate>
 <description><![CDATA[[PRESS] Bungie Clarifies: Don't Buy Marathon 'As a Donation' to Save the Studio<br>[COMMS] Players Keep Asking Bungie for a Solo Cryo Playlist<br>[COMMS] Community Flags Unfixed Biostock Ceiling Exploit for Thief Shell<br>[COMMS] Players Say Vault Loot Feels Underwhelming After DRRVSH Removal From Vault 1<br>[COMMS] Players Ask for Difficulty Scaling Options in Future PvE Modes<br>[OFFICIAL] Context: Bungie Community Update Addressed Destiny and Marathon Together, Teased December Dev Insight<br>[PRESS] Context: Marathon Patch 1.1.9.6 Fixed Contract Rewards and Night Marsh Spawn Bug]]></description>
-</item>
-<item>
-<title>DAILY EXFIL 2026-10-31: Bungie says Destiny 2's future does not depend on Marathon's success</title>
-<link>https://dailyexfil.com/day/2026-10-31.html</link>
-<guid isPermaLink="true">https://dailyexfil.com/day/2026-10-31.html</guid>
-<pubDate>Sat, 31 Oct 2026 20:00:00 GMT</pubDate>
-<description><![CDATA[[PRESS] Bungie says Destiny 2's future does not depend on Marathon's success<br>[COMMS] Players debate toxicity toward newcomers on Marathon crew-fill<br>[COMMS] New player rant highlights steep learning curve in Marathon<br>[COMMS] Community spots possible PvE menu details in leaked footage<br>[COMMS] Players keep pressing Bungie for solo Cryo queue option]]></description>
 </item>
 </channel>
 </rss>

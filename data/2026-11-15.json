@@ -1,0 +1,81 @@
+{
+  "date": "2026-11-15",
+  "items": [
+    {
+      "title": "Reddit Asks: Can Marathon Actually Make a Comeback?",
+      "summary": "A community member who stopped playing Marathon earlier this year posted a video and discussion thread arguing the upcoming Symbiosis update gives Bungie a real shot at turning the game around. The thread has sparked debate among players about whether Bungie can rebuild trust and population after a rough year for the extraction shooter.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1xx0t39/can_marathon_actually_make_a_comeback/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Single Reddit discussion thread reflecting player sentiment, not independently verified reporting.",
+      "published_at": "2026-11-15T17:09:17.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Community Poll Gauges Player Appetite for Deeper Progression Systems",
+      "summary": "A Reddit poll asks players what kind of long-term progression system they want, following Bungie's stated intent to move toward more meaningful progression. The thread frames progression as the second biggest complaint in the community after ongoing PvP balance debates.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1xx4vve/bungies_approach_to_longterm_progression_poll/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Community-run poll and discussion thread, not an official Bungie statement.",
+      "published_at": "2026-11-15T19:49:41.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Players Debate Marathon's Loot Economy and Rare Gear Scarcity",
+      "summary": "A Reddit thread argues Bungie should loosen restrictions on rare loot access, saying current scarcity around items like the Perimeter map makes losses too painful and discourages aggressive play. Other players push back in the comments, defending the existing economy design as necessary for gear progression stakes.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1xx1bhb/i_dont_care_about_the_economy/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Reddit opinion thread representing one segment of player sentiment on game economy design.",
+      "published_at": "2026-11-15T17:29:07.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Players Report Persistent Server Connection Problems",
+      "summary": "A long-time Marathon player with over 700 hours posted about ongoing server connection issues, describing constant red connection warning icons even after adjusting network settings to prioritize connection over speed. Other players in the thread report similar problems while grinding the current rewards pass ahead of the Symbiosis update.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1xx1k4p/server_connection/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Player-reported technical complaints on Reddit, not confirmed by Bungie or independent testing.",
+      "published_at": "2026-11-15T17:38:20.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Context: Marathon's Symbiosis Update Confirmed for December 8 Launch",
+      "summary": "Bungie originally revealed this in a gameplay trailer on November 10, 2026, confirming the Symbiosis update will launch December 8 with Marathon's first permanent PvE mode called Expedition, a new social hub called Limbo, the sword-focused Bishop runner shell, a 3v3 Team Deathmatch beta, and an expanded Perimeter map. The update also comes with a free Open Play Week from December 8 to 15, and multiple outlets have described it as a make-or-break moment given the game's low player counts.",
+      "source_name": "Bungie Press Room",
+      "source_url": "https://press.bungie.com/First-look-Marathon-Symbiosis-gameplay-trailer-reveals-whats-coming-De",
+      "credibility_tier": "official",
+      "credibility_note": "Direct announcement from Bungie's official press channel about an upcoming, not-yet-shipped update.",
+      "published_at": "2026-11-10T00:00:00Z",
+      "category": "gameplay-content",
+      "corroborating_sources": [
+        "https://www.pcgamer.com/games/fps/bungie-drops-gameplay-trailer-for-marathons-co-op-pve-roguelite-mode-and-swanky-new-social-space/",
+        "https://www.pushsquare.com/news/2026/11/marathons-fate-hangs-in-the-balance-as-bungie-details-its-game-saving-pve-update",
+        "https://www.vice.com/en/article/marathon-is-going-free-to-play-for-one-week-in-december/",
+        "https://www.keengamer.com/articles/news/bungie-reveals-new-marathon-update-trailer/",
+        "https://www.theouterhaven.net/marathon-symbiosis-update-adds-pve-roguelike-mode-and-team-deathmatch/"
+      ]
+    },
+    {
+      "title": "Context: Marathon Player Count Falls Near All-Time Low Amid Studio Struggles",
+      "summary": "SteamDB data from November 13, 2026 showed Marathon's concurrent player count had dropped to roughly 2,947, a 96.7 percent decline from its all-time peak of 88,337 players recorded in March 2026. The decline follows a year marked by major Bungie layoffs that hit Marathon's leadership team, helping explain why the community is watching the upcoming Symbiosis update so closely as a potential turning point.",
+      "source_name": "SteamDB",
+      "source_url": "https://steamdb.info/app/3065800/charts/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Third-party stats tracker, not an official Bungie or platform statement, though its numbers are widely cited by journalists.",
+      "published_at": "2026-11-13T00:00:00Z",
+      "category": "layoffs-business",
+      "corroborating_sources": [
+        "https://raijin.gg/app/3065800/Marathon",
+        "https://tech-insider.org/bungie-destiny-2-reversal-marathon-collapse-2026/"
+      ]
+    }
+  ],
+  "no_news_found": false
+}
