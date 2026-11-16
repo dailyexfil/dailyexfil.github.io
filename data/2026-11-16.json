@@ -1,0 +1,67 @@
+{
+  "date": "2026-11-16",
+  "items": [
+    {
+      "title": "Players Report Noticeably Fewer Enemy Teams on Maps",
+      "summary": "A player returning to Marathon after a break said they went six games in a row without running into a single opposing team, and asked if Bungie had changed how many teams load into a lobby. Other commenters speculate this reflects a drop in the active player population rather than a matchmaking change.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1xxu788/less_players_on_maps/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Unverified Reddit thread reflecting player anecdote and speculation about population, not confirmed by Bungie data.",
+      "published_at": "2026-11-16T16:42:47.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Community Debates Why Bungie Hasn't Addressed Cryo Spawn Rushing",
+      "summary": "A Reddit thread argues Cryo mode has turned into a race to clear the opposing spawn rather than the intended vault breaking loot run, with the poster saying matches are often decided before anyone clears the first room. The discussion reflects ongoing frustration that a long standing balance complaint has not been addressed by Bungie.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1xxsaom/why_do_you_think_bungie_isnt_doing_anything_about/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Community opinion thread with no dev response, tiered as speculation despite substantive discussion.",
+      "published_at": "2026-11-16T15:29:59.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Players Say Marathon's Loot Loop Clashes With Its Survival Premise",
+      "summary": "A detailed Reddit post criticizes Marathon for not reinforcing its own lore through gameplay, arguing that sending hunters out for food but having them return with guns and gear undercuts the world building. The poster singles out Cryo mode as the worst offender, saying the core loop feels disconnected from the game's narrative premise.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1xxyvsd/more_dedication_to_the_premise_please/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Opinion and design critique from a single player, not an official statement.",
+      "published_at": "2026-11-16T19:36:51.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Feedback Thread Calls for Control Map Redesign Alongside Cryo Terminal Changes",
+      "summary": "A community post argues that if Bungie changes Cryo security terminals to push more fighting into the Control objective, the Control map itself needs a redesign because its upper walkway lacks meaningful cover. The poster describes a repetitive fight pattern where a third team typically punishes whichever two teams engage first.",
+      "source_name": "r/Marathon",
+      "source_url": "https://www.reddit.com/r/Marathon/comments/1xxw5xc/if_bungie_makes_changes_to_the_cryo_security/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Player feedback and map balance opinion, not confirmed by any Bungie statement.",
+      "published_at": "2026-11-16T17:55:24.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Context: Bungie Confirms Marathon Symbiosis Update for December 8",
+      "summary": "Bungie officially announced on November 10, 2026 that the Symbiosis update will launch December 8, adding a permanent PvE mode called Expedition, a 3v3 Team Deathmatch beta, a new social hub called Limbo, and a melee focused Bishop Runner shell. The update includes an Open Play Week from December 8 to 15 giving everyone free access to the full game, which outlets have framed as a critical attempt to rebuild Marathon's player base after a rough launch year.",
+      "source_name": "Bungie.net",
+      "source_url": "https://www.bungie.net/7/en/News/Article/symbiosis_open_play_week_crew_up",
+      "credibility_tier": "official",
+      "credibility_note": "Direct official Bungie.net announcement, included as background context since the news is six days old relative to this digest.",
+      "published_at": "2026-11-10T00:00:00Z",
+      "category": "gameplay-content",
+      "corroborating_sources": [
+        "https://www.pcgamer.com/games/fps/bungie-drops-gameplay-trailer-for-marathons-co-op-pve-roguelite-mode-and-swanky-new-social-space/",
+        "https://www.pushsquare.com/news/2026/11/marathons-fate-hangs-in-the-balance-as-bungie-details-its-game-saving-pve-update",
+        "https://gamerant.com/marathon-update-pve-deathmatch-december/",
+        "https://www.vice.com/en/article/marathon-is-going-free-to-play-for-one-week-in-december/",
+        "https://insider-gaming.com/marathon-season-3-free-to-play/"
+      ]
+    }
+  ],
+  "no_news_found": false
+}
