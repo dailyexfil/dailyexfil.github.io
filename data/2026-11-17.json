@@ -1,0 +1,57 @@
+{
+  "date": "2026-11-17",
+  "items": [
+    {
+      "title": "Steam Community Debates Marathon's Player Decline and Bungie's Silence",
+      "summary": "Discussion threads on Marathon's Steam Community page show sustained conversation among players about declining population numbers, infrequent studio communication, and the game's long term viability after multiple rounds of layoffs and leadership changes. Much of the talk is framed around whether the upcoming December 8 Symbiosis update can turn things around.",
+      "source_name": "Steam Community",
+      "source_url": "https://steamcommunity.com/app/3065800/discussions/0/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Unmoderated player forum reflecting community sentiment rather than verified reporting.",
+      "published_at": "2026-11-17T00:00:00Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Fan Tracker Daily Exfil Logs Missed Patch Weeks and Bungie Communication Gaps",
+      "summary": "The community run site Daily Exfil maintains a live tracker of Marathon's patch cadence, counting days since Bungie's last official post and recording five missed patch weeks since it began tracking. The tool also logs Steam player counts, giving fans a running, if unofficial, picture of the game's health heading into the December update.",
+      "source_name": "Daily Exfil",
+      "source_url": "https://dailyexfil.com/status.html",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Independent fan built tracker with self reported metrics, not an official or journalistic source.",
+      "published_at": "2026-11-17T00:00:00Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Context: Marathon's Symbiosis Update Will Launch December 8 With Permanent PvE Mode",
+      "summary": "This was first announced on November 10, 2026, when Bungie revealed that Marathon's Symbiosis update launches December 8 with a permanent PvE roguelite mode called Expedition, a Team Deathmatch beta, a new Bishop Runner shell, a social hub called Limbo, and an expanded Perimeter zone, plus a free to play week from December 8 to 15. Outlets including PushSquare and Game Informer described it as a make or break moment given Marathon's persistently low player counts, context that frames today's community discussion about the game's health.",
+      "source_name": "Bungie.net",
+      "source_url": "https://press.bungie.com/",
+      "credibility_tier": "official",
+      "credibility_note": "Official Bungie press announcement of an upcoming, not yet shipped, update.",
+      "published_at": "2026-11-10T00:00:00Z",
+      "category": "gameplay-content",
+      "corroborating_sources": [
+        "https://www.pushsquare.com/news/2026/11/marathons-fate-hangs-in-the-balance-as-bungie-details-its-game-saving-pve-update",
+        "https://www.pcgamer.com/games/fps/bungie-drops-gameplay-trailer-for-marathons-co-op-pve-roguelite-mode-and-swanky-new-social-space/",
+        "https://gameinformer.com/2026/11/10/marathons-symbiosis-update-adds-host-of-new-modes-including-permanent-pve-next-month",
+        "https://www.keengamer.com/articles/news/bungie-reveals-new-marathon-update-trailer/",
+        "https://www.mmorpg.com/news/bungie-previews-marathons-symbiosis-update-with-first-pve-only-mode-new-weapons-bishop-shell-and-overhauled-perimeter-zone-2000139286",
+        "https://gamerant.com/marathon-update-pve-deathmatch-december/"
+      ]
+    },
+    {
+      "title": "Context: Marathon Update 1.1.9.7 Hotfix Shipped November 10",
+      "summary": "This patch note was published on November 10, 2026, detailing hotfix 1.1.9.7, which adjusted Ordnance Heist event armory stock, updated player report options on profiles, and fixed several display and animation bugs. It is the most recent shipped Marathon patch referenced by community trackers that are now monitoring Bungie's update cadence.",
+      "source_name": "Bungie.net",
+      "source_url": "https://www.bungie.net/7/en/News/Article/marathon_update_1_1_9_7",
+      "credibility_tier": "official",
+      "credibility_note": "Official Bungie patch notes for an already shipped update.",
+      "published_at": "2026-11-10T00:00:00Z",
+      "category": "patch-notes",
+      "corroborating_sources": []
+    }
+  ],
+  "no_news_found": false
+}

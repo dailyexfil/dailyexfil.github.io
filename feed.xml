@@ -6,7 +6,14 @@
 <atom:link href="https://dailyexfil.com/feed.xml" rel="self" type="application/rss+xml"/>
 <description>Daily Marathon (Bungie) news digest. Official, press, and community items tiered by credibility, cross-referenced, and link-checked.</description>
 <language>en</language>
-<lastBuildDate>Mon, 16 Nov 2026 20:03:54 GMT</lastBuildDate>
+<lastBuildDate>Tue, 17 Nov 2026 20:03:47 GMT</lastBuildDate>
+<item>
+<title>DAILY EXFIL 2026-11-17: Steam Community Debates Marathon's Player Decline and Bungie's Silence</title>
+<link>https://dailyexfil.com/day/2026-11-17.html</link>
+<guid isPermaLink="true">https://dailyexfil.com/day/2026-11-17.html</guid>
+<pubDate>Tue, 17 Nov 2026 20:00:00 GMT</pubDate>
+<description><![CDATA[[COMMS] Steam Community Debates Marathon's Player Decline and Bungie's Silence<br>[COMMS] Fan Tracker Daily Exfil Logs Missed Patch Weeks and Bungie Communication Gaps<br>[OFFICIAL] Context: Marathon's Symbiosis Update Will Launch December 8 With Permanent PvE Mode<br>[OFFICIAL] Context: Marathon Update 1.1.9.7 Hotfix Shipped November 10]]></description>
+</item>
 <item>
 <title>DAILY EXFIL 2026-11-16: Players Report Noticeably Fewer Enemy Teams on Maps</title>
 <link>https://dailyexfil.com/day/2026-11-16.html</link>
@@ -97,13 +104,6 @@
 <guid isPermaLink="true">https://dailyexfil.com/day/2026-11-03.html</guid>
 <pubDate>Tue, 03 Nov 2026 20:00:00 GMT</pubDate>
 <description><![CDATA[[COMMS] Players debate returning for December's update amid low population<br>[COMMS] Community reports constant dead lobbies<br>[COMMS] Players push back on timed Vault Breaker design<br>[COMMS] Players flag persistent UI unresponsiveness<br>[OFFICIAL] Context: Bungie's Future of Marathon roadmap detailed December and March 2027 plans<br>[PRESS] Context: Bungie admitted Marathon fell short of player targets]]></description>
-</item>
-<item>
-<title>DAILY EXFIL 2026-11-02: ONI launches Vault Breaker Speed Challenge, running November 3-10</title>
-<link>https://dailyexfil.com/day/2026-11-02.html</link>
-<guid isPermaLink="true">https://dailyexfil.com/day/2026-11-02.html</guid>
-<pubDate>Mon, 02 Nov 2026 20:00:00 GMT</pubDate>
-<description><![CDATA[[OFFICIAL] ONI launches Vault Breaker Speed Challenge, running November 3-10<br>[COMMS] Players debate whether shrinking EU population is making Cryo lobbies sweatier<br>[COMMS] Community pitches low-risk 'Featured Map' mode to bring casual players into PvPvE<br>[COMMS] New player details reasons for quitting Marathon after 40-plus hours in Season 3<br>[COMMS] Players suggest Vault Breaker PvE difficulty should escalate during a run<br>[PRESS] Context: Symbiosis content update delayed to December 8, Bungie drops seasonal schedule<br>[PRESS] Context: June 2026 layoffs hit senior Marathon leadership including General Manager]]></description>
 </item>
 </channel>
 </rss>
