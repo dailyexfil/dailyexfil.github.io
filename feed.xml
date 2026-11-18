@@ -6,7 +6,14 @@
 <atom:link href="https://dailyexfil.com/feed.xml" rel="self" type="application/rss+xml"/>
 <description>Daily Marathon (Bungie) news digest. Official, press, and community items tiered by credibility, cross-referenced, and link-checked.</description>
 <language>en</language>
-<lastBuildDate>Tue, 17 Nov 2026 20:03:47 GMT</lastBuildDate>
+<lastBuildDate>Wed, 18 Nov 2026 20:05:21 GMT</lastBuildDate>
+<item>
+<title>DAILY EXFIL 2026-11-18: Marathon Community Debates Solo Cryo Mode, Sentinel Balance, and Key Pricing</title>
+<link>https://dailyexfil.com/day/2026-11-18.html</link>
+<guid isPermaLink="true">https://dailyexfil.com/day/2026-11-18.html</guid>
+<pubDate>Wed, 18 Nov 2026 20:00:00 GMT</pubDate>
+<description><![CDATA[[COMMS] Marathon Community Debates Solo Cryo Mode, Sentinel Balance, and Key Pricing<br>[PRESS] Context: Marathon's Symbiosis Update Set to Launch December 8 with PvE Mode and Free Play Week<br>[PRESS] Context: Bungie Acknowledges Marathon's Player Count Shortfall, Plans Major Evolution]]></description>
+</item>
 <item>
 <title>DAILY EXFIL 2026-11-17: Steam Community Debates Marathon's Player Decline and Bungie's Silence</title>
 <link>https://dailyexfil.com/day/2026-11-17.html</link>
@@ -97,13 +104,6 @@
 <guid isPermaLink="true">https://dailyexfil.com/day/2026-11-04.html</guid>
 <pubDate>Wed, 04 Nov 2026 20:00:00 GMT</pubDate>
 <description><![CDATA[[COMMS] Community Keeps Daily Campaign Alive Demanding Solo Cryo Mode<br>[COMMS] Players Debate Whether Sentinel Shell Needs a Balance Buff<br>[COMMS] Players Compare Notes on How Many Runners Actually Spawn Per Match<br>[COMMS] Confusion Over New Cryo Key Template's Price and Description<br>[PRESS] Context: Bungie Publishes Lengthy Community Update on Marathon's Future<br>[PRESS] Context: Bungie Clarifies Destiny 2's Future Is Not Tied to Marathon Sales]]></description>
-</item>
-<item>
-<title>DAILY EXFIL 2026-11-03: Players debate returning for December's update amid low population</title>
-<link>https://dailyexfil.com/day/2026-11-03.html</link>
-<guid isPermaLink="true">https://dailyexfil.com/day/2026-11-03.html</guid>
-<pubDate>Tue, 03 Nov 2026 20:00:00 GMT</pubDate>
-<description><![CDATA[[COMMS] Players debate returning for December's update amid low population<br>[COMMS] Community reports constant dead lobbies<br>[COMMS] Players push back on timed Vault Breaker design<br>[COMMS] Players flag persistent UI unresponsiveness<br>[OFFICIAL] Context: Bungie's Future of Marathon roadmap detailed December and March 2027 plans<br>[PRESS] Context: Bungie admitted Marathon fell short of player targets]]></description>
 </item>
 </channel>
 </rss>

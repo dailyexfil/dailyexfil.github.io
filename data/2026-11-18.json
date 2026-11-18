@@ -1,0 +1,48 @@
+{
+  "date": "2026-11-18",
+  "items": [
+    {
+      "title": "Marathon Community Debates Solo Cryo Mode, Sentinel Balance, and Key Pricing",
+      "summary": "Community discussion on r/Marathon continues to push for a Solo Cryo Mode and debates whether the Sentinel shell needs balance buffs. Players are also comparing runner spawn rates across matches and arguing over the pricing of new Cryo Key templates.",
+      "source_name": "Daily Exfil",
+      "source_url": "https://dailyexfil.com/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Source is a fan aggregator site with no specific article permalink provided, so it is tiered as community speculation despite summarizing genuine player discussion.",
+      "published_at": "2026-11-18T00:00:00Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Context: Marathon's Symbiosis Update Set to Launch December 8 with PvE Mode and Free Play Week",
+      "summary": "This story was first reported on November 10, 2026. Bungie confirmed that the Symbiosis update will launch December 8, adding the Expedition PvE roguelite mode, a Team Deathmatch beta, the new Limbo social hub, and a free-to-play week running December 8 through 15. Outlets have framed the update as a critical test for the extraction shooter's player retention heading into its next phase.",
+      "source_name": "PC Gamer",
+      "source_url": "https://www.pcgamer.com/games/fps/bungie-drops-gameplay-trailer-for-marathons-co-op-pve-roguelite-mode-and-swanky-new-social-space/",
+      "credibility_tier": "verified-journalist",
+      "credibility_note": "PC Gamer is an established gaming outlet with direct reporting on Bungie's announcement, corroborated by multiple other outlets and official Bungie posts.",
+      "published_at": "2026-11-10T00:00:00Z",
+      "category": "gameplay-content",
+      "corroborating_sources": [
+        "https://www.pushsquare.com/news/2026/11/marathons-fate-hangs-in-the-balance-as-bungie-details-its-game-saving-pve-update",
+        "https://insider-gaming.com/marathon-season-3-free-to-play/",
+        "https://www.bungie.net/7/en/News/Article/marathon_update_1_1_9_7",
+        "https://www.bungie.net/7/en/News/Article/symbiosis_open_play_week_crew_up",
+        "https://gamerant.com/marathon-future-content-updates-bungie/"
+      ]
+    },
+    {
+      "title": "Context: Bungie Acknowledges Marathon's Player Count Shortfall, Plans Major Evolution",
+      "summary": "This story was first reported on October 19, 2026. Bungie publicly admitted that Marathon did not reach as many players as hoped, with the game's concurrent Steam player peak sitting around 88,000, and laid out plans to evolve the game's design beyond strict extraction shooter mechanics by March 2027. The admission came amid broader concerns about studio health following earlier layoffs that had already hit the Marathon team.",
+      "source_name": "Games Radar",
+      "source_url": "https://www.gamesradar.com/games/fps/bungie-admits-marathon-did-not-reach-as-many-players-as-we-had-hoped-shares-plans-to-evolve-the-game-for-a-sustainable-future-while-committing-to-destiny/",
+      "credibility_tier": "verified-journalist",
+      "credibility_note": "Games Radar is an established outlet reporting directly on Bungie's public statement, corroborated independently by Upcomer and GameRant.",
+      "published_at": "2026-10-19T00:00:00Z",
+      "category": "layoffs-business",
+      "corroborating_sources": [
+        "https://upcomer.com/death-was-the-only-step-bungie-admits-marathon-missed-the-mark-and-plans-a-reset/",
+        "https://gamerant.com/marathon-future-content-updates-bungie/"
+      ]
+    }
+  ],
+  "no_news_found": false
+}
