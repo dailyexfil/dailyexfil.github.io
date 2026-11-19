@@ -6,7 +6,14 @@
 <atom:link href="https://dailyexfil.com/feed.xml" rel="self" type="application/rss+xml"/>
 <description>Daily Marathon (Bungie) news digest. Official, press, and community items tiered by credibility, cross-referenced, and link-checked.</description>
 <language>en</language>
-<lastBuildDate>Wed, 18 Nov 2026 20:05:21 GMT</lastBuildDate>
+<lastBuildDate>Thu, 19 Nov 2026 20:03:42 GMT</lastBuildDate>
+<item>
+<title>DAILY EXFIL 2026-11-19: Marathon Nominated for Best Multiplayer Game at The Game Awards 2026</title>
+<link>https://dailyexfil.com/day/2026-11-19.html</link>
+<guid isPermaLink="true">https://dailyexfil.com/day/2026-11-19.html</guid>
+<pubDate>Thu, 19 Nov 2026 20:00:00 GMT</pubDate>
+<description><![CDATA[[PRESS] Marathon Nominated for Best Multiplayer Game at The Game Awards 2026<br>[OFFICIAL] Context: Marathon Symbiosis Update Confirmed for December 8 with Permanent PvE Mode and Free Week<br>[PRESS] Context: Marathon Symbiosis Update Framed as Make-or-Break Moment for Troubled Shooter]]></description>
+</item>
 <item>
 <title>DAILY EXFIL 2026-11-18: Marathon Community Debates Solo Cryo Mode, Sentinel Balance, and Key Pricing</title>
 <link>https://dailyexfil.com/day/2026-11-18.html</link>
@@ -97,13 +104,6 @@
 <guid isPermaLink="true">https://dailyexfil.com/day/2026-11-05.html</guid>
 <pubDate>Thu, 05 Nov 2026 20:00:00 GMT</pubDate>
 <description><![CDATA[[COMMS] Solo players keep pressing Bungie for a solo Cryo Archive queue<br>[COMMS] Community debates whether shield rarity should come from raw power or passive perks<br>[COMMS] Players propose wager-tiered lobbies to split sweats from casuals<br>[COMMS] Players praise Vault Breaker PvE mode but want it expanded<br>[OFFICIAL] Context: Bungie's late October update acknowledged Marathon's player decline and outlined its recovery plan<br>[COMMS] Context: Bungie product head says Destiny 2's future does not depend on Marathon sales]]></description>
-</item>
-<item>
-<title>DAILY EXFIL 2026-11-04: Community Keeps Daily Campaign Alive Demanding Solo Cryo Mode</title>
-<link>https://dailyexfil.com/day/2026-11-04.html</link>
-<guid isPermaLink="true">https://dailyexfil.com/day/2026-11-04.html</guid>
-<pubDate>Wed, 04 Nov 2026 20:00:00 GMT</pubDate>
-<description><![CDATA[[COMMS] Community Keeps Daily Campaign Alive Demanding Solo Cryo Mode<br>[COMMS] Players Debate Whether Sentinel Shell Needs a Balance Buff<br>[COMMS] Players Compare Notes on How Many Runners Actually Spawn Per Match<br>[COMMS] Confusion Over New Cryo Key Template's Price and Description<br>[PRESS] Context: Bungie Publishes Lengthy Community Update on Marathon's Future<br>[PRESS] Context: Bungie Clarifies Destiny 2's Future Is Not Tied to Marathon Sales]]></description>
 </item>
 </channel>
 </rss>

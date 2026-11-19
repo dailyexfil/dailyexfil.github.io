@@ -1,0 +1,43 @@
+{
+  "date": "2026-11-19",
+  "items": [
+    {
+      "title": "Marathon Nominated for Best Multiplayer Game at The Game Awards 2026",
+      "summary": "Marathon has been nominated for Best Multiplayer Game at The Game Awards 2026, competing against Big Walk, Call of Duty Modern Warfare 4, Gears of War E-Day, Mecca Chameleon, and Orbitals. It is the first major award recognition for Bungie's extraction shooter since its rocky launch earlier this year, and the news is circulating through gaming outlets in multiple regions.",
+      "source_name": "XboxDynasty",
+      "source_url": "https://xboxdynasty.de/news/marathon/nominierung-als-bestes-multiplayer-spiel",
+      "credibility_tier": "verified-journalist",
+      "credibility_note": "Reported by an established gaming news outlet and independently corroborated by another outlet covering the same official nominee announcement.",
+      "published_at": "2026-11-19T08:15:00Z",
+      "category": "other",
+      "corroborating_sources": [
+        "https://happygamer.com/game-awards-2026-best-multiplayer-nominees-174819"
+      ]
+    },
+    {
+      "title": "Context: Marathon Symbiosis Update Confirmed for December 8 with Permanent PvE Mode and Free Week",
+      "summary": "This was originally announced by Bungie on November 10, 2026. The Symbiosis update adds a permanent PvE mode called Expedition, a 3v3 Deathmatch beta, a new social hub called Limbo, a Bishop Runner shell, and new weapons, with a free Open Play Week running December 8 to 15 so players can try everything before deciding to buy in, with progress carrying over.",
+      "source_name": "Bungie Press Room",
+      "source_url": "https://press.bungie.com/",
+      "credibility_tier": "official",
+      "credibility_note": "Direct official announcement from Bungie's press channel.",
+      "published_at": "2026-11-10T00:00:00Z",
+      "category": "gameplay-content",
+      "corroborating_sources": [
+        "https://www.pcgamer.com/games/fps/bungie-drops-gameplay-trailer-for-marathons-co-op-pve-roguelite-mode-and-swanky-new-social-space/"
+      ]
+    },
+    {
+      "title": "Context: Marathon Symbiosis Update Framed as Make-or-Break Moment for Troubled Shooter",
+      "summary": "This was originally published November 10, 2026. PushSquare reported that Marathon's upcoming Symbiosis update, launching December 8, is widely viewed as a critical moment for the game following a September delay and persistently low player retention, with observers suggesting it will determine whether the game recovers or faces cancellation.",
+      "source_name": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/11/marathons-fate-hangs-in-the-balance-as-bungie-details-its-game-saving-pve-update",
+      "credibility_tier": "verified-journalist",
+      "credibility_note": "Established gaming outlet reporting on Bungie's stated plans and community sentiment around the update's stakes.",
+      "published_at": "2026-11-10T15:30:00Z",
+      "category": "layoffs-business",
+      "corroborating_sources": []
+    }
+  ],
+  "no_news_found": false
+}
