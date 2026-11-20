@@ -6,7 +6,14 @@
 <atom:link href="https://dailyexfil.com/feed.xml" rel="self" type="application/rss+xml"/>
 <description>Daily Marathon (Bungie) news digest. Official, press, and community items tiered by credibility, cross-referenced, and link-checked.</description>
 <language>en</language>
-<lastBuildDate>Thu, 19 Nov 2026 20:03:42 GMT</lastBuildDate>
+<lastBuildDate>Fri, 20 Nov 2026 20:04:30 GMT</lastBuildDate>
+<item>
+<title>DAILY EXFIL 2026-11-20: Marathon Nominated for Best Multiplayer Game at The Game Awards 2026</title>
+<link>https://dailyexfil.com/day/2026-11-20.html</link>
+<guid isPermaLink="true">https://dailyexfil.com/day/2026-11-20.html</guid>
+<pubDate>Fri, 20 Nov 2026 20:00:00 GMT</pubDate>
+<description><![CDATA[[PRESS] Marathon Nominated for Best Multiplayer Game at The Game Awards 2026<br>[PRESS] Marathon's Steam Player Count Falls to 2,175 Concurrent, Far Below Launch Peak<br>[COMMS] Community Debates Balance Changes and Economy Confusion on Daily Exfil<br>[OFFICIAL] Context: Marathon's Symbiosis Update Set to Launch December 8 With Major Content Overhaul<br>[PRESS] Context: Bungie Layoffs in June 2026 Hit Marathon's Senior Leadership]]></description>
+</item>
 <item>
 <title>DAILY EXFIL 2026-11-19: Marathon Nominated for Best Multiplayer Game at The Game Awards 2026</title>
 <link>https://dailyexfil.com/day/2026-11-19.html</link>
@@ -97,13 +104,6 @@
 <guid isPermaLink="true">https://dailyexfil.com/day/2026-11-06.html</guid>
 <pubDate>Fri, 06 Nov 2026 20:00:00 GMT</pubDate>
 <description><![CDATA[[COMMS] Community Keeps Pressing Bungie for Solo Queue in Cryo Mode<br>[COMMS] Players Report Paradigm Shift Quest Still Broken Months Later<br>[COMMS] Players Mourn Loss of Season 2 Ranked Mode and Skins<br>[COMMS] Community Calls for Sentinel Buffs After Grenade Nerf<br>[PRESS] Context: Bungie's December Symbiosis Update Will Add New Zone, Deathmatch Mode and Tick Queen Boss<br>[PRESS] Context: Bungie Ended Marathon's Strict Seasonal Schedule, Delaying Season 3 to December]]></description>
-</item>
-<item>
-<title>DAILY EXFIL 2026-11-05: Solo players keep pressing Bungie for a solo Cryo Archive queue</title>
-<link>https://dailyexfil.com/day/2026-11-05.html</link>
-<guid isPermaLink="true">https://dailyexfil.com/day/2026-11-05.html</guid>
-<pubDate>Thu, 05 Nov 2026 20:00:00 GMT</pubDate>
-<description><![CDATA[[COMMS] Solo players keep pressing Bungie for a solo Cryo Archive queue<br>[COMMS] Community debates whether shield rarity should come from raw power or passive perks<br>[COMMS] Players propose wager-tiered lobbies to split sweats from casuals<br>[COMMS] Players praise Vault Breaker PvE mode but want it expanded<br>[OFFICIAL] Context: Bungie's late October update acknowledged Marathon's player decline and outlined its recovery plan<br>[COMMS] Context: Bungie product head says Destiny 2's future does not depend on Marathon sales]]></description>
 </item>
 </channel>
 </rss>

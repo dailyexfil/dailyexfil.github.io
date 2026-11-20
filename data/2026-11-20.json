@@ -1,0 +1,67 @@
+{
+  "date": "2026-11-20",
+  "items": [
+    {
+      "title": "Marathon Nominated for Best Multiplayer Game at The Game Awards 2026",
+      "summary": "Marathon has been nominated for Best Multiplayer Game at The Game Awards 2026, competing against five other titles. The nomination is a notable bright spot for Bungie's extraction shooter despite its difficult first months after launch.",
+      "source_name": "Xbox Dynasty",
+      "source_url": "https://xboxdynasty.de/news/marathon/nominierung-als-bestes-multiplayer-spiel",
+      "credibility_tier": "verified-journalist",
+      "credibility_note": "Reported by an established gaming news outlet covering a verifiable, publicly listed award nomination.",
+      "published_at": "2026-11-19T08:15:00Z",
+      "category": "other",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Marathon's Steam Player Count Falls to 2,175 Concurrent, Far Below Launch Peak",
+      "summary": "SteamDB data shows Marathon had roughly 2,175 concurrent players on November 19-20, 2026, a steep drop from its all-time peak of 88,337 recorded in March 2026. The continued decline raises the stakes for the Symbiosis update launching December 8, which Bungie has positioned as critical to the game's future.",
+      "source_name": "SteamDB",
+      "source_url": "https://steamdb.info/app/3065800/charts/",
+      "credibility_tier": "verified-journalist",
+      "credibility_note": "SteamDB pulls live concurrent player data directly from Steam's platform API and is widely cited by journalists as a reliable third-party tracker.",
+      "published_at": "2026-11-19T20:14:00Z",
+      "category": "other",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Community Debates Balance Changes and Economy Confusion on Daily Exfil",
+      "summary": "Reddit threads aggregated by the community tracker Daily Exfil show players discussing Sentinel Shell nerfs, runner spawn rates per match, and confusing Cryo Key template pricing. Despite the game's shrinking population, a core group of players remains actively engaged with gameplay feedback.",
+      "source_name": "Daily Exfil",
+      "source_url": "https://dailyexfil.com/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Reddit-sourced community discussion aggregator, not an independent journalistic report, but reflects genuine player sentiment.",
+      "published_at": "2026-11-20T00:00:00Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Context: Marathon's Symbiosis Update Set to Launch December 8 With Major Content Overhaul",
+      "summary": "Bungie originally confirmed on October 6, 2026 that the Symbiosis update will launch December 8, 2026. It introduces a permanent PvE roguelike mode called Expedition, a 3v3 Team Deathmatch beta, a new social hub called Limbo, the Bishop Runner shell, an expanded Perimeter zone, and a free Open Play Week from December 8 to 15 so new and returning players can try the game at no cost.",
+      "source_name": "Bungie.net",
+      "source_url": "https://www.bungie.net/7/en/News/Article/nighfall_refresh_symbiosis_roadmap",
+      "credibility_tier": "official",
+      "credibility_note": "Direct announcement from Bungie's official news channel.",
+      "published_at": "2026-10-06T00:00:00Z",
+      "category": "gameplay-content",
+      "corroborating_sources": [
+        "https://www.pcgamer.com/games/fps/bungie-drops-gameplay-trailer-for-marathons-co-op-pve-roguelite-mode-and-swanky-new-social-space/",
+        "https://www.pushsquare.com/news/2026/11/marathons-fate-hangs-in-the-balance-as-bungie-details-its-game-saving-pve-update",
+        "https://www.bungie.net/7/en/News/Article/symbiosis_open_play_week_crew_up"
+      ]
+    },
+    {
+      "title": "Context: Bungie Layoffs in June 2026 Hit Marathon's Senior Leadership",
+      "summary": "In late June 2026, Bungie laid off approximately 292 employees, with Marathon's senior leadership significantly affected, including General Manager Scott Taylor and several engineering and production leads. The cuts followed Bungie's decision to end live service support for Destiny 2 and came amid broader struggles for Marathon after its March 2026 launch.",
+      "source_name": "The Game Post",
+      "source_url": "https://thegamepost.com/sonys-bungie-layoffs-hit-marathon-senior-roles-general-manager/",
+      "credibility_tier": "verified-journalist",
+      "credibility_note": "Reported by an established gaming news outlet with named roles and dates.",
+      "published_at": "2026-06-26T00:00:00Z",
+      "category": "layoffs-business",
+      "corroborating_sources": [
+        "https://www.shacknews.com/article/150070/marathon-director-leaves-bungie-joe-ziegler"
+      ]
+    }
+  ],
+  "no_news_found": false
+}
