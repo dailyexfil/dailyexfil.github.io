@@ -1,0 +1,39 @@
+{
+  "date": "2026-11-21",
+  "items": [
+    {
+      "title": "Context: Marathon's Symbiosis Update Confirmed for December 8, Bringing Permanent PvE and a Free Play Week",
+      "summary": "This story was originally reported around November 10, 2026. Bungie confirmed that Marathon's Symbiosis update launches December 8, adding the game's first permanent PvE mode called Expedition, an experimental 3v3 Deathmatch beta, a new social hub called Limbo, new weapons and a Runner shell, plus a free Open Play Week running December 8 through 15. Multiple outlets and early community reaction frame this update as a make-or-break moment for stabilizing Marathon's player base after a rocky launch year.",
+      "source_name": "Bungie Press Room",
+      "source_url": "https://press.bungie.com/",
+      "credibility_tier": "official",
+      "credibility_note": "Direct official announcement from Bungie's press room, independently corroborated by several major gaming outlets.",
+      "published_at": "2026-11-10T00:00:00Z",
+      "category": "gameplay-content",
+      "corroborating_sources": [
+        "https://www.pcgamer.com/games/fps/bungie-drops-gameplay-trailer-for-marathons-co-op-pve-roguelite-mode-and-swanky-new-social-space/",
+        "https://www.pushsquare.com/news/2026/11/marathons-fate-hangs-in-the-balance-as-bungie-details-its-game-saving-pve-update",
+        "https://gamerant.com/marathon-update-pve-deathmatch-december/",
+        "https://kotaku.com/marathon-is-becoming-a-much-bigger-game-as-bungie-teases-a-new-zone-social-space-deathmatch-mode-and-more-2000737026",
+        "https://www.keengamer.com/articles/news/bungie-reveals-new-marathon-update-trailer/",
+        "https://gg.deals/gaming-news/bungie-is-shaking-things-up-with-marathon-welcoming-permanent-pve-team-deathmatch-more",
+        "https://insider-gaming.com/marathon-season-3-free-to-play/"
+      ]
+    },
+    {
+      "title": "Context: Bungie Restructures Marathon and Cuts Staff Amid Weak Player Retention",
+      "summary": "This story was originally reported on September 15, 2026. Game Developer detailed how Bungie's June 2026 layoffs, which cut roughly 292 employees described as most of the Destiny team along with some Marathon developers, came a month after Bungie ended live development on Destiny 2, and reported that Bungie is overhauling Marathon away from its original pure extraction shooter design after a planned September update slipped to December. Separately, Bungie's product head publicly clarified that Destiny 2's future is not contingent on Marathon's success, telling players not to buy Marathon purely out of obligation.",
+      "source_name": "Game Developer",
+      "source_url": "https://www.gamedeveloper.com/business/bungie-is-overhauling-marathon-from-its-original-extraction-shooter-vision",
+      "credibility_tier": "verified-journalist",
+      "credibility_note": "Game Developer is an established industry trade outlet with direct reporting on Bungie's restructuring and layoffs.",
+      "published_at": "2026-09-15T00:00:00Z",
+      "category": "layoffs-business",
+      "corroborating_sources": [
+        "https://thegamepost.com/sonys-bungie-layoffs-hit-marathon-senior-roles-general-manager/",
+        "https://www.gamesradar.com/games/destiny/dont-buy-marathon-as-a-donation-bungie-boss-says-as-players-worry-destiny-2s-fate-hinges-on-another-games-comeback/"
+      ]
+    }
+  ],
+  "no_news_found": false
+}

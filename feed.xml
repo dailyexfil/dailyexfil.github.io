@@ -6,7 +6,14 @@
 <atom:link href="https://dailyexfil.com/feed.xml" rel="self" type="application/rss+xml"/>
 <description>Daily Marathon (Bungie) news digest. Official, press, and community items tiered by credibility, cross-referenced, and link-checked.</description>
 <language>en</language>
-<lastBuildDate>Fri, 20 Nov 2026 20:04:30 GMT</lastBuildDate>
+<lastBuildDate>Sat, 21 Nov 2026 20:03:20 GMT</lastBuildDate>
+<item>
+<title>DAILY EXFIL 2026-11-21: Context: Marathon's Symbiosis Update Confirmed for December 8, Bringing Permanent PvE and a Free Play Week</title>
+<link>https://dailyexfil.com/day/2026-11-21.html</link>
+<guid isPermaLink="true">https://dailyexfil.com/day/2026-11-21.html</guid>
+<pubDate>Sat, 21 Nov 2026 20:00:00 GMT</pubDate>
+<description><![CDATA[[OFFICIAL] Context: Marathon's Symbiosis Update Confirmed for December 8, Bringing Permanent PvE and a Free Play Week<br>[PRESS] Context: Bungie Restructures Marathon and Cuts Staff Amid Weak Player Retention]]></description>
+</item>
 <item>
 <title>DAILY EXFIL 2026-11-20: Marathon Nominated for Best Multiplayer Game at The Game Awards 2026</title>
 <link>https://dailyexfil.com/day/2026-11-20.html</link>
@@ -97,13 +104,6 @@
 <guid isPermaLink="true">https://dailyexfil.com/day/2026-11-07.html</guid>
 <pubDate>Sat, 07 Nov 2026 20:00:00 GMT</pubDate>
 <description><![CDATA[[COMMS] Community keeps pushing for solo Cryo queue, now on 'Day 11'<br>[COMMS] Players debate ideal team count for Cryo mode ahead of Symbiosis<br>[COMMS] Players ask Bungie to significantly expand the vault storage limit<br>[COMMS] Players call for rework of Season 2's Limited Contracts<br>[COMMS] Context: Bungie tells Destiny fans not to buy Marathon out of obligation<br>[OFFICIAL] Context: Symbiosis update confirmed for December 8, 2026 with permanent PvE]]></description>
-</item>
-<item>
-<title>DAILY EXFIL 2026-11-06: Community Keeps Pressing Bungie for Solo Queue in Cryo Mode</title>
-<link>https://dailyexfil.com/day/2026-11-06.html</link>
-<guid isPermaLink="true">https://dailyexfil.com/day/2026-11-06.html</guid>
-<pubDate>Fri, 06 Nov 2026 20:00:00 GMT</pubDate>
-<description><![CDATA[[COMMS] Community Keeps Pressing Bungie for Solo Queue in Cryo Mode<br>[COMMS] Players Report Paradigm Shift Quest Still Broken Months Later<br>[COMMS] Players Mourn Loss of Season 2 Ranked Mode and Skins<br>[COMMS] Community Calls for Sentinel Buffs After Grenade Nerf<br>[PRESS] Context: Bungie's December Symbiosis Update Will Add New Zone, Deathmatch Mode and Tick Queen Boss<br>[PRESS] Context: Bungie Ended Marathon's Strict Seasonal Schedule, Delaying Season 3 to December]]></description>
 </item>
 </channel>
 </rss>
