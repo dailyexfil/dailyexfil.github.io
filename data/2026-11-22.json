@@ -1,0 +1,43 @@
+{
+  "date": "2026-11-22",
+  "items": [
+    {
+      "title": "Community Tracker Flags Bungie Silence Since November 10 Patch",
+      "summary": "Daily EXFIL, a community-run Marathon news tracker, reports that Bungie has gone quiet beyond its routine patch notes since November 10, with no fresh official communication or press signal in the current window. The tracker notes that community sources are currently carrying the news cycle in the absence of studio updates.",
+      "source_name": "Daily EXFIL",
+      "source_url": "https://dailyexfil.com/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Daily EXFIL is a community-maintained tracking site, not an established journalism outlet, though it specifically monitors official Marathon communications.",
+      "published_at": "2026-11-22T00:00:00Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Context: Bungie Announces Marathon Symbiosis Update with PvE Roguelite Mode and Free Play Week",
+      "summary": "This story was originally reported on November 10, 2026. Bungie revealed the Symbiosis update launching December 8, 2026, adding Expedition, a permanent PvE roguelite mode playable solo or co-op, a beta 3v3 Team Deathmatch mode, a new social hub called Limbo, and a melee-focused Runner shell named Bishop. The announcement also included a free Open Play Week from December 8 to 15 meant to draw new players back to the game.",
+      "source_name": "PC Gamer",
+      "source_url": "https://www.pcgamer.com/games/fps/bungie-drops-gameplay-trailer-for-marathons-co-op-pve-roguelite-mode-and-swanky-new-social-space/",
+      "credibility_tier": "verified-journalist",
+      "credibility_note": "PC Gamer is an established gaming outlet with direct reporting on the official trailer reveal.",
+      "published_at": "2026-11-10T00:00:00Z",
+      "category": "gameplay-content",
+      "corroborating_sources": [
+        "https://www.pushsquare.com/news/2026/11/marathons-fate-hangs-in-the-balance-as-bungie-details-its-game-saving-pve-update",
+        "https://www.keengamer.com/articles/news/bungie-reveals-new-marathon-update-trailer/",
+        "https://www.vice.com/en/article/marathon-is-going-free-to-play-for-one-week-in-december/"
+      ]
+    },
+    {
+      "title": "Context: Marathon Update 1.1.9.7 Patch Notes Released",
+      "summary": "This story was originally reported on November 10, 2026. Bungie published patch notes for Marathon Update 1.1.9.7, bringing back the Ordnance Heist event through November 24, along with economy adjustments that reduce item stock and rarity across the MIDA and Traxus Armories. The update also included bug fixes affecting the Outpost and Cryo Archive zones.",
+      "source_name": "Bungie.net",
+      "source_url": "https://www.bungie.net/7/en/News/Article/marathon_update_1_1_9_7",
+      "credibility_tier": "official",
+      "credibility_note": "Direct patch notes published on Bungie's official news channel.",
+      "published_at": "2026-11-10T00:00:00Z",
+      "category": "patch-notes",
+      "corroborating_sources": []
+    }
+  ],
+  "no_news_found": false
+}

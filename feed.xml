@@ -6,7 +6,14 @@
 <atom:link href="https://dailyexfil.com/feed.xml" rel="self" type="application/rss+xml"/>
 <description>Daily Marathon (Bungie) news digest. Official, press, and community items tiered by credibility, cross-referenced, and link-checked.</description>
 <language>en</language>
-<lastBuildDate>Sat, 21 Nov 2026 20:03:20 GMT</lastBuildDate>
+<lastBuildDate>Sun, 22 Nov 2026 20:03:15 GMT</lastBuildDate>
+<item>
+<title>DAILY EXFIL 2026-11-22: Community Tracker Flags Bungie Silence Since November 10 Patch</title>
+<link>https://dailyexfil.com/day/2026-11-22.html</link>
+<guid isPermaLink="true">https://dailyexfil.com/day/2026-11-22.html</guid>
+<pubDate>Sun, 22 Nov 2026 20:00:00 GMT</pubDate>
+<description><![CDATA[[COMMS] Community Tracker Flags Bungie Silence Since November 10 Patch<br>[PRESS] Context: Bungie Announces Marathon Symbiosis Update with PvE Roguelite Mode and Free Play Week<br>[OFFICIAL] Context: Marathon Update 1.1.9.7 Patch Notes Released]]></description>
+</item>
 <item>
 <title>DAILY EXFIL 2026-11-21: Context: Marathon's Symbiosis Update Confirmed for December 8, Bringing Permanent PvE and a Free Play Week</title>
 <link>https://dailyexfil.com/day/2026-11-21.html</link>
@@ -97,13 +104,6 @@
 <guid isPermaLink="true">https://dailyexfil.com/day/2026-11-08.html</guid>
 <pubDate>Sun, 08 Nov 2026 20:00:00 GMT</pubDate>
 <description><![CDATA[[COMMS] Players slam Vaultbreaker mode as unplayable in solo fill queues<br>[COMMS] Community keeps pushing for solo Cryo Archive queue<br>[COMMS] Players ask Bungie to make Nightfall Refresh's faster progression the norm<br>[COMMS] Players report suspected AFK bot accounts standing still in matches<br>[PRESS] Context: Bungie detailed December 8 Symbiosis update with Perimeter map changes<br>[COMMS] Context: Marathon daily player peak sitting around 2,841, far below launch numbers]]></description>
-</item>
-<item>
-<title>DAILY EXFIL 2026-11-07: Community keeps pushing for solo Cryo queue, now on 'Day 11'</title>
-<link>https://dailyexfil.com/day/2026-11-07.html</link>
-<guid isPermaLink="true">https://dailyexfil.com/day/2026-11-07.html</guid>
-<pubDate>Sat, 07 Nov 2026 20:00:00 GMT</pubDate>
-<description><![CDATA[[COMMS] Community keeps pushing for solo Cryo queue, now on 'Day 11'<br>[COMMS] Players debate ideal team count for Cryo mode ahead of Symbiosis<br>[COMMS] Players ask Bungie to significantly expand the vault storage limit<br>[COMMS] Players call for rework of Season 2's Limited Contracts<br>[COMMS] Context: Bungie tells Destiny fans not to buy Marathon out of obligation<br>[OFFICIAL] Context: Symbiosis update confirmed for December 8, 2026 with permanent PvE]]></description>
 </item>
 </channel>
 </rss>
