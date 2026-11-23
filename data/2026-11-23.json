@@ -1,0 +1,45 @@
+{
+  "date": "2026-11-23",
+  "items": [
+    {
+      "title": "Marathon Concurrent Player Count Falls to 1,618",
+      "summary": "SteamDB data shows Marathon had 1,618 concurrent players as of November 23, a steep drop from its all-time peak of 88,337 reached at launch on March 6, 2026. The 24-hour peak was only 2,904 players, underscoring the sustained low engagement the extraction shooter has faced since launch.",
+      "source_name": "SteamDB",
+      "source_url": "https://steamdb.info/app/3065800/charts/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "SteamDB is a widely used third-party stats tracker, not an official Valve or Bungie source, though its concurrent player figures are generally considered reliable.",
+      "published_at": "2026-11-23T15:54:50Z",
+      "category": "community-discussion",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Context: Marathon's Symbiosis Update Confirmed for December 8",
+      "summary": "Bungie announced on November 10, 2026 that its Symbiosis update will launch December 8, adding a permanent PvE roguelite mode called Expedition, a new social hub called Limbo, a Team Deathmatch beta mode, and a melee-focused runner shell named Bishop. Multiple outlets framed the update as a make-or-break moment for the game given weak player retention since its March launch, and it will include a free-to-play Open Play Week from December 8 to 15.",
+      "source_name": "Bungie (press.bungie.com)",
+      "source_url": "https://press.bungie.com/",
+      "credibility_tier": "official",
+      "credibility_note": "Direct announcement from Bungie's press site, corroborated by multiple established gaming outlets.",
+      "published_at": "2026-11-10T00:00:00Z",
+      "category": "gameplay-content",
+      "corroborating_sources": [
+        "https://www.pcgamer.com/games/fps/bungie-drops-gameplay-trailer-for-marathons-co-op-pve-roguelite-mode-and-swanky-new-social-space/",
+        "https://www.pushsquare.com/news/2026/11/marathons-fate-hangs-in-the-balance-as-bungie-details-its-game-saving-pve-update",
+        "https://www.vice.com/en/article/marathon-is-going-free-to-play-for-one-week-in-december/",
+        "https://insider-gaming.com/marathon-season-3-free-to-play/",
+        "https://www.keengamer.com/articles/news/bungie-reveals-new-marathon-update-trailer/"
+      ]
+    },
+    {
+      "title": "Context: Bungie Says Marathon Needs to Evolve After Missing Player Targets",
+      "summary": "In an October 29, 2026 community update, Bungie acknowledged that Marathon has not reached its player count targets and said the game needs more depth, variety, stronger progression, and better long-term reasons for players to return. The studio said a Developer Insights video detailing these changes would arrive in early December, ahead of the Symbiosis update.",
+      "source_name": "Bungie.net",
+      "source_url": "https://www.bungie.net/7/en/news/article/bungiecommunityupdate_10_27",
+      "credibility_tier": "official",
+      "credibility_note": "Official community update statement directly from Bungie.",
+      "published_at": "2026-10-29T00:00:00Z",
+      "category": "other",
+      "corroborating_sources": []
+    }
+  ],
+  "no_news_found": false
+}
