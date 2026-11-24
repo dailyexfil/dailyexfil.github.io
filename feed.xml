@@ -6,7 +6,14 @@
 <atom:link href="https://dailyexfil.com/feed.xml" rel="self" type="application/rss+xml"/>
 <description>Daily Marathon (Bungie) news digest. Official, press, and community items tiered by credibility, cross-referenced, and link-checked.</description>
 <language>en</language>
-<lastBuildDate>Mon, 23 Nov 2026 20:04:27 GMT</lastBuildDate>
+<lastBuildDate>Tue, 24 Nov 2026 20:04:51 GMT</lastBuildDate>
+<item>
+<title>DAILY EXFIL 2026-11-24: Marathon Reveals Bishop Runner Shell in New Cinematic Trailer</title>
+<link>https://dailyexfil.com/day/2026-11-24.html</link>
+<guid isPermaLink="true">https://dailyexfil.com/day/2026-11-24.html</guid>
+<pubDate>Tue, 24 Nov 2026 20:00:00 GMT</pubDate>
+<description><![CDATA[[OFFICIAL] Marathon Reveals Bishop Runner Shell in New Cinematic Trailer<br>[PRESS] Bungie Apologizes to Fans and Lays Out Marathon's Next Chapter<br>[PRESS] Context: Marathon's Symbiosis Update Brings Expedition PvE, Team Deathmatch, and Limbo Social Hub<br>[COMMS] Context: Players Voice Frustration Over Bungie's Communication Silence]]></description>
+</item>
 <item>
 <title>DAILY EXFIL 2026-11-23: Marathon Concurrent Player Count Falls to 1,618</title>
 <link>https://dailyexfil.com/day/2026-11-23.html</link>
@@ -97,13 +104,6 @@
 <guid isPermaLink="true">https://dailyexfil.com/day/2026-11-10.html</guid>
 <pubDate>Tue, 10 Nov 2026 20:00:00 GMT</pubDate>
 <description><![CDATA[[OFFICIAL] Marathon Symbiosis Update Revealed, Launches December 8 With Permanent PvE Mode and Open Play Week<br>[OFFICIAL] Marathon Update 1.1.9.7 Ships, Ordnance Heist Event Returns<br>[COMMS] Community Debates Whether Marathon Needs an Offline Mode With Separate Progression<br>[COMMS] Players Debate Whether Marathon Is Worth Joining Ahead of PvE Launch<br>[COMMS] Community Divide Emerges Over Whether Players Will Return for Symbiosis<br>[COMMS] Players Report Coordinated Teaming Against Solo Queue in Outpost<br>[PRESS] Context: Bungie Layoffs Hit Marathon Leadership in June 2026]]></description>
-</item>
-<item>
-<title>DAILY EXFIL 2026-11-09: Community Keeps Up Daily Campaign for Solo Cryo Mode</title>
-<link>https://dailyexfil.com/day/2026-11-09.html</link>
-<guid isPermaLink="true">https://dailyexfil.com/day/2026-11-09.html</guid>
-<pubDate>Mon, 09 Nov 2026 20:00:00 GMT</pubDate>
-<description><![CDATA[[COMMS] Community Keeps Up Daily Campaign for Solo Cryo Mode<br>[COMMS] Community Tracker Claims Marathon Peak Concurrent Players Down to 2.8 Percent of Launch<br>[COMMS] Players Debate Vault Breaker Pain Points: RNG Order and Boring Starting Kit<br>[COMMS] Community Feedback: Sentinel Shell Needs a Rework as a Defensive Pick<br>[COMMS] Players Suggest Marathon Borrow Crafting and Salvage Ideas From Arc Raiders<br>[COMMS] Faction Double XP Weekend Event Ran November 7-8<br>[OFFICIAL] Bungie Schedules Background Maintenance for November 9]]></description>
 </item>
 </channel>
 </rss>

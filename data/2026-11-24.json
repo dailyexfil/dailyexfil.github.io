@@ -1,0 +1,62 @@
+{
+  "date": "2026-11-24",
+  "items": [
+    {
+      "title": "Marathon Reveals Bishop Runner Shell in New Cinematic Trailer",
+      "summary": "Bungie released a cinematic trailer for Bishop, a new melee focused Runner shell described as a high performance robot samurai. Bishop is built for fast, close range combat with an extendable blade and leg mounted boosters, and will arrive with the Symbiosis update on December 8.",
+      "source_name": "Steam News (Bungie)",
+      "source_url": "https://store.steampowered.com/news/app/3065800/view/710040868515480281",
+      "credibility_tier": "official",
+      "credibility_note": "Posted directly through Bungie's official Steam news channel.",
+      "published_at": "2026-11-24T16:15:53.000Z",
+      "category": "gameplay-content",
+      "corroborating_sources": [
+        "https://gameriv.com/bungie-reveals-new-samurai-inspired-bishop-runner-shell-for-marathon/",
+        "https://news.instant-gaming.com/en/articles/23190-marathon-is-back-with-a-trailer-focusing-on-bishop-its-new-character",
+        "https://finalweapon.net/2026/11/24/marathon-reveals-bishop-shell-cinematic-trailer/"
+      ]
+    },
+    {
+      "title": "Bungie Apologizes to Fans and Lays Out Marathon's Next Chapter",
+      "summary": "New studio head Poria Torkan and product head Josh Deane issued a public apology and outlined plans to evolve Marathon into a deeper survival experience with improved PvE and PvP options. The announcement follows months of layoffs and a steep decline in player numbers, and comes alongside Bungie unsealing parts of Destiny 2's content vault.",
+      "source_name": "GeekWire",
+      "source_url": "https://www.geekwire.com/2026/bungie-apologizes-to-fans-unseals-destiny-content-vault-tries-to-convince-the-world-its-still-bungie/",
+      "credibility_tier": "verified-journalist",
+      "credibility_note": "GeekWire is an established Seattle based tech and business outlet covering the Bungie announcement directly.",
+      "published_at": "2026-11-24T00:00:00.000Z",
+      "category": "layoffs-business",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Context: Marathon's Symbiosis Update Brings Expedition PvE, Team Deathmatch, and Limbo Social Hub",
+      "summary": "This PC Gamer report was originally published on November 10, 2026. It details Bungie's Symbiosis update launching December 8, which adds a permanent PvE roguelike mode called Expedition, a 3v3 Team Deathmatch beta, an expanded Perimeter zone, a new boss called the Tick Queen, and a social hub named Limbo. The Bishop shell revealed today is part of this same update.",
+      "source_name": "PC Gamer",
+      "source_url": "https://www.pcgamer.com/games/fps/bungie-drops-gameplay-trailer-for-marathons-co-op-pve-roguelite-mode-and-swanky-new-social-space/",
+      "credibility_tier": "verified-journalist",
+      "credibility_note": "PC Gamer is an established gaming outlet reporting directly on Bungie's announced update.",
+      "published_at": "2026-11-10T00:00:00.000Z",
+      "category": "gameplay-content",
+      "corroborating_sources": [
+        "https://www.bungie.net/7/en/News/Article/symbiosis_open_play_week_crew_up",
+        "https://www.destructoid.com/marathons-symbiosis-update-everything-asked-for-may-not-matter/",
+        "https://www.pushsquare.com/news/2026/11/marathons-fate-hangs-in-the-balance-as-bungie-details-its-game-saving-pve-update",
+        "https://www.theouterhaven.net/marathon-symbiosis-update-adds-pve-roguelike-mode-and-team-deathmatch/",
+        "https://www.keengamer.com/articles/news/bungie-reveals-new-marathon-update-trailer/"
+      ]
+    },
+    {
+      "title": "Context: Players Voice Frustration Over Bungie's Communication Silence",
+      "summary": "This Steam Community discussion thread was originally posted on August 3, 2026. Marathon players expressed frustration with Bungie's minimal communication, sparse updates, and lack of hype building, comparing the pattern to past Bungie habits of going quiet between major announcements. It provides background for why Bungie's recent public apology addressed studio communication directly.",
+      "source_name": "Steam Community",
+      "source_url": "https://steamcommunity.com/app/3065800/discussions/0/565913463540475794/",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Unverified community discussion thread reflecting player sentiment, not an official or journalistic source.",
+      "published_at": "2026-08-03T00:00:00.000Z",
+      "category": "community-discussion",
+      "corroborating_sources": [
+        "https://pressxtoskip.com/articles/marathon-player-count-budget-bungie-silence"
+      ]
+    }
+  ],
+  "no_news_found": false
+}
