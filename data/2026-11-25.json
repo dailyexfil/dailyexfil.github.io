@@ -1,0 +1,52 @@
+{
+  "date": "2026-11-25",
+  "items": [
+    {
+      "title": "Bungie Unveils Bishop Runner Shell Cinematic Trailer Ahead of December 8 Update",
+      "summary": "Bungie released a cinematic trailer on November 24 introducing Bishop, a new melee-focused Runner Shell described as a jet-propelled robot samurai with an extendable arm blade and leg-mounted thrusters. Bishop becomes playable on December 8 when the Symbiosis update launches, which also kicks off a free Open Play Week running December 8 through 15.",
+      "source_name": "PC Gamer",
+      "source_url": "https://pcgamer.com/games/fps/marathons-new-runner-shell-is-a-jet-propelled-robot-samurai-who-wants-to-hurt-you",
+      "credibility_tier": "verified-journalist",
+      "credibility_note": "PC Gamer is an established gaming outlet reporting directly on Bungie's official trailer.",
+      "published_at": "2026-11-24T00:00:00Z",
+      "category": "gameplay-content",
+      "corroborating_sources": [
+        "https://news.instant-gaming.com/en/articles/23190-marathon-is-back-with-a-trailer-focusing-on-bishop-its-new-character"
+      ]
+    },
+    {
+      "title": "Marathon Adding Gender-Swapped Runner Shells, Starting With Silhouette",
+      "summary": "Bungie confirmed that Marathon will introduce gender-swapped versions of existing Runner Shells, beginning with Silhouette, a female variant of the Assassin shell. The free customization option arrives with the December 8 Symbiosis update, with both versions sharing identical abilities but different appearance and voice work.",
+      "source_name": "Forbes",
+      "source_url": "https://www.forbes.com/sites/paultassi/2026/11/25/marathon-will-now-have-gender-swapped-runners/",
+      "credibility_tier": "verified-journalist",
+      "credibility_note": "Forbes contributor Paul Tassi has an established track record covering Bungie and Destiny-related news.",
+      "published_at": "2026-11-25T00:00:00Z",
+      "category": "gameplay-content",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Context: Marathon's Symbiosis Update Set for December 8 With Major New Modes",
+      "summary": "This preview was originally published November 10, 2026 by PC Gamer. It detailed Bungie's upcoming Symbiosis update, including a permanent co-op PvE mode called Expedition, an experimental 3v3 Team Deathmatch beta, an expanded Perimeter zone, and a new social hub called Limbo, all arriving December 8 alongside a free Open Play Week.",
+      "source_name": "PC Gamer",
+      "source_url": "https://www.pcgamer.com/games/fps/bungie-drops-gameplay-trailer-for-marathons-co-op-pve-roguelite-mode-and-swanky-new-social-space/",
+      "credibility_tier": "verified-journalist",
+      "credibility_note": "PC Gamer is an established outlet; included as context to explain the scope of the update that today's Bishop and gender-swap shell news belongs to.",
+      "published_at": "2026-11-10T00:00:00Z",
+      "category": "gameplay-content",
+      "corroborating_sources": []
+    },
+    {
+      "title": "Context: Marathon's December Update Seen as Make-or-Break Moment",
+      "summary": "This analysis was originally published November 10, 2026 by PushSquare. It described the Symbiosis update, delayed from September, as a critical test for Marathon given steep player decline since launch, with December and March 2027 framed as key recovery milestones for Bungie.",
+      "source_name": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/11/marathons-fate-hangs-in-the-balance-as-bungie-details-its-game-saving-pve-update",
+      "credibility_tier": "verified-journalist",
+      "credibility_note": "PushSquare is an established games outlet providing analysis based on Bungie's own statements rather than rumor.",
+      "published_at": "2026-11-10T00:00:00Z",
+      "category": "other",
+      "corroborating_sources": []
+    }
+  ],
+  "no_news_found": false
+}

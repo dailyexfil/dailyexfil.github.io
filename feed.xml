@@ -6,7 +6,14 @@
 <atom:link href="https://dailyexfil.com/feed.xml" rel="self" type="application/rss+xml"/>
 <description>Daily Marathon (Bungie) news digest. Official, press, and community items tiered by credibility, cross-referenced, and link-checked.</description>
 <language>en</language>
-<lastBuildDate>Tue, 24 Nov 2026 20:04:51 GMT</lastBuildDate>
+<lastBuildDate>Wed, 25 Nov 2026 20:04:51 GMT</lastBuildDate>
+<item>
+<title>DAILY EXFIL 2026-11-25: Bungie Unveils Bishop Runner Shell Cinematic Trailer Ahead of December 8 Update</title>
+<link>https://dailyexfil.com/day/2026-11-25.html</link>
+<guid isPermaLink="true">https://dailyexfil.com/day/2026-11-25.html</guid>
+<pubDate>Wed, 25 Nov 2026 20:00:00 GMT</pubDate>
+<description><![CDATA[[PRESS] Bungie Unveils Bishop Runner Shell Cinematic Trailer Ahead of December 8 Update<br>[PRESS] Marathon Adding Gender-Swapped Runner Shells, Starting With Silhouette<br>[PRESS] Context: Marathon's Symbiosis Update Set for December 8 With Major New Modes<br>[PRESS] Context: Marathon's December Update Seen as Make-or-Break Moment]]></description>
+</item>
 <item>
 <title>DAILY EXFIL 2026-11-24: Marathon Reveals Bishop Runner Shell in New Cinematic Trailer</title>
 <link>https://dailyexfil.com/day/2026-11-24.html</link>
@@ -97,13 +104,6 @@
 <guid isPermaLink="true">https://dailyexfil.com/day/2026-11-11.html</guid>
 <pubDate>Wed, 11 Nov 2026 20:00:00 GMT</pubDate>
 <description><![CDATA[[OFFICIAL] Marathon Symbiosis Update Trailer Confirms December 8 Launch<br>[OFFICIAL] Marathon Patch 1.1.9.7 Ships With Event Rotation and Bug Fixes<br>[COMMS] Community Debate Flares Over Marathon's Pivot Toward PvE<br>[PRESS] Marathon Going Free for Open Play Week December 8-15<br>[PRESS] Bungie Lays Out Plan to Rebuild Trust Around Marathon's Future<br>[COMMS] Bishop Shell Reveal Sparks Lore Questions in Community<br>[COMMS] Players Report Server Bug Wiping Extraction Rewards<br>[COMMS] Players Vent Frustration Over High Risk of Losing Good Gear<br>[PRESS] Marathon's Crew Up Event Runs December 8-22 With Cosmetic Rewards<br>[PRESS] Marathon Player Numbers Stay Low, Report Says Game Running at a Loss<br>[PRESS] Context: Bungie Said Marathon Was Built Too Narrowly as a Pure Extraction Shooter<br>[PRESS] Context: June 2026 Layoffs Hit Marathon Leadership Roles]]></description>
-</item>
-<item>
-<title>DAILY EXFIL 2026-11-10: Marathon Symbiosis Update Revealed, Launches December 8 With Permanent PvE Mode and Open Play Week</title>
-<link>https://dailyexfil.com/day/2026-11-10.html</link>
-<guid isPermaLink="true">https://dailyexfil.com/day/2026-11-10.html</guid>
-<pubDate>Tue, 10 Nov 2026 20:00:00 GMT</pubDate>
-<description><![CDATA[[OFFICIAL] Marathon Symbiosis Update Revealed, Launches December 8 With Permanent PvE Mode and Open Play Week<br>[OFFICIAL] Marathon Update 1.1.9.7 Ships, Ordnance Heist Event Returns<br>[COMMS] Community Debates Whether Marathon Needs an Offline Mode With Separate Progression<br>[COMMS] Players Debate Whether Marathon Is Worth Joining Ahead of PvE Launch<br>[COMMS] Community Divide Emerges Over Whether Players Will Return for Symbiosis<br>[COMMS] Players Report Coordinated Teaming Against Solo Queue in Outpost<br>[PRESS] Context: Bungie Layoffs Hit Marathon Leadership in June 2026]]></description>
 </item>
 </channel>
 </rss>
