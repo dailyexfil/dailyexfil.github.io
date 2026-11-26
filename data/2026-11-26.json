@@ -1,0 +1,58 @@
+{
+  "date": "2026-11-26",
+  "items": [
+    {
+      "title": "Bishop Shell Cinematic Trailer Drops, Free-to-Play Week Confirmed for Symbiosis Launch",
+      "summary": "Bungie released a 90-second cinematic trailer showing off the Bishop Runner Shell, a melee-focused robotic samurai arriving with the Symbiosis update on December 8. The same coverage confirmed Marathon will be fully free to play from December 8-15, with progress and earned items carrying over for anyone who buys the game afterward, marking Bungie's second big free trial push to rebuild its playerbase.",
+      "source_name": "ComicBook.com",
+      "source_url": "https://comicbook.com/gaming/news/marathon-reveals-new-bishop-shell-with-one-of-the-games-coolest-trailers-yet/",
+      "credibility_tier": "verified-journalist",
+      "credibility_note": "Reported by an established gaming news outlet covering an official Bungie trailer release.",
+      "published_at": "2026-11-25T00:00:00Z",
+      "category": "gameplay-content",
+      "corroborating_sources": [
+        "https://news.instant-gaming.com/en/articles/23190-marathon-is-back-with-a-trailer-focusing-on-bishop-its-new-character",
+        "https://www.pcgamer.com/games/fps/bungie-drops-gameplay-trailer-for-marathons-co-op-pve-roguelite-mode-and-swanky-new-social-space/"
+      ]
+    },
+    {
+      "title": "Steam Community Threads Voice Concern Over Marathon's Shrinking Population",
+      "summary": "Players on Marathon's Steam Community forums are discussing worries about low player counts, pointing to weekend concurrent numbers under 5,000 and questioning whether the upcoming free-to-play week will meaningfully change the game's trajectory. The threads reflect a broader mood of skepticism about the extraction shooter's long-term viability even as Bungie prepares its biggest update yet.",
+      "source_name": "Steam Community",
+      "source_url": "https://steamcommunity.com/app/3065800/discussions/?fp=4",
+      "credibility_tier": "community-speculation",
+      "credibility_note": "Unverified player forum discussion reflecting community sentiment rather than reported fact.",
+      "published_at": "2026-11-26T00:00:00Z",
+      "category": "community-discussion",
+      "corroborating_sources": [
+        "https://thegamepost.com/marathon-player-count-96-launch-bungie-season-3/"
+      ]
+    },
+    {
+      "title": "Context: Bungie Admits Marathon's Hardcore Design Hurt Launch, Outlines Pivot Plans",
+      "summary": "This story was originally reported on October 29, 2026. Bungie publicly acknowledged that Marathon's ultra-hardcore extraction design, with repeated death and full gear loss built into the core loop, proved too punishing for a mainstream audience and contributed to the game missing its player targets. The studio confirmed its delayed major content update would arrive in December as Symbiosis, with a bigger shift toward broader, more accessible modes planned for March 2027.",
+      "source_name": "Steam News (Bungie)",
+      "source_url": "https://store.steampowered.com/news/group/9869/view/687517794773763604",
+      "credibility_tier": "official",
+      "credibility_note": "Posted through Bungie's official Steam news channel.",
+      "published_at": "2026-10-29T00:00:00Z",
+      "category": "layoffs-business",
+      "corroborating_sources": [
+        "https://gamerant.com/marathon-future-content-updates-bungie/",
+        "https://www.bungie.net/7/en/News/Article/nightfallrefreshandsymbiosis"
+      ]
+    },
+    {
+      "title": "Context: Marathon Player Count Down 96 Percent From Launch Peak",
+      "summary": "This story was originally published on September 15, 2026. Marathon's Steam concurrent player count had fallen more than 96 percent from its March 2026 launch peak of 88,337 to roughly 3,000-5,800 players by autumn 2026, despite the game reportedly selling about 1.5 million copies. The figures help explain why Bungie has leaned on free-to-play weeks and a major content update to try to rebuild its audience.",
+      "source_name": "The Game Post",
+      "source_url": "https://thegamepost.com/marathon-player-count-96-launch-bungie-season-3/",
+      "credibility_tier": "verified-journalist",
+      "credibility_note": "Reported by an established gaming outlet citing Steam concurrent player data.",
+      "published_at": "2026-09-15T00:00:00Z",
+      "category": "other",
+      "corroborating_sources": []
+    }
+  ],
+  "no_news_found": false
+}
